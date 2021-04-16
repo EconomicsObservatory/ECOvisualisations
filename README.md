@@ -4,7 +4,6 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/EconomicsObservatory/ecovisualisations/blob/main/LICENSE)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/economicsobservatory/ecovisualisations/blob/main/guidelines/tutorial.ipynb)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/economicsobservatory/ecovisualisations/blob/main/articles/a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic/parser.ipynb)
 
 [**Website**](https://www.economicsobservatory.com/)
 | [**Visualisations**](https://github.com/EconomicsObservatory/ecovisualisations)
