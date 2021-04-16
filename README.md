@@ -32,7 +32,7 @@ To learn about the technologies used or build a similar charts like this you can
 
 ## 📧 Contact
 
-The Economics Observatory is run out of the [University of Bristol](https://www.bristol.ac.uk/) and you can read more **[about us here](https://www.economicsobservatory.com/about)**. For any technical or visualization-related questions you may contact [Dénes](d.csala@lancaster.ac.uk). For economics-related queries and anything else about the site content, or further collaborations, you may contact [Charlie](charlie.meyrick@bristol.ac.uk).
+The Economics Observatory is run out of the [University of Bristol](https://www.bristol.ac.uk/) and you can read more **[about us here](https://www.economicsobservatory.com/about)**. For any technical or visualization-related questions you may contact [Dénes](mailto:d.csala@lancaster.ac.uk). For economics-related queries and anything else about the site content, or further collaborations, you may contact [Charlie](mailto:charlie.meyrick@bristol.ac.uk).
 
 ## 📰 Reference
 If you would like to use the site as an information source or any of the visualizations or the data presented, you are free to do so under an [MIT licence](LICENSE) (you're free to modify anything, as long you as you mention us). Furthermore, the content of all of our articles presented on the [Economics Observatory website](https://www.economicsobservatory.com/about) is shareable under a [Creative Commons ShareAlike 4.0](http://creativecommons.org/licenses/by-sa/4.0/) license.  
