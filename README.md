@@ -10,151 +10,32 @@
 | [**Data**](https://github.com/EconomicsObservatory/ecodatahub)
 |
 
-Here you will find all the data visualisations and infographics attached to our articles published in the Observatory website. Each visualisation is published under an open source MIT licence, and you are free to reuse/reproduce/redistribute, with attribution.  
+Here you will find all the data visualisations and infographics attached to our articles published on the Observatory website. Each visualisation is published under an open source [MIT licence](LICENSE), and you are free to reuse/reproduce/redistribute, with attribution.  
 
-Each visualisation has their own folder, and within that folder you will find separate supfolder for the **data** (in `csv` format) , the **visualisation** (in `json`), and in some cases accompanying `HTML`, `CSS` and `JavaScript`.
+Under **[articles](/articles)** each visualisation has their own folder, and within that folder you will find separate subfolder for the **data** (in `csv` format) , the **visualisation** (in `json`), and in some cases accompanying `HTML`, `CSS` and `JavaScript`. 
 
-## Key Features
+## 🌌 Visualisations
 
-Optuna has modern functionalities as follows:
+We try to follow industry best-practices in data visualisation and try to establish our very own visualisation guidelines for all chart types. You can read about theese, as well as the tools we use in **[guidelines](/guidelines)** .  
 
-- [Lightweight, versatile, and platform agnostic architecture](https://optuna.readthedocs.io/en/stable/tutorial/10_key_features/001_first.html)
-  - Handle a wide variety of tasks with a simple installation that has few requirements.
-- [Pythonic search spaces](https://optuna.readthedocs.io/en/stable/tutorial/10_key_features/002_configurations.html)
-  - Define search spaces using familiar Python syntax including conditionals and loops.
-- [Efficient optimization algorithms](https://optuna.readthedocs.io/en/stable/tutorial/10_key_features/003_efficient_optimization_algorithms.html)
-  - Adopt state-of-the-art algorithms for sampling hyperparameters and efficiently pruning unpromising trials.
-- [Easy parallelization](https://optuna.readthedocs.io/en/stable/tutorial/10_key_features/004_distributed.html)
-  - Scale studies to tens or hundreds or workers with little or no changes to the code.
-- [Quick visualization](https://optuna.readthedocs.io/en/stable/tutorial/10_key_features/005_visualization.html)
-  - Inspect optimization histories from a variety of plotting functions.
+Date | Article | Repository | Code
+--- | --- | --- | ---
+2021.04.14 | [A year in the UK labour market: what’s happened over the coronavirus pandemic?](https://www.economicsobservatory.com/a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic) | [folder](/articles/a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/economicsobservatory/ecovisualisations/blob/master/articles/a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic/parser.ipynb)
+2021.04.09 | [How are economic models adapting to rising inequality and the pandemic?](https://www.economicsobservatory.com/how-are-economic-models-adapting-to-rising-inequality-and-the-pandemic) | [folder](/articles/how-are-economic-models-adapting-to-rising-inequality-and-the-pandemic) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/economicsobservatory/ecovisualisations/blob/master/articles/how-are-economic-models-adapting-to-rising-inequality-and-the-pandemic/parser.ipynb)
 
+## 📊 Data
 
-## Basic Concepts
+All of our chart data are published under their respective article subfolders, but on top of that we also operate the **[ECOdataHUB](https://github.com/EconomicsObservatory/ecodatahub)**, where you will find a trove of data used in our articles and analyses, as well as interactive visualisation exploration interfaces. 
 
-We use the terms *study* and *trial* as follows:
+## 💻 Build
+To learn about the technologies used or build a similar charts like this you can follow the instructions on the [guidelines](/guidelines) page. If you discovered any bugs or have any specific suggestions or feature requests please use the [Issues](https://github.com/EconomicsObservatory/ecovisualisations/issues) page.
 
-- Study: optimization based on an objective function
-- Trial: a single execution of the objective function
+## 📧 Contact
 
-Please refer to sample code below. The goal of a *study* is to find out the optimal set of
-hyperparameter values (e.g., `classifier` and `svm_c`) through multiple *trials* (e.g.,
-`n_trials=100`). Optuna is a framework designed for the automation and the acceleration of the
-optimization *studies*.
+The Economics Observatory is run out of the [University of Bristol](https://www.bristol.ac.uk/) and you can read more **[about us here](https://www.economicsobservatory.com/about)**. For any technical or visualization-related questions you may contact [Dénes](d.csala@lancaster.ac.uk). For economics-related queries and anything else about the site content, or further collaborations, you may contact [Charlie](charlie.meyrick@bristol.ac.uk).
 
+## 📰 Reference
+If you would like to use the site as an information source or any of the visualizations or the data presented, you are free to do so under an [MIT licence](LICENSE) (you're free to modify anything, as long you as you mention us). Furthermore, the content of all of our articles presented on the [Economics Observatory website](https://www.economicsobservatory.com/about) is shareable under a [Creative Commons ShareAlike 4.0](http://creativecommons.org/licenses/by-sa/4.0/) license.  
 
-
-```python
-import ...
-
-# Define an objective function to be minimized.
-def objective(trial):
-
-    # Invoke suggest methods of a Trial object to generate hyperparameters.
-    regressor_name = trial.suggest_categorical('classifier', ['SVR', 'RandomForest'])
-    if regressor_name == 'SVR':
-        svr_c = trial.suggest_float('svr_c', 1e-10, 1e10, log=True)
-        regressor_obj = sklearn.svm.SVR(C=svr_c)
-    else:
-        rf_max_depth = trial.suggest_int('rf_max_depth', 2, 32)
-        regressor_obj = sklearn.ensemble.RandomForestRegressor(max_depth=rf_max_depth)
-
-    X, y = sklearn.datasets.load_boston(return_X_y=True)
-    X_train, X_val, y_train, y_val = sklearn.model_selection.train_test_split(X, y, random_state=0)
-
-    regressor_obj.fit(X_train, y_train)
-    y_pred = regressor_obj.predict(X_val)
-
-    error = sklearn.metrics.mean_squared_error(y_val, y_pred)
-
-    return error  # An objective value linked with the Trial object.
-
-study = optuna.create_study()  # Create a new study.
-study.optimize(objective, n_trials=100)  # Invoke optimization of the objective function.
-```
-
-
-## Integrations
-
-[Integrations modules](https://optuna.readthedocs.io/en/stable/tutorial/10_key_features/003_efficient_optimization_algorithms.html#integration-modules-for-pruning), which allow pruning, or early stopping, of unpromising trials are available for the following libraries:
-
-* [AllenNLP](./examples/allennlp)
-* [Catalyst](./examples/catalyst_simple.py)
-* [Catboost](./examples/catboost_simple.py)
-* [Chainer](./examples/chainer/chainer_integration.py)
-* FastAI ([V1](./examples/fastai/fastaiv1_simple.py), [V2](./examples/fastai/fastaiv2_simple.py))
-* [Keras](./examples/keras/keras_integration.py)
-* [LightGBM](./examples/lightgbm/lightgbm_integration.py)
-* [MXNet](./examples/mxnet/mxnet_integration.py)
-* [PyTorch](./examples/pytorch/pytorch_simple.py)
-* [PyTorch Ignite](./examples/pytorch/pytorch_ignite_simple.py)
-* [PyTorch Lightning](./examples/pytorch/pytorch_lightning_simple.py)
-* [TensorFlow](./examples/tensorflow/tensorflow_estimator_integration.py)
-* [tf.keras](./examples/tfkeras/tfkeras_integration.py)
-* [XGBoost](./examples/xgboost/xgboost_integration.py)
-
-
-## Web Dashboard (experimental)
-
-The new Web dashboard is under the development at [optuna-dashboard](https://github.com/optuna/optuna-dashboard).
-It is still experimental, but much better in many regards.
-Feature requests and bug reports welcome!
-
-| Manage studies | Visualize with interactive graphs |
-| -------------- | --------------------------------- |
-| ![manage-studies](https://user-images.githubusercontent.com/5564044/97099702-4107be80-16cf-11eb-9d97-f5ceec98ce52.gif) | ![optuna-realtime-graph](https://user-images.githubusercontent.com/5564044/97099797-66e19300-16d0-11eb-826c-6977e3941fb0.gif) |
-
-Install `optuna-dashboard` via pip:
-
-```
-$ pip install optuna-dashboard
-$ optuna-dashboard sqlite:///db.sqlite3
-...
-Listening on http://localhost:8080/
-Hit Ctrl-C to quit.
-```
-
-## Installation
-
-Optuna is available at [the Python Package Index](https://pypi.org/project/optuna/) and on [Anaconda Cloud](https://anaconda.org/conda-forge/optuna).
-
-```bash
-# PyPI
-$ pip install optuna
-```
-
-```bash
-# Anaconda Cloud
-$ conda install -c conda-forge optuna
-```
-
-Optuna supports Python 3.6 or newer.
-
-Also, we also provide Optuna docker images on [DockerHub](https://hub.docker.com/r/optuna/optuna).
-
-## Communication
-
-- [GitHub Issues] for bug reports, feature requests and questions.
-- [Gitter] for interactive chat with developers.
-- [Stack Overflow] for questions.
-
-[GitHub issues]: https://github.com/optuna/optuna/issues
-[Gitter]: https://gitter.im/optuna/optuna
-[Stack Overflow]: https://stackoverflow.com/questions/tagged/optuna
-
-
-## Contribution
-
-Any contributions to Optuna are more than welcome!
-
-If you are new to Optuna, please check the [good first issues](https://github.com/optuna/optuna/labels/good%20first%20issue). They are relatively simple, well-defined and are often good starting points for you to get familiar with the contribution workflow and other developers.
-
-If you already have contributed to Optuna, we recommend the other [contribution-welcome issues](https://github.com/optuna/optuna/labels/contribution-welcome).
-
-For general guidelines how to contribute to the project, take a look at [CONTRIBUTING.md](./CONTRIBUTING.md).
-
-
-## Reference
-
-Takuya Akiba, Shotaro Sano, Toshihiko Yanase, Takeru Ohta, and Masanori Koyama. 2019.
-Optuna: A Next-generation Hyperparameter Optimization Framework. In KDD ([arXiv](https://arxiv.org/abs/1907.10902)).
+If you would like to refer to it in publications or other scientific works of any kind, please use the following style:
+ - `Title of article or chart`, Economics Observatory, 2021, `link to article or chart`, published on: `publication date`, accessed on: `access date`
