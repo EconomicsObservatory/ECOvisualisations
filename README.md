@@ -4,6 +4,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/EconomicsObservatory/ecovisualisations/blob/main/LICENSE)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/economicsobservatory/ecovisualisations/blob/main/guidelines/tutorial.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/economicsobservatory/ecovisualisations/blob/main/articles/a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic/parser.ipynb)
 
 [**Website**](https://www.economicsobservatory.com/)
 | [**Visualisations**](https://github.com/EconomicsObservatory/ecovisualisations)
@@ -20,8 +21,8 @@ We try to follow industry best-practices in data visualisation and try to establ
 
 Date | Article | Repository | Code
 --- | --- | --- | ---
-2021.04.14 | [A year in the UK labour market: what’s happened over the coronavirus pandemic?](https://www.economicsobservatory.com/a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic) | [folder](/articles/a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/economicsobservatory/ecovisualisations/blob/main/articles/a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic/parser.ipynb)
-2021.04.09 | [How are economic models adapting to rising inequality and the pandemic?](https://www.economicsobservatory.com/how-are-economic-models-adapting-to-rising-inequality-and-the-pandemic) | [folder](/articles/how-are-economic-models-adapting-to-rising-inequality-and-the-pandemic) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/economicsobservatory/ecovisualisations/blob/main/articles/how-are-economic-models-adapting-to-rising-inequality-and-the-pandemic/parser.ipynb)
+2021.04.14 | [A year in the UK labour market: what’s happened over the coronavirus pandemic?](https://www.economicsobservatory.com/a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic) | [folder](/articles/a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/economicsobservatory/ecovisualisations/blob/main/articles/a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic/parser.ipynb)
+2021.04.09 | [How are economic models adapting to rising inequality and the pandemic?](https://www.economicsobservatory.com/how-are-economic-models-adapting-to-rising-inequality-and-the-pandemic) | [folder](/articles/how-are-economic-models-adapting-to-rising-inequality-and-the-pandemic) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/economicsobservatory/ecovisualisations/blob/main/articles/how-are-economic-models-adapting-to-rising-inequality-and-the-pandemic/parser.ipynb)
 
 ## 📊 Data
 
