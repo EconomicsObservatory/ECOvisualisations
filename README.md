@@ -1,30 +1,18 @@
+<div align="center"><img src="https://raw.githubusercontent.com/EconomicsObservatory/economicsobservatory.github.io/main/EO-Logo.png" width="800"/></div>
+
 # Economics Observatory Visualisation Repository  
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/EconomicsObservatory/ecovisualisations/blob/main/LICENSE)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/optuna/optuna/blob/master/examples/quickstart.ipynb)
+
+[**Website**](https://www.economicsobservatory.com/)
+| [**Visualisations**](https://github.com/EconomicsObservatory/ecovisualisations)
+| [**Data**](https://github.com/EconomicsObservatory/ecodatahub)
+|
+
 Here you will find all the data visualisations and infographics attached to our articles published in the Observatory website. Each visualisation is published under an open source MIT licence, and you are free to reuse/reproduce/redistribute, with attribution.  
 
 Each visualisation has their own folder, and within that folder you will find separate supfolder for the **data** (in `csv` format) , the **visualisation** (in `json`), and in some cases accompanying `HTML`, `CSS` and `JavaScript`.
-
-<div align="center"><img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" width="800"/></div>
-
-# Optuna: A hyperparameter optimization framework
-
-[![Python](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue)](https://www.python.org)
-[![pypi](https://img.shields.io/pypi/v/optuna.svg)](https://pypi.python.org/pypi/optuna)
-[![conda](https://img.shields.io/conda/vn/conda-forge/optuna.svg)](https://anaconda.org/conda-forge/optuna)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/optuna/optuna)
-[![CircleCI](https://circleci.com/gh/optuna/optuna.svg?style=svg)](https://circleci.com/gh/optuna/optuna)
-[![Read the Docs](https://readthedocs.org/projects/optuna/badge/?version=stable)](https://optuna.readthedocs.io/en/stable/)
-[![Codecov](https://codecov.io/gh/optuna/optuna/branch/master/graph/badge.svg)](https://codecov.io/gh/optuna/optuna/branch/master)
-[![Gitter chat](https://badges.gitter.im/optuna/gitter.svg)](https://gitter.im/optuna/optuna)
-
-[**Website**](https://optuna.org/)
-| [**Docs**](https://optuna.readthedocs.io/en/stable/)
-| [**Install Guide**](https://optuna.readthedocs.io/en/stable/installation.html)
-| [**Tutorial**](https://optuna.readthedocs.io/en/stable/tutorial/index.html)
-
-*Optuna* is an automatic hyperparameter optimization software framework, particularly designed
-for machine learning. It features an imperative, *define-by-run* style user API. Thanks to our
-*define-by-run* API, the code written with Optuna enjoys high modularity, and the user of
-Optuna can dynamically construct the search spaces for the hyperparameters.
 
 ## Key Features
 
@@ -54,7 +42,7 @@ hyperparameter values (e.g., `classifier` and `svm_c`) through multiple *trials*
 `n_trials=100`). Optuna is a framework designed for the automation and the acceleration of the
 optimization *studies*.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/optuna/optuna/blob/master/examples/quickstart.ipynb)
+
 
 ```python
 import ...

@@ -1,0 +1,648 @@
+prod,prodname,NPM,pricepercal,npacks
+1,"Fresh fruit",-10,2.5693377,64
+1,"Fresh fruit",-9,1.4216374,433
+1,"Fresh fruit",-8,1.7283517,4590
+1,"Fresh fruit",-7,1.1578461,34946
+1,"Fresh fruit",-6,1.5753839,79273
+1,"Fresh fruit",-5,.97985728,600194
+1,"Fresh fruit",-4,.81792702,712460
+1,"Fresh fruit",-3,1.0283614,151741
+1,"Fresh fruit",-2,.63308365,322992
+1,"Fresh fruit",-1,.21061659,25398
+1,"Fresh fruit",0,.15842263,505731
+1,"Fresh fruit",2,.13589908,2097
+1,"Fresh fruit",3,.23760303,509
+1,"Fresh fruit",11,.02165949,197
+2,"Canned or dried fruit",-11,.41034315,143
+2,"Canned or dried fruit",-10,.42904416,3808
+2,"Canned or dried fruit",-9,3.1706404,1628
+2,"Canned or dried fruit",-8,2.8887346,26170
+2,"Canned or dried fruit",-7,4.016875,1269
+2,"Canned or dried fruit",-6,3.4827198,45832
+2,"Canned or dried fruit",-5,2.2063927,392219
+2,"Canned or dried fruit",-4,1.2560901,96766
+2,"Canned or dried fruit",-3,.82155545,60788
+2,"Canned or dried fruit",-2,.50452363,49114
+2,"Canned or dried fruit",-1,.52769733,8506
+2,"Canned or dried fruit",0,.44297524,3545
+2,"Canned or dried fruit",1,.49653197,17302
+2,"Canned or dried fruit",2,.35962175,30969
+2,"Canned or dried fruit",3,.33170375,10892
+2,"Canned or dried fruit",4,.30944028,24783
+2,"Canned or dried fruit",5,.2761314,20517
+2,"Canned or dried fruit",6,.32889751,2704
+2,"Canned or dried fruit",7,.36849106,4749
+2,"Canned or dried fruit",8,.32995009,7014
+2,"Canned or dried fruit",9,.36070327,2838
+2,"Canned or dried fruit",10,.2811438,1565
+2,"Canned or dried fruit",11,.33364973,144
+2,"Canned or dried fruit",12,.20455557,83
+2,"Canned or dried fruit",13,.16673693,579
+2,"Canned or dried fruit",14,.17327358,3767
+2,"Canned or dried fruit",15,.11389887,138
+2,"Canned or dried fruit",16,.33012828,3122
+2,"Canned or dried fruit",17,.15560039,673
+2,"Canned or dried fruit",18,.24395391,340
+2,"Canned or dried fruit",19,.34340731,194
+2,"Canned or dried fruit",20,.20554058,1408
+3,"Fresh vegetables",-14,.26209552,2910
+3,"Fresh vegetables",-13,.68459545,18020
+3,"Fresh vegetables",-12,.89943043,47747
+3,"Fresh vegetables",-11,.73544086,48542
+3,"Fresh vegetables",-10,1.3697687,88884
+3,"Fresh vegetables",-9,1.3807599,401905
+3,"Fresh vegetables",-8,1.6848247,514561
+3,"Fresh vegetables",-7,1.5404183,972598
+3,"Fresh vegetables",-6,1.5901704,2003854
+3,"Fresh vegetables",-5,1.1597508,1049472
+3,"Fresh vegetables",-4,.55903325,82903
+3,"Fresh vegetables",-3,.66028171,19878
+3,"Fresh vegetables",-2,.6065465,3572
+3,"Fresh vegetables",-1,.69960403,2137
+3,"Fresh vegetables",0,.79013577,4166
+3,"Fresh vegetables",1,1.3831705,228
+3,"Fresh vegetables",2,.45419054,1925
+3,"Fresh vegetables",3,.49785487,862
+3,"Fresh vegetables",4,.46179002,1452
+3,"Fresh vegetables",5,.53792742,2465
+3,"Fresh vegetables",6,.48256917,9099
+3,"Fresh vegetables",7,.47730039,3395
+3,"Fresh vegetables",8,.49343446,2428
+3,"Fresh vegetables",9,.44211081,610
+3,"Fresh vegetables",10,.42881095,1135
+3,"Fresh vegetables",11,.33690868,42
+4,"Canned or frozen vegetables",-14,.25817901,2116
+4,"Canned or frozen vegetables",-13,.27414721,89332
+4,"Canned or frozen vegetables",-12,.33244661,79838
+4,"Canned or frozen vegetables",-11,.39562072,122976
+4,"Canned or frozen vegetables",-10,.38933396,80174
+4,"Canned or frozen vegetables",-9,.64840504,51805
+4,"Canned or frozen vegetables",-8,.67544349,89972
+4,"Canned or frozen vegetables",-7,.66879928,96243
+4,"Canned or frozen vegetables",-6,.64020049,74996
+4,"Canned or frozen vegetables",-5,.5699712,34532
+4,"Canned or frozen vegetables",-4,.41855304,46244
+4,"Canned or frozen vegetables",-3,.73187197,14047
+4,"Canned or frozen vegetables",-2,.27232763,29427
+4,"Canned or frozen vegetables",-1,.30063262,27467
+4,"Canned or frozen vegetables",0,.21526637,39701
+4,"Canned or frozen vegetables",1,.20811287,17285
+4,"Canned or frozen vegetables",2,.19013034,20944
+4,"Canned or frozen vegetables",3,.3527112,2772
+4,"Canned or frozen vegetables",4,.74102684,1103
+4,"Canned or frozen vegetables",5,.13800711,310
+4,"Canned or frozen vegetables",6,.33935311,798
+5,"Breads",-5,.11004875,12905
+5,"Breads",-4,.11820884,98428
+5,"Breads",-3,.10799249,188974
+5,"Breads",-2,.11600332,229848
+5,"Breads",-1,.12942953,172631
+5,"Breads",0,.13612888,369938
+5,"Breads",1,.23514296,101651
+5,"Breads",2,.24695342,113906
+5,"Breads",3,.31432252,102526
+5,"Breads",4,.24279368,30832
+5,"Breads",5,.19592796,82869
+5,"Breads",6,.20055048,68937
+5,"Breads",7,.16876697,41451
+5,"Breads",8,.16316145,156282
+5,"Breads",9,.17796714,151299
+5,"Breads",10,.17354737,187262
+5,"Breads",11,.224903,136200
+5,"Breads",12,.17686545,46397
+5,"Breads",13,.22452948,34057
+5,"Breads",14,.17644042,34947
+5,"Breads",15,.15156597,18294
+5,"Breads",16,.20046056,16039
+5,"Breads",17,.20255529,8223
+5,"Breads",18,.11772267,10573
+5,"Breads",19,.12461091,3114
+5,"Breads",20,.17836981,13461
+5,"Breads",21,.22574957,143
+5,"Breads",22,.20841297,3877
+5,"Breads",25,.07887815,1415
+6,"Breakfast cereals",-7,.62337665,6
+6,"Breakfast cereals",-6,.11960333,18655
+6,"Breakfast cereals",-5,.10418902,58478
+6,"Breakfast cereals",-4,.21527273,3508
+6,"Breakfast cereals",-3,.2283942,37661
+6,"Breakfast cereals",-2,.21562685,55909
+6,"Breakfast cereals",-1,.19939167,74754
+6,"Breakfast cereals",0,.19064295,49940
+6,"Breakfast cereals",1,.10987151,14033
+6,"Breakfast cereals",2,.11322822,28079
+6,"Breakfast cereals",3,.12891971,42666
+6,"Breakfast cereals",4,.1422532,3738
+6,"Breakfast cereals",5,.11864742,41
+6,"Breakfast cereals",6,.11992446,49622
+6,"Breakfast cereals",7,.12285033,47532
+6,"Breakfast cereals",8,.10030185,29897
+6,"Breakfast cereals",9,.11313718,14985
+6,"Breakfast cereals",10,.11335395,22295
+6,"Breakfast cereals",11,.11198825,21812
+6,"Breakfast cereals",12,.07960962,8483
+6,"Breakfast cereals",13,.12495025,39108
+6,"Breakfast cereals",14,.15189373,7781
+6,"Breakfast cereals",15,.18154177,14198
+6,"Breakfast cereals",16,.08277174,2114
+6,"Breakfast cereals",17,.12094459,3003
+6,"Breakfast cereals",18,.10064904,536
+6,"Breakfast cereals",22,.40064104,8
+7,"Pasta, rice and flours",-8,.58649822,116
+7,"Pasta, rice and flours",-7,.22116778,750
+7,"Pasta, rice and flours",-6,.10600121,52532
+7,"Pasta, rice and flours",-5,.09846957,191335
+7,"Pasta, rice and flours",-4,.0950074,198105
+7,"Pasta, rice and flours",-3,.16037883,120741
+7,"Pasta, rice and flours",-2,.21226802,180567
+7,"Pasta, rice and flours",-1,.22743914,168606
+7,"Pasta, rice and flours",0,.21013486,126099
+7,"Pasta, rice and flours",1,.2948892,60938
+7,"Pasta, rice and flours",2,.29809069,38433
+7,"Pasta, rice and flours",3,.41564699,38354
+7,"Pasta, rice and flours",4,.59847176,30691
+7,"Pasta, rice and flours",5,.28645169,14927
+7,"Pasta, rice and flours",6,.15266474,9450
+7,"Pasta, rice and flours",7,.14348163,7886
+7,"Pasta, rice and flours",8,.13562289,11746
+7,"Pasta, rice and flours",9,.15989238,12170
+7,"Pasta, rice and flours",10,.2030183,5721
+7,"Pasta, rice and flours",11,.32086708,1711
+7,"Pasta, rice and flours",12,.20692136,1196
+7,"Pasta, rice and flours",13,.22844258,210
+7,"Pasta, rice and flours",14,.31158973,789
+7,"Pasta, rice and flours",15,.16539614,2070
+7,"Pasta, rice and flours",16,.45727724,108
+7,"Pasta, rice and flours",17,.12097268,269
+7,"Pasta, rice and flours",18,.11129059,856
+7,"Pasta, rice and flours",19,.12724055,6094
+7,"Pasta, rice and flours",20,.21545507,1192
+7,"Pasta, rice and flours",21,.15741534,466
+7,"Pasta, rice and flours",22,.1515496,2639
+7,"Pasta, rice and flours",23,.16076549,137
+7,"Pasta, rice and flours",25,.13325963,7
+8,"Dairy",-5,.64713675,36062
+8,"Dairy",-4,.64556329,21508
+8,"Dairy",-3,.63639432,46746
+8,"Dairy",-2,.42628765,213623
+8,"Dairy",-1,.39551342,933015
+8,"Dairy",0,.46991501,832277
+8,"Dairy",1,.32667831,538447
+8,"Dairy",2,.37171279,151061
+8,"Dairy",3,.33638717,181521
+8,"Dairy",4,.32314885,60828
+8,"Dairy",5,.26565208,142344
+8,"Dairy",6,.25958771,71861
+8,"Dairy",7,.26518517,43150
+8,"Dairy",8,.31294412,24509
+8,"Dairy",9,.23856106,13595
+8,"Dairy",10,.50069122,12610
+8,"Dairy",11,.25383107,21936
+8,"Dairy",12,.19194716,51630
+8,"Dairy",13,.23061156,20375
+8,"Dairy",14,.15071909,31878
+8,"Dairy",15,.14300025,95857
+8,"Dairy",16,.21781207,3503
+8,"Dairy",17,.16451672,11451
+8,"Dairy",18,.15749932,606
+8,"Dairy",19,.15603863,7752
+8,"Dairy",20,.13766867,286
+8,"Dairy",21,.10319756,3906
+8,"Dairy",22,.07809562,6969
+8,"Dairy",23,.11412427,681
+8,"Dairy",25,.18769745,100
+8,"Dairy",26,.16311714,1736
+8,"Dairy",27,.18832054,112
+8,"Dairy",29,.13619744,38
+9,"Cheese, butter, oils",-5,.51218822,15591
+9,"Cheese, butter, oils",-4,.42818542,8567
+9,"Cheese, butter, oils",-3,.5368262,13921
+9,"Cheese, butter, oils",-2,.5871733,4675
+9,"Cheese, butter, oils",-1,.4164287,2626
+9,"Cheese, butter, oils",0,.37211859,4140
+9,"Cheese, butter, oils",1,.57173293,3876
+9,"Cheese, butter, oils",2,.56589915,2580
+9,"Cheese, butter, oils",3,.48038901,3817
+9,"Cheese, butter, oils",4,.38334994,9488
+9,"Cheese, butter, oils",5,.3829378,2421
+9,"Cheese, butter, oils",6,.40032418,3345
+9,"Cheese, butter, oils",9,.01765956,1
+9,"Cheese, butter, oils",10,.23445824,380
+9,"Cheese, butter, oils",11,.39253616,13814
+9,"Cheese, butter, oils",12,.33668199,23733
+9,"Cheese, butter, oils",13,.52095363,14225
+9,"Cheese, butter, oils",14,.31731437,47971
+9,"Cheese, butter, oils",15,.33491338,47483
+9,"Cheese, butter, oils",16,.37656138,24056
+9,"Cheese, butter, oils",17,.30506386,21556
+9,"Cheese, butter, oils",18,.28785817,28681
+9,"Cheese, butter, oils",19,.22975006,122503
+9,"Cheese, butter, oils",20,.19688374,92201
+9,"Cheese, butter, oils",21,.2606445,237938
+9,"Cheese, butter, oils",22,.17883507,240049
+9,"Cheese, butter, oils",23,.19354675,104355
+9,"Cheese, butter, oils",24,.22149805,25124
+9,"Cheese, butter, oils",25,.13826971,54766
+9,"Cheese, butter, oils",26,.10043588,82952
+9,"Cheese, butter, oils",27,.070484,210
+9,"Cheese, butter, oils",28,.12320549,1406
+9,"Cheese, butter, oils",29,.08961718,514
+10,"Red meats",-9,1.598862,133
+10,"Red meats",-8,.26938776,4
+10,"Red meats",-6,.90404128,199
+10,"Red meats",-5,.40445386,805
+10,"Red meats",-4,.73479636,2532
+10,"Red meats",-3,.47194459,10441
+10,"Red meats",-2,.42337646,27155
+10,"Red meats",-1,.60301875,18963
+10,"Red meats",0,.47205958,30065
+10,"Red meats",1,.51675505,77933
+10,"Red meats",2,.63974864,75259
+10,"Red meats",3,.61627916,179036
+10,"Red meats",4,.69217053,126294
+10,"Red meats",5,.67223515,57080
+10,"Red meats",6,.48448557,1
+10,"Red meats",8,.34638904,340
+10,"Red meats",9,.35413063,4104
+10,"Red meats",10,.34090087,17636
+10,"Red meats",11,.76844663,157842
+10,"Red meats",12,.62565719,167951
+10,"Red meats",13,.30989025,89819
+10,"Red meats",14,.30008139,164452
+10,"Red meats",15,.2585139,62549
+10,"Red meats",16,.30246646,109852
+10,"Red meats",17,.33477514,35855
+10,"Red meats",18,.27572858,105125
+10,"Red meats",19,.27482267,57090
+10,"Red meats",20,.28101237,10997
+10,"Red meats",21,.26850437,28052
+10,"Red meats",22,.22553619,14648
+10,"Red meats",23,.32921586,13821
+10,"Red meats",24,.28888913,34524
+10,"Red meats",25,.28588832,19179
+10,"Red meats",26,.31661749,18738
+10,"Red meats",30,1.0171934,69
+11,"Beans, nuts, eggs",-9,.21252893,343
+11,"Beans, nuts, eggs",-8,.25010071,352
+11,"Beans, nuts, eggs",-7,.12505115,456
+11,"Beans, nuts, eggs",-6,.21067736,508
+11,"Beans, nuts, eggs",-5,.24644625,1703
+11,"Beans, nuts, eggs",-4,.22552001,4224
+11,"Beans, nuts, eggs",-3,.48709225,3315
+11,"Beans, nuts, eggs",-2,.33522217,41752
+11,"Beans, nuts, eggs",-1,.21447273,134741
+11,"Beans, nuts, eggs",0,.45294492,54341
+11,"Beans, nuts, eggs",1,.16235078,66559
+11,"Beans, nuts, eggs",2,.27544438,83
+11,"Beans, nuts, eggs",3,.12523313,50
+11,"Beans, nuts, eggs",6,.19626922,18000
+11,"Beans, nuts, eggs",7,.21387037,12835
+11,"Beans, nuts, eggs",8,.21456796,9438
+11,"Beans, nuts, eggs",9,.21023327,27115
+11,"Beans, nuts, eggs",10,.22389407,23938
+11,"Beans, nuts, eggs",11,.20887891,25826
+11,"Beans, nuts, eggs",12,.19167948,47871
+11,"Beans, nuts, eggs",13,.18218963,54706
+11,"Beans, nuts, eggs",14,.17379519,34214
+11,"Beans, nuts, eggs",15,.18343686,23542
+11,"Beans, nuts, eggs",16,.19568061,26654
+11,"Beans, nuts, eggs",17,.16584368,10410
+11,"Beans, nuts, eggs",18,.17034734,12521
+11,"Beans, nuts, eggs",19,.17639783,1196
+11,"Beans, nuts, eggs",20,.21455301,2833
+11,"Beans, nuts, eggs",21,.12280423,2407
+11,"Beans, nuts, eggs",22,.2295255,2480
+11,"Beans, nuts, eggs",23,.1609213,29
+11,"Beans, nuts, eggs",24,.19518612,526
+11,"Beans, nuts, eggs",25,.04983389,2
+12,"Poultry and fish",-7,.21808401,957
+12,"Poultry and fish",-6,.8174922,70
+12,"Poultry and fish",-5,1.142589,2360
+12,"Poultry and fish",-4,.76079905,18886
+12,"Poultry and fish",-3,.75273858,31192
+12,"Poultry and fish",-2,.71131825,108718
+12,"Poultry and fish",-1,.57924058,97368
+12,"Poultry and fish",0,.59117214,133684
+12,"Poultry and fish",1,.62478249,109307
+12,"Poultry and fish",2,.53951223,68835
+12,"Poultry and fish",3,.54686223,45025
+12,"Poultry and fish",4,.65595502,26129
+12,"Poultry and fish",5,.56216296,20125
+12,"Poultry and fish",8,.50558873,34
+12,"Poultry and fish",9,.56286579,146
+12,"Poultry and fish",10,.80548724,2412
+12,"Poultry and fish",11,.79031714,23708
+12,"Poultry and fish",12,.72303676,5053
+12,"Poultry and fish",13,1.5029729,8226
+12,"Poultry and fish",14,.82161684,2830
+12,"Poultry and fish",15,.5521736,1484
+12,"Poultry and fish",16,.3891634,963
+12,"Poultry and fish",17,.3952789,1459
+12,"Poultry and fish",18,.32238202,4645
+12,"Poultry and fish",19,.25308418,1072
+12,"Poultry and fish",20,.28162588,4081
+12,"Poultry and fish",22,.53075958,377
+13,"Soft drinks",-8,2.9605829,18
+13,"Soft drinks",-7,3.1221281,40021
+13,"Soft drinks",-4,1.4380389,62
+13,"Soft drinks",-3,2.0388788,806
+13,"Soft drinks",-2,2.191978,78908
+13,"Soft drinks",-1,2.1416597,718
+13,"Soft drinks",0,2.4065534,872890
+13,"Soft drinks",1,.79450061,505395
+13,"Soft drinks",2,.48340304,534331
+13,"Soft drinks",3,1.3916136,146928
+13,"Soft drinks",4,1.8504146,130
+13,"Soft drinks",5,.27718264,328
+13,"Soft drinks",6,.21563168,1068
+13,"Soft drinks",7,.3383117,1033
+13,"Soft drinks",8,.46232482,1032
+13,"Soft drinks",9,.2751891,2135
+13,"Soft drinks",10,.1735191,4256
+13,"Soft drinks",11,.3632746,3693
+13,"Soft drinks",12,.36054703,427
+13,"Soft drinks",13,.2609103,1035
+13,"Soft drinks",14,.26568875,4317
+13,"Soft drinks",15,.19786744,3716
+13,"Soft drinks",16,.42877908,3646
+13,"Soft drinks",17,.49112186,811
+13,"Soft drinks",18,.52672941,6296
+13,"Soft drinks",19,.3154208,21364
+13,"Soft drinks",20,.32873684,10613
+13,"Soft drinks",21,.32290759,13914
+13,"Soft drinks",22,.33798649,22471
+13,"Soft drinks",23,.29024797,14078
+13,"Soft drinks",24,.28497788,22482
+13,"Soft drinks",25,.21877415,9849
+13,"Soft drinks",26,.39063014,3900
+13,"Soft drinks",27,.26989256,5436
+13,"Soft drinks",28,.29722701,758
+13,"Soft drinks",31,.27345082,460
+13,"Soft drinks",33,.2795031,13
+14,"Baking ingredients",-4,.40504156,939
+14,"Baking ingredients",-2,.28490945,147
+14,"Baking ingredients",-1,.92628323,180
+14,"Baking ingredients",0,.57395955,268
+14,"Baking ingredients",1,.61922493,191
+14,"Baking ingredients",2,.3288327,1936
+14,"Baking ingredients",3,.03868468,2543
+14,"Baking ingredients",4,.37833743,6711
+14,"Baking ingredients",5,.08913124,2683
+14,"Baking ingredients",6,.55639647,4905
+14,"Baking ingredients",7,.55190748,371
+14,"Baking ingredients",8,.87904385,511
+14,"Baking ingredients",9,.52341678,3095
+14,"Baking ingredients",10,.24274117,2406
+14,"Baking ingredients",11,.23815672,5419
+14,"Baking ingredients",12,.20121416,6969
+14,"Baking ingredients",13,.66020399,50039
+14,"Baking ingredients",14,.19715679,21337
+14,"Baking ingredients",15,.18298754,159067
+14,"Baking ingredients",16,.22113928,11329
+14,"Baking ingredients",17,.27548903,2821
+14,"Baking ingredients",18,.18183566,8774
+14,"Baking ingredients",19,.18756145,2739
+14,"Baking ingredients",20,.20695666,7255
+14,"Baking ingredients",21,.18279014,10183
+14,"Baking ingredients",22,.2050112,4415
+14,"Baking ingredients",23,.21671649,6319
+14,"Baking ingredients",24,.16192882,3535
+14,"Baking ingredients",25,.23369743,10190
+14,"Baking ingredients",26,.28143499,2594
+14,"Baking ingredients",27,.11443263,4496
+14,"Baking ingredients",28,.13785314,590
+14,"Baking ingredients",29,.09102974,82
+14,"Baking ingredients",32,.32519403,23
+15,"Biscuits",-6,.2929822,189
+15,"Biscuits",-5,.22415644,4265
+15,"Biscuits",-4,.24759755,8384
+15,"Biscuits",-3,.26940851,9477
+15,"Biscuits",-2,.25520956,9975
+15,"Biscuits",-1,.24937524,8054
+15,"Biscuits",0,.31029452,13830
+15,"Biscuits",1,.28000407,8809
+15,"Biscuits",2,.27244385,19047
+15,"Biscuits",3,.33007104,7763
+15,"Biscuits",4,.17797527,1228
+15,"Biscuits",5,.15473055,1569
+15,"Biscuits",6,.23404657,27930
+15,"Biscuits",7,.259735,23364
+15,"Biscuits",8,.26920974,26776
+15,"Biscuits",9,.25904745,43722
+15,"Biscuits",10,.25703566,65366
+15,"Biscuits",11,.23796855,72837
+15,"Biscuits",12,.21204008,101885
+15,"Biscuits",13,.20221481,63173
+15,"Biscuits",14,.19550616,58007
+15,"Biscuits",15,.201537,79101
+15,"Biscuits",16,.17004209,105722
+15,"Biscuits",17,.17137117,51061
+15,"Biscuits",18,.16114845,137410
+15,"Biscuits",19,.16557381,150618
+15,"Biscuits",20,.16653866,121309
+15,"Biscuits",21,.14144578,225363
+15,"Biscuits",22,.15285347,183251
+15,"Biscuits",23,.14284704,178386
+15,"Biscuits",24,.17113102,174956
+15,"Biscuits",25,.15986489,140467
+15,"Biscuits",26,.14324196,58817
+15,"Biscuits",27,.14317495,22388
+15,"Biscuits",28,.3602143,401
+15,"Biscuits",29,.15491008,1050
+15,"Biscuits",30,.05753274,516
+15,"Biscuits",32,.06453106,180
+16,"Confectionery",-6,.06150843,324
+16,"Confectionery",-4,.09649756,134
+16,"Confectionery",-3,2.1002041,54
+16,"Confectionery",-2,.05992157,17
+16,"Confectionery",-1,.31222173,1925
+16,"Confectionery",0,.49336939,1458
+16,"Confectionery",1,.4495659,2957
+16,"Confectionery",2,.6612041,5400
+16,"Confectionery",3,.83013239,91
+16,"Confectionery",4,.51613474,537
+16,"Confectionery",5,.22440985,549
+16,"Confectionery",6,.3347746,5546
+16,"Confectionery",7,.23948131,4842
+16,"Confectionery",8,.34658693,4213
+16,"Confectionery",9,.30004968,11209
+16,"Confectionery",10,.38620852,8328
+16,"Confectionery",11,.36242568,15969
+16,"Confectionery",12,.35262149,17351
+16,"Confectionery",13,.21329227,35092
+16,"Confectionery",14,.21584645,281825
+16,"Confectionery",15,.24810096,151483
+16,"Confectionery",16,.23326497,27318
+16,"Confectionery",17,.21116502,56171
+16,"Confectionery",18,.24539196,23163
+16,"Confectionery",19,.27278663,24427
+16,"Confectionery",20,.26812097,46467
+16,"Confectionery",21,.26441813,78038
+16,"Confectionery",22,.28614541,62558
+16,"Confectionery",23,.2801718,88953
+16,"Confectionery",24,.2929517,281583
+16,"Confectionery",25,.25292345,539957
+16,"Confectionery",26,.22759993,284816
+16,"Confectionery",27,.24044491,107094
+16,"Confectionery",28,.18857616,17498
+16,"Confectionery",29,.17938015,2641
+16,"Confectionery",30,.1472773,4030
+16,"Confectionery",31,.58711798,31
+16,"Confectionery",32,.65566838,188
+16,"Confectionery",33,.45117651,100
+17,"Desserts",-6,.38570744,106
+17,"Desserts",-5,.2585695,393
+17,"Desserts",-4,1.2114392,6119
+17,"Desserts",-3,1.0727365,12798
+17,"Desserts",-2,.9424529,11114
+17,"Desserts",-1,1.3640514,20828
+17,"Desserts",0,.9245637,35130
+17,"Desserts",1,.63299688,97548
+17,"Desserts",2,.52344092,93860
+17,"Desserts",3,.40099999,99363
+17,"Desserts",4,.39124254,56063
+17,"Desserts",5,.38924262,77281
+17,"Desserts",6,.30502266,54237
+17,"Desserts",7,.27945612,55659
+17,"Desserts",8,.2820373,37324
+17,"Desserts",9,.21448344,27674
+17,"Desserts",10,.21485958,30738
+17,"Desserts",11,.28509159,124145
+17,"Desserts",12,.23865144,121099
+17,"Desserts",13,.21488245,113378
+17,"Desserts",14,.22114629,105505
+17,"Desserts",15,.23591349,152569
+17,"Desserts",16,.18974381,103118
+17,"Desserts",17,.20878285,150914
+17,"Desserts",18,.21818966,109469
+17,"Desserts",19,.20702157,126770
+17,"Desserts",20,.20679704,106050
+17,"Desserts",21,.23572115,104762
+17,"Desserts",22,.19847465,121945
+17,"Desserts",23,.19220454,72891
+17,"Desserts",24,.20453342,47533
+17,"Desserts",25,.23990215,39109
+17,"Desserts",26,.1921475,19581
+17,"Desserts",27,.23249321,1797
+17,"Desserts",28,.21665618,331
+17,"Desserts",29,.28874858,171
+17,"Desserts",30,.06556742,1229
+17,"Desserts",32,.26993329,558
+17,"Desserts",35,.33457248,2
+18,"Condiments",-7,.94158858,1144
+18,"Condiments",-6,.96690908,6280
+18,"Condiments",-5,1.0863175,1893
+18,"Condiments",-4,.97068673,5550
+18,"Condiments",-3,1.4433428,19539
+18,"Condiments",-2,.64219475,36255
+18,"Condiments",-1,.82789766,30610
+18,"Condiments",0,.9077362,61517
+18,"Condiments",1,.60024454,80155
+18,"Condiments",2,.76877297,144731
+18,"Condiments",3,.8044802,124412
+18,"Condiments",4,.78778961,96349
+18,"Condiments",5,.52314167,73112
+18,"Condiments",6,.57878111,77189
+18,"Condiments",7,.50996931,70785
+18,"Condiments",8,1.9491881,130465
+18,"Condiments",9,.69745473,75855
+18,"Condiments",10,.515639,87838
+18,"Condiments",11,.43586059,167583
+18,"Condiments",12,.36026706,209630
+18,"Condiments",13,.3725623,143374
+18,"Condiments",14,.33830138,114975
+18,"Condiments",15,.3471396,49396
+18,"Condiments",16,.35048646,54380
+18,"Condiments",17,.28274786,38819
+18,"Condiments",18,.30268753,21938
+18,"Condiments",19,.29999793,22279
+18,"Condiments",20,.2627447,27682
+18,"Condiments",21,.26585742,9379
+18,"Condiments",22,.25108626,19910
+18,"Condiments",23,.27099706,14112
+18,"Condiments",24,.13453029,33459
+18,"Condiments",25,.15072952,3498
+18,"Condiments",26,.12911384,15340
+18,"Condiments",27,.14586306,3518
+18,"Condiments",28,.16281281,1915
+19,"Ready meals",-8,.62400378,12877
+19,"Ready meals",-7,.60984249,1373
+19,"Ready meals",-6,.61014276,14542
+19,"Ready meals",-5,.64514525,22750
+19,"Ready meals",-4,.66557725,64144
+19,"Ready meals",-3,.5641246,116269
+19,"Ready meals",-2,.48335329,214596
+19,"Ready meals",-1,.49540939,333018
+19,"Ready meals",0,.45760028,347563
+19,"Ready meals",1,.42301415,298156
+19,"Ready meals",2,.4420633,221871
+19,"Ready meals",3,.45855361,146020
+19,"Ready meals",4,.43510685,68124
+19,"Ready meals",5,.42136836,20052
+19,"Ready meals",6,.54193942,10832
+19,"Ready meals",7,.57211386,2757
+19,"Ready meals",8,.41518643,7889
+19,"Ready meals",9,.46822073,13452
+19,"Ready meals",10,.37058217,33758
+19,"Ready meals",11,.43776208,33989
+19,"Ready meals",12,.42416785,36384
+19,"Ready meals",13,.41474584,45412
+19,"Ready meals",14,.44611995,16197
+19,"Ready meals",15,.35443555,30261
+19,"Ready meals",16,.4337154,21799
+19,"Ready meals",17,.39388787,9290
+19,"Ready meals",18,.36015477,9330
+19,"Ready meals",19,.30983476,7864
+19,"Ready meals",20,.3221023,9576
+19,"Ready meals",21,.25797039,4650
+19,"Ready meals",22,.3145403,1034
+19,"Ready meals",23,.39437004,1248
+19,"Ready meals",24,.48062626,1499
+20,"Savoury snacks",-8,.20100084,44
+20,"Savoury snacks",-7,.37401396,5523
+20,"Savoury snacks",-6,.38135516,6685
+20,"Savoury snacks",-5,.74138136,3485
+20,"Savoury snacks",-4,.57827822,66389
+20,"Savoury snacks",-3,.48815776,207450
+20,"Savoury snacks",-2,.57967019,75822
+20,"Savoury snacks",-1,.60185446,56498
+20,"Savoury snacks",0,.48170121,138934
+20,"Savoury snacks",1,.563005,254798
+20,"Savoury snacks",2,.93024932,284111
+20,"Savoury snacks",3,.41916076,250096
+20,"Savoury snacks",4,.46776986,109838
+20,"Savoury snacks",5,.55384201,19151
+20,"Savoury snacks",6,.31268795,36581
+20,"Savoury snacks",7,.24611531,63381
+20,"Savoury snacks",8,.22043688,75862
+20,"Savoury snacks",9,.2412067,251327
+20,"Savoury snacks",10,.23673543,332004
+20,"Savoury snacks",11,.23791228,248785
+20,"Savoury snacks",12,.25751583,231253
+20,"Savoury snacks",13,.31592545,136363
+20,"Savoury snacks",14,.21221508,160222
+20,"Savoury snacks",15,.23008624,123613
+20,"Savoury snacks",16,.23501823,116793
+20,"Savoury snacks",17,.24861858,128257
+20,"Savoury snacks",18,.26551081,19489
+20,"Savoury snacks",19,.31520902,13810
+20,"Savoury snacks",20,.27573302,10358
+20,"Savoury snacks",21,.20266046,1728
+20,"Savoury snacks",22,.28975934,777
+20,"Savoury snacks",23,.22781549,2304
+20,"Savoury snacks",24,.29303245,1075
+20,"Savoury snacks",25,.45645611,193
+20,"Savoury snacks",26,.23705307,204
+20,"Savoury snacks",27,.14973612,1680
+21,"Alcohol",-1,1.2299389,196
+21,"Alcohol",0,1.0754414,872370
+21,"Alcohol",1,.92657951,40522
+21,"Alcohol",2,.59529067,64130
+21,"Alcohol",3,.61630982,1358
+21,"Alcohol",4,.42726578,76
+21,"Alcohol",6,1.4528076,31
+21,"Alcohol",9,1.0280342,27
+21,"Alcohol",10,.45814594,676
+21,"Alcohol",14,.18290351,29
+21,"Alcohol",15,.52243109,15
+21,"Alcohol",16,.22279038,71
