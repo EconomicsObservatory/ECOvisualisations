@@ -11,10 +11,10 @@ At the **Observatory**, we strive to follow current best practices at stay up to
 ## 👓 Branding guidelines
 
 ### Logos
-|Full logo with title|<img src="./eco-full-logo.png" width="300"/>|
+|[Full logo with title](./eco-full-logo.png)|<img src="./eco-full-logo.png" height="40"/>|
 |:---|:---|
-|Square icon logo|<img src="./eco-square-logo.png" width="300"/>|
-|Square icon logo with ECO text|<img src="./eco-square-logo-with-text.png" width="300"/>|
+|[Square icon logo](./eco-sqare-logo.png)|<img src="./eco-sqare-logo.png" height="40"/>|
+|[Square icon logo with ECO text](./eco-sqare-logo-with-text.jpg)|<img src="./eco-sqare-logo-with-text.jpg" height="40"/>|
 ### Fonts
 ### Colours
 
