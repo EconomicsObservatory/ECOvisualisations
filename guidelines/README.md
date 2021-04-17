@@ -94,6 +94,16 @@ If any chart needs custom colour opacity levels, the preferred way is to use the
 Our preferred `line-style` is always `solid ▬ 2px`. Secondary lines are shown in `solid — 1px`, tertiary lines are shown in `dashed -- 1px`, while quaternary lines are `dotted ··· 1px`. It is always desirable to change the `color` attribute first to differentiate between nominal data categories, before turning to changing the `line-style`, unless otherwise defined by the visualisation conditions (e.g. monochrome chart).
 
 ## 🌌 Charting guidelines
+For every chart we create, we try to prametrise as much as possible, loading the color schemes and styles directly from this guideline repository folder. This allows us to maintain a consistent style for our charts and, if needed, correct appearance bugs and update all charts created in the past with new styles. Learn more about how do we accomplish this  in the [Code](#-coding-guidelines) section.
+
+The aesthetic zens we follow are those of: 
+- [David McCandless](http://davidmccandless.com/) (and the charts presented in [Information is Beautiful](http://www.informationisbeautiful.net/books/) and [Knowledge is Beautiful](http://www.informationisbeautiful.net/books/), and more recently [Beautiful News](https://informationisbeautiful.net/beautifulnews/))
+- [Nadieh `visualcinnamon` Bremer](https://www.visualcinnamon.com/) (and the charts presented in [Data Sketches](https://www.datasketch.es/), together with [Shirley Wu](https://shirleywu.studio/))
+- [Lisa Charlotte Rost](https://lisacharlotterost.de/)
+- [Maarten Lambrechts](http://www.maartenlambrechts.com/made.html)
+- [Andy Kirk](https://www.visualisingdata.com/about/) (and the charts presented in [Data Visualisation](https://www.visualisingdata.com/book/))
+- [Nathan Yau](https://flowingdata.com/)
+- [The Pudding](https://pudding.cool/)
 
 ### Line plot
 
@@ -134,6 +144,11 @@ Our preferred `line-style` is always `solid ▬ 2px`. Secondary lines are shown 
 ### Dorling cartogram
 
 ## 👩‍💻 Coding guidelines
+The coding zens we follow are those of:
+- [Jeffrey Heer](https://homes.cs.washington.edu/~jheer/) of [idl](https://idl.cs.washington.edu/), the cradle of modern visualisation tools, such as [Vega](http://vega.github.io/), [D3.js](https://d3js.org/) and [Tableau](https://www.tableau.com/).
+- [Datawheel](https://www.datawheel.us/), creators of [D3plus](http://d3plus.org/)
+- [Mike Bostock](https://bost.ocks.org/mike/), [D3.js](https://d3js.org/) legend and creator of  [Observable](https://observablehq.com)
+- [Jake VanderPlas](http://vanderplas.com/), [Vega](http://vega.github.io/) guru and [Altair](https://altair-viz.github.io/) lead, and the lessons presented in the [Python Data Science Handbook](https://twitter.com/pydatasci)
 
 ### Python/Jupyter/Google Colab
 
