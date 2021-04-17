@@ -20,7 +20,7 @@ At the **Observatory**, we strive to follow current best practices to stay up to
 | [Square icon with ECO text](./logos/eco-sqare-logo-with-text.jpg)           | <img src="./logos/eco-square-logo-with-text.png" height="40"/>      |
 | [Square icon with ECO text dark](./logos/eco-sqare-logo-with-text-dark.png) | <img src="./logos/eco-square-logo-with-text-dark.png" height="40"/> |
 
-You will find all logo source files in this folder.
+You will find all logo source files in [this](./logos) folder.
 
 ### Fonts
 
@@ -32,7 +32,7 @@ You will find all logo source files in this folder.
 | Headings    | Work Sans, sans-serif                                                |
 | Subheadings | Spectral, sans-serif                                                 |
 
-You will find all the font source files in this folder.
+You will find all the font source files in [this](./fonts) folder.
 
 ### Colours
 
@@ -83,7 +83,7 @@ Axes, tick marks, tick labels, grids and axis labels are always drawn in `ECO gr
 
 <span style="background:#E6224B">&nbsp;&nbsp;&nbsp;</span><span style="background:#E54753">&nbsp;&nbsp;&nbsp;</span><span style="background:#C9C9C9">&nbsp;&nbsp;&nbsp;</span><span style="background:#179FDB">&nbsp;&nbsp;&nbsp;</span><span style="background:#122B39">&nbsp;&nbsp;&nbsp;</span>
 
-You will find `json` files for each of these color scales, as well as the `ECO` [color names](./colors/eco-colors.json) in this folder.
+You will find `json` files for each of these color scales, as well as the `ECO` [color names](./colors/eco-colors.json) in [this](./colors/) folder.
 
 ### Opacity
 
