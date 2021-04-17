@@ -24,9 +24,9 @@ You will find all logo source files in [this](./logos) folder.
 
 ### Fonts
 
-| Primary     | [Spectral Light](https://fonts.google.com/specimen/Spectral), serif  | <img src="./fonts/eco-font-spectral.png" height="18"/>  |
+| Primary     | [Spectral Light](https://fonts.google.com/specimen/Spectral), serif  | <img src="./fonts/eco-font-spectral.png" height="24"/>  |
 | :---------- | :------------------------------------------------------------------- | :------------------------------------------------ |
-| Secondary   | [Work Sans](https://fonts.google.com/specimen/Work+Sans), sans-serif | <img src="./fonts/eco-font-work-sans.png" height="15"/> |
+| Secondary   | [Work Sans](https://fonts.google.com/specimen/Work+Sans), sans-serif | <img src="./fonts/eco-font-work-sans.png" height="28"/> |
 | Title       | Spectral, serif                                                      |
 | Subtitle    | Work Sans, sans-serif                                                |
 | Headings    | Work Sans, sans-serif                                                |
