@@ -6,27 +6,27 @@
 | [**Charting guidelines**](https://github.com/EconomicsObservatory/ecovisualisations)
 | [**Coding guidelines**](https://github.com/EconomicsObservatory/ecodatahub)
 
-At the **Observatory**, we strive to follow current best practices at stay up to date with recent developments of the rapidly-changing world of data visualisation. We maintain a set of guidelines that we use internally for designing our visualisations - but they are also free to share and please feel free to raise an [Issue](https://github.com/EconomicsObservatory/ECOvisualisations/issues) if you have any suggestions, everyone and everything is welcome! 💙
+At the **Observatory**, we strive to follow current best practices to stay up to date with recent developments of the rapidly-changing world of data visualisation. We maintain a set of guidelines that we use internally for designing our visualisations - but they are also free to share and please feel free to raise an [Issue](https://github.com/EconomicsObservatory/ECOvisualisations/issues) if you have any suggestions, everyone and everything is welcome! 💙
 
 ## 👓 Branding guidelines
 
 ### Logos
 
-| [Full logo with title](./eco-full-logo.png)                           | <img src="./eco-full-logo.png" height="40"/>                  |
+| [Full logo with title](./logos/eco-full-logo.png)                     | <img src="./logos/eco-full-logo.png" height="40"/>                  |
 | :-------------------------------------------------------------------- | :------------------------------------------------------------ |
-| [Full logo with title dark](./eco-full-logo-dark.png)                 | <img src="./eco-full-logo-dark.png" height="40"/>             |
-| [Square icon](./eco-sqare-logo.png)                                   | <img src="./eco-square-logo.png" height="40"/>                |
-| [Square icon dark](./eco-sqare-logo-dark.png)                         | <img src="./eco-square-logo-dark.png" height="40"/>           |
-| [Square icon with ECO text](./eco-sqare-logo-with-text.jpg)           | <img src="./eco-square-logo-with-text.png" height="40"/>      |
-| [Square icon with ECO text dark](./eco-sqare-logo-with-text-dark.png) | <img src="./eco-square-logo-with-text-dark.png" height="40"/> |
+| [Full logo with title dark](./logos/eco-full-logo-dark.png)                 | <img src="./logos/eco-full-logo-dark.png" height="40"/>             |
+| [Square icon](./logos/eco-sqare-logo.png)                                   | <img src="./logos/eco-square-logo.png" height="40"/>                |
+| [Square icon dark](./logos/eco-sqare-logo-dark.png)                         | <img src="./logos/eco-square-logo-dark.png" height="40"/>           |
+| [Square icon with ECO text](./logos/eco-sqare-logo-with-text.jpg)           | <img src="./logos/eco-square-logo-with-text.png" height="40"/>      |
+| [Square icon with ECO text dark](./logos/eco-sqare-logo-with-text-dark.png) | <img src="./logos/eco-square-logo-with-text-dark.png" height="40"/> |
 
 You will find all logo source files in this folder.
 
 ### Fonts
 
-| Primary     | [Spectral Light](https://fonts.google.com/specimen/Spectral), serif  | <img src="./eco-font-spectral.png" height="18"/>  |
+| Primary     | [Spectral Light](https://fonts.google.com/specimen/Spectral), serif  | <img src="./fonts/eco-font-spectral.png" height="18"/>  |
 | :---------- | :------------------------------------------------------------------- | :------------------------------------------------ |
-| Secondary   | [Work Sans](https://fonts.google.com/specimen/Work+Sans), sans-serif | <img src="./eco-font-work-sans.png" height="15"/> |
+| Secondary   | [Work Sans](https://fonts.google.com/specimen/Work+Sans), sans-serif | <img src="./fonts/eco-font-work-sans.png" height="15"/> |
 | Title       | Spectral, serif                                                      |
 | Subtitle    | Work Sans, sans-serif                                                |
 | Headings    | Work Sans, sans-serif                                                |
@@ -61,7 +61,7 @@ Axes, tick marks, tick labels, grids and axis labels are always drawn in `ECO gr
 
 ### Color scales
 
-#### [Category](./eco-category-color.json)
+#### [Category](./colors/eco-category-color.json)
 
 <span style="background:#36B7B4">&nbsp;&nbsp;&nbsp;</span>
 <span style="background:#E6224B">&nbsp;&nbsp;&nbsp;</span>
@@ -71,19 +71,19 @@ Axes, tick marks, tick labels, grids and axis labels are always drawn in `ECO gr
 <span style="background:#179FDB">&nbsp;&nbsp;&nbsp;</span>
 <span style="background:#EB5C2E">&nbsp;&nbsp;&nbsp;</span>
 
-#### [Single-hue](./eco-single-hue-color.json)
+#### [Single-hue](./colors/eco-single-hue-color.json)
 
 <span style="background:#C9C9C9">&nbsp;&nbsp;&nbsp;</span><span style="background:#179FDB">&nbsp;&nbsp;&nbsp;</span><span style="background:#0063AF">&nbsp;&nbsp;&nbsp;</span><span style="background:#122B39">&nbsp;&nbsp;&nbsp;</span>
 
-#### [Multi-hue](./eco-multi-hue-color.json)
+#### [Multi-hue](./colors/eco-multi-hue-color.json)
 
 <span style="background:#00A767">&nbsp;&nbsp;&nbsp;</span><span style="background:#36B7B4">&nbsp;&nbsp;&nbsp;</span><span style="background:#179FDB">&nbsp;&nbsp;&nbsp;</span><span style="background:#0063AF">&nbsp;&nbsp;&nbsp;</span><span style="background:#243B5A">&nbsp;&nbsp;&nbsp;</span>
 
-#### [Diverging](./eco-diverging-color.json)
+#### [Diverging](./colors/eco-diverging-color.json)
 
 <span style="background:#E6224B">&nbsp;&nbsp;&nbsp;</span><span style="background:#E54753">&nbsp;&nbsp;&nbsp;</span><span style="background:#C9C9C9">&nbsp;&nbsp;&nbsp;</span><span style="background:#179FDB">&nbsp;&nbsp;&nbsp;</span><span style="background:#122B39">&nbsp;&nbsp;&nbsp;</span>
 
-You will find `json` files for each of these color scales, as well as the `ECO` [color names](./eco-colors.json) in this folder.
+You will find `json` files for each of these color scales, as well as the `ECO` [color names](./colors/eco-colors.json) in this folder.
 
 ### Opacity
 
@@ -94,9 +94,11 @@ If any chart needs custom colour opacity levels, the preferred way is to use the
 Our preferred `line-style` is always `solid ▬ 2px`. Secondary lines are shown in `solid — 1px`, tertiary lines are shown in `dashed -- 1px`, while quaternary lines are `dotted ··· 1px`. It is always desirable to change the `color` attribute first to differentiate between nominal data categories, before turning to changing the `line-style`, unless otherwise defined by the visualisation conditions (e.g. monochrome chart).
 
 ## 🌌 Charting guidelines
-For every chart we create, we try to prametrise as much as possible, loading the color schemes and styles directly from this guideline repository folder. This allows us to maintain a consistent style for our charts and, if needed, correct appearance bugs and update all charts created in the past with new styles. Learn more about how do we accomplish this  in the [Code](#-coding-guidelines) section.
 
-The aesthetic zens we follow are those of: 
+For every chart we create, we try to prametrise as much as possible, loading the color schemes and styles directly from this guideline repository folder. This allows us to maintain a consistent style for our charts and, if needed, correct appearance bugs and update all charts created in the past with new styles. Learn more about how do we accomplish this in the [Code](#-coding-guidelines) section.
+
+The aesthetic zens we follow are those of:
+
 - [David McCandless](http://davidmccandless.com/) (and the charts presented in [Information is Beautiful](http://www.informationisbeautiful.net/books/) and [Knowledge is Beautiful](http://www.informationisbeautiful.net/books/), and more recently [Beautiful News](https://informationisbeautiful.net/beautifulnews/))
 - [Nadieh `visualcinnamon` Bremer](https://www.visualcinnamon.com/) (and the charts presented in [Data Sketches](https://www.datasketch.es/), together with [Shirley Wu](https://shirleywu.studio/))
 - [Lisa Charlotte Rost](https://lisacharlotterost.de/)
@@ -144,10 +146,12 @@ The aesthetic zens we follow are those of:
 ### Dorling cartogram
 
 ## 👩‍💻 Coding guidelines
+
 The coding zens we follow are those of:
+
 - [Jeffrey Heer](https://homes.cs.washington.edu/~jheer/) of [idl](https://idl.cs.washington.edu/), the cradle of modern visualisation tools, such as [Vega](http://vega.github.io/), [D3.js](https://d3js.org/) and [Tableau](https://www.tableau.com/).
 - [Datawheel](https://www.datawheel.us/), creators of [D3plus](http://d3plus.org/)
-- [Mike Bostock](https://bost.ocks.org/mike/), [D3.js](https://d3js.org/) legend and creator of  [Observable](https://observablehq.com)
+- [Mike Bostock](https://bost.ocks.org/mike/), [D3.js](https://d3js.org/) legend and creator of [Observable](https://observablehq.com)
 - [Jake VanderPlas](http://vanderplas.com/), [Vega](http://vega.github.io/) guru and [Altair](https://altair-viz.github.io/) lead, and the lessons presented in the [Python Data Science Handbook](https://twitter.com/pydatasci)
 
 ### Python/Jupyter/Google Colab
