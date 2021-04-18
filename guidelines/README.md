@@ -2,9 +2,9 @@
 
 # Economics Observatory Visualisation Guidelines
 
-[**Branding guidelines**](/guidelines#-branding-guidelines)
-| [**Charting guidelines**](https://github.com/EconomicsObservatory/ecovisualisations)
-| [**Coding guidelines**](https://github.com/EconomicsObservatory/ecodatahub)
+[**Branding guidelines**](#-branding-guidelines)
+| [**Charting guidelines**](#-charting-guidelines)
+| [**Coding guidelines**](#-coding-guidelines)
 
 At the **Observatory**, we strive to follow current best practices to stay up to date with recent developments of the rapidly-changing world of data visualisation. We maintain a set of guidelines that we use internally for designing our visualisations - but they are also free to share and please feel free to raise an [Issue](https://github.com/EconomicsObservatory/ECOvisualisations/issues) if you have any suggestions, everyone and everything is welcome! 💙
 
