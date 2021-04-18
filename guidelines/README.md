@@ -63,19 +63,19 @@ Axes, tick marks, tick labels, grids and axis labels are always drawn in `ECO gr
 
 #### [Category](./colors/eco-category-color.json)
 
-<span style="background:#36B7B4">&nbsp;&nbsp;&nbsp;</span><span style="background:#E6224B">&nbsp;&nbsp;&nbsp;</span><span style="background:#F4C245">&nbsp;&nbsp;&nbsp;</span><span style="background:#0063AF">&nbsp;&nbsp;&nbsp;</span><span style="background:#00A767">&nbsp;&nbsp;&nbsp;</span><span style="background:#179FDB">&nbsp;&nbsp;&nbsp;</span><span style="background:#EB5C2E">&nbsp;&nbsp;&nbsp;</span><img src="./colors/eco-category-color.png" height="20"/>
+<img src="./colors/eco-category-color.png" height="20"/><span style="background:#36B7B4">&nbsp;&nbsp;&nbsp;</span><span style="background:#E6224B">&nbsp;&nbsp;&nbsp;</span><span style="background:#F4C245">&nbsp;&nbsp;&nbsp;</span><span style="background:#0063AF">&nbsp;&nbsp;&nbsp;</span><span style="background:#00A767">&nbsp;&nbsp;&nbsp;</span><span style="background:#179FDB">&nbsp;&nbsp;&nbsp;</span><span style="background:#EB5C2E">&nbsp;&nbsp;&nbsp;</span>
 
 #### [Single-hue](./colors/eco-single-hue-color.json)
 
-<span style="background:#C9C9C9">&nbsp;&nbsp;&nbsp;</span><span style="background:#179FDB">&nbsp;&nbsp;&nbsp;</span><span style="background:#0063AF">&nbsp;&nbsp;&nbsp;</span><span style="background:#122B39">&nbsp;&nbsp;&nbsp;</span><img src="./colors/eco-single-hue-color.png" height="20"/>
+<img src="./colors/eco-single-hue-color.png" height="20"/><span style="background:#C9C9C9">&nbsp;&nbsp;&nbsp;</span><span style="background:#179FDB">&nbsp;&nbsp;&nbsp;</span><span style="background:#0063AF">&nbsp;&nbsp;&nbsp;</span><span style="background:#122B39">&nbsp;&nbsp;&nbsp;</span>
 
 #### [Multi-hue](./colors/eco-multi-hue-color.json)
 
-<span style="background:#00A767">&nbsp;&nbsp;&nbsp;</span><span style="background:#36B7B4">&nbsp;&nbsp;&nbsp;</span><span style="background:#179FDB">&nbsp;&nbsp;&nbsp;</span><span style="background:#0063AF">&nbsp;&nbsp;&nbsp;</span><span style="background:#243B5A">&nbsp;&nbsp;&nbsp;</span><img src="./colors/eco-multi-hue-color.png" height="20"/>
+<img src="./colors/eco-multi-hue-color.png" height="20"/><span style="background:#00A767">&nbsp;&nbsp;&nbsp;</span><span style="background:#36B7B4">&nbsp;&nbsp;&nbsp;</span><span style="background:#179FDB">&nbsp;&nbsp;&nbsp;</span><span style="background:#0063AF">&nbsp;&nbsp;&nbsp;</span><span style="background:#243B5A">&nbsp;&nbsp;&nbsp;</span>
 
 #### [Diverging](./colors/eco-diverging-color.json)
 
-<span style="background:#E6224B">&nbsp;&nbsp;&nbsp;</span><span style="background:#E54753">&nbsp;&nbsp;&nbsp;</span><span style="background:#C9C9C9">&nbsp;&nbsp;&nbsp;</span><span style="background:#179FDB">&nbsp;&nbsp;&nbsp;</span><span style="background:#122B39">&nbsp;&nbsp;&nbsp;</span><img src="./colors/eco-diverging-color.png" height="20"/>
+<img src="./colors/eco-diverging-color.png" height="20"/><span style="background:#E6224B">&nbsp;&nbsp;&nbsp;</span><span style="background:#E54753">&nbsp;&nbsp;&nbsp;</span><span style="background:#C9C9C9">&nbsp;&nbsp;&nbsp;</span><span style="background:#179FDB">&nbsp;&nbsp;&nbsp;</span><span style="background:#122B39">&nbsp;&nbsp;&nbsp;</span>
 
 You will find `json` files for each of these color scales, as well as the `ECO` [color names](./colors/eco-colors.json) in [this](./colors/) folder.
 
