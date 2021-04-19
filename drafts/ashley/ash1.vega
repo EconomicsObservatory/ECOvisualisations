@@ -1,0 +1,44 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+        "url": "https://raw.githubusercontent.com/RDeconomist/observatory/main/WFH%20Future%20by%20Industry2.csv"
+    },
+    "transform": [{
+        "calculate": "datum['Permanent WFH'] == 'No' ? -datum.Percentage : datum.Percentage",
+        "as": "signed_WFH"
+    }],
+    "width": 300,
+    "height": 300,
+    "layer": [
+        { "mark": { "type": "bar", "size": 16 } },
+        {
+            "mark": { "type": "text", "align": "left", "baseline": "middle", "dx": 3 },
+            "encoding": { "text": { "field": "Percentage", "type": "quantitative" } }
+        },
+        {
+            "mark": { "type": "text", "align": "right", "baseline": "middle", "dx": -3 },
+            "encoding": { "text": { "field": "Industry", "type": "nominal" } },
+            "transform": [{
+                "filter": "datum.signed_WFH<0"
+            }]
+        },
+        {
+            "mark": { "type": "text", "align": "right", "baseline": "middle", "dx": 25, "fill": "white" },
+            "encoding": { "text": { "field": "Percentage", "type": "quantitative" } },
+            "transform": [{
+                "filter": "datum.signed_WFH<0"
+            }]
+        }
+    ],
+    "view": { "stroke": null },
+    "encoding": {
+        "y": { "field": "Industry", "type": "ordinal", "title": "", "axis": null },
+        "x": { "field": "signed_WFH", "type": "quantitative", "title": "", "axis": null },
+        "color": {
+            "field": "Permanent WFH",
+            "sort": "-y",
+            "scale": { "range": ["#122b39", "#36b7b4"] },
+            "legend": { "orient": "top" }
+        }
+    }
+}

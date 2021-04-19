@@ -1,0 +1,419 @@
+{
+    "description": "Description. by @csaladenes",
+    "width": 500,
+    "height": 350,
+    "config": {
+        "legend": {
+            "title": null
+        }
+    },
+    "layer": [{
+            "name": "red-area",
+            "mark": {
+                "type": "area",
+                "color": {
+                    "expr": "eco_blue"
+                },
+                "opacity": 0.15
+            },
+            "encoding": {
+                "x": {
+                    "type": "quantitative",
+                    "axis": {
+                        "tickCount": 9,
+                        "title": "Deaths (% of Population)",
+                        "format": ".2f",
+                        "grid": false
+                    },
+                    "field": "death %",
+                    "sort": []
+                },
+                "y": {
+                    "type": "quantitative",
+                    "axis": {
+                        "tickCount": 5,
+                        "title": "Economic Welfare Cost (months of Income)",
+                        "domain": false,
+                        "ticks": false,
+                        "labelAlign": "left",
+                        "labelBaseline": "middle",
+                        "labelPadding": -5,
+                        "labelOffset": -10,
+                        "titleX": 25,
+                        "titleY": -5,
+                        "titleAngle": 0,
+                        "titleAlign": "left"
+                    },
+                    "field": "p90"
+                },
+                "y2": {
+                    "field": "p10"
+                }
+            }
+        },
+        {
+            "name": "red-line",
+            "mark": {
+                "type": "line",
+                "stroke": {
+                    "expr": "eco_blue"
+                }
+            },
+            "encoding": {
+                "x": {
+                    "type": "quantitative",
+                    "field": "death %",
+                    "sort": []
+                },
+                "y": {
+                    "type": "quantitative",
+                    "field": "mean"
+                }
+            }
+        },
+        {
+            "name": "red-dots",
+            "mark": {
+                "type": "point",
+                "fill": {
+                    "expr": "eco_blue"
+                },
+                "stroke": {
+                    "expr": "eco_blue"
+                },
+                "opacity": 0.9
+            },
+            "encoding": {
+                "x": {
+                    "type": "quantitative",
+                    "field": "death %",
+                    "sort": []
+                },
+                "y": {
+                    "type": "quantitative",
+                    "field": "mean"
+                },
+                "strokeWidth": {
+                    "condition": {
+                        "test": "((datum.mean>6)&(datum.mean<6.5))||(datum.mean>6.8)||((datum.mean>2.4)&(datum.mean<2.5))",
+                        "value": 1
+                    },
+                    "value": 0
+                },
+                "size": {
+                    "condition": {
+                        "test": "((datum.mean>6)&(datum.mean<6.5))||(datum.mean>6.8)||((datum.mean>2.4)&(datum.mean<2.5))",
+                        "value": 70
+                    },
+                    "value": 0
+                },
+                "fill": {
+                    "type": "nominal",
+                    "field": "Fiscal support"
+                }
+            }
+        },
+        {
+            "layer": [{
+                    "name": "blue-area",
+                    "mark": {
+                        "type": "area",
+                        "color": {
+                            "expr": "eco_pink"
+                        },
+                        "opacity": 0.15
+                    },
+                    "encoding": {
+                        "x": {
+                            "type": "quantitative",
+                            "field": "death %",
+                            "sort": []
+                        },
+                        "y": {
+                            "type": "quantitative",
+                            "field": "p90"
+                        },
+                        "y2": {
+                            "field": "p10"
+                        }
+                    }
+                },
+                {
+                    "name": "blue-line",
+                    "mark": {
+                        "type": "line",
+                        "stroke": {
+                            "expr": "eco_pink"
+                        }
+                    },
+                    "encoding": {
+                        "x": {
+                            "type": "quantitative",
+                            "field": "death %",
+                            "sort": []
+                        },
+                        "y": {
+                            "type": "quantitative",
+                            "field": "mean"
+                        }
+                    }
+                },
+                {
+                    "name": "blue-point",
+                    "mark": {
+                        "type": "point",
+                        "fill": {
+                            "expr": "eco_pink"
+                        },
+                        "stroke": {
+                            "expr": "eco_pink"
+                        }
+                    },
+                    "encoding": {
+                        "x": {
+                            "type": "quantitative",
+                            "field": "death %",
+                            "sort": []
+                        },
+                        "y": {
+                            "type": "quantitative",
+                            "field": "mean"
+                        },
+                        "shape": {
+                            "type": "nominal",
+                            "field": "Fiscal support"
+                        },
+                        "size": {
+                            "condition": {
+                                "test": "((datum.mean>6)&(datum.mean<7))||(datum.mean<2.5)||(datum.mean>7.5)||((datum.mean>3.2)&(datum.mean<3.4))",
+                                "value": 70
+                            },
+                            "value": 0
+                        }
+                    }
+                }
+            ],
+            "data": {
+                "url": "https://raw.githubusercontent.com/csaladenes/eco/main/ben_moll/fig1_nofiscalsupport.csv"
+            },
+            "transform": [{
+                    "calculate": "1",
+                    "as": "cat"
+                },
+                {
+                    "calculate": "'Mean (No Fiscal Support)'",
+                    "as": "Fiscal support"
+                },
+                {
+                    "filter": "datum.cat>fiscal"
+                }
+            ]
+        },
+        {
+            "data": {
+                "values": [{
+                        "y": 7.3,
+                        "x": 0.17,
+                        "text": "12 Month"
+                    },
+                    {
+                        "y": 7,
+                        "x": 0.17,
+                        "text": "Lockdown"
+                    },
+                    {
+                        "y": 8.1,
+                        "x": 0.055,
+                        "text": "17 Month"
+                    },
+                    {
+                        "y": 7.8,
+                        "x": 0.055,
+                        "text": "Lockdown"
+                    },
+                    {
+                        "y": 4.8,
+                        "x": 0.065,
+                        "text": "10 - 90%"
+                    },
+                    {
+                        "y": 4.5,
+                        "x": 0.055,
+                        "text": "confidence band"
+                    },
+                    {
+                        "y": 2.9,
+                        "x": 0.35,
+                        "text": "No Lockdown"
+                    },
+                    {
+                        "y": 2.6,
+                        "x": 0.35,
+                        "text": "No Fiscal Support"
+                    },
+                    {
+                        "y": 3.7,
+                        "x": 0.245,
+                        "text": "2 Month Lockdown and"
+                    },
+                    {
+                        "y": 3.4,
+                        "x": 0.245,
+                        "text": "No Fiscal Support"
+                    },
+                    {
+                        "y": 1.6,
+                        "x": 0.19,
+                        "text": "Lockdown and"
+                    },
+                    {
+                        "y": 1.3,
+                        "x": 0.19,
+                        "text": "Fiscal Support"
+                    }
+                ]
+            },
+            "encoding": {
+                "y": {
+                    "type": "quantitative",
+                    "field": "y",
+                    "sort": []
+                },
+                "x": {
+                    "type": "quantitative",
+                    "field": "x",
+                    "sort": []
+                },
+                "text": {
+                    "type": "nominal",
+                    "field": "text"
+                },
+                "size": {
+                    "condition": {
+                        "test": "((fiscal==1)&&(datum.x<0.4)&&(datum.x>0.2))||((fiscal==0)&&(datum.x<0.2)&&(datum.x>0.17))",
+                        "value": 0
+                    },
+                    "value": 10
+                }
+            },
+            "mark": {
+                "type": "text",
+                "align": "left",
+                "baseline": "bottom"
+            }
+        },
+        {
+            "data": {
+                "values": [{
+                        "y": 3.2,
+                        "x": 0.35,
+                        "text": "Laissez-faire"
+                    },
+                    {
+                        "y": 4,
+                        "x": 0.245,
+                        "text": "US Lockdown"
+                    },
+                    {
+                        "y": 1.9,
+                        "x": 0.2,
+                        "text": "US Policy"
+                    }
+                ]
+            },
+            "encoding": {
+                "y": {
+                    "type": "quantitative",
+                    "field": "y",
+                    "sort": []
+                },
+                "x": {
+                    "type": "quantitative",
+                    "field": "x",
+                    "sort": []
+                },
+                "text": {
+                    "type": "nominal",
+                    "field": "text"
+                },
+                "size": {
+                    "condition": {
+                        "test": "((fiscal==1)&&(datum.x<0.4)&&(datum.x>0.2))||((fiscal==0)&&(datum.x<0.22)&&(datum.x>0.15))",
+                        "value": 0
+                    },
+                    "value": 10
+                }
+            },
+            "mark": {
+                "type": "text",
+                "align": "left",
+                "baseline": "bottom",
+                "fontWeight": "bold"
+            }
+        }
+    ],
+    "data": {
+        "url": "https://raw.githubusercontent.com/csaladenes/eco/main/ben_moll/fig1_fiscalsupport.csv"
+    },
+    "transform": [{
+            "calculate": "0",
+            "as": "cat"
+        },
+        {
+            "calculate": "'Mean (Fiscal Support)'",
+            "as": "Fiscal support"
+        },
+        {
+            "filter": "datum.cat<fiscal"
+        }
+    ],
+    "params": [{
+            "name": "fiscal",
+            "value": "0.5",
+            "bind": {
+                "name": "Fiscal support",
+                "input": "range",
+                "min": 0,
+                "max": 1,
+                "step": 0.5
+            }
+        },
+        {
+            "name": "eco_blue",
+            "value": "#0063af"
+        },
+        {
+            "name": "eco_pink",
+            "value": "#e6224b"
+        },
+        {
+            "name": "eco_purple",
+            "value": "#5c267b"
+        },
+        {
+            "name": "eco_green",
+            "value": "#00a767"
+        },
+        {
+            "name": "eco_yellow",
+            "value": "#f4c245"
+        },
+        {
+            "name": "eco_orange",
+            "value": "#eb5c2e"
+        },
+        {
+            "name": "eco_turquoise",
+            "value": "#36b7b4"
+        },
+        {
+            "name": "eco_light_blue",
+            "value": "#179fdb"
+        },
+        {
+            "name": "eco_dark_blue",
+            "value": "#122b39"
+        }
+    ],
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json"
+}
