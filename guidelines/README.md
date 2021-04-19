@@ -101,6 +101,12 @@ The aesthetic zens we follow are those of:
 - [Nathan Yau](https://flowingdata.com/)
 - [The Pudding](https://pudding.cool/)
 
+When creating charts, usually the first step is to envisage the type of chart that can accurately represent the underlying data, with all of its internal complexity. In order to help with this process, we can use a **chart vocabulary**. A few good ones are:  
+
+- [The Chartmaker Directory](http://chartmaker.visualisingdata.com/)
+- [Tableau Visual Vocabulary](https://public.tableau.com/profile/andy.kriebel#!/vizhome/VisualVocabulary/VisualVocabulary)
+- [Voyager](https://www.github.com/vega/voyager), powered by [CompassSQL](https://www.github.com/vega/compassql) 
+
 ### Line plot
 
 ### Line plot with confidence bands
