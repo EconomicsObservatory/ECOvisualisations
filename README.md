@@ -22,7 +22,7 @@ Each figure in the article is typically a sepparate visualisation and has their 
 - `visualisation` contains a `json` file for each visualisation (typically one for each figure in the article), as well as an automatically generated `HTML` file for direct embedding.
 
 ### Embedding
-Furthermore, we maintain a [`viewer.html`](/articles/viewer.html) in the **articles** folder that can take a data source parameters as its URL hash. E.g. visiting [`/articles/viewer.html#2021-04-14-a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic/visualisation/fig5_absent_from_work`](https://economicsobservatory.github.io/ECOdataHUB/panels/lms/viewer.html#lms_eco) will open the viewer for Figure 5 of [this](https://www.economicsobservatory.com/a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic) article. **This is the recommended way** for embedding our visualisations on other sites.
+Furthermore, we maintain a [`viewer.html`](/articles/viewer.html) in the **articles** folder that can take a data source parameters as its URL hash. E.g. visiting [`/articles/viewer.html#2021-04-14-a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic/visualisation/fig5_absent_from_work`](/articles/viewer.html#2021-04-14-a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic/visualisation/fig5_absent_from_work) will open the viewer for Figure 5 of [this](https://www.economicsobservatory.com/a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic) article. **This is the recommended way** for embedding our visualisations on other sites.
 
 ## 🌌 Visualisations
 
