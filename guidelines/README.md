@@ -101,11 +101,20 @@ The aesthetic zens we follow are those of:
 - [Nathan Yau](https://flowingdata.com/)
 - [The Pudding](https://pudding.cool/)
 
-When creating charts, usually the first step is to envisage the type of chart that can accurately represent the underlying data, with all of its internal complexity. In order to help with this process, we can use a **chart vocabulary**. A few good ones are:  
+When creating charts, usually the first step is to envisage the type of chart that can accurately represent the underlying data, with all of its internal complexity. In order to help with this process, we can use a **visual vocabulary**. A few good ones are:  
 
-- [The Chartmaker Directory](http://chartmaker.visualisingdata.com/)
+- [Financial Times Visual Vocabulary](http://ft-interactive.github.io/visual-vocabulary/)
 - [Tableau Visual Vocabulary](https://public.tableau.com/profile/andy.kriebel#!/vizhome/VisualVocabulary/VisualVocabulary)
+- [Vega Edition](https://gramener.github.io/visual-vocabulary-vega/) of the Visual Vocabulary
+- [PowerBI Edition](https://app.powerbi.com/view?r=eyJrIjoiMDA4YWIwZWEtMDE3ZS00YmFhLWE5YWMtODFlZWEzNTU1ODNiIiwidCI6IjZjMGE1YjljLTA4OWEtNDk0ZS1iMDVlLTcxNjEwOTgyOTA0NyIsImMiOjF9) of the Visual Vocabulary
 - [Voyager](https://www.github.com/vega/voyager), powered by [CompassSQL](https://www.github.com/vega/compassql) 
+- [Andy Kirks](https://www.visualisingdata.com/)'s [The Chartmaker Directory](http://chartmaker.visualisingdata.com/)
+- [Christophe Viau](https://twitter.com/d3visualization)'s [D3.js Chart Gallery](https://christopheviau.com/d3list/gallery.html)
+- The [D3 Graph Gallery](https://www.d3-graph-gallery.com/)
+- The [Observable](https://observablehq.com/community) Community
+- The [Data Visualisation Catalogue](https://datavizcatalogue.com/)
+- The [Awesome-dataviz](https://github.com/fasouto/awesome-dataviz) list
+- The [cube.js](https://cube.dev/blog/dataviz-ecosystem-2021/) list
 
 ### Line plot
 
