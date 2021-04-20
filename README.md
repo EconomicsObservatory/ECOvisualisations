@@ -10,9 +10,19 @@
 | [**Data**](https://github.com/EconomicsObservatory/ecodatahub)
 |
 
-Here you will find all the data visualisations and infographics attached to our articles published on the Observatory website. Each visualisation is published under an open source [MIT licence](LICENSE), and you are free to reuse/reproduce/redistribute, with attribution.  
+Here you will find all the data visualisations and infographics attached to our articles published on the Observatory website. Each visualisation is published under an open source [MIT licence](LICENSE), and you are free to reuse/reproduce/redistribute, with attribution. 
 
-Under **[articles](/articles)** each visualisation has their own folder, and within that folder you will find separate subfolder for the **data** (in `csv` format) , the **visualisation** (in `json`), and in some cases accompanying `HTML`, `CSS` and `JavaScript`. 
+### Structure
+
+Under **[articles](/articles)** each visualisation has their own folder, and within that folder you will find separate subfolder for the **data** (in `csv` format) , the **visualisation** (in `json`), and in some cases accompanying `HTML`, `CSS` and `JavaScript`. The naming convention for articles is `yyyy-mm-dd-permalink`.
+
+Each figure in the article is typically a sepparate visualisation and has their own (usually [Vega](http://vega.github.io/)) `json` specification. We normalize the data and compile the visualisations using the **`parser.ipynb`** [Jupyter](https://jupyter.org/) notebook. 
+- `raw` contains the original data, as we have received it from the author (depending on the circumstances, this might not always be public)
+- `data` contains the normalised data and it is typically the output of the `parser`.ipynb
+- `visualisation` contains a `json` file for each visualisation (typically one for each figure in the article), as well as an automatically generated `HTML` file for direct embedding.
+
+### Embedding
+Furthermore, we maintain a [`viewer.html`](/articles/viewer.html) in the **articles** folder that can take a data source parameters as its URL hash. E.g. visiting [`/articles/viewer.html#2021-04-14-a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic/visualisation/fig5_absent_from_work`](https://economicsobservatory.github.io/ECOdataHUB/panels/lms/viewer.html#lms_eco) will open the viewer for Figure 5 of [this](https://www.economicsobservatory.com/a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic) article. **This is the recommended way** for embedding our visualisations on other sites.
 
 ## 🌌 Visualisations
 
