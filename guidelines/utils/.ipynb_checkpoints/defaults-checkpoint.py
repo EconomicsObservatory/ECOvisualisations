@@ -1,4 +1,5 @@
 import json
+
 def load_defaults(uid):
     eco_git_path = "https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/"+uid+"/data/"
     vega_embed = open("../../guidelines/html/vega-embed.html", "r").read()
