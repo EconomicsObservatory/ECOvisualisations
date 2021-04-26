@@ -78,7 +78,7 @@ Axes, tick marks, tick labels, grids and axis labels are always drawn in `ECO gr
 <img src="./colors/eco-diverging-color.png" height="20"/><span style="background:#E6224B">&nbsp;&nbsp;&nbsp;</span><span style="background:#E54753">&nbsp;&nbsp;&nbsp;</span><span style="background:#C9C9C9">&nbsp;&nbsp;&nbsp;</span><span style="background:#179FDB">&nbsp;&nbsp;&nbsp;</span><span style="background:#122B39">&nbsp;&nbsp;&nbsp;</span>
 
 You will find `json` files for each of these color scales, as well as the `ECO` [color names](./colors/eco-colors.json) in [this](./colors/) folder.
-If you are not an alien 👽 who can read hex codes natively, we prefer the [HCL](https://css-tricks.com/hsl-hsla-is-great-for-programmatic-color-control/) color space, for which [**hcl**wizard](https://hclwizard.org/) is a good tool.  If we need to generate a custom color scale, the more generic tools we love are:
+If you are not an alien 👽 who can read hex codes natively, we prefer the [HSL](https://css-tricks.com/hsl-hsla-is-great-for-programmatic-color-control/), or *even better*, the [HCL](https://en.wikipedia.org/wiki/HCL_color_space) (sometimes called CIELuv) color space, for which [**hcl**wizard](https://hclwizard.org/) is a good and [HSLuv](https://www.hsluv.org/) is *even better* tool.  If we need to just quickly generate a custom but still beautiful color scale, the more generic tools we love are:
 - The one and only [ColorBrewer](https://colorbrewer2.org/)
 - [Colorcet](https://colorcet.holoviz.org/) in [Anaconda](https://www.anaconda.com/)'s [Holoviz](https://holoviz.org/) package
 - [Coolors](http://coolors.co/) for generating beautiful 5-color palette quickly
