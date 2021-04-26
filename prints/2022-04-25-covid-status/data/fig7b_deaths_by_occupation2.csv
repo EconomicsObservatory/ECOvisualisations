@@ -1,0 +1,26 @@
+,group,desc,m_deaths,m_rate,m_lci,m_hci,ma_deaths,ma_rate,ma_lci,ma_hci,f_deaths,f_rate,f_lci,f_hci,drop1,fa_deaths,fa_rate,fa_lci,fa_hci
+0,11,Corporate managers and directors,267,18.3,16.0,20.6,1925,127.4,121.4,133.4,64,9.5,7.2,12.2,,690,105.1,96.6,113.6
+1,12,Other managers and proprietors,205,45.8,39.4,52.2,1421,309.6,293.1,326.1,75,19.7,15.4,24.8,,763,195.7,181.5,209.9
+2,21,"Science, research, engineering and technology professionals",126,13.5,11.0,16.0,1185,123.8,116.3,131.3,10,7.3,3.0,14.2,u,185,98.5,81.8,115.2
+3,22,Health professionals,90,34.2,27.4,42.1,428,165.8,149.5,182.0,138,18.1,14.9,21.4,,1171,152.5,143.1,161.9
+4,23,Teaching and educational professionals,66,18.4,14.0,23.6,530,153.4,139.8,167.1,73,9.8,7.5,12.5,,796,110.0,101.9,118.2
+5,24,"Business, media and public service professionals",137,16.6,13.8,19.4,1001,119.2,111.7,126.8,58,11.3,8.5,14.8,,544,95.3,86.9,103.7
+6,31,"Science, Engineering and technology associate professionals",45,15.7,11.3,21.1,412,139.6,125.7,153.4,8,,,,,102,99.6,78.9,120.3
+7,32,Health and social care associate professionals,35,34.3,23.8,47.8,250,245.8,215.1,276.5,29,9.3,6.2,13.3,,359,109.4,98.0,120.8
+8,33,Protective service occupations,67,71.2,53.0,93.1,623,633.1,576.1,690.1,4,,,,,97,280.0,201.3,371.5
+9,34,"Culture, media and sports occupations",56,20.3,15.3,26.4,723,249.9,231.4,268.5,13,8.8,4.4,15.5,u,325,169.8,149.8,189.8
+10,35,Business and public service associate professionals,157,18.2,15.3,21.1,1345,153.1,144.7,161.5,49,7.2,5.2,9.7,,732,107.7,99.3,116.2
+11,41,Administrative occupations:,178,39.5,33.7,45.3,1190,259.1,244.3,274.0,186,12.9,11.0,14.7,,2175,151.4,145.0,157.9
+12,42,Secretarial and related occupations,8,,,,72,323.8,244.5,418.4,64,10.6,8.1,13.7,,930,158.7,148.3,169.2
+13,51,Skilled agricultural and related trades,52,21.1,15.7,27.8,789,325.0,301.7,348.3,2,,,,,72,125.7,94.5,162.9
+14,52,"Skilled metal, electrical and electronic trades",309,39.3,34.9,43.7,3013,375.7,362.1,389.3,7,,,,,52,367.1,268.7,488.1
+15,53,Skilled construction and building trades,305,36.7,32.5,40.8,3727,440.1,425.9,454.4,0,,,,,28,249.7,155.1,375.2
+16,54,"Textiles, printing and other skilled trades",182,83.2,70.3,96.0,1459,617.9,583.9,651.9,45,23.3,16.8,31.4,,601,312.3,286.7,338.0
+17,61,Caring personal service occupations,194,77.9,66.8,89.0,1052,414.2,388.8,439.7,400,27.8,25.0,30.6,,3332,228.9,220.9,236.9
+18,62,"Leisure, travel and related personal service occupations",64,41.3,31.8,52.7,473,317.5,288.7,346.2,60,24.5,18.5,31.8,,742,280.7,259.6,301.8
+19,71,Sales occupations,126,46.2,38.0,54.4,862,298.1,277.6,318.5,143,20.9,17.4,24.3,,1469,215.2,204.1,226.3
+20,72,Customer service occupations,30,26.9,17.8,39.0,201,156.3,133.2,179.3,30,11.8,7.7,17.0,,286,117.4,103.2,131.6
+21,81,"Process, plant and machine operatives",230,50.4,43.9,57.0,1864,399.5,381.2,417.7,46,39.6,28.4,53.5,,468,394.2,356.6,431.8
+22,82,Transport and mobile machine drivers and operatives,597,54.1,49.8,58.5,3663,336.0,324.9,347.0,11,19.2,8.9,35.3,u,111,215.4,172.2,258.5
+23,91,Elementary trades and related occupations,200,96.5,82.9,110.1,2103,926.4,885.8,966.9,34,40.5,27.9,56.8,,319,386.7,343.7,429.7
+24,92,Elementary administration and service occupations,499,58.9,53.7,64.2,3593,416.3,402.5,430.1,193,19.4,16.7,22.2,,2070,205.2,196.3,214.1
