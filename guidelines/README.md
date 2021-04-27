@@ -128,13 +128,6 @@ When creating charts, usually the first step is to envisage the type of chart th
 - The [Awesome-dataviz](https://github.com/fasouto/awesome-dataviz) list
 - The [cube.js](https://cube.dev/blog/dataviz-ecosystem-2021/) list
 
-When creating explorable charts, interactives or **dashboards**, the tools we use are:
-
-- [Panel](https://panel.holoviz.org/) in [Anaconda](https://www.anaconda.com/)'s [Holoviz](https://holoviz.org/) package (also known for [Bokeh](https://docs.bokeh.org/en/latest/)) for easy interactivity and mixed chart types
-- [Grafana](http://grafana.net/) for something beautiful from streaming or lots of data 
-- [Superset](https://superset.apache.org/) for an all-out open-source BI dashboard
-- [PowerBI](https://powerbi.microsoft.com/en-us/) if open source is not so important
-
 ### Line plot
 
 ### Line plot with confidence bands
@@ -174,6 +167,13 @@ When creating explorable charts, interactives or **dashboards**, the tools we us
 ### Dorling cartogram
 
 ## 👩‍💻 Coding guidelines
+
+When creating explorable charts, interactives or **dashboards**, the tools we use are:
+
+- [Panel](https://panel.holoviz.org/) in [Anaconda](https://www.anaconda.com/)'s [Holoviz](https://holoviz.org/) package (also known for [Bokeh](https://docs.bokeh.org/en/latest/)) for easy interactivity and mixed chart types
+- [Grafana](http://grafana.net/) for something beautiful from streaming or lots of data 
+- [Superset](https://superset.apache.org/) for an all-out open-source BI dashboard
+- [PowerBI](https://powerbi.microsoft.com/en-us/) if open source is not so important
 
 The coding zens we follow are those of:
 
