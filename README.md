@@ -24,13 +24,16 @@ Date | Article | Repository | Code
 
 ### Structure
 
-Under **[articles](/articles)** each visualisation has their own folder, and within that folder you will find separate subfolder for the **data** (in `csv` format) , the **visualisation** (in `json`), and in some cases accompanying `HTML`, `CSS` and `JavaScript`. The naming convention for articles is `yyyy-mm-dd-permalink`.
+Under **[articles](/articles)** each visualisation has their own folder, and within that folder you will find separate subfolder for the **data** (in `csv` format) , the **visualisation** (in `json`), and in some cases accompanying `HTML`, `CSS` and `JavaScript`. The naming convention for articles is `yyyy-mm-dd-<ARTICLE_ID>`. We try to maintain that `<ARTICLE_ID>` matches the `URL permalink` of the article from the website.
 
 Each figure in the article is typically a separate visualisation and has their own (usually [Vega-lite](https://vega.github.io/vega-lite/) or [Vega](http://vega.github.io/), but sometimes a [D3plus](http://d3plus.org/) or [eCharts](https://echarts.apache.org/)) `json` specification. We normalize the data and compile the visualisations using the **`parser.ipynb`** [Jupyter](https://jupyter.org/) notebook.
 
 - `raw` contains the original data, as we have received it from the author (depending on the circumstances, this might not always be public)
 - `data` contains the normalised data and it is typically the output of the `parser`.ipynb
-- `visualisation` contains a `json` file for each visualisation (typically one for each figure in the article), as well as an automatically generated `HTML` file for direct embedding.
+- `visualisation` contains:
+  - a `<FIGURE_ID>.json` (or `.js` for the case of *D3plus* visualisations) file for each visualisation (typically one for each figure in the article)
+  - an automatically generated `<FIGURE_ID>.HTML` file for direct embedding
+  - whenever data compatibility issues are likely to arise, or the data cannot be formatted using simple data manipulation (e.g. *Vega* data transforms) *only*, we also generate a file ending in `_local.json`, where all data is stored as a static `Javascript Object` inside the `json` file (this is the *safest* but also the *slowest*)
 
 ### Embedding
 
