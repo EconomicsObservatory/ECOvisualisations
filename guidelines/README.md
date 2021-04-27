@@ -19,6 +19,10 @@ At the **Observatory**, we strive to follow current best practices to stay up to
 | [Square icon dark](./logos/eco-sqare-logo-dark.png)                         | <img src="./logos/eco-square-logo-dark.png" height="40"/>           |
 | [Square icon with ECO text](./logos/eco-sqare-logo-with-text.jpg)           | <img src="./logos/eco-square-logo-with-text.png" height="40"/>      |
 | [Square icon with ECO text dark](./logos/eco-sqare-logo-with-text-dark.png) | <img src="./logos/eco-square-logo-with-text-dark.png" height="40"/> |
+| [Background dark](./logos/eco-bg-dark.png) | <img src="./logos/eco-bg-dark.png" height="40"/> |
+| [Background light](./logos/eco-bg-light.png) | <img src="./logos/eco-bg-light.png" height="40"/> |
+| [Pattern dark](./logos/eco-pattern-dark.png) | <img src="./logos/eco-pattern-dark.png" height="40"/> |
+| [Pattern light](./logos/eco-pattern-light.png) | <img src="./logos/eco-pattern-light.png" height="40"/> |
 
 You will find all logo source files in [this](./logos) folder.
 
@@ -79,6 +83,7 @@ Axes, tick marks, tick labels, grids and axis labels are always drawn in `ECO gr
 
 You will find `json` files for each of these color scales, as well as the `ECO` [color names](./colors/eco-colors.json) in [this](./colors/) folder.
 If you are not an alien 👽 who can read hex codes natively, we prefer the [HSL](https://css-tricks.com/hsl-hsla-is-great-for-programmatic-color-control/), or *even better*, the [HCL](https://en.wikipedia.org/wiki/HCL_color_space) (sometimes called CIELuv) color space, for which [**hcl**wizard](https://hclwizard.org/) is a good and [HSLuv](https://www.hsluv.org/) is *even better* tool.  If we need to just quickly generate a custom but still beautiful color scale, the more generic tools we love are:
+
 - The one and only [ColorBrewer](https://colorbrewer2.org/)
 - [Colorcet](https://colorcet.holoviz.org/) in [Anaconda](https://www.anaconda.com/)'s [Holoviz](https://holoviz.org/) package
 - [Coolors](http://coolors.co/) for generating beautiful 5-color palette quickly
