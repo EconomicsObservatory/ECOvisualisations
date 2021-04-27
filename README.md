@@ -12,6 +12,16 @@
 
 Here you will find all the data visualisations and infographics attached to our articles published on the Observatory website. Each visualisation is published under an open source [MIT licence](LICENSE), and you are free to reuse/reproduce/redistribute, with attribution.
 
+## 🌌 Visualisations
+
+We try to follow industry best-practices in data visualisation and try to establish our very own visualisation guidelines for all chart types. You can read about these, as well as the tools we use in **[📐visualisation guidelines](/guidelines)** .  
+
+Date | Article | Repository | Code
+--- | --- | --- | ---
+2021.04.19 | [How should governments source public services during a crisis?](https://www.economicsobservatory.com/how-should-governments-source-public-services-during-a-crisis) | [folder](/articles/2021-04-19-how-should-governments-source-public-services-during-a-crisis) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/economicsobservatory/ecovisualisations/blob/main/articles/2021-04-19-how-should-governments-source-public-services-during-a-crisis/parser.ipynb)
+2021.04.14 | [A year in the UK labour market: what’s happened over the coronavirus pandemic?](https://www.economicsobservatory.com/a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic) | [folder](/articles/2021-04-14-a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/economicsobservatory/ecovisualisations/blob/main/articles/2021-04-14-a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic/parser.ipynb)
+2021.04.09 | [How are economic models adapting to rising inequality and the pandemic?](https://www.economicsobservatory.com/how-are-economic-models-adapting-to-rising-inequality-and-the-pandemic) | [folder](/articles/2021-04-09-how-are-economic-models-adapting-to-rising-inequality-and-the-pandemic) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/economicsobservatory/ecovisualisations/blob/main/articles/2021-04-09-how-are-economic-models-adapting-to-rising-inequality-and-the-pandemic/parser.ipynb)
+
 ### Structure
 
 Under **[articles](/articles)** each visualisation has their own folder, and within that folder you will find separate subfolder for the **data** (in `csv` format) , the **visualisation** (in `json`), and in some cases accompanying `HTML`, `CSS` and `JavaScript`. The naming convention for articles is `yyyy-mm-dd-permalink`.
@@ -25,16 +35,6 @@ Each figure in the article is typically a separate visualisation and has their o
 ### Embedding
 
 Furthermore, we maintain a [`viewer.html`](/viewer.html) that can take a data source parameters as its URL hash. E.g. visiting [`https://economicsobservatory.github.io/ECOvisualisations/viewer.html#`**`articles/2021-04-14-a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic/visualisation/fig5_absent_from_work`**](https://economicsobservatory.github.io/ECOvisualisations/viewer.html#articles/2021-04-14-a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic/visualisation/fig5_absent_from_work) will open the viewer for Figure 5 of [this](https://www.economicsobservatory.com/a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic) article. **This is the recommended way** for embedding our visualisations on other sites.
-
-## 🌌 Visualisations
-
-We try to follow industry best-practices in data visualisation and try to establish our very own visualisation guidelines for all chart types. You can read about these, as well as the tools we use in **[📐visualisation guidelines](/guidelines)** .  
-
-Date | Article | Repository | Code
---- | --- | --- | ---
-2021.04.19 | [How should governments source public services during a crisis?](https://www.economicsobservatory.com/how-should-governments-source-public-services-during-a-crisis) | [folder](/articles/2021-04-19-how-should-governments-source-public-services-during-a-crisis) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/economicsobservatory/ecovisualisations/blob/main/articles/2021-04-19-how-should-governments-source-public-services-during-a-crisis/parser.ipynb)
-2021.04.14 | [A year in the UK labour market: what’s happened over the coronavirus pandemic?](https://www.economicsobservatory.com/a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic) | [folder](/articles/2021-04-14-a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/economicsobservatory/ecovisualisations/blob/main/articles/2021-04-14-a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic/parser.ipynb)
-2021.04.09 | [How are economic models adapting to rising inequality and the pandemic?](https://www.economicsobservatory.com/how-are-economic-models-adapting-to-rising-inequality-and-the-pandemic) | [folder](/articles/2021-04-09-how-are-economic-models-adapting-to-rising-inequality-and-the-pandemic) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/economicsobservatory/ecovisualisations/blob/main/articles/2021-04-09-how-are-economic-models-adapting-to-rising-inequality-and-the-pandemic/parser.ipynb)
 
 ## 📊 Data
 
