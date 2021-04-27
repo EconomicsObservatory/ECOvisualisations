@@ -193,3 +193,9 @@ The coding zens we follow are those of:
 ### eCharts
 
 ### Docker
+
+<hr>
+
+## Make sure you check out the 📐[Data Guidelines ↗](https://github.com/EconomicsObservatory/ECOdataHUB/tree/main/guidelines) too!
+
+Updated on 📆 2021-04-27 by [Dénes Csala](https://csaladen.es)
