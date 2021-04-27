@@ -34,9 +34,9 @@ You will find all logo source files in [this](./logos) folder.
 
 You will find all the font source files in [this](./fonts) folder.
 
-### Colours
+### Colors
 
-The two main colours we always use are the logo colors:
+The two main colors we always use are the logo colors:
 |<div style="color:#E54753;">ECO red</div>|`#E54753`|`rgb(229,71,83)`|
 |---|---|---|
 |<div style="color:#243B5A;font-weight:bold;">ECO blue</div>|`#243B5A`|`rgb(36,59,90)`|
@@ -78,6 +78,13 @@ Axes, tick marks, tick labels, grids and axis labels are always drawn in `ECO gr
 <img src="./colors/eco-diverging-color.png" height="20"/><span style="background:#E6224B">&nbsp;&nbsp;&nbsp;</span><span style="background:#E54753">&nbsp;&nbsp;&nbsp;</span><span style="background:#C9C9C9">&nbsp;&nbsp;&nbsp;</span><span style="background:#179FDB">&nbsp;&nbsp;&nbsp;</span><span style="background:#122B39">&nbsp;&nbsp;&nbsp;</span>
 
 You will find `json` files for each of these color scales, as well as the `ECO` [color names](./colors/eco-colors.json) in [this](./colors/) folder.
+If you are not an alien 👽 who can read hex codes natively, we prefer the [HSL](https://css-tricks.com/hsl-hsla-is-great-for-programmatic-color-control/), or *even better*, the [HCL](https://en.wikipedia.org/wiki/HCL_color_space) (sometimes called CIELuv) color space, for which [**hcl**wizard](https://hclwizard.org/) is a good and [HSLuv](https://www.hsluv.org/) is *even better* tool.  If we need to just quickly generate a custom but still beautiful color scale, the more generic tools we love are:
+- The one and only [ColorBrewer](https://colorbrewer2.org/)
+- [Colorcet](https://colorcet.holoviz.org/) in [Anaconda](https://www.anaconda.com/)'s [Holoviz](https://holoviz.org/) package
+- [Coolors](http://coolors.co/) for generating beautiful 5-color palette quickly
+- [Paletton](https://paletton.com/) for generating beautiful color palette scientifically
+- [ColorSpace](https://mycolor.space/) for generating beautiful palettes from a seed color
+- [Adobe Color](https://color.adobe.com/create/color-wheel)
 
 ### Opacity
 
@@ -115,6 +122,13 @@ When creating charts, usually the first step is to envisage the type of chart th
 - The [Data Visualisation Catalogue](https://datavizcatalogue.com/)
 - The [Awesome-dataviz](https://github.com/fasouto/awesome-dataviz) list
 - The [cube.js](https://cube.dev/blog/dataviz-ecosystem-2021/) list
+
+When creating explorable charts, interactives or **dashboards**, the tools we use are:
+
+- [Panel](https://panel.holoviz.org/) in [Anaconda](https://www.anaconda.com/)'s [Holoviz](https://holoviz.org/) package (also known for [Bokeh](https://docs.bokeh.org/en/latest/)) for easy interactivity and mixed chart types
+- [Grafana](http://grafana.net/) for something beautiful from streaming or lots of data 
+- [Superset](https://superset.apache.org/) for an all-out open-source BI dashboard
+- [PowerBI](https://powerbi.microsoft.com/en-us/) if open source is not so important
 
 ### Line plot
 
