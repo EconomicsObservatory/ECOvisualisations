@@ -6,7 +6,7 @@
 | [**Charting guidelines**](#-charting-guidelines)
 | [**Coding guidelines**](#-coding-guidelines)
 
-At the **Observatory**, we strive to follow current best practices to stay up to date with recent developments of the rapidly-changing world of data visualisation. We maintain a set of guidelines that we use internally for designing our visualisations - but they are also free to share and please feel free to raise an [Issue](https://github.com/EconomicsObservatory/ECOvisualisations/issues) if you have any suggestions, everyone and everything is welcome! 💙
+At the **Observatory**, we strive to follow current best practices to stay up to date with recent developments of the rapidly-changing world of data visualisation. We maintain a set of guidelines that we use internally for designing our visualisations - but they are also free to share and please feel free to raise an [Issue](https://github.com/EconomicsObservatory/ECOvisualisations/issues) if you have any suggestions, everyone and everything is welcome! 💙 Why do we think this is important? - I'll let dataviz economist [Jonathan Schwabish](https://policyviz.com/further-thoughts-on-developing-a-style-guide-at-your-organization/), author of [Better Data Visualizations](https://cup.columbia.edu/book/better-data-visualizations/9780231193115) do the convincing.
 
 ## 👓 Branding guidelines
 
@@ -128,13 +128,6 @@ When creating charts, usually the first step is to envisage the type of chart th
 - The [Awesome-dataviz](https://github.com/fasouto/awesome-dataviz) list
 - The [cube.js](https://cube.dev/blog/dataviz-ecosystem-2021/) list
 
-When creating explorable charts, interactives or **dashboards**, the tools we use are:
-
-- [Panel](https://panel.holoviz.org/) in [Anaconda](https://www.anaconda.com/)'s [Holoviz](https://holoviz.org/) package (also known for [Bokeh](https://docs.bokeh.org/en/latest/)) for easy interactivity and mixed chart types
-- [Grafana](http://grafana.net/) for something beautiful from streaming or lots of data 
-- [Superset](https://superset.apache.org/) for an all-out open-source BI dashboard
-- [PowerBI](https://powerbi.microsoft.com/en-us/) if open source is not so important
-
 ### Line plot
 
 ### Line plot with confidence bands
@@ -174,6 +167,13 @@ When creating explorable charts, interactives or **dashboards**, the tools we us
 ### Dorling cartogram
 
 ## 👩‍💻 Coding guidelines
+
+When creating explorable charts, interactives or **dashboards**, the tools we use are:
+
+- [Panel](https://panel.holoviz.org/) in [Anaconda](https://www.anaconda.com/)'s [Holoviz](https://holoviz.org/) package (also known for [Bokeh](https://docs.bokeh.org/en/latest/)) for easy interactivity and mixed chart types
+- [Grafana](http://grafana.net/) for something beautiful from streaming or lots of data 
+- [Superset](https://superset.apache.org/) for an all-out open-source BI dashboard
+- [PowerBI](https://powerbi.microsoft.com/en-us/) if open source is not so important
 
 The coding zens we follow are those of:
 
