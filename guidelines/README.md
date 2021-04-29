@@ -6,7 +6,7 @@
 | [**Charting guidelines**](#-charting-guidelines)
 | [**Coding guidelines**](#-coding-guidelines)
 
-At the **Observatory**, we strive to follow current best practices to stay up to date with recent developments of the rapidly-changing world of data visualisation. We maintain a set of guidelines that we use internally for designing our visualisations - but they are also free to share and please feel free to raise an [Issue](https://github.com/EconomicsObservatory/ECOvisualisations/issues) if you have any suggestions, everyone and everything is welcome! 💙
+At the **Observatory**, we strive to follow current best practices to stay up to date with recent developments of the rapidly-changing world of data visualisation. We maintain a set of guidelines that we use internally for designing our visualisations - but they are also free to share and please feel free to raise an [Issue](https://github.com/EconomicsObservatory/ECOvisualisations/issues) if you have any suggestions, everyone and everything is welcome! 💙 Why do we think this is important? - I'll let dataviz economist [Jonathan Schwabish](https://policyviz.com/further-thoughts-on-developing-a-style-guide-at-your-organization/), author of [Better Data Visualizations](https://cup.columbia.edu/book/better-data-visualizations/9780231193115) do the convincing.
 
 ## 👓 Branding guidelines
 
