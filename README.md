@@ -2,12 +2,13 @@
 
 # Economics Observatory Visualisation Repository  
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/EconomicsObservatory/ecovisualisations/blob/main/LICENSE)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/economicsobservatory/ecovisualisations/blob/main/guidelines/tutorial.ipynb)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/EconomicsObservatory/ECOvisualisations/blob/main/LICENSE)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EconomicsObservatory/ECOvisualisations/blob/main/guidelines/tutorial.ipynb)
+[![GitHub last commit](https://img.shields.io/github/last-commit/EconomicsObservatory/ECOvisualisations?label=last%20update)](https://github.com/EconomicsObservatory/ECOvisualisations)
 
 [**Website**](https://www.economicsobservatory.com/)
-| [**Visualisations**](https://github.com/EconomicsObservatory/ecovisualisations)
-| [**Data**](https://github.com/EconomicsObservatory/ecodatahub)
+| [**Visualisations**](https://github.com/EconomicsObservatory/ECOvisualisations)
+| [**Data**](https://github.com/EconomicsObservatory/ECOdataHUB)
 |
 
 Here you will find all the data visualisations and infographics attached to our articles published on the Observatory website. Each visualisation is published under an open source [MIT licence](LICENSE), and you are free to reuse/reproduce/redistribute, with attribution.
