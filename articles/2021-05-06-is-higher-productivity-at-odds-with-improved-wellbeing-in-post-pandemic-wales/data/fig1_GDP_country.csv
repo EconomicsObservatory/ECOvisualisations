@@ -1,0 +1,46 @@
+,date,region,value
+0,2018Q2,UK,0.3
+1,2018Q2,England,0.3
+2,2018Q2,Wales,0.8
+3,2018Q2,Scotland,0.6
+4,2018Q2,Northern Ireland,0.9
+5,2018Q3,UK,0.7
+6,2018Q3,England,0.9
+7,2018Q3,Wales,0.6
+8,2018Q3,Scotland,0.2
+9,2018Q3,Northern Ireland,0.9
+10,2018Q4,UK,0.3
+11,2018Q4,England,0.5
+12,2018Q4,Wales,0.3
+13,2018Q4,Scotland,0.1
+14,2018Q4,Northern Ireland,-0.9
+15,2019Q1,UK,0.6
+16,2019Q1,England,0.6
+17,2019Q1,Wales,-0.2
+18,2019Q1,Scotland,0.5
+19,2019Q1,Northern Ireland,0.2
+20,2019Q2,UK,0.0
+21,2019Q2,England,0.1
+22,2019Q2,Wales,0.0
+23,2019Q2,Scotland,-0.2
+24,2019Q2,Northern Ireland,0.8
+25,2019Q3,UK,0.4
+26,2019Q3,England,0.5
+27,2019Q3,Wales,0.5
+28,2019Q3,Scotland,0.1
+29,2019Q3,Northern Ireland,0.7
+30,2019Q4,UK,0.0
+31,2019Q4,England,0.0
+32,2019Q4,Wales,-1.9
+33,2019Q4,Scotland,0.0
+34,2019Q4,Northern Ireland,-1.0
+35,2020Q1,UK,-2.8
+36,2020Q1,England,-2.7
+37,2020Q1,Wales,-2.4
+38,2020Q1,Scotland,-3.2
+39,2020Q1,Northern Ireland,-4.5
+40,2020Q2,UK,-18.8
+41,2020Q2,England,-19.0
+42,2020Q2,Wales,-15.1
+43,2020Q2,Scotland,-19.4
+44,2020Q2,Northern Ireland,-13.6
