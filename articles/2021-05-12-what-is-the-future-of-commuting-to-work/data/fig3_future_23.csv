@@ -1,0 +1,18 @@
+,response,percent
+0,"Incredibly
+positive
+(> 35% raise)",0.015
+1,"Strongly
+positive
+(15 - 35% raise)",0.078
+2,"Positive
+(< 15% raise)",0.607
+3,Neutral,0.225
+4,"Negative
+(< 15% cut)",0.064
+5,"Strongly
+negative
+(15 - 35% cut)",0.006
+6,"Incredibly
+negative
+(> 35% cut)",0.004
