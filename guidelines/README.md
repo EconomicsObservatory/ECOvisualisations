@@ -74,7 +74,6 @@ On top of this, we try to limit our color palette to the following 9 colors, in 
 On top of this, we have one service colour:
 |<div style="color:#676A86;">ECO gray</div>|`#676A86`|`rgb(103,106,134)`|
 |---|---|---|
-|
 
 Axes, tick marks, tick labels, grids and axis labels are always drawn in `ECO gray`. Unless encoded to represent a data category, annotations also use `ECO gray`.
 
@@ -149,12 +148,13 @@ Line plots are excellent for showing temporal changes in data.
 
 Here are all the line plots that we have created:
 
-|<span></span>|<span></span>|<span></span>|
+### Line plot with confidence bands
+
+|<a href="#" target="_blank"><img src="../articles/2021-04-14-a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic/visualisation/fig1a_unemployment.png" height="25"/></a>|<a href="#" target="_blank"><img src="../articles/2021-04-14-a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic/visualisation/fig1b_youthunemployment.png" height="25"/></a>|<a href="#" target="_blank"><img src="../articles/2021-04-14-a-year-in-the-uk-labour-market-whats-happened-over-the-coronavirus-pandemic/visualisation/fig2a_full_time_employment.png" height="25"/></a>|
 |---|---|---|
 |<a href="#" target="_blank"><img src="./fonts/eco-font-circular.png" height="25"/></a>|<a href="#" target="_blank"><img src="./fonts/eco-font-circular.png" height="25"/></a>|<a href="#" target="_blank"><img src="./fonts/eco-font-circular.png" height="25"/></a>|
-|
 
-### Line plot with confidence bands
+### Area chart
 
 ### ~~Column chart~~ Bar chart
 
@@ -163,8 +163,6 @@ Here are all the line plots that we have created:
 ### Dot plot
 
 ### Box plot/Violin plot
-
-### Area chart
 
 ### ~~Piechart~~ Donut chart
 
@@ -196,7 +194,7 @@ When creating explorable charts, interactives or **dashboards**, the tools we us
 
 - [Panel](https://panel.holoviz.org/) in [Anaconda](https://www.anaconda.com/)'s [Holoviz](https://holoviz.org/) package (also known for [Bokeh](https://docs.bokeh.org/en/latest/)) for easy interactivity and mixed chart types
 - [Grafana](http://grafana.net/) for something beautiful from streaming or lots of data 
-- [Superset](https://superset.apache.org/) for an all-out open-source BI dashboard
+- [Superset](https://superset.apache.org/) for an all-out open-source BI dashboard (albeit with a steep learning curve!)
 - [PowerBI](https://powerbi.microsoft.com/en-us/) if open source is not so important
 
 The coding zens we follow are those of:
