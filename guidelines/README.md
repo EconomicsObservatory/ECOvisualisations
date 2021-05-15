@@ -1,4 +1,4 @@
-<div align="left"><img src="https://raw.githubusercontent.com/EconomicsObservatory/economicsobservatory.github.io/main/EO-Logo.png" width="800"/></div>
+<div align="left"><img src="https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/guidelines/logos/eco-bg-dark.png" width="800"/></div>
 
 # Economics Observatory Visualisation Guidelines
 
@@ -12,25 +12,34 @@ At the **Observatory**, we strive to follow current best practices to stay up to
 
 ### Logos
 
-| [Full logo with title](./logos/eco-full-logo.png)                     | <img src="./logos/eco-full-logo.png" height="40"/>                  |
+| [Banner](./logos/eco-banner.png) | <img src="./logos/eco-banner.png" height="40"/> |
 | :-------------------------------------------------------------------- | :------------------------------------------------------------ |
-| [Full logo with title dark](./logos/eco-full-logo-dark.png)                 | <img src="./logos/eco-full-logo-dark.png" height="40"/>             |
-| [Square icon](./logos/eco-sqare-logo.png)                                   | <img src="./logos/eco-square-logo.png" height="40"/>                |
-| [Square icon dark](./logos/eco-sqare-logo-dark.png)                         | <img src="./logos/eco-square-logo-dark.png" height="40"/>           |
-| [Square icon with ECO text](./logos/eco-sqare-logo-with-text.jpg)           | <img src="./logos/eco-square-logo-with-text.png" height="40"/>      |
-| [Square icon with ECO text dark](./logos/eco-sqare-logo-with-text-dark.png) | <img src="./logos/eco-square-logo-with-text-dark.png" height="40"/> |
+| [Social header](./logos/eco-social-header.jpg) | <img src="./logos/eco-social-header.jpg" height="40"/> |
+| [Square icon](./logos/eco-icon.jpg) | <img src="./logos/eco-icon.jpg" height="40"/> |
+| [Square brandmark](./logos/eco-square.png) | <img src="./logos/eco-square.png" height="40"/> |
+| [Icon dark](./logos/eco-icon-dark.png) | <img src="./logos/eco-icon-dark.png" height="40"/> |
+| [Icon light](./logos/eco-icon-light.png) | <img src="./logos/eco-icon-light.png" height="40"/> |
+| [Logo dark](./logos/eco-logo-dark.png) | <img src="./logos/eco-logo-dark.png" height="40"/> |
+| [Logo light](./logos/eco-logo-light.png) | <img src="./logos/eco-logo-light.png" height="40"/> |
 | [Background dark](./logos/eco-bg-dark.png) | <img src="./logos/eco-bg-dark.png" height="40"/> |
 | [Background light](./logos/eco-bg-light.png) | <img src="./logos/eco-bg-light.png" height="40"/> |
 | [Pattern dark](./logos/eco-pattern-dark.png) | <img src="./logos/eco-pattern-dark.png" height="40"/> |
 | [Pattern light](./logos/eco-pattern-light.png) | <img src="./logos/eco-pattern-light.png" height="40"/> |
+<!-- | [Alternate full logo with title](./logos/eco-full-logo.png)                     | <img src="./logos/eco-full-logo.png" height="40"/>                  | -->
+<!-- | [Alternate full logo with title dark](./logos/eco-full-logo-dark.png)                 | <img src="./logos/eco-full-logo-dark.png" height="40"/>             | -->
+<!-- | [Alternate square icon](./logos/eco-sqare-logo.png)                                   | <img src="./logos/eco-square-logo.png" height="40"/>                | -->
+<!-- | [Alternate square icon dark](./logos/eco-sqare-logo-dark.png)                         | <img src="./logos/eco-square-logo-dark.png" height="40"/>           | -->
+<!-- | [Alternate  square icon with ECO text](./logos/eco-sqare-logo-with-text.jpg)           | <img src="./logos/eco-square-logo-with-text.png" height="40"/>      | -->
+<!-- | [Alternate  square icon with ECO text dark](./logos/eco-sqare-logo-with-text-dark.png) | <img src="./logos/eco-square-logo-with-text-dark.png" height="40"/> | -->
 
 You will find all logo source files in [this](./logos) folder.
 
 ### Fonts
 
-| Primary     | [Spectral Light](https://fonts.google.com/specimen/Spectral), serif  | <img src="./fonts/eco-font-spectral.png" height="24"/>  |
+| Logo     | [Circular](https://fonts.google.com/specimen/Circular), sans-oserif  | <img src="./fonts/eco-font-circular.png" height="25"/>  |
 | :---------- | :------------------------------------------------------------------- | :------------------------------------------------ |
-| Secondary   | [Work Sans](https://fonts.google.com/specimen/Work+Sans), sans-serif | <img src="./fonts/eco-font-work-sans.png" height="20"/> |
+| Primary     | [Spectral Light](https://fonts.google.com/specimen/Spectral), serif  | <img src="./fonts/eco-font-spectral.png" height="26"/>  |
+| Secondary   | [Work Sans](https://fonts.google.com/specimen/Work+Sans), sans-serif | <img src="./fonts/eco-font-work-sans.png" height="24"/> |
 | Title       | Spectral, serif                                                      |
 | Subtitle    | Work Sans, sans-serif                                                |
 | Headings    | Work Sans, sans-serif                                                |
@@ -41,6 +50,11 @@ You will find all the font source files in [this](./fonts) folder.
 ### Colors
 
 The two main colors we always use are the logo colors:
+|<div style="color:#F4134D;">ECO dot</div>|`#F4134D`|`rgb(244,19,77)`|
+|---|---|---|
+|<div style="color:#122b39;font-weight:bold;">ECO background</div>|`#122B39`|`rgb(18,43,57)`|
+
+Legacy logo colors that we do not use anymore, but you may still find on some of our older charts:
 |<div style="color:#E54753;">ECO red</div>|`#E54753`|`rgb(229,71,83)`|
 |---|---|---|
 |<div style="color:#243B5A;font-weight:bold;">ECO blue</div>|`#243B5A`|`rgb(36,59,90)`|
@@ -60,6 +74,7 @@ On top of this, we try to limit our color palette to the following 9 colors, in 
 On top of this, we have one service colour:
 |<div style="color:#676A86;">ECO gray</div>|`#676A86`|`rgb(103,106,134)`|
 |---|---|---|
+|
 
 Axes, tick marks, tick labels, grids and axis labels are always drawn in `ECO gray`. Unless encoded to represent a data category, annotations also use `ECO gray`.
 
@@ -93,7 +108,7 @@ If you are not an alien 👽 who can read hex codes natively, we prefer the [HSL
 
 ### Opacity
 
-If any chart needs custom colour opacity levels, the preferred way is to use the `rgba` codes from the color table, with an `alpha` value between `0.3` and `0.9`.
+If any chart needs custom colour opacity levels, the preferred way is to use the `rgba` codes from the color table, with an `alpha` value between `0.3` and `0.9`. The default opacity for area chats is `0.9`. If possible, area charts will carry an opacity gradient between `0` and `0.9`, from base to peak.
 
 ### Line style
 
@@ -129,6 +144,15 @@ When creating charts, usually the first step is to envisage the type of chart th
 - The [cube.js](https://cube.dev/blog/dataviz-ecosystem-2021/) list
 
 ### Line plot
+
+Line plots are excellent for showing temporal changes in data.
+
+Here are all the line plots that we have created:
+
+|<span></span>|<span></span>|<span></span>|
+|---|---|---|
+|<a href="#" target="_blank"><img src="./fonts/eco-font-circular.png" height="25"/></a>|<a href="#" target="_blank"><img src="./fonts/eco-font-circular.png" height="25"/></a>|<a href="#" target="_blank"><img src="./fonts/eco-font-circular.png" height="25"/></a>|
+|
 
 ### Line plot with confidence bands
 
@@ -198,4 +222,4 @@ The coding zens we follow are those of:
 
 ## Make sure you check out the 📐[Data Guidelines ↗](https://github.com/EconomicsObservatory/ECOdataHUB/tree/main/guidelines) too!
 
-Updated on 📆 2021-04-27 by [Dénes Csala](https://csaladen.es)
+Updated on 📆 2021-05-15 by [Dénes Csala](https://csaladen.es)

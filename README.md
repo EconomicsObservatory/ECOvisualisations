@@ -1,4 +1,4 @@
-<div align="left"><img src="https://raw.githubusercontent.com/EconomicsObservatory/economicsobservatory.github.io/main/EO-Log.png" width="800"/></div>
+<div align="left"><img src="https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/guidelines/logos/eco-bg-dark.png" width="800"/></div>
 
 # Economics Observatory Visualisation Repository  
 
