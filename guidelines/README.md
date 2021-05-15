@@ -51,17 +51,17 @@ You will find all the font source files in [this](./fonts) folder.
 
 The two main colors we always use are the logo colors:
 |<div style="color:#F4134D;">ECO dot</div>|`#F4134D`|`rgb(244,19,77)`|
-|---|---|---|
+|:---|:---|:---|
 |<div style="color:#122b39;font-weight:bold;">ECO background</div>|`#122B39`|`rgb(18,43,57)`|
 
 Legacy logo colors that we do not use anymore, but you may still find on some of our older charts:
 |<div style="color:#E54753;">ECO red</div>|`#E54753`|`rgb(229,71,83)`|
-|---|---|---|
+|:---|:---|:---|
 |<div style="color:#243B5A;font-weight:bold;">ECO blue</div>|`#243B5A`|`rgb(36,59,90)`|
 
 On top of this, we try to limit our color palette to the following 9 colors, in this order of preference:
 |<div style="color:#36B7B4;">ECO turquiose</div>|`#36B7B4`|`rgb(54,183,180)`|
-|---|---|---|
+|:---|:---|:---|
 |<div style="color:#E6224B;font-weight:bold;">ECO pink</div>|`#E6224B`|`rgb(230,34,75)`|
 |<div style="color:#F4C245;font-weight:bold;">ECO yellow</div>|`#F4C245`|`rgb(244,194,69)`|
 |<div style="color:#0063AF;font-weight:bold;">ECO mid-blue</div>|`#0063AF`|`rgb(0,99,175)`|
@@ -73,7 +73,7 @@ On top of this, we try to limit our color palette to the following 9 colors, in 
 
 On top of this, we have one service colour:
 |<div style="color:#676A86;">ECO gray</div>|`#676A86`|`rgb(103,106,134)`|
-|---|---|---|
+|:---|:---|:---|
 
 Axes, tick marks, tick labels, grids and axis labels are always drawn in `ECO gray`. Unless encoded to represent a data category, annotations also use `ECO gray`.
 
