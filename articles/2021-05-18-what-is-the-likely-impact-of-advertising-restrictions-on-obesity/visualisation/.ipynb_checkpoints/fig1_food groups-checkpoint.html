@@ -36,6 +36,7 @@
         .groupBy(["parent", "id"])
         .sum("value")
         .color("color")
+//         .shapeConfig({fill:'red',labelConfig:{fill:'fd'}})
          .tooltipConfig({
             body: function(d) {
               var table = "<table class='tooltip-table'>";
