@@ -6,12 +6,18 @@
     <meta charset="utf-8">
     <title>Circle Packing Chart | D3plus</title>
 
-    <script src="https://d3plus.org/js/d3plus-hierarchy.v1.0.full.min.js"></script>
+    <script src="https://d3plus.org/js/d3plus-hierarchy.v0.7.full.min.js"></script>
+    <!-- <script src="https://d3plus.org/js/d3plus-hierarchy.v2.0.full.min.js"></script> -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/d3plus@2"></script> -->
 
     <style>
         body {
             margin: 0;
             overflow: hidden;
+        }
+        
+        .d3plus-Pack .d3plus-Circle-text .d3plus-textBox text:last-child {
+            /* font-size: 12px !important; */
         }
     </style>
 
@@ -20,36 +26,40 @@
 <body>
 
     <script>
-        new d3plus.Pack()
-            // .data("fig1_food groups.json")
-            // .groupBy()
-            // .sum("value")
-            // .color("color")
-            // .tooltipConfig({
-            //     body: function(d) {
-            //         var table = "<table class='tooltip-table'>";
-            //         table += "<tr><td class='title'><b>" + Math.round(d.value * 100) / 100.0 + "</b></td><td class='data'> million £ on TV adverts in 2015</td></tr>";
-            //         table += "</table>";
-            //         return table;
-            //     },
-            //     footer: ''
-            // })
-            // .loadingMessage(false)
-            // .legendPosition('bottom')
-            // .legendConfig({
-            //     labelConfig: {
-            //         font: {
-            //             size: 45
-            //         }
-            //     }
-            // })
+        var viz = new d3plus.Pack()
             .config({
                 data: "fig1_food groups.json",
                 groupBy: ["parent", "id"],
                 color: "color",
-                legendConfig: {
-                    shapeConfig: {}
+                shapeConfig: {
+                    Circle: {
+                        label: function(d) {
+                            // console.log(d)
+                            return (Object.keys(d).indexOf('parent') > -1) ? d.id + ' £' + Math.round(d.value) + 'M' : ''
+                        },
+                        labelConfig: {
+                            fontWeight: 'normal',
+                            fontMin: 1,
+                            fontMax: 148,
+                            // fontSize: function(d) {
+                            //     return d.value / 3
+                            // },
+                            // fontSize: 10,
+                            fontResize: true,
+                            padding: "5 -3 -3 -3"
+                        },
+                    }
                 },
+                legendConfig: {
+                    shapeConfig: {
+                        labelConfig: {
+                            fontSize: 12
+                        },
+
+                    },
+                    padding: 5
+                },
+                detectVisible: false,
                 loadingMessage: false,
                 legendPosition: 'bottom',
                 tooltipConfig: {
@@ -61,6 +71,16 @@
                 },
             })
             .render();
+
+        setTimeout(function() {
+            var texts = document.querySelectorAll('.d3plus-Pack .d3plus-Circle-text .d3plus-textBox')
+            texts.forEach(d => {
+                d.querySelectorAll('text')[d.querySelectorAll('text').length - 1].style.fontSize =
+                    //Math.min(d.querySelector('text').style.fontSize.replace('px', ''), 10);
+                    d.querySelector('text').style.fontSize.replace('px', '') * 0.7
+                    //d.querySelectorAll('text')[d.querySelectorAll('text').length - 1].innerHTML.split(' ').slice(-1)[0].replace('£', '').replace('M', '') / 4
+            });
+        }, 200)
     </script>
 
 </body>
