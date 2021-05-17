@@ -45,7 +45,7 @@
                       return d.id
                   }
                   
-                  console.log(d,i);
+//                   console.log(d,i);
                   return '£'+Math.round(d.value*100)/100.0+'M'
               }
             }
@@ -65,6 +65,7 @@
           })
         .sum("value")
         .color('color')
+        .loadingMessage(false)
         .render();
       
 
