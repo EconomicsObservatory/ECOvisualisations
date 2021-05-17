@@ -21,26 +21,45 @@
 
     <script>
         new d3plus.Pack()
-            .data("fig1_food groups.json")
-            .groupBy(["parent", "id"])
-            .sum("value")
-            .color("color")
-            //         .shapeConfig({fill:'red',labelConfig:{fill:'fd'}})
-            .tooltipConfig({
-                body: function(d) {
-                    var table = "<table class='tooltip-table'>";
-                    table += "<tr><td class='title'><b>" + Math.round(d.value * 100) / 100.0 + "</b></td><td class='data'> million £ on TV adverts in 2015</td></tr>";
-                    table += "</table>";
-                    return table;
+            // .data("fig1_food groups.json")
+            // .groupBy()
+            // .sum("value")
+            // .color("color")
+            // .tooltipConfig({
+            //     body: function(d) {
+            //         var table = "<table class='tooltip-table'>";
+            //         table += "<tr><td class='title'><b>" + Math.round(d.value * 100) / 100.0 + "</b></td><td class='data'> million £ on TV adverts in 2015</td></tr>";
+            //         table += "</table>";
+            //         return table;
+            //     },
+            //     footer: ''
+            // })
+            // .loadingMessage(false)
+            // .legendPosition('bottom')
+            // .legendConfig({
+            //     labelConfig: {
+            //         font: {
+            //             size: 45
+            //         }
+            //     }
+            // })
+            .config({
+                data: "fig1_food groups.json",
+                groupBy: ["parent", "id"],
+                color: "color",
+                legendConfig: {
+                    shapeConfig: {}
                 },
-                footer: '',
-                title: function(d) {
-                    var txt = d.id;
-                    return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();;
-                }
+                loadingMessage: false,
+                legendPosition: 'bottom',
+                tooltipConfig: {
+                    tbody: [
+                        [function(d) {
+                            return Math.round(d.value * 100) / 100.0 + " million £ on TV adverts in 2015"
+                        }]
+                    ]
+                },
             })
-            .loadingMessage(false)
-            .legendPosition('bottom')
             .render();
     </script>
 
