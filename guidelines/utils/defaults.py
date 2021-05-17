@@ -31,3 +31,14 @@ def save_csv_html(df,f,eco_git_path,vega_embed):
     )
     print('GitHub path: ',f1)
     return f
+
+def create_new_cell(contents):
+    from IPython.core.getipython import get_ipython
+
+    shell = get_ipython()
+    payload = dict(
+        source="set_next_input",
+        text=contents,
+        replace=False,
+    )
+    shell.payload_manager.write_payload(payload, single=False)
