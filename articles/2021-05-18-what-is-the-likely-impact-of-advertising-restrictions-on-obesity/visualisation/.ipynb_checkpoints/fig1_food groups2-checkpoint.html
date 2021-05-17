@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+
+  <head>
+
+    <meta charset="utf-8">
+    <title>Circle Packing Chart | D3plus</title>
+
+    <script src="https://d3plus.org/js/d3plus-hierarchy.v1.0.full.min.js"></script>
+
+    <style>
+
+      body {
+        margin: 0;
+        overflow: hidden;
+      }
+
+    </style>
+
+  </head>
+
+  <body>
+
+    <script>
+
+      var data = [
+        {parent: "Group 1", id: "alpha", value: 29},
+        {parent: "Group 1", id: "beta", value: 10},
+        {parent: "Group 1", id: "gamma", value: 2},
+        {parent: "Group 2", id: "delta", value: 29},
+        {parent: "Group 2", id: "eta", value: 25}
+      ];
+        
+      var j=-1;
+
+      new d3plus.Treemap()
+        .data("fig1_food groups.json")
+        .groupBy(["parent", "id"])
+        .shapeConfig({
+            labelConfig: {
+              text:function(d,i){
+                  if (Array.isArray(d.id)) return d.parent
+                  if (i!=j) {
+                    j=i;
+                      return d.id
+                  }
+                  
+                  console.log(d,i);
+                  return Math.round(d.value*100)/100.0
+              }
+            }
+          })
+        .tooltipConfig({
+            body: function(d) {
+              var table = "<table class='tooltip-table'>";
+              table += "<tr><td class='title'><b>"+Math.round(d.value*100)/100.0+"</b></td><td class='data'> million £ on TV adverts in 2015</td></tr>";
+              table += "</table>";
+              return table;
+            },
+            footer: '',
+            title: function(d) {
+              var txt = d.id;
+              return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();;
+            }
+          })
+        .sum("value")
+        .color('color')
+        .render();
+      
+
+    </script>
+
+  </body>
+
+</html>

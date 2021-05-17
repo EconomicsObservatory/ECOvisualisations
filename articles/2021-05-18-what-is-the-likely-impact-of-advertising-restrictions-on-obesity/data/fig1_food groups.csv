@@ -1,0 +1,24 @@
+,parent,id,value,color
+0,High sugar and alcohol,Confectionery,153.177,#F4134D
+1,High sugar and alcohol,Soft Drinks,64.5109,#F4134D
+2,High sugar and alcohol,Alcohol,54.2943,#F4134D
+3,High sugar and alcohol,Desserts,32.0924,#F4134D
+4,High sugar and alcohol,Biscuits,8.8821,#F4134D
+5,High sugar and alcohol,Jams,2.8259,#F4134D
+6,Processed,Prepared Meals,59.7012,#122B39
+7,Processed,Deil and snacks,57.5561,#122B39
+8,Processed,Cereals,49.995,#122B39
+9,Processed,Breads,19.4765,#122B39
+10,Processed,Margarine,17.4346,#122B39
+11,Processed,Baby foods,14.4885,#122B39
+12,Fast food,Fast foods,76.512,#F4C245
+13,Fast food,Restaurants and pubs,16.6426,#F4C245
+14,Home cooking,Dairy,48.5851,#00A767
+15,Home cooking,Coffee and tea,39.6613,#00A767
+16,Home cooking,Butter and cheese,31.9895,#00A767
+17,Home cooking,Meat Poultry and fish,19.9771,#00A767
+18,Home cooking,Ingredients,12.2602,#00A767
+19,Home cooking,Fruit and veg,7.72608,#00A767
+20,Supermarkets,Aldi and Lidl,76.1342,#36B7B4
+21,Supermarkets,Large supermarkets,75.5529,#36B7B4
+22,Supermarkets,Other supermarkets,43.8937,#36B7B4
