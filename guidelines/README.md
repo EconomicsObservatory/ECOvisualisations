@@ -171,6 +171,9 @@ Here are all the line plots that we have created:
 ### Treemap
 
 ### Packed circles
+|<a href="https://economicsobservatory.github.io/ECOvisualisations/articles/2021-05-18-what-is-the-likely-impact-of-advertising-restrictions-on-obesity/visualisation/fig1_food%20groups.html/" target="_blank"><img src="../articles/2021-05-18-what-is-the-likely-impact-of-advertising-restrictions-on-obesity/visualisation/fig1_food%20groups.png" width="300"/></a>|||
+|---|---|---|
+|z|
 
 ### Parallel coordinates
 
