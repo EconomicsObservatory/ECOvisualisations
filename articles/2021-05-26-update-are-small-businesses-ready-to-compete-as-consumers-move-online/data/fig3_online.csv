@@ -1,0 +1,16 @@
+,employees,year,value
+0,1000 or more employees,Order tracking available online,31.2
+1,1000 or more employees,Online ordering or reservation/booking,49.4
+2,1000 or more employees,"Website, own or third party",96.9
+3,250 to 999 employees,Order tracking available online,13.7
+4,250 to 999 employees,Online ordering or reservation/booking,32.8
+5,250 to 999 employees,"Website, own or third party",95.4
+6,50 to 249 employees,Order tracking available online,7.1
+7,50 to 249 employees,Online ordering or reservation/booking,27.8
+8,50 to 249 employees,"Website, own or third party",92.2
+9,10 to 49 employees,Order tracking available online,6.8
+10,10 to 49 employees,Online ordering or reservation/booking,29.4
+11,10 to 49 employees,"Website, own or third party",81.4
+12,0 to 9 employees,Order tracking available online,6.1
+13,0 to 9 employees,Online ordering or reservation/booking,19.3
+14,0 to 9 employees,"Website, own or third party",41.1
