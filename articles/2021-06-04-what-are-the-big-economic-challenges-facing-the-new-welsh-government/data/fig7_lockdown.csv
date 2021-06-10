@@ -1,0 +1,25 @@
+,category,value,figure
+0,lowest,50.0,Earnings decile
+1,2,24.0,Earnings decile
+2,3,22.5,Earnings decile
+3,4,14.63415,Earnings decile
+4,5,8.888889,Earnings decile
+5,6,2.272727,Earnings decile
+6,7,6.382979,Earnings decile
+7,8,9.302325,Earnings decile
+8,9,6.818182,Earnings decile
+9,highest,4.651163,Earnings decile
+0,Under 25,35.9,Age
+1,25-34,19.8,Age
+2,35-44,11.6,Age
+3,45-54,11.5,Age
+4,55-64,10.5,Age
+0,Male,13.7,Gender
+1,Female,17.8,Gender
+0,Bangladeshi,44.3,Ethnicity
+1,Others,24.9,Ethnicity
+2,Black Caribbean,23.5,Ethnicity
+3,Pakistani,17.3,Ethnicity
+4,White British,15.9,Ethnicity
+5,Black African ,7.3,Ethnicity
+6,Indian,4.8,Ethnicity
