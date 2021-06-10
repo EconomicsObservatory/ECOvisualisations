@@ -1,0 +1,61 @@
+,date,index,region,value
+0,2018Q3,Construction,UK,100.9
+1,2018Q3,Construction,Wales,105.4
+2,2018Q3,Market Services,UK,100.4
+3,2018Q3,Market Services,Wales,100.5
+4,2018Q3,Production,UK,100.4
+5,2018Q3,Production,Wales,100.1
+6,2018Q4,Construction,UK,100.5
+7,2018Q4,Construction,Wales,108.3
+8,2018Q4,Market Services,UK,101.0
+9,2018Q4,Market Services,Wales,101.7
+10,2018Q4,Production,UK,99.2
+11,2018Q4,Production,Wales,98.3
+12,2019Q1,Construction,UK,101.8
+13,2019Q1,Construction,Wales,107.4
+14,2019Q1,Market Services,UK,101.8
+15,2019Q1,Market Services,Wales,103.3
+16,2019Q1,Production,UK,100.9
+17,2019Q1,Production,Wales,100.5
+18,2019Q2,Construction,UK,101.6
+19,2019Q2,Construction,Wales,100.3
+20,2019Q2,Market Services,UK,102.1
+21,2019Q2,Market Services,Wales,102.7
+22,2019Q2,Production,UK,99.9
+23,2019Q2,Production,Wales,98.2
+24,2019Q3,Construction,UK,102.1
+25,2019Q3,Construction,Wales,105.6
+26,2019Q3,Market Services,UK,103.4
+27,2019Q3,Market Services,Wales,101.2
+28,2019Q3,Production,UK,99.1
+29,2019Q3,Production,Wales,100.8
+30,2019Q4,Construction,UK,100.5
+31,2019Q4,Construction,Wales,105.0
+32,2019Q4,Market Services,UK,102.1
+33,2019Q4,Market Services,Wales,101.5
+34,2019Q4,Production,UK,97.9
+35,2019Q4,Production,Wales,106.1
+36,2020Q1,Construction,UK,98.3
+37,2020Q1,Construction,Wales,106.2
+38,2020Q1,Market Services,UK,99.6
+39,2020Q1,Market Services,Wales,97.9
+40,2020Q1,Production,UK,95.9
+41,2020Q1,Production,Wales,95.0
+42,2020Q2,Construction,UK,65.2
+43,2020Q2,Construction,Wales,68.6
+44,2020Q2,Market Services,UK,81.8
+45,2020Q2,Market Services,Wales,83.5
+46,2020Q2,Production,UK,80.1
+47,2020Q2,Production,Wales,82.7
+48,2020Q3,Construction,UK,92.1
+49,2020Q3,Construction,Wales,96.4
+50,2020Q3,Market Services,UK,94.3
+51,2020Q3,Market Services,Wales,96.1
+52,2020Q3,Production,UK,92.9
+53,2020Q3,Production,Wales,96.5
+54,2020Q4,Construction,UK,94.6
+55,2020Q4,Construction,Wales,104.7
+56,2020Q4,Market Services,UK,93.8
+57,2020Q4,Market Services,Wales,97.0
+58,2020Q4,Production,UK,94.8
+59,2020Q4,Production,Wales,97.1
