@@ -107,11 +107,24 @@ If you are not an alien 👽 who can read hex codes natively, we prefer the [HSL
 
 ### Opacity
 
-If any chart needs custom colour opacity levels, the preferred way is to use the `rgba` codes from the color table, with an `alpha` value between `0.3` and `0.9`. The default opacity for area chats is `0.9`. If possible, area charts will carry an opacity gradient between `0` and `0.9`, from base to peak.
+If any chart needs custom colour opacity levels, the preferred way is to use the `rgba` codes from the color table, with an `alpha` value between `0.3` and `0.9`. 
+
+- The default opacity for _bar charts_ is `0.8`. 
+- The default opacity for _area charts_ is `0.8`. If possible, area charts will carry an opacity gradient between `0` and `0.9`, from base to peak, with a gradient angle of ~60-70 degrees.
 
 ### Line style
 
 Our preferred `line-style` is always `solid ▬ 2px`. Secondary lines are shown in `solid — 1px`, tertiary lines are shown in `dashed -- 1px`, while quaternary lines are `dotted ··· 1px`. It is always desirable to change the `color` attribute first to differentiate between nominal data categories, before turning to changing the `line-style`, unless otherwise defined by the visualisation conditions (e.g. monochrome chart).
+
+### Defaults
+
+#### UK countries
+
+|England|<div style="color:#5C267B;font-weight:bold;">ECO purple</div>|`#5C267B`|`rgb(92,38,123)`|
+|:---|:---|:---|:---|
+|Wales|<div style="color:#E6224B;font-weight:bold;">ECO pink</div>|`#E6224B`|`rgb(230,34,75)`|
+|Scotland|<div style="color:#0063AF;font-weight:bold;">ECO mid-blue</div>|`#0063AF`|`rgb(0,99,175)`|
+|Northern Ireland|<div style="color:#00A767;font-weight:bold;">ECO green</div>|`#00A767`|`rgb(0,167,103)`|
 
 ## 🌌 Charting guidelines
 
