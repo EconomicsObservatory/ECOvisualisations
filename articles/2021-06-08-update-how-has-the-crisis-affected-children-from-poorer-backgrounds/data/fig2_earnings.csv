@@ -1,0 +1,7 @@
+,sex,Labour market shock category,Share with college degree,Standard Error (Share with college degree) ,95% CI upper bound,95% CI lower bound,c1
+0,Mothers,Zero earnings,0.35684624,0.039922409,0.43509418,0.27859831,0.15649586999999998
+1,Fathers,Zero earnings,0.3068963,0.038169678,0.38170886,0.23208372,0.14962514
+2,Mothers,Reduced earnings,0.37818155,0.023775809,0.42478213,0.33158097,0.09320116
+3,Fathers,Reduced earnings,0.45202252,0.026679136,0.50431365,0.39973143,0.10458221999999995
+4,Mothers,Same or higher earnings,0.51205945,0.012770687,0.53709,0.4870289,0.05006109999999997
+5,Fathers,Same or higher earnings,0.47334519,0.015687266,0.50409222,0.44259813,0.06149409
