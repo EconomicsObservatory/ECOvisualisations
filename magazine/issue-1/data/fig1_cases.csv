@@ -1,205 +1,336 @@
-,dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterritoryCode,popData2020,continentExp,date
-918,10/06/2021,10,6,2021,5557,65,France,FR,FRA,67320216,Europe,2021-06-10
-919,09/06/2021,9,6,2021,6018,75,France,FR,FRA,67320216,Europe,2021-06-09
-920,08/06/2021,8,6,2021,1164,64,France,FR,FRA,67320216,Europe,2021-06-08
-921,07/06/2021,7,6,2021,5070,25,France,FR,FRA,67320216,Europe,2021-06-07
-922,06/06/2021,6,6,2021,6654,57,France,FR,FRA,67320216,Europe,2021-06-06
-923,05/06/2021,5,6,2021,6953,88,France,FR,FRA,67320216,Europe,2021-06-05
-924,04/06/2021,4,6,2021,8161,70,France,FR,FRA,67320216,Europe,2021-06-04
-925,03/06/2021,3,6,2021,8743,96,France,FR,FRA,67320216,Europe,2021-06-03
-926,02/06/2021,2,6,2021,9848,134,France,FR,FRA,67320216,Europe,2021-06-02
-927,01/06/2021,1,6,2021,1211,126,France,FR,FRA,67320216,Europe,2021-06-01
-928,31/05/2021,31,5,2021,8541,44,France,FR,FRA,67320216,Europe,2021-05-31
-929,30/05/2021,30,5,2021,10675,68,France,FR,FRA,67320216,Europe,2021-05-30
-930,29/05/2021,29,5,2021,11268,125,France,FR,FRA,67320216,Europe,2021-05-29
-931,28/05/2021,28,5,2021,13933,142,France,FR,FRA,67320216,Europe,2021-05-28
-932,27/05/2021,27,5,2021,12646,144,France,FR,FRA,67320216,Europe,2021-05-27
-933,26/05/2021,26,5,2021,3155,221,France,FR,FRA,67320216,Europe,2021-05-26
-934,25/05/2021,25,5,2021,2229,62,France,FR,FRA,67320216,Europe,2021-05-25
-935,24/05/2021,24,5,2021,9704,70,France,FR,FRA,67320216,Europe,2021-05-24
-936,23/05/2021,23,5,2021,12611,89,France,FR,FRA,67320216,Europe,2021-05-23
-937,22/05/2021,22,5,2021,12800,123,France,FR,FRA,67320216,Europe,2021-05-22
-938,21/05/2021,21,5,2021,-348846,133,France,FR,FRA,67320216,Europe,2021-05-21
-939,20/05/2021,20,5,2021,19050,141,France,FR,FRA,67320216,Europe,2021-05-20
-940,19/05/2021,19,5,2021,17210,228,France,FR,FRA,67320216,Europe,2021-05-19
-941,18/05/2021,18,5,2021,3350,196,France,FR,FRA,67320216,Europe,2021-05-18
-942,17/05/2021,17,5,2021,13948,81,France,FR,FRA,67320216,Europe,2021-05-17
-943,16/05/2021,16,5,2021,15685,112,France,FR,FRA,67320216,Europe,2021-05-16
-944,15/05/2021,15,5,2021,7025,173,France,FR,FRA,67320216,Europe,2021-05-15
-945,14/05/2021,14,5,2021,19461,131,France,FR,FRA,67320216,Europe,2021-05-14
-946,13/05/2021,13,5,2021,21498,184,France,FR,FRA,67320216,Europe,2021-05-13
-947,12/05/2021,12,5,2021,19791,251,France,FR,FRA,67320216,Europe,2021-05-12
-948,11/05/2021,11,5,2021,3292,292,France,FR,FRA,67320216,Europe,2021-05-11
-949,10/05/2021,10,5,2021,9128,115,France,FR,FRA,67320216,Europe,2021-05-10
-950,09/05/2021,9,5,2021,20745,176,France,FR,FRA,67320216,Europe,2021-05-09
-951,08/05/2021,8,5,2021,19124,251,France,FR,FRA,67320216,Europe,2021-05-08
-952,07/05/2021,7,5,2021,21712,219,France,FR,FRA,67320216,Europe,2021-05-07
-953,06/05/2021,6,5,2021,26000,244,France,FR,FRA,67320216,Europe,2021-05-06
-954,05/05/2021,5,5,2021,24371,257,France,FR,FRA,67320216,Europe,2021-05-05
-955,04/05/2021,4,5,2021,3760,311,France,FR,FRA,67320216,Europe,2021-05-04
-956,03/05/2021,3,5,2021,9888,113,France,FR,FRA,67320216,Europe,2021-05-03
-957,02/05/2021,2,5,2021,25670,192,France,FR,FRA,67320216,Europe,2021-05-02
-958,01/05/2021,1,5,2021,24299,290,France,FR,FRA,67320216,Europe,2021-05-01
-959,30/04/2021,30,4,2021,26538,306,France,FR,FRA,67320216,Europe,2021-04-30
-960,29/04/2021,29,4,2021,31539,315,France,FR,FRA,67320216,Europe,2021-04-29
-961,28/04/2021,28,4,2021,30317,347,France,FR,FRA,67320216,Europe,2021-04-28
-962,27/04/2021,27,4,2021,5952,398,France,FR,FRA,67320216,Europe,2021-04-27
-963,26/04/2021,26,4,2021,24465,145,France,FR,FRA,67320216,Europe,2021-04-26
-964,25/04/2021,25,4,2021,32633,217,France,FR,FRA,67320216,Europe,2021-04-25
-965,24/04/2021,24,4,2021,32340,332,France,FR,FRA,67320216,Europe,2021-04-24
-966,23/04/2021,23,4,2021,34318,283,France,FR,FRA,67320216,Europe,2021-04-23
-967,22/04/2021,22,4,2021,34368,313,France,FR,FRA,67320216,Europe,2021-04-22
-968,21/04/2021,21,4,2021,43698,388,France,FR,FRA,67320216,Europe,2021-04-21
-969,20/04/2021,20,4,2021,6696,447,France,FR,FRA,67320216,Europe,2021-04-20
-970,19/04/2021,19,4,2021,29344,140,France,FR,FRA,67320216,Europe,2021-04-19
-971,18/04/2021,18,4,2021,35861,189,France,FR,FRA,67320216,Europe,2021-04-18
-972,17/04/2021,17,4,2021,36442,331,France,FR,FRA,67320216,Europe,2021-04-17
-973,16/04/2021,16,4,2021,38045,297,France,FR,FRA,67320216,Europe,2021-04-16
-974,15/04/2021,15,4,2021,43505,297,France,FR,FRA,67320216,Europe,2021-04-15
-975,14/04/2021,14,4,2021,39113,345,France,FR,FRA,67320216,Europe,2021-04-14
-976,13/04/2021,13,4,2021,8536,385,France,FR,FRA,67320216,Europe,2021-04-13
-977,12/04/2021,12,4,2021,34895,176,France,FR,FRA,67320216,Europe,2021-04-12
-978,11/04/2021,11,4,2021,43284,207,France,FR,FRA,67320216,Europe,2021-04-11
-979,10/04/2021,10,4,2021,41243,330,France,FR,FRA,67320216,Europe,2021-04-10
-980,09/04/2021,9,4,2021,84999,343,France,FR,FRA,67320216,Europe,2021-04-09
-981,08/04/2021,8,4,2021,12951,421,France,FR,FRA,67320216,Europe,2021-04-08
-982,07/04/2021,7,4,2021,8045,426,France,FR,FRA,67320216,Europe,2021-04-07
-983,06/04/2021,6,4,2021,10793,197,France,FR,FRA,67320216,Europe,2021-04-06
-984,05/04/2021,5,4,2021,60922,185,France,FR,FRA,67320216,Europe,2021-04-05
-985,04/04/2021,4,4,2021,19789,185,France,FR,FRA,67320216,Europe,2021-04-04
-986,03/04/2021,3,4,2021,46677,332,France,FR,FRA,67320216,Europe,2021-04-03
-987,02/04/2021,2,4,2021,50659,309,France,FR,FRA,67320216,Europe,2021-04-02
-988,01/04/2021,1,4,2021,59038,303,France,FR,FRA,67320216,Europe,2021-04-01
-989,31/03/2021,31,3,2021,30702,381,France,FR,FRA,67320216,Europe,2021-03-31
-990,30/03/2021,30,3,2021,9094,360,France,FR,FRA,67320216,Europe,2021-03-30
-991,29/03/2021,29,3,2021,37014,131,France,FR,FRA,67320216,Europe,2021-03-29
-992,28/03/2021,28,3,2021,42619,190,France,FR,FRA,67320216,Europe,2021-03-28
-993,27/03/2021,27,3,2021,41869,897,France,FR,FRA,67320216,Europe,2021-03-27
-994,26/03/2021,26,3,2021,45641,225,France,FR,FRA,67320216,Europe,2021-03-26
-995,25/03/2021,25,3,2021,65373,245,France,FR,FRA,67320216,Europe,2021-03-25
-996,24/03/2021,24,3,2021,14678,287,France,FR,FRA,67320216,Europe,2021-03-24
-997,23/03/2021,23,3,2021,15792,343,France,FR,FRA,67320216,Europe,2021-03-23
-998,22/03/2021,22,3,2021,30581,138,France,FR,FRA,67320216,Europe,2021-03-22
-999,21/03/2021,21,3,2021,35327,185,France,FR,FRA,67320216,Europe,2021-03-21
-1000,20/03/2021,20,3,2021,35088,276,France,FR,FRA,67320216,Europe,2021-03-20
-1001,19/03/2021,19,3,2021,34998,269,France,FR,FRA,67320216,Europe,2021-03-19
-1002,18/03/2021,18,3,2021,38501,241,France,FR,FRA,67320216,Europe,2021-03-18
-1003,17/03/2021,17,3,2021,29975,408,France,FR,FRA,67320216,Europe,2021-03-17
-1004,16/03/2021,16,3,2021,6471,333,France,FR,FRA,67320216,Europe,2021-03-16
-1005,15/03/2021,15,3,2021,26343,140,France,FR,FRA,67320216,Europe,2021-03-15
-1006,14/03/2021,14,3,2021,29759,169,France,FR,FRA,67320216,Europe,2021-03-14
-1007,13/03/2021,13,3,2021,25229,290,France,FR,FRA,67320216,Europe,2021-03-13
-1008,12/03/2021,12,3,2021,27166,265,France,FR,FRA,67320216,Europe,2021-03-12
-1009,11/03/2021,11,3,2021,30303,264,France,FR,FRA,67320216,Europe,2021-03-11
-1010,10/03/2021,10,3,2021,23302,368,France,FR,FRA,67320216,Europe,2021-03-10
-1011,09/03/2021,9,3,2021,5327,359,France,FR,FRA,67320216,Europe,2021-03-09
-1012,08/03/2021,8,3,2021,21825,130,France,FR,FRA,67320216,Europe,2021-03-08
-1013,07/03/2021,7,3,2021,23306,170,France,FR,FRA,67320216,Europe,2021-03-07
-1014,06/03/2021,6,3,2021,23507,439,France,FR,FRA,67320216,Europe,2021-03-06
-1015,05/03/2021,5,3,2021,25279,293,France,FR,FRA,67320216,Europe,2021-03-05
-1016,04/03/2021,4,3,2021,26788,322,France,FR,FRA,67320216,Europe,2021-03-04
-1017,03/03/2021,3,3,2021,22857,417,France,FR,FRA,67320216,Europe,2021-03-03
-1018,02/03/2021,2,3,2021,4703,375,France,FR,FRA,67320216,Europe,2021-03-02
-1019,01/03/2021,1,3,2021,3755968,86454,France,FR,FRA,67320216,Europe,2021-03-01
-1020,10/06/2021,10,6,2021,3187,94,Germany,DE,DEU,83166711,Europe,2021-06-10
-1021,09/06/2021,9,6,2021,3254,107,Germany,DE,DEU,83166711,Europe,2021-06-09
-1022,08/06/2021,8,6,2021,1204,140,Germany,DE,DEU,83166711,Europe,2021-06-08
-1023,07/06/2021,7,6,2021,1117,22,Germany,DE,DEU,83166711,Europe,2021-06-07
-1024,06/06/2021,6,6,2021,2440,73,Germany,DE,DEU,83166711,Europe,2021-06-06
-1025,05/06/2021,5,6,2021,2294,123,Germany,DE,DEU,83166711,Europe,2021-06-05
-1026,04/06/2021,4,6,2021,3165,86,Germany,DE,DEU,83166711,Europe,2021-06-04
-1027,03/06/2021,3,6,2021,4640,166,Germany,DE,DEU,83166711,Europe,2021-06-03
-1028,02/06/2021,2,6,2021,4917,179,Germany,DE,DEU,83166711,Europe,2021-06-02
-1029,01/06/2021,1,6,2021,1785,153,Germany,DE,DEU,83166711,Europe,2021-06-01
-1030,31/05/2021,31,5,2021,1978,36,Germany,DE,DEU,83166711,Europe,2021-05-31
-1031,30/05/2021,30,5,2021,3852,56,Germany,DE,DEU,83166711,Europe,2021-05-30
-1032,29/05/2021,29,5,2021,5426,163,Germany,DE,DEU,83166711,Europe,2021-05-29
-1033,28/05/2021,28,5,2021,7380,192,Germany,DE,DEU,83166711,Europe,2021-05-28
-1034,27/05/2021,27,5,2021,6313,269,Germany,DE,DEU,83166711,Europe,2021-05-27
-1035,26/05/2021,26,5,2021,2626,270,Germany,DE,DEU,83166711,Europe,2021-05-26
-1036,25/05/2021,25,5,2021,1911,33,Germany,DE,DEU,83166711,Europe,2021-05-25
-1037,24/05/2021,24,5,2021,2682,43,Germany,DE,DEU,83166711,Europe,2021-05-24
-1038,23/05/2021,23,5,2021,6714,82,Germany,DE,DEU,83166711,Europe,2021-05-23
-1039,22/05/2021,22,5,2021,7082,170,Germany,DE,DEU,83166711,Europe,2021-05-22
-1040,21/05/2021,21,5,2021,8769,226,Germany,DE,DEU,83166711,Europe,2021-05-21
-1041,20/05/2021,20,5,2021,12298,237,Germany,DE,DEU,83166711,Europe,2021-05-20
-1042,19/05/2021,19,5,2021,11040,284,Germany,DE,DEU,83166711,Europe,2021-05-19
-1043,18/05/2021,18,5,2021,4209,221,Germany,DE,DEU,83166711,Europe,2021-05-18
-1044,17/05/2021,17,5,2021,5412,64,Germany,DE,DEU,83166711,Europe,2021-05-17
-1045,16/05/2021,16,5,2021,8500,71,Germany,DE,DEU,83166711,Europe,2021-05-16
-1046,15/05/2021,15,5,2021,7894,177,Germany,DE,DEU,83166711,Europe,2021-05-15
-1047,14/05/2021,14,5,2021,11336,190,Germany,DE,DEU,83166711,Europe,2021-05-14
-1048,13/05/2021,13,5,2021,17419,278,Germany,DE,DEU,83166711,Europe,2021-05-13
-1049,12/05/2021,12,5,2021,14909,268,Germany,DE,DEU,83166711,Europe,2021-05-12
-1050,11/05/2021,11,5,2021,6125,283,Germany,DE,DEU,83166711,Europe,2021-05-11
-1051,10/05/2021,10,5,2021,6922,54,Germany,DE,DEU,83166711,Europe,2021-05-10
-1052,09/05/2021,9,5,2021,12656,127,Germany,DE,DEU,83166711,Europe,2021-05-09
-1053,08/05/2021,8,5,2021,15685,238,Germany,DE,DEU,83166711,Europe,2021-05-08
-1054,07/05/2021,7,5,2021,18485,284,Germany,DE,DEU,83166711,Europe,2021-05-07
-1055,06/05/2021,6,5,2021,21953,250,Germany,DE,DEU,83166711,Europe,2021-05-06
-1056,05/05/2021,5,5,2021,18034,285,Germany,DE,DEU,83166711,Europe,2021-05-05
-1057,04/05/2021,4,5,2021,7534,315,Germany,DE,DEU,83166711,Europe,2021-05-04
-1058,03/05/2021,3,5,2021,9160,84,Germany,DE,DEU,83166711,Europe,2021-05-03
-1059,02/05/2021,2,5,2021,16290,110,Germany,DE,DEU,83166711,Europe,2021-05-02
-1060,01/05/2021,1,5,2021,18935,232,Germany,DE,DEU,83166711,Europe,2021-05-01
-1061,30/04/2021,30,4,2021,24329,306,Germany,DE,DEU,83166711,Europe,2021-04-30
-1062,29/04/2021,29,4,2021,24736,264,Germany,DE,DEU,83166711,Europe,2021-04-29
-1063,28/04/2021,28,4,2021,22231,312,Germany,DE,DEU,83166711,Europe,2021-04-28
-1064,27/04/2021,27,4,2021,10976,344,Germany,DE,DEU,83166711,Europe,2021-04-27
-1065,26/04/2021,26,4,2021,11907,60,Germany,DE,DEU,83166711,Europe,2021-04-26
-1066,25/04/2021,25,4,2021,18773,120,Germany,DE,DEU,83166711,Europe,2021-04-25
-1067,24/04/2021,24,4,2021,23392,286,Germany,DE,DEU,83166711,Europe,2021-04-24
-1068,23/04/2021,23,4,2021,27543,265,Germany,DE,DEU,83166711,Europe,2021-04-23
-1069,22/04/2021,22,4,2021,29518,259,Germany,DE,DEU,83166711,Europe,2021-04-22
-1070,21/04/2021,21,4,2021,24884,331,Germany,DE,DEU,83166711,Europe,2021-04-21
-1071,20/04/2021,20,4,2021,9609,297,Germany,DE,DEU,83166711,Europe,2021-04-20
-1072,19/04/2021,19,4,2021,11437,92,Germany,DE,DEU,83166711,Europe,2021-04-19
-1073,18/04/2021,18,4,2021,19185,67,Germany,DE,DEU,83166711,Europe,2021-04-18
-1074,17/04/2021,17,4,2021,23804,219,Germany,DE,DEU,83166711,Europe,2021-04-17
-1075,16/04/2021,16,4,2021,25831,247,Germany,DE,DEU,83166711,Europe,2021-04-16
-1076,15/04/2021,15,4,2021,29426,293,Germany,DE,DEU,83166711,Europe,2021-04-15
-1077,14/04/2021,14,4,2021,21693,342,Germany,DE,DEU,83166711,Europe,2021-04-14
-1078,13/04/2021,13,4,2021,10810,294,Germany,DE,DEU,83166711,Europe,2021-04-13
-1079,12/04/2021,12,4,2021,13245,99,Germany,DE,DEU,83166711,Europe,2021-04-12
-1080,11/04/2021,11,4,2021,17855,104,Germany,DE,DEU,83166711,Europe,2021-04-11
-1081,10/04/2021,10,4,2021,24097,246,Germany,DE,DEU,83166711,Europe,2021-04-10
-1082,09/04/2021,9,4,2021,25464,296,Germany,DE,DEU,83166711,Europe,2021-04-09
-1083,08/04/2021,8,4,2021,20407,306,Germany,DE,DEU,83166711,Europe,2021-04-08
-1084,07/04/2021,7,4,2021,9677,298,Germany,DE,DEU,83166711,Europe,2021-04-07
-1085,06/04/2021,6,4,2021,6885,90,Germany,DE,DEU,83166711,Europe,2021-04-06
-1086,05/04/2021,5,4,2021,8497,50,Germany,DE,DEU,83166711,Europe,2021-04-05
-1087,04/04/2021,4,4,2021,12196,68,Germany,DE,DEU,83166711,Europe,2021-04-04
-1088,03/04/2021,3,4,2021,18129,120,Germany,DE,DEU,83166711,Europe,2021-04-03
-1089,02/04/2021,2,4,2021,21888,232,Germany,DE,DEU,83166711,Europe,2021-04-02
-1090,01/04/2021,1,4,2021,24300,201,Germany,DE,DEU,83166711,Europe,2021-04-01
-1091,31/03/2021,31,3,2021,17051,249,Germany,DE,DEU,83166711,Europe,2021-03-31
-1092,30/03/2021,30,3,2021,9549,180,Germany,DE,DEU,83166711,Europe,2021-03-30
-1093,29/03/2021,29,3,2021,9872,43,Germany,DE,DEU,83166711,Europe,2021-03-29
-1094,28/03/2021,28,3,2021,17176,90,Germany,DE,DEU,83166711,Europe,2021-03-28
-1095,27/03/2021,27,3,2021,20472,157,Germany,DE,DEU,83166711,Europe,2021-03-27
-1096,26/03/2021,26,3,2021,21573,183,Germany,DE,DEU,83166711,Europe,2021-03-26
-1097,25/03/2021,25,3,2021,22657,228,Germany,DE,DEU,83166711,Europe,2021-03-25
-1098,24/03/2021,24,3,2021,15813,248,Germany,DE,DEU,83166711,Europe,2021-03-24
-1099,23/03/2021,23,3,2021,7485,250,Germany,DE,DEU,83166711,Europe,2021-03-23
-1100,22/03/2021,22,3,2021,7709,50,Germany,DE,DEU,83166711,Europe,2021-03-22
-1101,21/03/2021,21,3,2021,13733,99,Germany,DE,DEU,83166711,Europe,2021-03-21
-1102,20/03/2021,20,3,2021,16033,207,Germany,DE,DEU,83166711,Europe,2021-03-20
-1103,19/03/2021,19,3,2021,17482,226,Germany,DE,DEU,83166711,Europe,2021-03-19
-1104,18/03/2021,18,3,2021,17504,227,Germany,DE,DEU,83166711,Europe,2021-03-18
-1105,17/03/2021,17,3,2021,13435,249,Germany,DE,DEU,83166711,Europe,2021-03-17
-1106,16/03/2021,16,3,2021,5480,238,Germany,DE,DEU,83166711,Europe,2021-03-16
-1107,15/03/2021,15,3,2021,6604,47,Germany,DE,DEU,83166711,Europe,2021-03-15
-1108,14/03/2021,14,3,2021,10790,70,Germany,DE,DEU,83166711,Europe,2021-03-14
-1109,13/03/2021,13,3,2021,12674,239,Germany,DE,DEU,83166711,Europe,2021-03-13
-1110,12/03/2021,12,3,2021,12834,252,Germany,DE,DEU,83166711,Europe,2021-03-12
-1111,11/03/2021,11,3,2021,14356,321,Germany,DE,DEU,83166711,Europe,2021-03-11
-1112,10/03/2021,10,3,2021,9146,300,Germany,DE,DEU,83166711,Europe,2021-03-10
-1113,09/03/2021,9,3,2021,4252,255,Germany,DE,DEU,83166711,Europe,2021-03-09
-1114,08/03/2021,8,3,2021,5011,34,Germany,DE,DEU,83166711,Europe,2021-03-08
-1115,07/03/2021,7,3,2021,8103,96,Germany,DE,DEU,83166711,Europe,2021-03-07
-1116,06/03/2021,6,3,2021,9557,300,Germany,DE,DEU,83166711,Europe,2021-03-06
-1117,05/03/2021,5,3,2021,10580,264,Germany,DE,DEU,83166711,Europe,2021-03-05
-1118,04/03/2021,4,3,2021,11912,359,Germany,DE,DEU,83166711,Europe,2021-03-04
-1119,03/03/2021,3,3,2021,9019,418,Germany,DE,DEU,83166711,Europe,2021-03-03
-1120,02/03/2021,2,3,2021,3943,358,Germany,DE,DEU,83166711,Europe,2021-03-02
-1121,01/03/2021,1,3,2021,2447068,70105,Germany,DE,DEU,83166711,Europe,2021-03-01
+,country,country_code,continent,population,indicator,weekly_count,year_week,rate_14_day,cumulative_count,source,date
+527,America (total),,America,1021703563,cases,0,2020-02,0.0,0,"Epidemic intelligence, national weekly data",2020-01-11
+10291,India,IND,Asia,1380004385,cases,0,2020-02,0.0,0,"Epidemic intelligence, national weekly data",2020-01-11
+8503,Germany,DEU,Europe,83166711,cases,0,2020-02,0.0,0,"Epidemic intelligence, national weekly data",2020-01-11
+8001,France,FRA,Europe,67320216,cases,0,2020-02,0.0,0,"Epidemic intelligence, national weekly data",2020-01-11
+22433,United Kingdom,GBR,Europe,68059863,cases,0,2020-02,0.0,0,"Epidemic intelligence, national weekly data",2020-01-11
+528,America (total),,America,1021703563,cases,1,2020-03,9.7875745e-05,1,"Epidemic intelligence, national weekly data",2020-01-18
+8504,Germany,DEU,Europe,83166711,cases,0,2020-03,0.0,0,"Epidemic intelligence, national weekly data",2020-01-18
+10292,India,IND,Asia,1380004385,cases,0,2020-03,0.0,0,"Epidemic intelligence, national weekly data",2020-01-18
+22434,United Kingdom,GBR,Europe,68059863,cases,0,2020-03,0.0,0,"Epidemic intelligence, national weekly data",2020-01-18
+8002,France,FRA,Europe,67320216,cases,0,2020-03,0.0,0,"Epidemic intelligence, national weekly data",2020-01-18
+22435,United Kingdom,GBR,Europe,68059863,cases,0,2020-04,0.0,0,"Epidemic intelligence, national weekly data",2020-01-25
+8003,France,FRA,Europe,67320216,cases,3,2020-04,0.0044563138,3,"Epidemic intelligence, national weekly data",2020-01-25
+10293,India,IND,Asia,1380004385,cases,0,2020-04,0.0,0,"Epidemic intelligence, national weekly data",2020-01-25
+529,America (total),,America,1021703563,cases,6,2020-04,0.00068513025,7,"Epidemic intelligence, national weekly data",2020-01-25
+8505,Germany,DEU,Europe,83166711,cases,0,2020-04,0.0,0,"Epidemic intelligence, national weekly data",2020-01-25
+8506,Germany,DEU,Europe,83166711,cases,9,2020-05,0.010821638,9,"Epidemic intelligence, national weekly data",2020-02-01
+22436,United Kingdom,GBR,Europe,68059863,cases,2,2020-05,0.0029385895,2,"Epidemic intelligence, national weekly data",2020-02-01
+10294,India,IND,Asia,1380004385,cases,2,2020-05,0.00014492708,2,"Epidemic intelligence, national weekly data",2020-02-01
+8004,France,FRA,Europe,67320216,cases,3,2020-05,0.0089126276,6,"Epidemic intelligence, national weekly data",2020-02-01
+530,America (total),,America,1021703563,cases,10,2020-05,0.0015660119,17,"Epidemic intelligence, national weekly data",2020-02-01
+8507,Germany,DEU,Europe,83166711,cases,4,2020-06,0.015631255,13,"Epidemic intelligence, national weekly data",2020-02-08
+22437,United Kingdom,GBR,Europe,68059863,cases,6,2020-06,0.011754358,8,"Epidemic intelligence, national weekly data",2020-02-08
+8005,France,FRA,Europe,67320216,cases,5,2020-06,0.011883503,11,"Epidemic intelligence, national weekly data",2020-02-08
+531,America (total),,America,1021703563,cases,4,2020-06,0.0013702605,21,"Epidemic intelligence, national weekly data",2020-02-08
+10295,India,IND,Asia,1380004385,cases,1,2020-06,0.00021739061,3,"Epidemic intelligence, national weekly data",2020-02-08
+10296,India,IND,Asia,1380004385,cases,0,2020-07,7.2463539e-05,3,"Epidemic intelligence, national weekly data",2020-02-15
+8508,Germany,DEU,Europe,83166711,cases,2,2020-07,0.0072144251,15,"Epidemic intelligence, national weekly data",2020-02-15
+22438,United Kingdom,GBR,Europe,68059863,cases,2,2020-07,0.011754358,10,"Epidemic intelligence, national weekly data",2020-02-15
+8006,France,FRA,Europe,67320216,cases,1,2020-07,0.0089126276,12,"Epidemic intelligence, national weekly data",2020-02-15
+532,America (total),,America,1021703563,cases,5,2020-07,0.00088088174,26,"Epidemic intelligence, national weekly data",2020-02-15
+8007,France,FRA,Europe,67320216,cases,0,2020-08,0.0014854379,12,"Epidemic intelligence, national weekly data",2020-02-22
+22439,United Kingdom,GBR,Europe,68059863,cases,1,2020-08,0.0044078841,11,"Epidemic intelligence, national weekly data",2020-02-22
+10297,India,IND,Asia,1380004385,cases,0,2020-08,0.0,3,"Epidemic intelligence, national weekly data",2020-02-22
+533,America (total),,America,1021703563,cases,22,2020-08,0.0026426453,48,"Epidemic intelligence, national weekly data",2020-02-22
+8509,Germany,DEU,Europe,83166711,cases,0,2020-08,0.0024048083,15,"Epidemic intelligence, national weekly data",2020-02-22
+8510,Germany,DEU,Europe,83166711,cases,114,2020-09,0.13707407,129,"Epidemic intelligence, national weekly data",2020-02-29
+534,America (total),,America,1021703563,cases,89,2020-09,0.010864208,137,"Epidemic intelligence, national weekly data",2020-02-29
+22440,United Kingdom,GBR,Europe,68059863,cases,36,2020-09,0.054363906,47,"Epidemic intelligence, national weekly data",2020-02-29
+8008,France,FRA,Europe,67320216,cases,118,2020-09,0.17528167,130,"Epidemic intelligence, national weekly data",2020-02-29
+10298,India,IND,Asia,1380004385,cases,0,2020-09,0.0,3,"Epidemic intelligence, national weekly data",2020-02-29
+22441,United Kingdom,GBR,Europe,68059863,cases,365,2020-10,0.5891872,412,"Epidemic intelligence, national weekly data",2020-03-07
+10299,India,IND,Asia,1380004385,cases,31,2020-10,0.0022463696,34,"Epidemic intelligence, national weekly data",2020-03-07
+535,America (total),,America,1021703563,cases,583,2020-10,0.065772504,720,"Epidemic intelligence, national weekly data",2020-03-07
+8009,France,FRA,Europe,67320216,cases,996,2020-10,1.6547778,1126,"Epidemic intelligence, national weekly data",2020-03-07
+8511,Germany,DEU,Europe,83166711,cases,773,2020-10,1.0665325,902,"Epidemic intelligence, national weekly data",2020-03-07
+536,America (total),,America,1021703563,cases,4235,2020-11,0.47156537,4955,"Epidemic intelligence, national weekly data",2020-03-14
+10300,India,IND,Asia,1380004385,cases,59,2020-11,0.0065217186,93,"Epidemic intelligence, national weekly data",2020-03-14
+22442,United Kingdom,GBR,Europe,68059863,cases,2193,2020-11,3.758456,2605,"Epidemic intelligence, national weekly data",2020-03-14
+8512,Germany,DEU,Europe,83166711,cases,3936,2020-11,5.6621213,4838,"Epidemic intelligence, national weekly data",2020-03-14
+8010,France,FRA,Europe,67320216,cases,4297,2020-11,7.8624229,5423,"Epidemic intelligence, national weekly data",2020-03-14
+22443,United Kingdom,GBR,Europe,68059863,cases,6329,2020-12,12.52133,8934,"Epidemic intelligence, national weekly data",2020-03-21
+10301,India,IND,Asia,1380004385,cases,346,2020-12,0.029347733,439,"Epidemic intelligence, national weekly data",2020-03-21
+8011,France,FRA,Europe,67320216,cases,10595,2020-12,22.121141,16018,"Epidemic intelligence, national weekly data",2020-03-21
+8513,Germany,DEU,Europe,83166711,cases,19936,2020-12,28.703793,24774,"Epidemic intelligence, national weekly data",2020-03-21
+537,America (total),,America,1021703563,cases,37508,2020-12,4.0856276,42463,"Epidemic intelligence, national weekly data",2020-03-21
+22444,United Kingdom,GBR,Europe,68059863,cases,17889,2020-13,35.583382,26823,"Epidemic intelligence, national weekly data",2020-03-28
+10302,India,IND,Asia,1380004385,cases,632,2020-13,0.070869341,1071,"Epidemic intelligence, national weekly data",2020-03-28
+8514,Germany,DEU,Europe,83166711,cases,32524,2020-13,63.078121,57298,"Epidemic intelligence, national weekly data",2020-03-28
+538,America (total),,America,1021703563,cases,123189,2020-13,15.728339,165652,"Epidemic intelligence, national weekly data",2020-03-28
+8012,France,FRA,Europe,67320216,cases,24156,2020-13,51.620453,40174,"Epidemic intelligence, national weekly data",2020-03-28
+8013,France,FRA,Europe,67320216,cases,30304,2020-14,80.89695,70478,"Epidemic intelligence, national weekly data",2020-04-04
+539,America (total),,America,1021703563,cases,223158,2020-14,33.898972,388810,"Epidemic intelligence, national weekly data",2020-04-04
+10303,India,IND,Asia,1380004385,cases,2996,2020-14,0.26289773,4067,"Epidemic intelligence, national weekly data",2020-04-04
+22445,United Kingdom,GBR,Europe,68059863,cases,30357,2020-14,70.887596,57180,"Epidemic intelligence, national weekly data",2020-04-04
+8515,Germany,DEU,Europe,83166711,cases,38093,2020-14,84.910172,95391,"Epidemic intelligence, national weekly data",2020-04-04
+8516,Germany,DEU,Europe,83166711,cases,27625,2020-15,79.0196,123016,"Epidemic intelligence, national weekly data",2020-04-11
+22446,United Kingdom,GBR,Europe,68059863,cases,32205,2020-15,91.92202,89385,"Epidemic intelligence, national weekly data",2020-04-11
+8014,France,FRA,Europe,67320216,cases,24925,2020-15,82.039253,95403,"Epidemic intelligence, national weekly data",2020-04-11
+10304,India,IND,Asia,1380004385,cases,5085,2020-15,0.58557785,9152,"Epidemic intelligence, national weekly data",2020-04-11
+540,America (total),,America,1021703563,cases,261256,2020-15,47.412384,650066,"Epidemic intelligence, national weekly data",2020-04-11
+10305,India,IND,Asia,1380004385,cases,8113,2020-16,0.95637375,17265,"Epidemic intelligence, national weekly data",2020-04-18
+8517,Germany,DEU,Europe,83166711,cases,18656,2020-16,55.648468,141672,"Epidemic intelligence, national weekly data",2020-04-18
+8015,France,FRA,Europe,67320216,cases,17203,2020-16,62.578529,112606,"Epidemic intelligence, national weekly data",2020-04-18
+22447,United Kingdom,GBR,Europe,68059863,cases,32027,2020-16,94.37574,121412,"Epidemic intelligence, national weekly data",2020-04-18
+541,America (total),,America,1021703563,cases,254387,2020-16,50.468945,904453,"Epidemic intelligence, national weekly data",2020-04-18
+10306,India,IND,Asia,1380004385,cases,10627,2020-17,1.3579667,27892,"Epidemic intelligence, national weekly data",2020-04-25
+542,America (total),,America,1021703563,cases,286123,2020-17,52.902821,1190576,"Epidemic intelligence, national weekly data",2020-04-25
+8016,France,FRA,Europe,67320216,cases,11969,2020-17,43.333195,124575,"Epidemic intelligence, national weekly data",2020-04-25
+8518,Germany,DEU,Europe,83166711,cases,13521,2020-17,38.689758,155193,"Epidemic intelligence, national weekly data",2020-04-25
+22448,United Kingdom,GBR,Europe,68059863,cases,32830,2020-17,95.294052,154242,"Epidemic intelligence, national weekly data",2020-04-25
+543,America (total),,America,1021703563,cases,295854,2020-18,56.961433,1486430,"Epidemic intelligence, national weekly data",2020-05-02
+8017,France,FRA,Europe,67320216,cases,6712,2020-18,27.749466,131287,"Epidemic intelligence, national weekly data",2020-05-02
+10307,India,IND,Asia,1380004385,cases,14641,2020-18,1.8310087,42533,"Epidemic intelligence, national weekly data",2020-05-02
+22449,United Kingdom,GBR,Europe,68059863,cases,31282,2020-18,94.199425,185524,"Epidemic intelligence, national weekly data",2020-05-02
+8519,Germany,DEU,Europe,83166711,cases,7982,2020-18,25.855297,163175,"Epidemic intelligence, national weekly data",2020-05-02
+8018,France,FRA,Europe,67320216,cases,7776,2020-19,21.521025,139063,"Epidemic intelligence, national weekly data",2020-05-09
+10308,India,IND,Asia,1380004385,cases,24619,2020-19,2.8449185,67152,"Epidemic intelligence, national weekly data",2020-05-09
+544,America (total),,America,1021703563,cases,299665,2020-19,58.286869,1786095,"Epidemic intelligence, national weekly data",2020-05-09
+22450,United Kingdom,GBR,Europe,68059863,cases,22867,2020-19,79.560844,208391,"Epidemic intelligence, national weekly data",2020-05-09
+8520,Germany,DEU,Europe,83166711,cases,6400,2020-19,17.292976,169575,"Epidemic intelligence, national weekly data",2020-05-09
+10309,India,IND,Asia,1380004385,cases,29017,2020-20,3.8866544,96169,"Epidemic intelligence, national weekly data",2020-05-16
+545,America (total),,America,1021703563,cases,320492,2020-20,60.69833,2106587,"Epidemic intelligence, national weekly data",2020-05-16
+22451,United Kingdom,GBR,Europe,68059863,cases,19857,2020-20,62.774151,228248,"Epidemic intelligence, national weekly data",2020-05-16
+8521,Germany,DEU,Europe,83166711,cases,5122,2020-20,13.854101,174697,"Epidemic intelligence, national weekly data",2020-05-16
+8019,France,FRA,Europe,67320216,cases,3348,2020-20,16.524012,142411,"Epidemic intelligence, national weekly data",2020-05-16
+8522,Germany,DEU,Europe,83166711,cases,3873,2020-21,10.815625,178570,"Epidemic intelligence, national weekly data",2020-05-23
+8020,France,FRA,Europe,67320216,cases,2510,2020-21,8.7016954,144921,"Epidemic intelligence, national weekly data",2020-05-23
+22452,United Kingdom,GBR,Europe,68059863,cases,16360,2020-21,53.213448,244608,"Epidemic intelligence, national weekly data",2020-05-23
+546,America (total),,America,1021703563,cases,387488,2020-21,69.294075,2494075,"Epidemic intelligence, national weekly data",2020-05-23
+10310,India,IND,Asia,1380004385,cases,42676,2020-21,5.1951284,138845,"Epidemic intelligence, national weekly data",2020-05-23
+10311,India,IND,Asia,1380004385,cases,51690,2020-22,6.8380942,190535,"Epidemic intelligence, national weekly data",2020-05-30
+8021,France,FRA,Europe,67320216,cases,6832,2020-22,13.876961,151753,"Epidemic intelligence, national weekly data",2020-05-30
+547,America (total),,America,1021703563,cases,437717,2020-22,80.767555,2931792,"Epidemic intelligence, national weekly data",2020-05-30
+22453,United Kingdom,GBR,Europe,68059863,cases,10907,2020-22,40.063259,255515,"Epidemic intelligence, national weekly data",2020-05-30
+8523,Germany,DEU,Europe,83166711,cases,3245,2020-22,8.558713,181815,"Epidemic intelligence, national weekly data",2020-05-30
+8524,Germany,DEU,Europe,83166711,cases,2378,2020-23,6.7611184,184193,"Epidemic intelligence, national weekly data",2020-06-06
+10312,India,IND,Asia,1380004385,cases,66076,2020-23,8.533741,256611,"Epidemic intelligence, national weekly data",2020-06-06
+22454,United Kingdom,GBR,Europe,68059863,cases,8524,2020-23,28.549866,264039,"Epidemic intelligence, national weekly data",2020-06-06
+548,America (total),,America,1021703563,cases,467311,2020-23,88.580292,3399103,"Epidemic intelligence, national weekly data",2020-06-06
+8022,France,FRA,Europe,67320216,cases,2224,2020-23,13.452126,153977,"Epidemic intelligence, national weekly data",2020-06-06
+22455,United Kingdom,GBR,Europe,68059863,cases,7136,2020-24,23.009155,271175,"Epidemic intelligence, national weekly data",2020-06-13
+549,America (total),,America,1021703563,cases,484236,2020-24,93.133377,3883339,"Epidemic intelligence, national weekly data",2020-06-13
+8023,France,FRA,Europe,67320216,cases,3243,2020-24,8.1208887,157220,"Epidemic intelligence, national weekly data",2020-06-13
+8525,Germany,DEU,Europe,83166711,cases,2268,2020-24,5.58637,186461,"Epidemic intelligence, national weekly data",2020-06-13
+10313,India,IND,Asia,1380004385,cases,75813,2020-24,10.281779,332424,"Epidemic intelligence, national weekly data",2020-06-13
+8526,Germany,DEU,Europe,83166711,cases,3898,2020-25,7.4140239,190359,"Epidemic intelligence, national weekly data",2020-06-20
+550,America (total),,America,1021703563,cases,596827,2020-25,105.80985,4480166,"Epidemic intelligence, national weekly data",2020-06-20
+22456,United Kingdom,GBR,Europe,68059863,cases,6680,2020-25,20.299776,277855,"Epidemic intelligence, national weekly data",2020-06-20
+8024,France,FRA,Europe,67320216,cases,3157,2020-25,9.5068026,160377,"Epidemic intelligence, national weekly data",2020-06-20
+10314,India,IND,Asia,1380004385,cases,92858,2020-25,12.222497,425282,"Epidemic intelligence, national weekly data",2020-06-20
+22457,United Kingdom,GBR,Europe,68059863,cases,5240,2020-26,17.513994,283095,"Epidemic intelligence, national weekly data",2020-06-27
+8527,Germany,DEU,Europe,83166711,cases,3402,2020-26,8.7775507,193761,"Epidemic intelligence, national weekly data",2020-06-27
+8025,France,FRA,Europe,67320216,cases,2559,2020-26,8.4907627,162936,"Epidemic intelligence, national weekly data",2020-06-27
+10315,India,IND,Asia,1380004385,cases,123036,2020-26,15.644444,548318,"Epidemic intelligence, national weekly data",2020-06-27
+551,America (total),,America,1021703563,cases,697610,2020-26,126.69399,5177776,"Epidemic intelligence, national weekly data",2020-06-27
+8528,Germany,DEU,Europe,83166711,cases,2793,2020-27,7.448894,196554,"Epidemic intelligence, national weekly data",2020-07-04
+8026,France,FRA,Europe,67320216,cases,4024,2020-27,9.7786379,166960,"Epidemic intelligence, national weekly data",2020-07-04
+552,America (total),,America,1021703563,cases,780343,2020-27,144.65576,5958119,"Epidemic intelligence, national weekly data",2020-07-04
+10316,India,IND,Asia,1380004385,cases,149095,2020-27,19.719576,697413,"Epidemic intelligence, national weekly data",2020-07-04
+22458,United Kingdom,GBR,Europe,68059863,cases,4026,2020-27,13.614485,287121,"Epidemic intelligence, national weekly data",2020-07-04
+8027,France,FRA,Europe,67320216,cases,3792,2020-28,11.610183,170752,"Epidemic intelligence, national weekly data",2020-07-11
+10317,India,IND,Asia,1380004385,cases,180841,2020-28,23.908329,878254,"Epidemic intelligence, national weekly data",2020-07-11
+22459,United Kingdom,GBR,Europe,68059863,cases,4271,2020-28,12.190739,291392,"Epidemic intelligence, national weekly data",2020-07-11
+553,America (total),,America,1021703563,cases,872826,2020-28,161.80515,6830945,"Epidemic intelligence, national weekly data",2020-07-11
+8529,Germany,DEU,Europe,83166711,cases,2409,2020-28,6.2549067,198963,"Epidemic intelligence, national weekly data",2020-07-11
+10318,India,IND,Asia,1380004385,cases,239789,2020-29,30.480337,1118043,"Epidemic intelligence, national weekly data",2020-07-18
+8028,France,FRA,Europe,67320216,cases,3922,2020-29,11.458668,174674,"Epidemic intelligence, national weekly data",2020-07-18
+22460,United Kingdom,GBR,Europe,68059863,cases,4310,2020-29,12.608018,295702,"Epidemic intelligence, national weekly data",2020-07-18
+554,America (total),,America,1021703563,cases,930712,2020-29,176.52263,7761657,"Epidemic intelligence, national weekly data",2020-07-18
+8530,Germany,DEU,Europe,83166711,cases,2860,2020-29,6.3354673,201823,"Epidemic intelligence, national weekly data",2020-07-18
+8531,Germany,DEU,Europe,83166711,cases,3786,2020-30,7.991178,205609,"Epidemic intelligence, national weekly data",2020-07-25
+555,America (total),,America,1021703563,cases,1032799,2020-30,192.1801,8794456,"Epidemic intelligence, national weekly data",2020-07-25
+22461,United Kingdom,GBR,Europe,68059863,cases,4549,2020-30,13.016482,300251,"Epidemic intelligence, national weekly data",2020-07-25
+10319,India,IND,Asia,1380004385,cases,317410,2020-30,40.37661,1435453,"Epidemic intelligence, national weekly data",2020-07-25
+8029,France,FRA,Europe,67320216,cases,5854,2020-30,14.521641,180528,"Epidemic intelligence, national weekly data",2020-07-25
+22462,United Kingdom,GBR,Europe,68059863,cases,4444,2020-31,13.213367,304695,"Epidemic intelligence, national weekly data",2020-08-01
+556,America (total),,America,1021703563,cases,1017420,2020-31,200.66672,9811876,"Epidemic intelligence, national weekly data",2020-08-01
+8030,France,FRA,Europe,67320216,cases,7391,2020-31,19.674625,187919,"Epidemic intelligence, national weekly data",2020-08-01
+8532,Germany,DEU,Europe,83166711,cases,4793,2020-31,10.315425,210402,"Epidemic intelligence, national weekly data",2020-08-01
+10320,India,IND,Asia,1380004385,cases,368242,2020-31,49.684769,1803695,"Epidemic intelligence, national weekly data",2020-08-01
+557,America (total),,America,1021703563,cases,962191,2020-32,193.75591,10774067,"Epidemic intelligence, national weekly data",2020-08-08
+10321,India,IND,Asia,1380004385,cases,411379,2020-32,56.494095,2215074,"Epidemic intelligence, national weekly data",2020-08-08
+8533,Germany,DEU,Europe,83166711,cases,5925,2020-32,12.887368,216327,"Epidemic intelligence, national weekly data",2020-08-08
+8031,France,FRA,Europe,67320216,cases,10002,2020-32,25.836222,197921,"Epidemic intelligence, national weekly data",2020-08-08
+22463,United Kingdom,GBR,Europe,68059863,cases,6130,2020-32,15.536323,310825,"Epidemic intelligence, national weekly data",2020-08-08
+8534,Germany,DEU,Europe,83166711,cases,7687,2020-33,16.367126,224014,"Epidemic intelligence, national weekly data",2020-08-15
+22464,United Kingdom,GBR,Europe,68059863,cases,7659,2020-33,20.260105,318484,"Epidemic intelligence, national weekly data",2020-08-15
+558,America (total),,America,1021703563,cases,969205,2020-33,189.03683,11743272,"Epidemic intelligence, national weekly data",2020-08-15
+8032,France,FRA,Europe,67320216,cases,20615,2020-33,45.479652,218536,"Epidemic intelligence, national weekly data",2020-08-15
+10322,India,IND,Asia,1380004385,cases,432589,2020-33,61.156906,2647663,"Epidemic intelligence, national weekly data",2020-08-15
+10323,India,IND,Asia,1380004385,cases,458685,2020-34,64.584869,3106348,"Epidemic intelligence, national weekly data",2020-08-22
+22465,United Kingdom,GBR,Europe,68059863,cases,7158,2020-34,21.77054,325642,"Epidemic intelligence, national weekly data",2020-08-22
+8535,Germany,DEU,Europe,83166711,cases,9561,2020-34,20.739067,233575,"Epidemic intelligence, national weekly data",2020-08-22
+559,America (total),,America,1021703563,cases,853870,2020-34,178.43483,12597142,"Epidemic intelligence, national weekly data",2020-08-22
+8033,France,FRA,Europe,67320216,cases,24363,2020-34,66.812027,242899,"Epidemic intelligence, national weekly data",2020-08-22
+10324,India,IND,Asia,1380004385,cases,514897,2020-35,70.549194,3621245,"Epidemic intelligence, national weekly data",2020-08-29
+560,America (total),,America,1021703563,cases,845111,2020-35,166.28903,13442253,"Epidemic intelligence, national weekly data",2020-08-29
+8034,France,FRA,Europe,67320216,cases,35044,2020-35,88.245407,277943,"Epidemic intelligence, national weekly data",2020-08-29
+22466,United Kingdom,GBR,Europe,68059863,cases,8825,2020-35,23.483738,334467,"Epidemic intelligence, national weekly data",2020-08-29
+8536,Germany,DEU,Europe,83166711,cases,8806,2020-35,22.084557,242381,"Epidemic intelligence, national weekly data",2020-08-29
+8035,France,FRA,Europe,67320216,cases,46834,2020-36,121.62469,324777,"Epidemic intelligence, national weekly data",2020-09-05
+8537,Germany,DEU,Europe,83166711,cases,8418,2020-36,20.710209,250799,"Epidemic intelligence, national weekly data",2020-09-05
+22467,United Kingdom,GBR,Europe,68059863,cases,12685,2020-36,31.60453,347152,"Epidemic intelligence, national weekly data",2020-09-05
+10325,India,IND,Asia,1380004385,cases,583368,2020-36,79.584167,4204613,"Epidemic intelligence, national weekly data",2020-09-05
+561,America (total),,America,1021703563,cases,825679,2020-36,163.52982,14267932,"Epidemic intelligence, national weekly data",2020-09-05
+10326,India,IND,Asia,1380004385,cases,641814,2020-37,88.781021,4846427,"Epidemic intelligence, national weekly data",2020-09-12
+562,America (total),,America,1021703563,cases,711402,2020-37,150.44295,14979334,"Epidemic intelligence, national weekly data",2020-09-12
+8538,Germany,DEU,Europe,83166711,cases,9556,2020-37,21.612013,260355,"Epidemic intelligence, national weekly data",2020-09-12
+22468,United Kingdom,GBR,Europe,68059863,cases,21352,2020-37,50.010387,368504,"Epidemic intelligence, national weekly data",2020-09-12
+8036,France,FRA,Europe,67320216,cases,56317,2020-37,153.22441,381094,"Epidemic intelligence, national weekly data",2020-09-12
+563,America (total),,America,1021703563,cases,768081,2020-38,144.80551,15747415,"Epidemic intelligence, national weekly data",2020-09-19
+10327,India,IND,Asia,1380004385,cases,641153,2020-38,92.96833,5487580,"Epidemic intelligence, national weekly data",2020-09-19
+22469,United Kingdom,GBR,Europe,68059863,cases,25753,2020-38,69.211128,394257,"Epidemic intelligence, national weekly data",2020-09-19
+8539,Germany,DEU,Europe,83166711,cases,11982,2020-38,25.897381,272337,"Epidemic intelligence, national weekly data",2020-09-19
+8037,France,FRA,Europe,67320216,cases,72669,2020-38,191.60069,453763,"Epidemic intelligence, national weekly data",2020-09-19
+22470,United Kingdom,GBR,Europe,68059863,cases,40712,2020-39,97.656677,434969,"Epidemic intelligence, national weekly data",2020-09-26
+8540,Germany,DEU,Europe,83166711,cases,12995,2020-39,30.03245,285332,"Epidemic intelligence, national weekly data",2020-09-26
+10328,India,IND,Asia,1380004385,cases,587122,2020-39,89.00515,6074702,"Epidemic intelligence, national weekly data",2020-09-26
+564,America (total),,America,1021703563,cases,779918,2020-39,151.51157,16527333,"Epidemic intelligence, national weekly data",2020-09-26
+8038,France,FRA,Europe,67320216,cases,84806,2020-39,233.91933,538569,"Epidemic intelligence, national weekly data",2020-09-26
+565,America (total),,America,1021703563,cases,746368,2020-40,149.38638,17273701,"Epidemic intelligence, national weekly data",2020-10-03
+22471,United Kingdom,GBR,Europe,68059863,cases,68009,2020-40,159.74319,502978,"Epidemic intelligence, national weekly data",2020-10-03
+10329,India,IND,Asia,1380004385,cases,549113,2020-40,82.335609,6623815,"Epidemic intelligence, national weekly data",2020-10-03
+8541,Germany,DEU,Europe,83166711,cases,15287,2020-40,34.006393,300619,"Epidemic intelligence, national weekly data",2020-10-03
+8039,France,FRA,Europe,67320216,cases,80601,2020-40,245.70183,619170,"Epidemic intelligence, national weekly data",2020-10-03
+566,America (total),,America,1021703563,cases,801172,2020-41,151.46663,18074873,"Epidemic intelligence, national weekly data",2020-10-10
+8040,France,FRA,Europe,67320216,cases,115804,2020-41,291.74744,734974,"Epidemic intelligence, national weekly data",2020-10-10
+8542,Germany,DEU,Europe,83166711,cases,24712,2020-41,48.094963,325331,"Epidemic intelligence, national weekly data",2020-10-10
+10330,India,IND,Asia,1380004385,cases,496723,2020-41,75.784973,7120538,"Epidemic intelligence, national weekly data",2020-10-10
+22472,United Kingdom,GBR,Europe,68059863,cases,100738,2020-41,247.93909,603716,"Epidemic intelligence, national weekly data",2020-10-10
+22473,United Kingdom,GBR,Europe,68059863,cases,118693,2020-42,322.40881,722409,"Epidemic intelligence, national weekly data",2020-10-17
+8041,France,FRA,Europe,67320216,cases,162060,2020-42,412.74973,897034,"Epidemic intelligence, national weekly data",2020-10-17
+8543,Germany,DEU,Europe,83166711,cases,40968,2020-42,78.973907,366299,"Epidemic intelligence, national weekly data",2020-10-17
+10331,India,IND,Asia,1380004385,cases,429735,2020-42,67.134422,7550273,"Epidemic intelligence, national weekly data",2020-10-17
+567,America (total),,America,1021703563,cases,791921,2020-42,155.92517,18866794,"Epidemic intelligence, national weekly data",2020-10-17
+8042,France,FRA,Europe,67320216,cases,241473,2020-43,599.42322,1138507,"Epidemic intelligence, national weekly data",2020-10-24
+10332,India,IND,Asia,1380004385,cases,359686,2020-43,57.204239,7909959,"Epidemic intelligence, national weekly data",2020-10-24
+22474,United Kingdom,GBR,Europe,68059863,cases,151391,2020-43,396.83301,873800,"Epidemic intelligence, national weekly data",2020-10-24
+8544,Germany,DEU,Europe,83166711,cases,71567,2020-43,135.31255,437866,"Epidemic intelligence, national weekly data",2020-10-24
+568,America (total),,America,1021703563,cases,935775,2020-43,169.09953,19802569,"Epidemic intelligence, national weekly data",2020-10-24
+8545,Germany,DEU,Europe,83166711,cases,107161,2020-44,214.90329,545027,"Epidemic intelligence, national weekly data",2020-10-31
+10333,India,IND,Asia,1380004385,cases,319354,2020-44,49.205639,8229313,"Epidemic intelligence, national weekly data",2020-10-31
+22475,United Kingdom,GBR,Europe,68059863,cases,161114,2020-44,459.16196,1034914,"Epidemic intelligence, national weekly data",2020-10-31
+569,America (total),,America,1021703563,cases,1004846,2020-44,189.93973,20807415,"Epidemic intelligence, national weekly data",2020-10-31
+8043,France,FRA,Europe,67320216,cases,275408,2020-44,767.79462,1413915,"Epidemic intelligence, national weekly data",2020-10-31
+8546,Germany,DEU,Europe,83166711,cases,126841,2020-45,281.36499,671868,"Epidemic intelligence, national weekly data",2020-11-07
+22476,United Kingdom,GBR,Europe,68059863,cases,157099,2020-45,467.54871,1192013,"Epidemic intelligence, national weekly data",2020-11-07
+570,America (total),,America,1021703563,cases,1147011,2020-45,210.61461,21954426,"Epidemic intelligence, national weekly data",2020-11-07
+8044,France,FRA,Europe,67320216,cases,373409,2020-45,963.77734,1787324,"Epidemic intelligence, national weekly data",2020-11-07
+10334,India,IND,Asia,1380004385,cases,324344,2020-45,46.644634,8553657,"Epidemic intelligence, national weekly data",2020-11-07
+571,America (total),,America,1021703563,cases,1529429,2020-46,261.95856,23483855,"Epidemic intelligence, national weekly data",2020-11-14
+8547,Germany,DEU,Europe,83166711,cases,129459,2020-46,308.17618,801327,"Epidemic intelligence, national weekly data",2020-11-14
+10335,India,IND,Asia,1380004385,cases,291470,2020-46,44.624062,8845127,"Epidemic intelligence, national weekly data",2020-11-14
+8045,France,FRA,Europe,67320216,cases,194503,2020-46,843.59802,1981827,"Epidemic intelligence, national weekly data",2020-11-14
+22477,United Kingdom,GBR,Europe,68059863,cases,177305,2020-46,491.33804,1369318,"Epidemic intelligence, national weekly data",2020-11-14
+572,America (total),,America,1021703563,cases,1668539,2020-47,313.00351,25152394,"Epidemic intelligence, national weekly data",2020-11-21
+8548,Germany,DEU,Europe,83166711,cases,127806,2020-47,309.33652,929133,"Epidemic intelligence, national weekly data",2020-11-21
+22478,United Kingdom,GBR,Europe,68059863,cases,142727,2020-47,470.22134,1512045,"Epidemic intelligence, national weekly data",2020-11-21
+8046,France,FRA,Europe,67320216,cases,158381,2020-47,524.18726,2140208,"Epidemic intelligence, national weekly data",2020-11-21
+10336,India,IND,Asia,1380004385,cases,294738,2020-47,42.478706,9139865,"Epidemic intelligence, national weekly data",2020-11-21
+22479,United Kingdom,GBR,Europe,68059863,cases,105282,2020-48,364.39832,1617327,"Epidemic intelligence, national weekly data",2020-11-28
+10337,India,IND,Asia,1380004385,cases,291826,2020-48,42.504501,9431691,"Epidemic intelligence, national weekly data",2020-11-28
+8549,Germany,DEU,Europe,83166711,cases,124736,2020-48,303.65756,1053869,"Epidemic intelligence, national weekly data",2020-11-28
+573,America (total),,America,1021703563,cases,1670555,2020-48,326.81631,26822949,"Epidemic intelligence, national weekly data",2020-11-28
+8047,France,FRA,Europe,67320216,cases,78275,2020-48,351.53778,2218483,"Epidemic intelligence, national weekly data",2020-11-28
+8550,Germany,DEU,Europe,83166711,cases,129785,2020-49,306.03711,1183654,"Epidemic intelligence, national weekly data",2020-12-05
+8048,France,FRA,Europe,67320216,cases,74014,2020-49,226.21585,2292497,"Epidemic intelligence, national weekly data",2020-12-05
+574,America (total),,America,1021703563,cases,1966880,2020-49,356.01666,28789829,"Epidemic intelligence, national weekly data",2020-12-05
+10338,India,IND,Asia,1380004385,cases,245512,2020-49,38.937412,9677203,"Epidemic intelligence, national weekly data",2020-12-05
+22480,United Kingdom,GBR,Europe,68059863,cases,105915,2020-49,310.31064,1723242,"Epidemic intelligence, national weekly data",2020-12-05
+575,America (total),,America,1021703563,cases,2100034,2020-50,398.05225,30889863,"Epidemic intelligence, national weekly data",2020-12-12
+22481,United Kingdom,GBR,Europe,68059863,cases,126161,2020-50,340.98804,1849403,"Epidemic intelligence, national weekly data",2020-12-12
+10339,India,IND,Asia,1380004385,cases,206897,2020-50,32.783157,9884100,"Epidemic intelligence, national weekly data",2020-12-12
+8049,France,FRA,Europe,67320216,cases,84355,2020-50,235.24731,2376852,"Epidemic intelligence, national weekly data",2020-12-12
+8551,Germany,DEU,Europe,83166711,cases,153424,2020-50,340.53168,1337078,"Epidemic intelligence, national weekly data",2020-12-12
+576,America (total),,America,1021703563,cases,2327003,2020-51,433.29956,33216866,"Epidemic intelligence, national weekly data",2020-12-19
+8552,Germany,DEU,Europe,83166711,cases,173574,2020-51,393.18375,1510652,"Epidemic intelligence, national weekly data",2020-12-19
+10340,India,IND,Asia,1380004385,cases,171460,2020-51,27.417088,10055560,"Epidemic intelligence, national weekly data",2020-12-19
+22482,United Kingdom,GBR,Europe,68059863,cases,190744,2020-51,465.62686,2040147,"Epidemic intelligence, national weekly data",2020-12-19
+8050,France,FRA,Europe,67320216,cases,96502,2020-51,268.65186,2473354,"Epidemic intelligence, national weekly data",2020-12-19
+8553,Germany,DEU,Europe,83166711,cases,141182,2020-52,378.46393,1651834,"Epidemic intelligence, national weekly data",2020-12-26
+10341,India,IND,Asia,1380004385,cases,152311,2020-52,23.461592,10207871,"Epidemic intelligence, national weekly data",2020-12-26
+577,America (total),,America,1021703563,cases,1855223,2020-52,409.3385,35072089,"Epidemic intelligence, national weekly data",2020-12-26
+8051,France,FRA,Europe,67320216,cases,89292,2020-52,275.98544,2562646,"Epidemic intelligence, national weekly data",2020-12-26
+22483,United Kingdom,GBR,Europe,68059863,cases,289583,2020-52,705.74194,2329730,"Epidemic intelligence, national weekly data",2020-12-26
+578,America (total),,America,1021703563,cases,2072707,2020-53,384.4491,37144796,"Epidemic intelligence, national weekly data",2021-01-02
+8554,Germany,DEU,Europe,83166711,cases,123679,2020-53,318.46997,1775513,"Epidemic intelligence, national weekly data",2021-01-02
+8052,France,FRA,Europe,67320216,cases,93082,2020-53,270.90524,2655728,"Epidemic intelligence, national weekly data",2021-01-02
+10342,India,IND,Asia,1380004385,cases,132598,2020-53,20.645514,10340469,"Epidemic intelligence, national weekly data",2021-01-02
+22484,United Kingdom,GBR,Europe,68059863,cases,325049,2020-53,903.07556,2654779,"Epidemic intelligence, national weekly data",2021-01-02
+22485,United Kingdom,GBR,Europe,68059863,cases,417570,2021-01,1091.1262,3072349,"Epidemic intelligence, national weekly data",2021-01-09
+579,America (total),,America,1021703563,cases,2699838,2021-01,467.11642,39844634,"Epidemic intelligence, national weekly data",2021-01-09
+8555,Germany,DEU,Europe,83166711,cases,145511,2021-01,323.67517,1921024,"Epidemic intelligence, national weekly data",2021-01-09
+10343,India,IND,Asia,1380004385,cases,126126,2021-01,18.748056,10466595,"Epidemic intelligence, national weekly data",2021-01-09
+8053,France,FRA,Europe,67320216,cases,127528,2021-01,327.70245,2783256,"Epidemic intelligence, national weekly data",2021-01-09
+580,America (total),,America,1021703563,cases,2412952,2021-02,500.41815,42257586,"Epidemic intelligence, national weekly data",2021-01-16
+22486,United Kingdom,GBR,Europe,68059863,cases,323610,2021-02,1089.0118,3395959,"Epidemic intelligence, national weekly data",2021-01-16
+10344,India,IND,Asia,1380004385,cases,105178,2021-02,16.761106,10571773,"Epidemic intelligence, national weekly data",2021-01-16
+8556,Germany,DEU,Europe,83166711,cases,119635,2021-02,318.81265,2040659,"Epidemic intelligence, national weekly data",2021-01-16
+8054,France,FRA,Europe,67320216,cases,127733,2021-02,379.17438,2910989,"Epidemic intelligence, national weekly data",2021-01-16
+581,America (total),,America,1021703563,cases,2209843,2021-03,452.4595,44467429,"Epidemic intelligence, national weekly data",2021-01-23
+8557,Germany,DEU,Europe,83166711,cases,101006,2021-03,265.29965,2141665,"Epidemic intelligence, national weekly data",2021-01-23
+22487,United Kingdom,GBR,Europe,68059863,cases,251504,2021-03,845.01196,3647463,"Epidemic intelligence, national weekly data",2021-01-23
+10345,India,IND,Asia,1380004385,cases,95963,2021-03,14.575389,10667736,"Epidemic intelligence, national weekly data",2021-01-23
+8055,France,FRA,Europe,67320216,cases,142628,2021-03,401.60446,3053617,"Epidemic intelligence, national weekly data",2021-01-23
+8056,France,FRA,Europe,67320216,cases,143497,2021-04,425.0209,3197114,"Epidemic intelligence, national weekly data",2021-01-30
+8558,Germany,DEU,Europe,83166711,cases,80306,2021-04,218.0103,2221971,"Epidemic intelligence, national weekly data",2021-01-30
+22488,United Kingdom,GBR,Europe,68059863,cases,169713,2021-04,618.89191,3817176,"Epidemic intelligence, national weekly data",2021-01-30
+10346,India,IND,Asia,1380004385,cases,89874,2021-04,13.466407,10757610,"Epidemic intelligence, national weekly data",2021-01-30
+582,America (total),,America,1021703563,cases,1803073,2021-04,392.76715,46270502,"Epidemic intelligence, national weekly data",2021-01-30
+583,America (total),,America,1021703563,cases,1350429,2021-05,308.65137,47620931,"Epidemic intelligence, national weekly data",2021-02-06
+10347,India,IND,Asia,1380004385,cases,80584,2021-05,12.35199,10838194,"Epidemic intelligence, national weekly data",2021-02-06
+8559,Germany,DEU,Europe,83166711,cases,66574,2021-05,176.60913,2288545,"Epidemic intelligence, national weekly data",2021-02-06
+8057,France,FRA,Europe,67320216,cases,139934,2021-05,421.01913,3337048,"Epidemic intelligence, national weekly data",2021-02-06
+22489,United Kingdom,GBR,Europe,68059863,cases,142608,2021-05,458.8916,3959784,"Epidemic intelligence, national weekly data",2021-02-06
+22490,United Kingdom,GBR,Europe,68059863,cases,78294,2021-06,324.57016,4038078,"Epidemic intelligence, national weekly data",2021-02-13
+584,America (total),,America,1021703563,cases,1312905,2021-06,260.67581,48933836,"Epidemic intelligence, national weekly data",2021-02-13
+8058,France,FRA,Europe,67320216,cases,128115,2021-06,398.17014,3465163,"Epidemic intelligence, national weekly data",2021-02-13
+8560,Germany,DEU,Europe,83166711,cases,50442,2021-06,140.70053,2338987,"Epidemic intelligence, national weekly data",2021-02-13
+10348,India,IND,Asia,1380004385,cases,78395,2021-06,11.520181,10916589,"Epidemic intelligence, national weekly data",2021-02-13
+8059,France,FRA,Europe,67320216,cases,140018,2021-07,398.29492,3605181,"Epidemic intelligence, national weekly data",2021-02-20
+8561,Germany,DEU,Europe,83166711,cases,51941,2021-07,123.10574,2390928,"Epidemic intelligence, national weekly data",2021-02-20
+22491,United Kingdom,GBR,Europe,68059863,cases,77431,2021-07,228.80592,4115509,"Epidemic intelligence, national weekly data",2021-02-20
+585,America (total),,America,1021703563,cases,1101447,2021-07,236.3065,50035283,"Epidemic intelligence, national weekly data",2021-02-20
+10349,India,IND,Asia,1380004385,cases,89261,2021-07,12.148947,11005850,"Epidemic intelligence, national weekly data",2021-02-20
+8562,Germany,DEU,Europe,83166711,cases,56140,2021-08,129.95705,2447068,"Epidemic intelligence, national weekly data",2021-02-27
+586,America (total),,America,1021703563,cases,1083463,2021-08,213.8497,51118746,"Epidemic intelligence, national weekly data",2021-02-27
+10350,India,IND,Asia,1380004385,cases,106391,2021-08,14.177636,11112241,"Epidemic intelligence, national weekly data",2021-02-27
+8060,France,FRA,Europe,67320216,cases,150787,2021-08,431.97278,3755968,"Epidemic intelligence, national weekly data",2021-02-27
+22492,United Kingdom,GBR,Europe,68059863,cases,61045,2021-08,203.46207,4176554,"Epidemic intelligence, national weekly data",2021-02-27
+10351,India,IND,Asia,1380004385,cases,117157,2021-09,16.19908,11229398,"Epidemic intelligence, national weekly data",2021-03-06
+587,America (total),,America,1021703563,cases,1116555,2021-09,215.3284,52235301,"Epidemic intelligence, national weekly data",2021-03-06
+8563,Germany,DEU,Europe,83166711,cases,58125,2021-09,137.39272,2505193,"Epidemic intelligence, national weekly data",2021-03-06
+8061,France,FRA,Europe,67320216,cases,148265,2021-09,444.22318,3904233,"Epidemic intelligence, national weekly data",2021-03-06
+22493,United Kingdom,GBR,Europe,68059863,cases,41966,2021-09,151.35352,4218520,"Epidemic intelligence, national weekly data",2021-03-06
+10352,India,IND,Asia,1380004385,cases,155941,2021-10,19.789648,11385339,"Epidemic intelligence, national weekly data",2021-03-13
+8564,Germany,DEU,Europe,83166711,cases,70656,2021-10,154.84682,2575849,"Epidemic intelligence, national weekly data",2021-03-13
+588,America (total),,America,1021703563,cases,1261953,2021-10,232.79825,53497254,"Epidemic intelligence, national weekly data",2021-03-13
+22494,United Kingdom,GBR,Europe,68059863,cases,39918,2021-10,120.31173,4258438,"Epidemic intelligence, national weekly data",2021-03-13
+8062,France,FRA,Europe,67320216,cases,167429,2021-10,468.94382,4071662,"Epidemic intelligence, national weekly data",2021-03-13
+10353,India,IND,Asia,1380004385,cases,260742,2021-11,30.194324,11646081,"Epidemic intelligence, national weekly data",2021-03-20
+589,America (total),,America,1021703563,cases,1162606,2021-11,237.30553,54659860,"Epidemic intelligence, national weekly data",2021-03-20
+22495,United Kingdom,GBR,Europe,68059863,cases,38145,2021-11,114.69756,4296583,"Epidemic intelligence, national weekly data",2021-03-20
+8063,France,FRA,Europe,67320216,cases,210941,2021-11,562.04517,4282603,"Epidemic intelligence, national weekly data",2021-03-20
+8565,Germany,DEU,Europe,83166711,cases,91376,2021-11,194.82796,2667225,"Epidemic intelligence, national weekly data",2021-03-20
+10354,India,IND,Asia,1380004385,cases,393563,2021-12,47.413254,12039644,"Epidemic intelligence, national weekly data",2021-03-27
+8566,Germany,DEU,Europe,83166711,cases,115048,2021-12,248.20508,2782273,"Epidemic intelligence, national weekly data",2021-03-27
+22496,United Kingdom,GBR,Europe,68059863,cases,36459,2021-12,109.61526,4333042,"Epidemic intelligence, national weekly data",2021-03-27
+8064,France,FRA,Europe,67320216,cases,262986,2021-12,703.98914,4545589,"Epidemic intelligence, national weekly data",2021-03-27
+590,America (total),,America,1021703563,cases,1424841,2021-12,253.24831,56084701,"Epidemic intelligence, national weekly data",2021-03-27
+8567,Germany,DEU,Europe,83166711,cases,111610,2021-13,272.53452,2893883,"Epidemic intelligence, national weekly data",2021-04-03
+22497,United Kingdom,GBR,Europe,68059863,cases,26346,2021-13,92.27906,4359388,"Epidemic intelligence, national weekly data",2021-04-03
+8065,France,FRA,Europe,67320216,cases,276881,2021-13,801.9389,4822470,"Epidemic intelligence, national weekly data",2021-04-03
+591,America (total),,America,1021703563,cases,1230269,2021-13,259.87088,57314970,"Epidemic intelligence, national weekly data",2021-04-03
+10355,India,IND,Asia,1380004385,cases,549423,2021-13,68.3321,12589067,"Epidemic intelligence, national weekly data",2021-04-03
+8066,France,FRA,Europe,67320216,cases,236210,2021-14,762.16479,5058680,"Epidemic intelligence, national weekly data",2021-04-10
+10356,India,IND,Asia,1380004385,cases,938650,2021-14,107.83103,13527717,"Epidemic intelligence, national weekly data",2021-04-10
+8568,Germany,DEU,Europe,83166711,cases,117630,2021-14,275.63913,3011513,"Epidemic intelligence, national weekly data",2021-04-10
+22498,United Kingdom,GBR,Europe,68059863,cases,13955,2021-14,59.214046,4373343,"Epidemic intelligence, national weekly data",2021-04-10
+592,America (total),,America,1021703563,cases,1631068,2021-14,280.05551,58946038,"Epidemic intelligence, national weekly data",2021-04-10
+10357,India,IND,Asia,1380004385,cases,1534202,2021-15,179.1916,15061919,"Epidemic intelligence, national weekly data",2021-04-17
+8067,France,FRA,Europe,67320216,cases,230846,2021-15,693.78265,5289526,"Epidemic intelligence, national weekly data",2021-04-17
+593,America (total),,America,1021703563,cases,1434303,2021-15,300.02548,60380341,"Epidemic intelligence, national weekly data",2021-04-17
+8569,Germany,DEU,Europe,83166711,cases,142186,2021-15,312.40384,3153699,"Epidemic intelligence, national weekly data",2021-04-17
+22499,United Kingdom,GBR,Europe,68059863,cases,14477,2021-15,41.77499,4387820,"Epidemic intelligence, national weekly data",2021-04-17
