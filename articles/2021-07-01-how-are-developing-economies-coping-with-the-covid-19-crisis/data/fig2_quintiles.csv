@@ -1,106 +1,148 @@
 ,sector,market,country,time,quintile
-0,Sovereign,Advanced Economies,United States,Apr 2020,2
-1,Sovereign,Advanced Economies,United States,Oct 2020,1
-2,Sovereign,Advanced Economies,United States,Apr 2021,1
-3,Companies,Advanced Economies,United States,Apr 2020,2
-4,Companies,Advanced Economies,United States,Oct 2020,2
-5,Companies,Advanced Economies,United States,Apr 2021,3
-6,Households,Advanced Economies,United States,Apr 2020,4
-7,Households,Advanced Economies,United States,Oct 2020,4
-8,Households,Advanced Economies,United States,Apr 2021,4
-9,Banks,Advanced Economies,United States,Apr 2020,5
-10,Banks,Advanced Economies,United States,Oct 2020,5
-11,Banks,Advanced Economies,United States,Apr 2021,5
-12,Insurers,Advanced Economies,United States,Apr 2020,2
-13,Insurers,Advanced Economies,United States,Oct 2020,2
-14,Insurers,Advanced Economies,United States,Apr 2021,2
-15,Asset managers,Advanced Economies,United States,Apr 2020,1
-16,Asset managers,Advanced Economies,United States,Oct 2020,1
-17,Asset managers,Advanced Economies,United States,Apr 2021,2
-18,OFI,Advanced Economies,United States,Apr 2020,2
-19,OFI,Advanced Economies,United States,Oct 2020,2
-20,OFI,Advanced Economies,United States,Apr 2021,2
-21,Sovereign,Advanced Economies,Euro area,Apr 2020,1
-22,Sovereign,Advanced Economies,Euro area,Oct 2020,1
-23,Sovereign,Advanced Economies,Euro area,Apr 2021,1
-24,Companies,Advanced Economies,Euro area,Apr 2020,3
-25,Companies,Advanced Economies,Euro area,Oct 2020,1
-26,Companies,Advanced Economies,Euro area,Apr 2021,1
-27,Households,Advanced Economies,Euro area,Apr 2020,5
-28,Households,Advanced Economies,Euro area,Oct 2020,5
-29,Households,Advanced Economies,Euro area,Apr 2021,4
-30,Banks,Advanced Economies,Euro area,Apr 2020,2
-31,Banks,Advanced Economies,Euro area,Oct 2020,1
-32,Banks,Advanced Economies,Euro area,Apr 2021,2
-33,Insurers,Advanced Economies,Euro area,Apr 2020,4
-34,Insurers,Advanced Economies,Euro area,Oct 2020,4
-35,Insurers,Advanced Economies,Euro area,Apr 2021,4
-36,Asset managers,Advanced Economies,Euro area,Apr 2020,3
-37,Asset managers,Advanced Economies,Euro area,Oct 2020,2
-38,Asset managers,Advanced Economies,Euro area,Apr 2021,3
-39,OFI,Advanced Economies,Euro area,Apr 2020,4
-40,OFI,Advanced Economies,Euro area,Oct 2020,4
-41,OFI,Advanced Economies,Euro area,Apr 2021,4
-42,Sovereign,Advanced Economies,Other advanced,Apr 2020,3
-43,Sovereign,Advanced Economies,Other advanced,Oct 2020,1
-44,Sovereign,Advanced Economies,Other advanced,Apr 2021,1
-45,Companies,Advanced Economies,Other advanced,Apr 2020,4
-46,Companies,Advanced Economies,Other advanced,Oct 2020,1
-47,Companies,Advanced Economies,Other advanced,Apr 2021,2
-48,Households,Advanced Economies,Other advanced,Apr 2020,1
-49,Households,Advanced Economies,Other advanced,Oct 2020,1
-50,Households,Advanced Economies,Other advanced,Apr 2021,1
-51,Banks,Advanced Economies,Other advanced,Apr 2020,5
-52,Banks,Advanced Economies,Other advanced,Oct 2020,4
-53,Banks,Advanced Economies,Other advanced,Apr 2021,4
-54,Insurers,Advanced Economies,Other advanced,Apr 2020,2
-55,Insurers,Advanced Economies,Other advanced,Oct 2020,2
-56,Insurers,Advanced Economies,Other advanced,Apr 2021,1
-57,Asset managers,Advanced Economies,Other advanced,Apr 2020,3
-58,Asset managers,Advanced Economies,Other advanced,Oct 2020,3
-59,Asset managers,Advanced Economies,Other advanced,Apr 2021,3
-60,OFI,Advanced Economies,Other advanced,Apr 2020,2
-61,OFI,Advanced Economies,Other advanced,Oct 2020,1
-62,OFI,Advanced Economies,Other advanced,Apr 2021,2
-63,Sovereign,Emerging Market Economies,China,Apr 2020,3
-64,Sovereign,Emerging Market Economies,China,Oct 2020,2
-65,Sovereign,Emerging Market Economies,China,Apr 2021,2
-66,Companies,Emerging Market Economies,China,Apr 2020,1
-67,Companies,Emerging Market Economies,China,Oct 2020,1
-68,Companies,Emerging Market Economies,China,Apr 2021,1
-69,Households,Emerging Market Economies,China,Apr 2020,1
-70,Households,Emerging Market Economies,China,Oct 2020,1
-71,Households,Emerging Market Economies,China,Apr 2021,1
-72,Banks,Emerging Market Economies,China,Apr 2020,1
-73,Banks,Emerging Market Economies,China,Oct 2020,1
-74,Banks,Emerging Market Economies,China,Apr 2021,1
-75,Insurers,Emerging Market Economies,China,Apr 2020,3
-76,Insurers,Emerging Market Economies,China,Oct 2020,2
-77,Insurers,Emerging Market Economies,China,Apr 2021,2
-78,Asset managers,Emerging Market Economies,China,Apr 2020,1
-79,Asset managers,Emerging Market Economies,China,Oct 2020,1
-80,Asset managers,Emerging Market Economies,China,Apr 2021,2
-81,OFI,Emerging Market Economies,China,Apr 2020,3
-82,OFI,Emerging Market Economies,China,Oct 2020,4
-83,OFI,Emerging Market Economies,China,Apr 2021,4
-84,Sovereign,Emerging Market Economies,Other emerging,Apr 2020,1
-85,Sovereign,Emerging Market Economies,Other emerging,Oct 2020,1
-86,Sovereign,Emerging Market Economies,Other emerging,Apr 2021,1
-87,Companies,Emerging Market Economies,Other emerging,Apr 2020,2
-88,Companies,Emerging Market Economies,Other emerging,Oct 2020,1
-89,Companies,Emerging Market Economies,Other emerging,Apr 2021,2
-90,Households,Emerging Market Economies,Other emerging,Apr 2020,2
-91,Households,Emerging Market Economies,Other emerging,Oct 2020,2
-92,Households,Emerging Market Economies,Other emerging,Apr 2021,2
-93,Banks,Emerging Market Economies,Other emerging,Apr 2020,2
-94,Banks,Emerging Market Economies,Other emerging,Oct 2020,1
-95,Banks,Emerging Market Economies,Other emerging,Apr 2021,1
-96,Insurers,Emerging Market Economies,Other emerging,Apr 2020,3
-97,Insurers,Emerging Market Economies,Other emerging,Oct 2020,3
-98,Insurers,Emerging Market Economies,Other emerging,Apr 2021,3
-99,Asset managers,Emerging Market Economies,Other emerging,Apr 2020,4
-100,Asset managers,Emerging Market Economies,Other emerging,Oct 2020,4
-101,Asset managers,Emerging Market Economies,Other emerging,Apr 2021,5
-102,OFI,Emerging Market Economies,Other emerging,Apr 2020,2
-103,OFI,Emerging Market Economies,Other emerging,Oct 2020,2
-104,OFI,Emerging Market Economies,Other emerging,Apr 2021,2
+0,Sovereign,Quintile,Advanced Economies,Apr 2020,Quintile
+1,Sovereign,Quintile,Advanced Economies,Oct 2020,Quintile
+2,Sovereign,Quintile,Advanced Economies,Apr 2021,Quintile
+3,Companies,Quintile,Advanced Economies,Apr 2020,Quintile
+4,Companies,Quintile,Advanced Economies,Oct 2020,Quintile
+5,Companies,Quintile,Advanced Economies,Apr 2021,Quintile
+6,Households,Quintile,Advanced Economies,Apr 2020,Quintile
+7,Households,Quintile,Advanced Economies,Oct 2020,Quintile
+8,Households,Quintile,Advanced Economies,Apr 2021,Quintile
+9,Banks,Quintile,Advanced Economies,Apr 2020,Quintile
+10,Banks,Quintile,Advanced Economies,Oct 2020,Quintile
+11,Banks,Quintile,Advanced Economies,Apr 2021,Quintile
+12,Insurers,Quintile,Advanced Economies,Apr 2020,Quintile
+13,Insurers,Quintile,Advanced Economies,Oct 2020,Quintile
+14,Insurers,Quintile,Advanced Economies,Apr 2021,Quintile
+15,Asset managers,Quintile,Advanced Economies,Apr 2020,Quintile
+16,Asset managers,Quintile,Advanced Economies,Oct 2020,Quintile
+17,Asset managers,Quintile,Advanced Economies,Apr 2021,Quintile
+18,OFI,Quintile,Advanced Economies,Apr 2020,Quintile
+19,OFI,Quintile,Advanced Economies,Oct 2020,Quintile
+20,OFI,Quintile,Advanced Economies,Apr 2021,Quintile
+21,Sovereign,Advanced Economies,United States,Apr 2020,2.0
+22,Sovereign,Advanced Economies,United States,Oct 2020,1.0
+23,Sovereign,Advanced Economies,United States,Apr 2021,1.0
+24,Companies,Advanced Economies,United States,Apr 2020,2.0
+25,Companies,Advanced Economies,United States,Oct 2020,2.0
+26,Companies,Advanced Economies,United States,Apr 2021,3.0
+27,Households,Advanced Economies,United States,Apr 2020,4.0
+28,Households,Advanced Economies,United States,Oct 2020,4.0
+29,Households,Advanced Economies,United States,Apr 2021,4.0
+30,Banks,Advanced Economies,United States,Apr 2020,5.0
+31,Banks,Advanced Economies,United States,Oct 2020,5.0
+32,Banks,Advanced Economies,United States,Apr 2021,5.0
+33,Insurers,Advanced Economies,United States,Apr 2020,2.0
+34,Insurers,Advanced Economies,United States,Oct 2020,2.0
+35,Insurers,Advanced Economies,United States,Apr 2021,2.0
+36,Asset managers,Advanced Economies,United States,Apr 2020,1.0
+37,Asset managers,Advanced Economies,United States,Oct 2020,1.0
+38,Asset managers,Advanced Economies,United States,Apr 2021,2.0
+39,OFI,Advanced Economies,United States,Apr 2020,2.0
+40,OFI,Advanced Economies,United States,Oct 2020,2.0
+41,OFI,Advanced Economies,United States,Apr 2021,2.0
+42,Sovereign,Advanced Economies,Euro area,Apr 2020,1.0
+43,Sovereign,Advanced Economies,Euro area,Oct 2020,1.0
+44,Sovereign,Advanced Economies,Euro area,Apr 2021,1.0
+45,Companies,Advanced Economies,Euro area,Apr 2020,3.0
+46,Companies,Advanced Economies,Euro area,Oct 2020,1.0
+47,Companies,Advanced Economies,Euro area,Apr 2021,1.0
+48,Households,Advanced Economies,Euro area,Apr 2020,5.0
+49,Households,Advanced Economies,Euro area,Oct 2020,5.0
+50,Households,Advanced Economies,Euro area,Apr 2021,4.0
+51,Banks,Advanced Economies,Euro area,Apr 2020,2.0
+52,Banks,Advanced Economies,Euro area,Oct 2020,1.0
+53,Banks,Advanced Economies,Euro area,Apr 2021,2.0
+54,Insurers,Advanced Economies,Euro area,Apr 2020,4.0
+55,Insurers,Advanced Economies,Euro area,Oct 2020,4.0
+56,Insurers,Advanced Economies,Euro area,Apr 2021,4.0
+57,Asset managers,Advanced Economies,Euro area,Apr 2020,3.0
+58,Asset managers,Advanced Economies,Euro area,Oct 2020,2.0
+59,Asset managers,Advanced Economies,Euro area,Apr 2021,3.0
+60,OFI,Advanced Economies,Euro area,Apr 2020,4.0
+61,OFI,Advanced Economies,Euro area,Oct 2020,4.0
+62,OFI,Advanced Economies,Euro area,Apr 2021,4.0
+63,Sovereign,Advanced Economies,Other advanced,Apr 2020,3.0
+64,Sovereign,Advanced Economies,Other advanced,Oct 2020,1.0
+65,Sovereign,Advanced Economies,Other advanced,Apr 2021,1.0
+66,Companies,Advanced Economies,Other advanced,Apr 2020,4.0
+67,Companies,Advanced Economies,Other advanced,Oct 2020,1.0
+68,Companies,Advanced Economies,Other advanced,Apr 2021,2.0
+69,Households,Advanced Economies,Other advanced,Apr 2020,1.0
+70,Households,Advanced Economies,Other advanced,Oct 2020,1.0
+71,Households,Advanced Economies,Other advanced,Apr 2021,1.0
+72,Banks,Advanced Economies,Other advanced,Apr 2020,5.0
+73,Banks,Advanced Economies,Other advanced,Oct 2020,4.0
+74,Banks,Advanced Economies,Other advanced,Apr 2021,4.0
+75,Insurers,Advanced Economies,Other advanced,Apr 2020,2.0
+76,Insurers,Advanced Economies,Other advanced,Oct 2020,2.0
+77,Insurers,Advanced Economies,Other advanced,Apr 2021,1.0
+78,Asset managers,Advanced Economies,Other advanced,Apr 2020,3.0
+79,Asset managers,Advanced Economies,Other advanced,Oct 2020,3.0
+80,Asset managers,Advanced Economies,Other advanced,Apr 2021,3.0
+81,OFI,Advanced Economies,Other advanced,Apr 2020,2.0
+82,OFI,Advanced Economies,Other advanced,Oct 2020,1.0
+83,OFI,Advanced Economies,Other advanced,Apr 2021,2.0
+84,Sovereign,Quintile,Emerging Market Economies,Apr 2020,Quintile
+85,Sovereign,Quintile,Emerging Market Economies,Oct 2020,Quintile
+86,Sovereign,Quintile,Emerging Market Economies,Apr 2021,Quintile
+87,Companies,Quintile,Emerging Market Economies,Apr 2020,Quintile
+88,Companies,Quintile,Emerging Market Economies,Oct 2020,Quintile
+89,Companies,Quintile,Emerging Market Economies,Apr 2021,Quintile
+90,Households,Quintile,Emerging Market Economies,Apr 2020,Quintile
+91,Households,Quintile,Emerging Market Economies,Oct 2020,Quintile
+92,Households,Quintile,Emerging Market Economies,Apr 2021,Quintile
+93,Banks,Quintile,Emerging Market Economies,Apr 2020,Quintile
+94,Banks,Quintile,Emerging Market Economies,Oct 2020,Quintile
+95,Banks,Quintile,Emerging Market Economies,Apr 2021,Quintile
+96,Insurers,Quintile,Emerging Market Economies,Apr 2020,Quintile
+97,Insurers,Quintile,Emerging Market Economies,Oct 2020,Quintile
+98,Insurers,Quintile,Emerging Market Economies,Apr 2021,Quintile
+99,Asset managers,Quintile,Emerging Market Economies,Apr 2020,Quintile
+100,Asset managers,Quintile,Emerging Market Economies,Oct 2020,Quintile
+101,Asset managers,Quintile,Emerging Market Economies,Apr 2021,Quintile
+102,OFI,Quintile,Emerging Market Economies,Apr 2020,Quintile
+103,OFI,Quintile,Emerging Market Economies,Oct 2020,Quintile
+104,OFI,Quintile,Emerging Market Economies,Apr 2021,Quintile
+105,Sovereign,Emerging Market Economies,China,Apr 2020,3.0
+106,Sovereign,Emerging Market Economies,China,Oct 2020,2.0
+107,Sovereign,Emerging Market Economies,China,Apr 2021,2.0
+108,Companies,Emerging Market Economies,China,Apr 2020,1.0
+109,Companies,Emerging Market Economies,China,Oct 2020,1.0
+110,Companies,Emerging Market Economies,China,Apr 2021,1.0
+111,Households,Emerging Market Economies,China,Apr 2020,1.0
+112,Households,Emerging Market Economies,China,Oct 2020,1.0
+113,Households,Emerging Market Economies,China,Apr 2021,1.0
+114,Banks,Emerging Market Economies,China,Apr 2020,1.0
+115,Banks,Emerging Market Economies,China,Oct 2020,1.0
+116,Banks,Emerging Market Economies,China,Apr 2021,1.0
+117,Insurers,Emerging Market Economies,China,Apr 2020,3.0
+118,Insurers,Emerging Market Economies,China,Oct 2020,2.0
+119,Insurers,Emerging Market Economies,China,Apr 2021,2.0
+120,Asset managers,Emerging Market Economies,China,Apr 2020,1.0
+121,Asset managers,Emerging Market Economies,China,Oct 2020,1.0
+122,Asset managers,Emerging Market Economies,China,Apr 2021,2.0
+123,OFI,Emerging Market Economies,China,Apr 2020,3.0
+124,OFI,Emerging Market Economies,China,Oct 2020,4.0
+125,OFI,Emerging Market Economies,China,Apr 2021,4.0
+126,Sovereign,Emerging Market Economies,Other emerging,Apr 2020,1.0
+127,Sovereign,Emerging Market Economies,Other emerging,Oct 2020,1.0
+128,Sovereign,Emerging Market Economies,Other emerging,Apr 2021,1.0
+129,Companies,Emerging Market Economies,Other emerging,Apr 2020,2.0
+130,Companies,Emerging Market Economies,Other emerging,Oct 2020,1.0
+131,Companies,Emerging Market Economies,Other emerging,Apr 2021,2.0
+132,Households,Emerging Market Economies,Other emerging,Apr 2020,2.0
+133,Households,Emerging Market Economies,Other emerging,Oct 2020,2.0
+134,Households,Emerging Market Economies,Other emerging,Apr 2021,2.0
+135,Banks,Emerging Market Economies,Other emerging,Apr 2020,2.0
+136,Banks,Emerging Market Economies,Other emerging,Oct 2020,1.0
+137,Banks,Emerging Market Economies,Other emerging,Apr 2021,1.0
+138,Insurers,Emerging Market Economies,Other emerging,Apr 2020,3.0
+139,Insurers,Emerging Market Economies,Other emerging,Oct 2020,3.0
+140,Insurers,Emerging Market Economies,Other emerging,Apr 2021,3.0
+141,Asset managers,Emerging Market Economies,Other emerging,Apr 2020,4.0
+142,Asset managers,Emerging Market Economies,Other emerging,Oct 2020,4.0
+143,Asset managers,Emerging Market Economies,Other emerging,Apr 2021,5.0
+144,OFI,Emerging Market Economies,Other emerging,Apr 2020,2.0
+145,OFI,Emerging Market Economies,Other emerging,Oct 2020,2.0
+146,OFI,Emerging Market Economies,Other emerging,Apr 2021,2.0
