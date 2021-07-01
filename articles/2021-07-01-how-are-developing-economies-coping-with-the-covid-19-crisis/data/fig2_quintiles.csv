@@ -1,0 +1,106 @@
+,sector,market,country,time,quintile
+0,Sovereign,Advanced Economies,United States,Apr 2020,2
+1,Sovereign,Advanced Economies,United States,Oct 2020,1
+2,Sovereign,Advanced Economies,United States,Apr 2021,1
+3,Companies,Advanced Economies,United States,Apr 2020,2
+4,Companies,Advanced Economies,United States,Oct 2020,2
+5,Companies,Advanced Economies,United States,Apr 2021,3
+6,Households,Advanced Economies,United States,Apr 2020,4
+7,Households,Advanced Economies,United States,Oct 2020,4
+8,Households,Advanced Economies,United States,Apr 2021,4
+9,Banks,Advanced Economies,United States,Apr 2020,5
+10,Banks,Advanced Economies,United States,Oct 2020,5
+11,Banks,Advanced Economies,United States,Apr 2021,5
+12,Insurers,Advanced Economies,United States,Apr 2020,2
+13,Insurers,Advanced Economies,United States,Oct 2020,2
+14,Insurers,Advanced Economies,United States,Apr 2021,2
+15,Asset managers,Advanced Economies,United States,Apr 2020,1
+16,Asset managers,Advanced Economies,United States,Oct 2020,1
+17,Asset managers,Advanced Economies,United States,Apr 2021,2
+18,OFI,Advanced Economies,United States,Apr 2020,2
+19,OFI,Advanced Economies,United States,Oct 2020,2
+20,OFI,Advanced Economies,United States,Apr 2021,2
+21,Sovereign,Advanced Economies,Euro area,Apr 2020,1
+22,Sovereign,Advanced Economies,Euro area,Oct 2020,1
+23,Sovereign,Advanced Economies,Euro area,Apr 2021,1
+24,Companies,Advanced Economies,Euro area,Apr 2020,3
+25,Companies,Advanced Economies,Euro area,Oct 2020,1
+26,Companies,Advanced Economies,Euro area,Apr 2021,1
+27,Households,Advanced Economies,Euro area,Apr 2020,5
+28,Households,Advanced Economies,Euro area,Oct 2020,5
+29,Households,Advanced Economies,Euro area,Apr 2021,4
+30,Banks,Advanced Economies,Euro area,Apr 2020,2
+31,Banks,Advanced Economies,Euro area,Oct 2020,1
+32,Banks,Advanced Economies,Euro area,Apr 2021,2
+33,Insurers,Advanced Economies,Euro area,Apr 2020,4
+34,Insurers,Advanced Economies,Euro area,Oct 2020,4
+35,Insurers,Advanced Economies,Euro area,Apr 2021,4
+36,Asset managers,Advanced Economies,Euro area,Apr 2020,3
+37,Asset managers,Advanced Economies,Euro area,Oct 2020,2
+38,Asset managers,Advanced Economies,Euro area,Apr 2021,3
+39,OFI,Advanced Economies,Euro area,Apr 2020,4
+40,OFI,Advanced Economies,Euro area,Oct 2020,4
+41,OFI,Advanced Economies,Euro area,Apr 2021,4
+42,Sovereign,Advanced Economies,Other advanced,Apr 2020,3
+43,Sovereign,Advanced Economies,Other advanced,Oct 2020,1
+44,Sovereign,Advanced Economies,Other advanced,Apr 2021,1
+45,Companies,Advanced Economies,Other advanced,Apr 2020,4
+46,Companies,Advanced Economies,Other advanced,Oct 2020,1
+47,Companies,Advanced Economies,Other advanced,Apr 2021,2
+48,Households,Advanced Economies,Other advanced,Apr 2020,1
+49,Households,Advanced Economies,Other advanced,Oct 2020,1
+50,Households,Advanced Economies,Other advanced,Apr 2021,1
+51,Banks,Advanced Economies,Other advanced,Apr 2020,5
+52,Banks,Advanced Economies,Other advanced,Oct 2020,4
+53,Banks,Advanced Economies,Other advanced,Apr 2021,4
+54,Insurers,Advanced Economies,Other advanced,Apr 2020,2
+55,Insurers,Advanced Economies,Other advanced,Oct 2020,2
+56,Insurers,Advanced Economies,Other advanced,Apr 2021,1
+57,Asset managers,Advanced Economies,Other advanced,Apr 2020,3
+58,Asset managers,Advanced Economies,Other advanced,Oct 2020,3
+59,Asset managers,Advanced Economies,Other advanced,Apr 2021,3
+60,OFI,Advanced Economies,Other advanced,Apr 2020,2
+61,OFI,Advanced Economies,Other advanced,Oct 2020,1
+62,OFI,Advanced Economies,Other advanced,Apr 2021,2
+63,Sovereign,Emerging Market Economies,China,Apr 2020,3
+64,Sovereign,Emerging Market Economies,China,Oct 2020,2
+65,Sovereign,Emerging Market Economies,China,Apr 2021,2
+66,Companies,Emerging Market Economies,China,Apr 2020,1
+67,Companies,Emerging Market Economies,China,Oct 2020,1
+68,Companies,Emerging Market Economies,China,Apr 2021,1
+69,Households,Emerging Market Economies,China,Apr 2020,1
+70,Households,Emerging Market Economies,China,Oct 2020,1
+71,Households,Emerging Market Economies,China,Apr 2021,1
+72,Banks,Emerging Market Economies,China,Apr 2020,1
+73,Banks,Emerging Market Economies,China,Oct 2020,1
+74,Banks,Emerging Market Economies,China,Apr 2021,1
+75,Insurers,Emerging Market Economies,China,Apr 2020,3
+76,Insurers,Emerging Market Economies,China,Oct 2020,2
+77,Insurers,Emerging Market Economies,China,Apr 2021,2
+78,Asset managers,Emerging Market Economies,China,Apr 2020,1
+79,Asset managers,Emerging Market Economies,China,Oct 2020,1
+80,Asset managers,Emerging Market Economies,China,Apr 2021,2
+81,OFI,Emerging Market Economies,China,Apr 2020,3
+82,OFI,Emerging Market Economies,China,Oct 2020,4
+83,OFI,Emerging Market Economies,China,Apr 2021,4
+84,Sovereign,Emerging Market Economies,Other emerging,Apr 2020,1
+85,Sovereign,Emerging Market Economies,Other emerging,Oct 2020,1
+86,Sovereign,Emerging Market Economies,Other emerging,Apr 2021,1
+87,Companies,Emerging Market Economies,Other emerging,Apr 2020,2
+88,Companies,Emerging Market Economies,Other emerging,Oct 2020,1
+89,Companies,Emerging Market Economies,Other emerging,Apr 2021,2
+90,Households,Emerging Market Economies,Other emerging,Apr 2020,2
+91,Households,Emerging Market Economies,Other emerging,Oct 2020,2
+92,Households,Emerging Market Economies,Other emerging,Apr 2021,2
+93,Banks,Emerging Market Economies,Other emerging,Apr 2020,2
+94,Banks,Emerging Market Economies,Other emerging,Oct 2020,1
+95,Banks,Emerging Market Economies,Other emerging,Apr 2021,1
+96,Insurers,Emerging Market Economies,Other emerging,Apr 2020,3
+97,Insurers,Emerging Market Economies,Other emerging,Oct 2020,3
+98,Insurers,Emerging Market Economies,Other emerging,Apr 2021,3
+99,Asset managers,Emerging Market Economies,Other emerging,Apr 2020,4
+100,Asset managers,Emerging Market Economies,Other emerging,Oct 2020,4
+101,Asset managers,Emerging Market Economies,Other emerging,Apr 2021,5
+102,OFI,Emerging Market Economies,Other emerging,Apr 2020,2
+103,OFI,Emerging Market Economies,Other emerging,Oct 2020,2
+104,OFI,Emerging Market Economies,Other emerging,Apr 2021,2
