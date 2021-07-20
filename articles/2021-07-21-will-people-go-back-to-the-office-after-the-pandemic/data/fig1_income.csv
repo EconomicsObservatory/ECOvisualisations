@@ -1,0 +1,33 @@
+,income,category,value
+0,£50000 or more,I will work all my hours from my usual place of work,0.05
+1,£50000 or more,Hybrid working,0.93
+2,£50000 or more,I will continue to work from home and not return to my usual place of work,0.01
+3,£50000 or more,Other,0.01
+4,£40000 up to £50000,I will work all my hours from my usual place of work,0.07
+5,£40000 up to £50000,Hybrid working,0.9
+6,£40000 up to £50000,I will continue to work from home and not return to my usual place of work,0.03
+7,£40000 up to £50000,Other,0.01
+8,£30000 up to £40000,I will work all my hours from my usual place of work,0.07
+9,£30000 up to £40000,Hybrid working,0.88
+10,£30000 up to £40000,I will continue to work from home and not return to my usual place of work,0.03
+11,£30000 up to £40000,Other,0.02
+12,£20000 up to £30000,I will work all my hours from my usual place of work,0.11
+13,£20000 up to £30000,Hybrid working,0.83
+14,£20000 up to £30000,I will continue to work from home and not return to my usual place of work,0.05
+15,£20000 up to £30000,Other,0.02
+16,£15000 up to £20000,I will work all my hours from my usual place of work,0.2
+17,£15000 up to £20000,Hybrid working,0.71
+18,£15000 up to £20000,I will continue to work from home and not return to my usual place of work,0.08
+19,£15000 up to £20000,Other,0.02
+20,£10000 up to £15000,I will work all my hours from my usual place of work,0.15
+21,£10000 up to £15000,Hybrid working,0.77
+22,£10000 up to £15000,I will continue to work from home and not return to my usual place of work,0.08
+23,£10000 up to £15000,Other,0.0
+24,Up to £10000,I will work all my hours from my usual place of work,0.31
+25,Up to £10000,Hybrid working,0.62
+26,Up to £10000,I will continue to work from home and not return to my usual place of work,0.03
+27,Up to £10000,Other,0.05
+28,Working population,I will work all my hours from my usual place of work,0.1
+29,Working population,Hybrid working,0.85
+30,Working population,I will continue to work from home and not return to my usual place of work,0.04
+31,Working population,Other,0.01
