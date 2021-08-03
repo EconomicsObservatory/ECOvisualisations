@@ -1,0 +1,312 @@
+﻿local_authorities,y_axis_allcat_rank,x_axis_imd_rank,lad_id,country,levelling_up_categorisation,region,supergroup_name,quadrant,label_2_highest_lowest
+Haringey,11,37,E09000014,England,2,London,London Cosmopolitan,quadrant 1,lab
+Great Yarmouth,26,24,E07000145,England,1,East,Countryside Living,quadrant 1,lab
+Luton,8,52,E06000032,England,1,East,Ethnically Diverse Metropolitan Living,quadrant 1,nolab
+Tendring,29,32,E07000076,England,1,East,Countryside Living,quadrant 1,nolab
+Barking and Dagenham,58,5,E09000002,England,1,London,Ethnically Diverse Metropolitan Living,quadrant 1,nolab
+Brent,19,49,E09000005,England,2,London,Ethnically Diverse Metropolitan Living,quadrant 1,nolab
+Torridge,4,67,E07000046,England,1,South West,Countryside Living,quadrant 1,nolab
+Newham,66,12,E09000025,England,1,London,Ethnically Diverse Metropolitan Living,quadrant 1,nolab
+Waltham Forest,34,45,E09000031,England,2,London,Ethnically Diverse Metropolitan Living,quadrant 1,nolab
+Slough,7,73,E06000039,England,3,South East,Ethnically Diverse Metropolitan Living,quadrant 1,nolab
+East Lindsey,57,30,E07000137,England,1,East Midlands,Countryside Living,quadrant 1,nolab
+Blackpool,88,1,E06000009,England,1,North West,Services and Industrial Legacy,quadrant 1,nolab
+Liverpool,86,4,E08000012,England,1,North West,"Business, Education and Heritage Centres",quadrant 1,nolab
+Enfield,33,59,E09000010,England,2,London,Ethnically Diverse Metropolitan Living,quadrant 1,nolab
+Folkestone and Hythe,20,84,E07000112,England,1,South East,Countryside Living,quadrant 1,nolab
+Cornwall,27,83,E06000052,England,2,South West,Countryside Living,quadrant 1,nolab
+Coventry,43,81,E08000026,England,2,West Midlands,"Business, Education and Heritage Centres",quadrant 1,nolab
+Gravesham,6,119,E07000109,England,1,South East,Urban Settlements,quadrant 1,nolab
+North Devon,3,123,E07000043,England,3,South West,Countryside Living,quadrant 1,nolab
+Nottingham,119,10,E06000018,England,1,East Midlands,"Business, Education and Heritage Centres",quadrant 1,nolab
+Lewisham,95,35,E09000023,England,2,London,Ethnically Diverse Metropolitan Living,quadrant 1,nolab
+Lambeth,93,42,E09000022,England,3,London,London Cosmopolitan,quadrant 1,nolab
+Kensington and Chelsea,13,122,E09000020,England,2,London,London Cosmopolitan,quadrant 1,nolab
+Wellingborough,16,124,E07000156,England,1,East Midlands,Urban Settlements,quadrant 1,nolab
+Thurrock,25,116,E06000034,England,2,East,Urban Settlements,quadrant 1,nolab
+North Norfolk,52,94,E07000147,England,2,East,Countryside Living,quadrant 1,nolab
+Ealing,59,88,E09000009,England,2,London,Ethnically Diverse Metropolitan Living,quadrant 1,nolab
+Allerdale,39,109,E07000026,England,2,North West,Countryside Living,quadrant 1,nolab
+Westminster,14,134,E09000033,England,3,London,London Cosmopolitan,quadrant 1,nolab
+Hackney,146,7,E09000012,England,2,London,London Cosmopolitan,quadrant 1,nolab
+Arun,5,149,E07000224,England,2,South East,Countryside Living,quadrant 1,nolab
+Fenland,104,51,E07000010,England,2,East,Town and Country Living,quadrant 1,nolab
+Dartford,10,145,E07000107,England,3,South East,Urban Settlements,quadrant 1,nolab
+Hounslow,61,95,E09000018,England,3,London,Ethnically Diverse Metropolitan Living,quadrant 1,nolab
+Greenwich,98,60,E09000011,England,2,London,Ethnically Diverse Metropolitan Living,quadrant 1,nolab
+Boston,73,85,E07000136,England,1,East Midlands,Urban Settlements,quadrant 1,nolab
+Peterborough,106,53,E06000031,England,1,East,Urban Settlements,quadrant 1,nolab
+Hillingdon,9,151,E09000017,England,2,London,Ethnically Diverse Metropolitan Living,quadrant 1,nolab
+Torbay,115,48,E06000027,England,1,South West,Countryside Living,quadrant 1,nolab
+Stoke on Trent,153,15,E06000021,England,1,West Midlands,Urban Settlements,quadrant 1,nolab
+Middlesbrough,156,16,E06000002,England,1,North East,Urban Settlements,quadrant 3,nolab
+East Suffolk,17,158,E07000244,England,2,East,Countryside Living,quadrant 2,nolab
+Dover,69,107,E07000108,England,1,South East,Countryside Living,quadrant 1,nolab
+Portsmouth,125,57,E06000044,England,2,South East,"Business, Education and Heritage Centres",quadrant 1,nolab
+Southend on Sea,55,129,E06000033,England,1,East,Urban Settlements,quadrant 1,nolab
+Birmingham,179,6,E08000025,England,1,West Midlands,Ethnically Diverse Metropolitan Living,quadrant 3,nolab
+West Devon,46,139,E07000047,England,2,South West,Countryside Living,quadrant 1,nolab
+Southwark,143,43,E09000028,England,3,London,London Cosmopolitan,quadrant 1,nolab
+Redbridge,31,160,E09000026,England,3,London,Ethnically Diverse Metropolitan Living,quadrant 2,nolab
+West Suffolk,15,176,E07000245,England,3,East,Countryside Living,quadrant 2,nolab
+Gateshead,140,54,E08000037,England,1,North East,Services and Industrial Legacy,quadrant 1,nolab
+Hammersmith and Fulham,100,96,E09000013,England,3,London,London Cosmopolitan,quadrant 1,nolab
+Manchester,201,2,E08000003,England,1,North West,"Business, Education and Heritage Centres",quadrant 3,nolab
+Castle Point,21,182,E07000069,England,2,East,Town and Country Living,quadrant 2,nolab
+Thanet,170,34,E07000114,England,1,South East,Countryside Living,quadrant 3,nolab
+Broxbourne,51,153,E07000095,England,2,East,Urban Settlements,quadrant 1,nolab
+Croydon,103,102,E09000008,England,2,London,Ethnically Diverse Metropolitan Living,quadrant 1,nolab
+North East Lincolnshire,141,66,E06000012,England,1,Yorkshire and The Humber,Services and Industrial Legacy,quadrant 1,nolab
+Scarborough,133,75,E07000168,England,1,Yorkshire and The Humber,Countryside Living,quadrant 1,nolab
+King's Lynn and West Norfolk,130,79,E07000146,England,1,East,Countryside Living,quadrant 1,nolab
+Somerset West and Taunton,67,142,E07000246,England,2,South West,Countryside Living,quadrant 1,nolab
+Teignbridge,23,186,E07000045,England,3,South West,Countryside Living,quadrant 2,nolab
+Hastings,197,13,E07000062,England,1,South East,Urban Settlements,quadrant 3,nolab
+"Bristol, City of",129,82,E06000023,England,2,South West,"Business, Education and Heritage Centres",quadrant 1,nolab
+Havering,38,179,E09000016,England,2,London,Urban Settlements,quadrant 2,nolab
+Spelthorne,18,201,E07000213,England,3,South East,Affluent England,quadrant 2,nolab
+Preston,174,46,E07000123,England,1,North West,"Business, Education and Heritage Centres",quadrant 3,nolab
+Crawley,84,136,E07000226,England,3,South East,Urban Settlements,quadrant 1,nolab
+Basildon,110,111,E07000066,England,3,East,Urban Settlements,quadrant 1,nolab
+Northampton,117,105,E07000154,England,2,East Midlands,Urban Settlements,quadrant 1,nolab
+Eden,56,169,E07000030,England,2,North West,Countryside Living,quadrant 2,nolab
+Milton Keynes,53,172,E06000042,England,3,South East,Urban Settlements,quadrant 2,nolab
+Camden,97,132,E09000007,England,2,London,London Cosmopolitan,quadrant 1,nolab
+South Tyneside,204,26,E08000023,England,1,North East,Services and Industrial Legacy,quadrant 3,nolab
+Wolverhampton,212,19,E08000031,England,1,West Midlands,Urban Settlements,quadrant 3,nolab
+Knowsley,229,3,E08000011,England,1,North West,Services and Industrial Legacy,quadrant 3,nolab
+Nuneaton and Bedworth,131,101,E07000219,England,2,West Midlands,Urban Settlements,quadrant 1,nolab
+Worcester,74,159,E07000237,England,1,West Midlands,Urban Settlements,quadrant 2,nolab
+Oldham,207,29,E08000004,England,1,North West,Urban Settlements,quadrant 3,nolab
+Rother,101,135,E07000064,England,1,South East,Countryside Living,quadrant 1,nolab
+North West Leicestershire,22,215,E07000134,England,2,East Midlands,Town and Country Living,quadrant 2,nolab
+Amber Valley,71,167,E07000032,England,2,East Midlands,Town and Country Living,quadrant 2,nolab
+Dacorum,2,239,E07000096,England,3,East,Affluent England,quadrant 2,nolab
+Wirral,165,77,E08000015,England,2,North West,Services and Industrial Legacy,quadrant 3,nolab
+Tameside,220,23,E08000008,England,1,North West,Urban Settlements,quadrant 3,nolab
+Erewash,75,168,E07000036,England,1,East Midlands,Town and Country Living,quadrant 2,nolab
+Wandsworth,72,173,E09000032,England,3,London,London Cosmopolitan,quadrant 2,nolab
+Epping Forest,45,200,E07000072,England,3,East,Affluent England,quadrant 2,nolab
+Dorset,49,197,E06000059,England,3,South West,Countryside Living,quadrant 2,nolab
+Harrow,47,199,E09000015,England,3,London,Ethnically Diverse Metropolitan Living,quadrant 2,nolab
+East Staffordshire,92,157,E07000193,England,1,West Midlands,Town and Country Living,quadrant 2,nolab
+East Devon,12,237,E07000040,England,3,South West,Countryside Living,quadrant 2,nolab
+Tower Hamlets,223,27,E09000030,England,3,London,London Cosmopolitan,quadrant 3,nolab
+Norwich,191,61,E07000148,England,2,East,"Business, Education and Heritage Centres",quadrant 3,nolab
+Malvern Hills,65,187,E07000235,England,2,West Midlands,Countryside Living,quadrant 2,nolab
+Staffordshire Moorlands,48,204,E07000198,England,1,West Midlands,Town and Country Living,quadrant 2,nolab
+Eastbourne,147,106,E07000061,England,1,South East,"Business, Education and Heritage Centres",quadrant 1,nolab
+South Hams,35,218,E07000044,England,3,South West,Countryside Living,quadrant 2,nolab
+Hertsmere,30,223,E07000098,England,2,East,Affluent England,quadrant 2,nolab
+Lincoln,186,68,E07000138,England,1,East Midlands,"Business, Education and Heritage Centres",quadrant 3,nolab
+Islington,227,28,E09000019,England,3,London,London Cosmopolitan,quadrant 3,nolab
+Lancaster,144,112,E07000121,England,2,North West,"Business, Education and Heritage Centres",quadrant 1,nolab
+Ipswich,188,71,E07000202,England,2,East,Urban Settlements,quadrant 3,nolab
+Sedgemoor,139,121,E07000188,England,1,South West,Countryside Living,quadrant 1,nolab
+Barnet,76,184,E09000003,England,2,London,Ethnically Diverse Metropolitan Living,quadrant 2,nolab
+Leicester,239,22,E06000016,England,1,East Midlands,Ethnically Diverse Metropolitan Living,quadrant 3,nolab
+South Lakeland,24,241,E07000031,England,3,North West,Countryside Living,quadrant 2,nolab
+Newark and Sherwood,118,148,E07000175,England,1,East Midlands,Town and Country Living,quadrant 1,nolab
+Swale,198,69,E07000113,England,1,South East,Town and Country Living,quadrant 3,nolab
+Corby,199,70,E07000150,England,2,East Midlands,Urban Settlements,quadrant 3,nolab
+Bexley,82,190,E09000004,England,3,London,Urban Settlements,quadrant 2,nolab
+Harlow,173,100,E07000073,England,1,East,Urban Settlements,quadrant 3,nolab
+Watford,78,195,E07000103,England,2,East,Urban Settlements,quadrant 2,nolab
+Merton,60,213,E09000024,England,2,London,Ethnically Diverse Metropolitan Living,quadrant 2,nolab
+Canterbury,89,185,E07000106,England,1,South East,"Business, Education and Heritage Centres",quadrant 2,nolab
+Hyndburn,258,18,E07000120,England,1,North West,Urban Settlements,quadrant 3,nolab
+South Kesteven,44,233,E07000141,England,3,East Midlands,Town and Country Living,quadrant 2,nolab
+Rochdale,261,17,E08000005,England,1,North West,Urban Settlements,quadrant 3,nolab
+Craven,40,238,E07000163,England,3,Yorkshire and The Humber,Countryside Living,quadrant 2,nolab
+Wyre,132,147,E07000128,England,3,North West,Countryside Living,quadrant 1,nolab
+Gosport,150,130,E07000088,England,1,South East,Services and Industrial Legacy,quadrant 1,nolab
+Plymouth,209,72,E06000026,England,2,South West,"Business, Education and Heritage Centres",quadrant 3,nolab
+Newcastle under Lyme,135,150,E07000195,England,2,West Midlands,Town and Country Living,quadrant 1,nolab
+Ryedale,107,180,E07000167,England,2,Yorkshire and The Humber,Countryside Living,quadrant 2,nolab
+Burnley,277,11,E07000117,England,1,North West,Urban Settlements,quadrant 3,nolab
+Bolton,243,47,E08000001,England,1,North West,Urban Settlements,quadrant 3,nolab
+Southampton,235,55,E06000045,England,2,South East,"Business, Education and Heritage Centres",quadrant 3,nolab
+Havant,157,133,E07000090,England,2,South East,Services and Industrial Legacy,quadrant 3,nolab
+Breckland,164,127,E07000143,England,2,East,Countryside Living,quadrant 3,nolab
+Uttlesford,1,290,E07000077,England,3,East,Affluent England,quadrant 2,nolab
+Rotherham,242,50,E08000018,England,1,Yorkshire and The Humber,Services and Industrial Legacy,quadrant 3,nolab
+Darlington,189,103,E06000005,England,2,North East,Services and Industrial Legacy,quadrant 3,nolab
+Gloucester,154,138,E07000081,England,1,South West,Urban Settlements,quadrant 1,nolab
+Blackburn with Darwen,280,14,E06000008,England,1,North West,Urban Settlements,quadrant 3,nolab
+Central Bedfordshire,32,262,E06000056,England,3,East,Affluent England,quadrant 2,nolab
+Pendle,260,36,E07000122,England,1,North West,Urban Settlements,quadrant 3,nolab
+Isle of Wight,216,80,E06000046,England,2,South East,Countryside Living,quadrant 3,nolab
+"Kingston upon Hull, City of",288,9,E06000010,England,1,Yorkshire and The Humber,Urban Settlements,quadrant 3,nolab
+Stratford on Avon,41,257,E07000221,England,2,West Midlands,Countryside Living,quadrant 2,nolab
+Salford,279,20,E08000006,England,2,North West,Urban Settlements,quadrant 3,nolab
+Ashfield,236,63,E07000170,England,2,East Midlands,Services and Industrial Legacy,quadrant 3,nolab
+Chesterfield,213,86,E07000034,England,1,East Midlands,Services and Industrial Legacy,quadrant 3,nolab
+Reading,158,141,E06000038,England,2,South East,"Business, Education and Heritage Centres",quadrant 3,nolab
+Stafford,68,232,E07000197,England,3,West Midlands,Town and Country Living,quadrant 2,nolab
+Sandwell,294,8,E08000028,England,1,West Midlands,Urban Settlements,quadrant 3,nolab
+Halton,264,39,E06000006,England,2,North West,Services and Industrial Legacy,quadrant 3,nolab
+Wychavon,113,191,E07000238,England,2,West Midlands,Town and Country Living,quadrant 2,nolab
+Forest of Dean,162,143,E07000080,England,1,South West,Town and Country Living,quadrant 3,nolab
+Rugby,85,221,E07000220,England,3,West Midlands,Urban Settlements,quadrant 2,nolab
+Mendip,137,170,E07000187,England,1,South West,Countryside Living,quadrant 2,nolab
+High Peak,105,202,E07000037,England,1,East Midlands,Town and Country Living,quadrant 2,nolab
+Cotswold,37,270,E07000079,England,3,South West,Countryside Living,quadrant 2,nolab
+Tamworth,183,125,E07000199,England,2,West Midlands,Services and Industrial Legacy,quadrant 3,nolab
+St. Helens,270,40,E08000013,England,1,North West,Services and Industrial Legacy,quadrant 3,nolab
+Doncaster,269,41,E08000017,England,1,Yorkshire and The Humber,Services and Industrial Legacy,quadrant 3,nolab
+Sefton,222,89,E08000014,England,3,North West,Services and Industrial Legacy,quadrant 3,nolab
+South Staffordshire,77,234,E07000196,England,2,West Midlands,Town and Country Living,quadrant 2,nolab
+Barrow in Furness,268,44,E07000027,England,1,North West,Services and Industrial Legacy,quadrant 3,nolab
+Northumberland,182,131,E06000057,England,1,North East,Countryside Living,quadrant 3,nolab
+Derbyshire Dales,50,263,E07000035,England,1,East Midlands,Countryside Living,quadrant 2,nolab
+Redcar and Cleveland,253,62,E06000003,England,1,North East,Services and Industrial Legacy,quadrant 3,nolab
+Woking,36,279,E07000217,England,3,South East,Affluent England,quadrant 2,nolab
+Bedford,160,156,E06000055,England,2,East,Urban Settlements,quadrant 4,nolab
+Shropshire,152,165,E06000051,England,2,West Midlands,Countryside Living,quadrant 2,nolab
+Solihull,112,206,E08000029,England,3,West Midlands,Town and Country Living,quadrant 2,nolab
+Newcastle upon Tyne,245,74,E08000021,England,1,North East,"Business, Education and Heritage Centres",quadrant 3,nolab
+Bradford,300,21,E08000032,England,1,Yorkshire and The Humber,Urban Settlements,quadrant 3,nolab
+Lewes,127,194,E07000063,England,1,South East,Countryside Living,quadrant 2,nolab
+Mansfield,267,56,E07000174,England,1,East Midlands,Services and Industrial Legacy,quadrant 3,nolab
+Stockton on Tees,210,113,E06000004,England,1,North East,Services and Industrial Legacy,quadrant 3,nolab
+West Lindsey,177,146,E07000142,England,2,East Midlands,Countryside Living,quadrant 3,nolab
+Medway,226,98,E06000035,England,2,South East,Urban Settlements,quadrant 3,nolab
+Babergh,114,211,E07000200,England,3,East,Town and Country Living,quadrant 2,nolab
+Hartlepool,301,25,E06000001,England,1,North East,Services and Industrial Legacy,quadrant 3,nolab
+East Cambridgeshire,63,264,E07000009,England,3,East,Town and Country Living,quadrant 2,nolab
+Sunderland,295,33,E08000024,England,1,North East,Services and Industrial Legacy,quadrant 3,nolab
+"Bournemouth, Christchurch and Poole",163,166,E06000058,England,3,South West,"Business, Education and Heritage Centres",quadrant 4,nolab
+Colchester,149,181,E07000071,England,2,East,Affluent England,quadrant 2,nolab
+South Holland,187,144,E07000140,England,2,East Midlands,Town and Country Living,quadrant 3,nolab
+Bromsgrove,62,269,E07000234,England,2,West Midlands,Town and Country Living,quadrant 2,nolab
+Bolsover,276,58,E07000033,England,2,East Midlands,Services and Industrial Legacy,quadrant 3,nolab
+Brighton and Hove,194,140,E06000043,England,3,South East,"Business, Education and Heritage Centres",quadrant 3,nolab
+Sutton,108,226,E09000029,England,2,London,Urban Settlements,quadrant 2,nolab
+Broadland,79,255,E07000144,England,3,East,Town and Country Living,quadrant 2,nolab
+Calderdale,259,76,E08000033,England,2,Yorkshire and The Humber,Urban Settlements,quadrant 3,nolab
+Walsall,305,31,E08000030,England,1,West Midlands,Urban Settlements,quadrant 3,nolab
+County Durham,271,65,E06000047,England,1,North East,Services and Industrial Legacy,quadrant 3,nolab
+North Somerset,116,220,E06000024,England,2,South West,Countryside Living,quadrant 2,nolab
+Daventry,94,242,E07000151,England,2,East Midlands,Town and Country Living,quadrant 2,nolab
+Derby,248,90,E06000015,England,1,East Midlands,Urban Settlements,quadrant 3,nolab
+Reigate and Banstead,64,274,E07000211,England,3,South East,Affluent England,quadrant 2,nolab
+Hart,28,311,E07000089,England,3,South East,Affluent England,quadrant 2,nolab
+"Herefordshire, County of",203,137,E06000019,England,2,West Midlands,Countryside Living,quadrant 3,nolab
+Rutland,42,298,E06000017,England,2,East Midlands,Countryside Living,quadrant 2,nolab
+Adur,178,164,E07000223,England,2,South East,Town and Country Living,quadrant 4,nolab
+Barnsley,307,38,E08000016,England,2,Yorkshire and The Humber,Services and Industrial Legacy,quadrant 3,nolab
+Wakefield,281,64,E08000036,England,1,Yorkshire and The Humber,Services and Industrial Legacy,quadrant 3,nolab
+Carlisle,230,115,E07000028,England,2,North West,Services and Industrial Legacy,quadrant 3,nolab
+Cherwell,126,219,E07000177,England,3,South East,Affluent England,quadrant 2,nolab
+Harrogate,70,275,E07000165,England,3,Yorkshire and The Humber,Countryside Living,quadrant 2,nolab
+Bury,237,110,E08000002,England,1,North West,Urban Settlements,quadrant 3,nolab
+Maidstone,159,188,E07000110,England,2,South East,Affluent England,quadrant 4,nolab
+Wealden,96,252,E07000065,England,2,South East,Countryside Living,quadrant 2,nolab
+Cheshire West and Chester,167,183,E06000050,England,2,North West,Town and Country Living,quadrant 4,nolab
+South Ribble,142,209,E07000126,England,3,North West,Town and Country Living,quadrant 2,nolab
+Cheshire East,124,227,E06000049,England,3,North West,Town and Country Living,quadrant 2,nolab
+Wyre Forest,240,114,E07000239,England,1,West Midlands,Town and Country Living,quadrant 3,nolab
+St Albans,54,301,E07000240,England,3,East,Affluent England,quadrant 2,nolab
+Oxford,169,189,E07000178,England,3,South East,"Business, Education and Heritage Centres",quadrant 4,nolab
+North Tyneside,232,128,E08000022,England,2,North East,Services and Industrial Legacy,quadrant 3,nolab
+East Hampshire,81,281,E07000085,England,2,South East,Affluent England,quadrant 2,nolab
+Chichester,151,212,E07000225,England,3,South East,Countryside Living,quadrant 2,nolab
+Swindon,193,171,E06000030,England,3,South West,Urban Settlements,quadrant 4,nolab
+York,91,273,E06000014,England,3,Yorkshire and The Humber,"Business, Education and Heritage Centres",quadrant 2,nolab
+Rochford,83,282,E07000075,England,3,East,Town and Country Living,quadrant 2,nolab
+Sheffield,273,93,E08000019,England,2,Yorkshire and The Humber,"Business, Education and Heritage Centres",quadrant 3,nolab
+Bromley,138,229,E09000006,England,3,London,Affluent England,quadrant 2,nolab
+Stevenage,252,117,E07000243,England,3,East,Urban Settlements,quadrant 3,nolab
+Leeds,278,92,E08000035,England,1,Yorkshire and The Humber,"Business, Education and Heritage Centres",quadrant 3,nolab
+Lichfield,122,248,E07000194,England,3,West Midlands,Town and Country Living,quadrant 2,nolab
+Copeland,293,78,E07000029,England,2,North West,Services and Industrial Legacy,quadrant 3,nolab
+Bath and North East Somerset,99,272,E06000022,England,2,South West,"Business, Education and Heritage Centres",quadrant 2,nolab
+Richmond upon Thames,80,292,E09000027,England,3,London,Affluent England,quadrant 2,nolab
+North Warwickshire,219,155,E07000218,England,2,West Midlands,Town and Country Living,quadrant 3,nolab
+Gedling,168,207,E07000173,England,2,East Midlands,Town and Country Living,quadrant 4,nolab
+Oadby and Wigston,128,247,E07000135,England,2,East Midlands,Town and Country Living,quadrant 2,nolab
+Chorley,184,192,E07000118,England,2,North West,Town and Country Living,quadrant 4,nolab
+Maldon,166,210,E07000074,England,2,East,Town and Country Living,quadrant 4,nolab
+Tandridge,123,256,E07000215,England,2,South East,Affluent England,quadrant 2,nolab
+Kingston upon Thames,111,268,E09000021,England,3,London,"Business, Education and Heritage Centres",quadrant 2,nolab
+Stockport,228,154,E08000007,England,1,North West,Town and Country Living,quadrant 3,nolab
+Kirklees,299,87,E08000034,England,2,Yorkshire and The Humber,Urban Settlements,quadrant 3,nolab
+Rossendale,296,91,E07000125,England,1,North West,Services and Industrial Legacy,quadrant 3,nolab
+Fylde,190,198,E07000119,England,2,North West,Countryside Living,quadrant 4,nolab
+Warrington,218,175,E06000007,England,2,North West,Town and Country Living,quadrant 4,nolab
+South Northamptonshire,87,307,E07000155,England,3,East Midlands,Town and Country Living,quadrant 2,nolab
+Elmbridge,90,305,E07000207,England,3,South East,Affluent England,quadrant 2,nolab
+Stroud,120,276,E07000082,England,2,South West,Town and Country Living,quadrant 2,nolab
+West Oxfordshire,102,296,E07000181,England,3,South East,Affluent England,quadrant 2,nolab
+Ashford,247,152,E07000105,England,2,South East,Town and Country Living,quadrant 3,nolab
+Cambridge,195,205,E07000008,England,3,East,"Business, Education and Heritage Centres",quadrant 4,nolab
+Wigan,304,97,E08000010,England,1,North West,Services and Industrial Legacy,quadrant 3,nolab
+Telford and Wrekin,303,99,E06000020,England,3,West Midlands,Urban Settlements,quadrant 3,nolab
+North Lincolnshire,282,120,E06000013,England,1,Yorkshire and The Humber,Town and Country Living,quadrant 3,nolab
+Redditch,286,118,E07000236,England,2,West Midlands,Urban Settlements,quadrant 3,nolab
+South Somerset,241,163,E07000189,England,2,South West,Countryside Living,quadrant 4,nolab
+Brentwood,121,283,E07000068,England,3,East,Affluent England,quadrant 2,nolab
+Braintree,202,203,E07000067,England,2,East,Town and Country Living,quadrant 4,nolab
+Windsor and Maidenhead,109,299,E06000040,England,3,South East,Affluent England,quadrant 2,nolab
+Warwick,148,261,E07000222,England,3,West Midlands,"Business, Education and Heritage Centres",quadrant 2,nolab
+Dudley,306,104,E08000027,England,1,West Midlands,Services and Industrial Legacy,quadrant 3,nolab
+East Northamptonshire,185,225,E07000152,England,1,East Midlands,Town and Country Living,quadrant 4,nolab
+Tonbridge and Malling,175,235,E07000115,England,3,South East,Affluent England,quadrant 4,nolab
+Cannock Chase,287,126,E07000192,England,2,West Midlands,Services and Industrial Legacy,quadrant 3,nolab
+Rushmoor,217,196,E07000092,England,3,South East,Urban Settlements,quadrant 4,nolab
+Trafford,208,208,E08000009,England,1,North West,Urban Settlements,quadrant 4,nolab
+Bassetlaw,309,108,E07000171,England,1,East Midlands,Town and Country Living,quadrant 3,nolab
+Winchester,136,288,E07000094,England,3,South East,Affluent England,quadrant 2,nolab
+Chelmsford,172,258,E07000070,England,3,East,Affluent England,quadrant 4,nolab
+South Oxfordshire,134,297,E07000179,England,3,South East,Affluent England,quadrant 2,nolab
+West Lancashire,256,178,E07000127,England,2,North West,Town and Country Living,quadrant 4,nolab
+Mid Suffolk,206,228,E07000203,England,3,East,Town and Country Living,quadrant 4,nolab
+Kettering,284,161,E07000153,England,1,East Midlands,Urban Settlements,quadrant 4,nolab
+Hinckley and Bosworth,214,231,E07000132,England,3,East Midlands,Town and Country Living,quadrant 4,nolab
+Worthing,272,174,E07000229,England,3,South East,Urban Settlements,quadrant 4,nolab
+Richmondshire,200,249,E07000166,England,1,Yorkshire and The Humber,Countryside Living,quadrant 4,nolab
+East Riding of Yorkshire,238,216,E06000011,England,2,Yorkshire and The Humber,Countryside Living,quadrant 4,nolab
+Wokingham,145,310,E06000041,England,3,South East,Affluent England,quadrant 2,nolab
+Three Rivers,171,287,E07000102,England,3,East,Affluent England,quadrant 4,nolab
+Cheltenham,224,236,E07000078,England,3,South West,"Business, Education and Heritage Centres",quadrant 4,nolab
+Mid Sussex,155,306,E07000228,England,3,South East,Affluent England,quadrant 2,nolab
+North Hertfordshire,196,267,E07000099,England,2,East,Affluent England,quadrant 4,nolab
+East Hertfordshire,161,302,E07000242,England,3,East,Affluent England,quadrant 4,nolab
+Runnymede,211,254,E07000212,England,3,South East,Affluent England,quadrant 4,nolab
+West Berkshire,181,285,E06000037,England,3,South East,Affluent England,quadrant 4,nolab
+Horsham,180,286,E07000227,England,3,South East,Affluent England,quadrant 4,nolab
+Selby,221,250,E07000169,England,2,Yorkshire and The Humber,Town and Country Living,quadrant 4,nolab
+Mid Devon,310,162,E07000042,England,2,South West,Countryside Living,quadrant 4,nolab
+Welwyn Hatfield,262,214,E07000241,England,3,East,"Business, Education and Heritage Centres",quadrant 4,nolab
+Sevenoaks,225,251,E07000111,England,3,South East,Affluent England,quadrant 4,nolab
+Vale of White Horse,176,300,E07000180,England,3,South East,Affluent England,quadrant 4,nolab
+Charnwood,234,243,E07000130,England,3,East Midlands,Town and Country Living,quadrant 4,nolab
+Wiltshire,250,230,E06000054,England,3,South West,Town and Country Living,quadrant 4,nolab
+North East Derbyshire,311,177,E07000038,England,2,East Midlands,Town and Country Living,quadrant 4,nolab
+Tewkesbury,231,259,E07000083,England,3,South West,Town and Country Living,quadrant 4,nolab
+Harborough,192,303,E07000131,England,3,East Midlands,Town and Country Living,quadrant 4,nolab
+Huntingdonshire,251,245,E07000011,England,3,East,Town and Country Living,quadrant 4,nolab
+Guildford,205,291,E07000209,England,3,South East,Affluent England,quadrant 4,nolab
+Exeter,308,193,E07000041,England,3,South West,"Business, Education and Heritage Centres",quadrant 4,nolab
+Tunbridge Wells,233,271,E07000116,England,3,South East,Affluent England,quadrant 4,nolab
+South Derbyshire,292,217,E07000039,England,3,East Midlands,Town and Country Living,quadrant 4,nolab
+Epsom and Ewell,215,294,E07000208,England,3,South East,Affluent England,quadrant 4,nolab
+Melton,266,246,E07000133,England,2,East Midlands,Town and Country Living,quadrant 4,nolab
+South Norfolk,291,224,E07000149,England,2,East,Town and Country Living,quadrant 4,nolab
+New Forest,275,240,E07000091,England,3,South East,Countryside Living,quadrant 4,nolab
+Broxtowe,298,222,E07000172,England,2,East Midlands,Town and Country Living,quadrant 4,nolab
+Blaby,249,277,E07000129,England,3,East Midlands,Town and Country Living,quadrant 4,nolab
+Basingstoke and Deane,283,244,E07000084,England,3,South East,Affluent England,quadrant 4,nolab
+Fareham,244,293,E07000087,England,3,South East,Town and Country Living,quadrant 4,nolab
+North Kesteven,274,266,E07000139,England,2,East Midlands,Countryside Living,quadrant 4,nolab
+Hambleton,290,253,E07000164,England,3,Yorkshire and The Humber,Countryside Living,quadrant 4,nolab
+Bracknell Forest,265,280,E06000036,England,3,South East,Affluent England,quadrant 4,nolab
+Mole Valley,257,289,E07000210,England,3,South East,Affluent England,quadrant 4,nolab
+Eastleigh,263,284,E07000086,England,3,South East,Town and Country Living,quadrant 4,nolab
+South Cambridgeshire,254,295,E07000012,England,3,East,Affluent England,quadrant 4,nolab
+Surrey Heath,246,304,E07000214,England,3,South East,Affluent England,quadrant 4,nolab
+South Gloucestershire,289,265,E06000025,England,3,South West,Town and Country Living,quadrant 4,nolab
+Test Valley,302,260,E07000093,England,3,South East,Affluent England,quadrant 4,nolab
+Ribble Valley,285,278,E07000124,England,3,North West,Countryside Living,quadrant 4,nolab
+Waverley,255,308,E07000216,England,3,South East,Affluent England,quadrant 4,lab
+Rushcliffe,297,309,E07000176,England,3,East Midlands,Affluent England,quadrant 4,lab

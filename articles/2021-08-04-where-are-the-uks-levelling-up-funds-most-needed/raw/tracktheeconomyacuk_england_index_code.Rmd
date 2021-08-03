@@ -1,0 +1,222 @@
+---
+title: "202107_england_index"
+author: '@arifpras'
+date: "28/07/2021"
+output: html_document
+---
+
+```{r}
+#load necessary packages
+pacman::p_load(data.table, readxl, dplyr, ggplot2, writexl, glue, ggsci, RColorBrewer, viridis, ggrepel, tidyverse, ggthemes, ggpubr, usethis, corrplot, cowplot, wesanderson, openxlsx, xlsx, xtable, egg, grid, arrow, lubridate, zoo, TTR)
+
+#set working directory
+setwd("~/OneDrive - The University of Nottingham/03_ResearchAssistant/EconomicTracker/LevellingFund/20210728")
+```
+
+```{r}
+#create our own palette, modifying Color Brewer's Set3 by ignoring 'yellow'
+ourSet3 <- c("#8DD3C7", "#BEBADA", "#FB8072", "#80B1D3", "#FDB462",
+             "#B3DE69", "#FCCDE5", "#BC80BD")
+```
+
+```{r}
+#load the main database: england_db_index.csv
+db <- read.csv("england_db_index.csv", stringsAsFactors = FALSE)
+as_factor(db$levelling_up_categorisation)
+```
+
+```{r}
+#create correlation plot between the final rank of all categories and the imd 2019 rank
+#only black dots
+fig01 <- db %>% filter(!is.na(levelling_up_categorisation)) %>% 
+  ggplot(aes(x = x_axis_imd_rank, y = y_axis_allcat_rank)) +
+  geom_point(alpha = 0.3, size = 3) +
+  scale_y_continuous(limits = c(1, 311),
+                     breaks = c(1, 311)) +
+  scale_x_continuous(limits = c(1, 311),
+                     breaks = c(1, 311)) +
+  geom_vline(xintercept = 155.5, 
+             linetype = "dotted") +
+  geom_hline(yintercept = 155.5, 
+             linetype = "dotted") +
+  theme_test() +
+  theme(axis.text.x = element_text(size = 11),
+        axis.ticks.x = element_blank(),
+        axis.line.x = element_blank(),
+        axis.title.x = element_text(size = 10),
+        axis.line.y = element_blank(),
+        axis.title.y = element_text(size = 10),
+        axis.text.y = element_text(size = 11),
+        plot.title.position = "plot",
+        plot.caption.position =  "plot",
+        legend.title = element_text(size = 10),
+        legend.text = element_text(size = 9),
+        legend.key.size = unit(0.5, 'cm'),
+        legend.spacing = unit(2, 'cm'),
+        plot.title = element_text(hjust = 0, size = 17,
+                                  face = "bold"),
+        plot.subtitle = element_text(hjust = 0, size = 16),
+        plot.caption = element_text(hjust = 0, size = 10,),
+        #legend.title = element_blank(),
+        legend.position = "top",
+        strip.text.x = element_text(size = 12),
+        panel.grid.major.y = element_line(colour = "grey97"),
+        panel.ontop = FALSE) +
+  labs(title = "The correlations between 2019 IMD and Real-time Index",
+       subtitle = "Based on 311 areas in England.",
+       caption = "\nNotes: Each dot is a local authority in England. Author calculations derived from Office for National Statistics, Experian, Fable Data, Huq, Decision Maker Panel (derived by Will Rossiter & 
+            Konstantinos Karagounis, Nottingham Trent University), Ministry of Housing, Communities & Local Government English Index of Multiple Deprivation (2019) and 
+            Her Majesty's Treasury Levelling Up Fund priority category datasets.") +
+  ylab(bquote(atop(symbol('\254') ~ "Increasing Covid Economic Impact -- Decreasing Covid Economic Impact" ~ symbol( '\256'), "(Ranking of Real-Time Index)"))) +
+  xlab(bquote(atop(symbol('\254') ~ "Increasing Deprivation -- Decreasing Deprivation" ~ symbol('\256'), "(Ranking of English Index of Multiple Deprivation, 2019)"))) +
+  geom_text_repel(data = . %>%
+                  filter(label_2_highest_lowest == "lab"),
+                  aes(x = x_axis_imd_rank,
+                      y = y_axis_allcat_rank,
+                      label = local_authorities),
+                  direction = "y",
+                  min.segment.length = 0, #line, no matter how short
+                  nudge_y = 1,
+                  size = 3,
+                  alpha = 1,
+                  show.legend = FALSE)
+  
+fig01
+ggsave(filename="tracktheeconomyacuk_figure1_england.pdf",
+       device = cairo_pdf, 
+       width = 297, 
+       height = 210, 
+       units = "mm")
+```
+
+```{r}
+#create correlation plot between the final rank of all categories and the imd 2019 rank 
+#coloring dots by levelling up fund
+fig02 <- db %>% filter(!is.na(levelling_up_categorisation)) %>% 
+  ggplot(aes(x = x_axis_imd_rank, y = y_axis_allcat_rank)) +
+  geom_point(aes(color = factor(levelling_up_categorisation)), 
+             alpha = 0.5, size = 3) +
+  scale_color_manual(
+    values = c("#D6604D", "#4393C3", "#D9D9D9"),
+    labels = c("1: Most Need", "2: Mid Need", "3: Least Need")) +
+  scale_y_continuous(limits = c(1, 311),
+                     breaks = c(1, 311)) +
+  scale_x_continuous(limits = c(1, 311),
+                     breaks = c(1, 311)) +
+  geom_vline(xintercept = 155.5, 
+             linetype = "dotted") +
+  geom_hline(yintercept = 155.5, 
+             linetype = "dotted") +
+  theme_test() +
+  theme(axis.text.x = element_text(size = 11),
+        axis.ticks.x = element_blank(),
+        axis.line.x = element_blank(),
+        axis.title.x = element_text(size = 10),
+        axis.line.y = element_blank(),
+        axis.title.y = element_text(size = 10),
+        axis.text.y = element_text(size = 11),
+        plot.title.position = "plot",
+        plot.caption.position =  "plot",
+        legend.title = element_text(size = 10),
+        legend.text = element_text(size = 9),
+        legend.key.size = unit(0.5, 'cm'),
+        legend.spacing = unit(2, 'cm'),
+        plot.title = element_text(hjust = 0, size = 17,
+                                  face = "bold"),
+        plot.subtitle = element_text(hjust = 0, size = 16),
+        plot.caption = element_text(hjust = 0, size = 10,),
+        #legend.title = element_blank(),
+        legend.position = "top",
+        strip.text.x = element_text(size = 12),
+        panel.grid.major.y = element_line(colour = "grey97"),
+        panel.ontop = FALSE) +
+  guides(color = guide_legend("Levelling Up Fund category:")) +
+  labs(title = "The correlations between 2019 IMD and Real-time Index",
+       subtitle = "Based on 311 areas in England.",
+       caption = "\nNotes: Each dot is a local authority in England. Author calculations derived from Office for National Statistics, Experian, Fable Data, Huq, Decision Maker Panel (derived by Will Rossiter & 
+            Konstantinos Karagounis, Nottingham Trent University), Ministry of Housing, Communities & Local Government English Index of Multiple Deprivation (2019) and 
+            Her Majesty's Treasury Levelling Up Fund priority category datasets.") +
+  ylab(bquote(atop(symbol('\254') ~ "Increasing Covid Economic Impact -- Decreasing Covid Economic Impact" ~ symbol( '\256'), "(Ranking of Real-Time Index)"))) +
+  xlab(bquote(atop(symbol('\254') ~ "Increasing Deprivation -- Decreasing Deprivation" ~ symbol('\256'), "(Ranking of English Index of Multiple Deprivation, 2019)"))) +
+  geom_text_repel(data = . %>%
+                  filter(label_2_highest_lowest == "lab"),
+                  aes(x = x_axis_imd_rank,
+                      y = y_axis_allcat_rank,
+                      label = local_authorities,
+                      color = factor(levelling_up_categorisation)),
+                  direction = "y",
+                  min.segment.length = 0, #line, no matter how short
+                  nudge_y = 1,
+                  size = 3,
+                  alpha = 1,
+                  show.legend = FALSE)
+
+fig02
+ggsave(filename="tracktheeconomyacuk_figure2_england.pdf",
+       device = cairo_pdf, 
+       width = 297, 
+       height = 210, 
+       units = "mm")
+```
+
+```{r}
+#create correlation plot between the final rank of all categories and the imd 2019 rank
+#rouped by the ONS's 2011 supergroup
+fig03 <- db %>% filter(!is.na(levelling_up_categorisation)) %>% 
+  ggplot(aes(x = x_axis_imd_rank, y= y_axis_allcat_rank)) +
+  geom_point(aes(color = factor(supergroup_name)), 
+             alpha = 1.4, size = 3) +
+  scale_color_manual(values = ourSet3, 
+                     na.value = "black") +
+  scale_y_continuous(limits = c(1, 311),
+                     breaks = c(1, 311)) +
+  scale_x_continuous(limits = c(1, 311),
+                     breaks = c(1, 311)) +
+  geom_vline(xintercept = 155.5, 
+             linetype = "dotted") +
+  geom_hline(yintercept = 155.5, 
+             linetype = "dotted") +
+  theme_test() +
+  theme(axis.text.x = element_text(size = 11),
+        axis.ticks.x = element_blank(),
+        axis.line.x = element_blank(),
+        axis.title.x = element_text(size = 10),
+        axis.line.y = element_blank(),
+        axis.title.y = element_text(size = 10),
+        axis.text.y = element_text(size = 11),
+        plot.title.position = "plot",
+        plot.caption.position =  "plot",
+        legend.title = element_text(size = 10),
+        legend.text = element_text(size = 9),
+        legend.key.size = unit(0.5, 'cm'),
+        legend.spacing = unit(2, 'cm'),
+        plot.title = element_text(hjust = 0, size = 17,
+                                  face = "bold"),
+        plot.subtitle = element_text(hjust = 0, size = 16),
+        plot.caption = element_text(hjust = 0, size = 10,),
+        #legend.title = element_blank(),
+        legend.position = "none",
+        strip.text.x = element_text(size = 12),
+        panel.grid.major.y = element_line(colour = "grey97"),
+        panel.ontop = FALSE) +
+  guides(color = guide_legend("The ONS's 2011 supergroup:",
+                              nrow = 2,
+                              byrow=TRUE)) +
+  labs(title = "The correlations between 2019 IMD and Real-time Index",
+       subtitle = "Based on 311 areas in England.",
+       caption = "\nNotes: Each dot is a local authority in England. Author calculations derived from Office for National Statistics, Experian, Fable Data, Huq, Decision Maker Panel (derived by Will Rossiter & 
+            Konstantinos Karagounis, Nottingham Trent University), Ministry of Housing, Communities & Local Government English Index of Multiple Deprivation (2019) and 
+            Her Majesty's Treasury Levelling Up Fund priority category datasets.") +
+  ylab(bquote(atop(symbol('\254') ~ "Increasing Covid Economic Impact -- Decreasing Covid Economic Impact" ~ symbol( '\256'), "(Ranking of Real-Time Index)"))) +
+  xlab(bquote(atop(symbol('\254') ~ "Increasing Deprivation -- Decreasing Deprivation" ~ symbol('\256'), "(Ranking of English Index of Multiple Deprivation, 2019)"))) +
+  facet_wrap(~ supergroup_name,
+             strip.position = "top")
+
+fig03
+ggsave(filename="tracktheeconomyacuk_figure3_england.pdf",
+       device = cairo_pdf, 
+       width = 297, 
+       height = 210, 
+       units = "mm")
+```
+
