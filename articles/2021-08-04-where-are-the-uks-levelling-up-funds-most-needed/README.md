@@ -1,3 +1,3 @@
-### fig3_faceted_local
-!["fig3_faceted_local"](visualisation/fig3_faceted_local.png "fig3_faceted_local")
+### fig3_faceted
+!["fig3_faceted"](visualisation/fig3_faceted.png "fig3_faceted")
 
