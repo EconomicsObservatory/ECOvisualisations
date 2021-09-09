@@ -1,0 +1,17 @@
+Name                              Content                          Source              Link
+
+
+duration_school_closures.csv      School closures                  UNESCO              https://en.unesco.org/covid19/educationresponse
+
+countries_en.csv                  Country labels                   ILO                 https://ilostat.ilo.org/resources/concepts-and-definitions/classification-country-groupings/
+
+
+enrollmentdata.csv                Primary school enrollment        World Bank          https://databank.worldbank.org
+
+populationdata.csv		  Population 0-14                  World Bank          https://databank.worldbank.org
+
+gdp_per_capita.csv                GDP per capita                   World Bank          https://databank.worldbank.org
+
+years_of_schooling.csv            Years of schooling               UNDP                http://hdr.undp.org/en/indicators/103006#
+
+coviddata.csv                     COVID cases                      WHO                 https://covid19.who.int/table
