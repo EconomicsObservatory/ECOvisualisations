@@ -1,24 +1,24 @@
-### fig1_not_playing_local
-!["fig1_not_playing_local"](visualisation/fig1_not_playing_local.png "fig1_not_playing_local")
+### fig1_not_playing
+!["fig1_not_playing"](visualisation/fig1_not_playing.png "fig1_not_playing")
 
-### fig2_pitch_local
-!["fig2_pitch_local"](visualisation/fig2_pitch_local.png "fig2_pitch_local")
+### fig2_pitch
+!["fig2_pitch"](visualisation/fig2_pitch.png "fig2_pitch")
 
-### fig3_pass_local
-!["fig3_pass_local"](visualisation/fig3_pass_local.png "fig3_pass_local")
+### fig3_pass
+!["fig3_pass"](visualisation/fig3_pass.png "fig3_pass")
 
-### fig4_match_pass_local
-!["fig4_match_pass_local"](visualisation/fig4_match_pass_local.png "fig4_match_pass_local")
+### fig4_match_pass
+!["fig4_match_pass"](visualisation/fig4_match_pass.png "fig4_match_pass")
 
-### fig5_margin_local
-!["fig5_margin_local"](visualisation/fig5_margin_local.png "fig5_margin_local")
+### fig5_margin
+!["fig5_margin"](visualisation/fig5_margin.png "fig5_margin")
 
-### fig6a_injuries_local
-!["fig6a_injuries_local"](visualisation/fig6a_injuries_local.png "fig6a_injuries_local")
+### fig6a_injuries
+!["fig6a_injuries"](visualisation/fig6a_injuries.png "fig6a_injuries")
 
-### fig6b_infections_local
-!["fig6b_infections_local"](visualisation/fig6b_infections_local.png "fig6b_infections_local")
+### fig6b_infections
+!["fig6b_infections"](visualisation/fig6b_infections.png "fig6b_infections")
 
-### fig7_quartile_local
-!["fig7_quartile_local"](visualisation/fig7_quartile_local.png "fig7_quartile_local")
+### fig7_quartile
+!["fig7_quartile"](visualisation/fig7_quartile.png "fig7_quartile")
 
