@@ -7,6 +7,10 @@
     "title": "How might changes to social care funding affect different service users?",
     "url": "",
     "trello": "https://trello.com/c/OBD0y9V3/484-d37-how-might-changes-to-social-care-funding-affect-different-service-users",
-    "github": "",
-    "charts": []
+    "github": "https://github.com/EconomicsObservatory/ECOvisualisations/tree/main/articles/how-might-changes-to-social-care-funding-affect-different-service-users",
+    "charts": [
+        "fig3_spread",
+        "fig2_test",
+        "fig3_initial"
+    ]
 }
