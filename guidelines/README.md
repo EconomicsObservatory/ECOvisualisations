@@ -155,6 +155,8 @@ When creating charts, usually the first step is to envisage the type of chart th
 - The [Awesome-dataviz](https://github.com/fasouto/awesome-dataviz) list
 - The [cube.js](https://cube.dev/blog/dataviz-ecosystem-2021/) list
 
+## 🍨 Visualisaton types
+
 ### Line plot
 
 Line plots are excellent for showing temporal changes in data.
