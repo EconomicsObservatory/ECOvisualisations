@@ -1,18 +1,18 @@
-### fig1a_workers-full_local
-!["fig1a_workers-full_local"](visualisation/fig1a_workers-full_local.png "fig1a_workers-full_local")
+### fig1a_workers-full
+!["fig1a_workers-full"](visualisation/fig1a_workers-full.png "fig1a_workers-full")
 
-### fig1b_workers-part_local
-!["fig1b_workers-part_local"](visualisation/fig1b_workers-part_local.png "fig1b_workers-part_local")
+### fig1b_workers-part
+!["fig1b_workers-part"](visualisation/fig1b_workers-part.png "fig1b_workers-part")
 
-### fig2a_young-workers-full_local
-!["fig2a_young-workers-full_local"](visualisation/fig2a_young-workers-full_local.png "fig2a_young-workers-full_local")
+### fig2a_young-workers-full
+!["fig2a_young-workers-full"](visualisation/fig2a_young-workers-full.png "fig2a_young-workers-full")
 
-### fig2b_young-workers-part_local
-!["fig2b_young-workers-part_local"](visualisation/fig2b_young-workers-part_local.png "fig2b_young-workers-part_local")
+### fig2b_young-workers-part
+!["fig2b_young-workers-part"](visualisation/fig2b_young-workers-part.png "fig2b_young-workers-part")
 
-### fig3a_older-workers-full_local
-!["fig3a_older-workers-full_local"](visualisation/fig3a_older-workers-full_local.png "fig3a_older-workers-full_local")
+### fig3a_older-workers-full
+!["fig3a_older-workers-full"](visualisation/fig3a_older-workers-full.png "fig3a_older-workers-full")
 
-### fig3b_older-workers-part_local
-!["fig3b_older-workers-part_local"](visualisation/fig3b_older-workers-part_local.png "fig3b_older-workers-part_local")
+### fig3b_older-workers-part
+!["fig3b_older-workers-part"](visualisation/fig3b_older-workers-part.png "fig3b_older-workers-part")
 
