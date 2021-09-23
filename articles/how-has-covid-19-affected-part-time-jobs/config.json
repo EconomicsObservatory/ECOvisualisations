@@ -5,8 +5,15 @@
     "previous": "",
     "next": "",
     "title": "How has Covid-19 affected part-time jobs?",
-    "url": "",
+    "url": "https://www.economicsobservatory.com/how-has-covid-19-affected-part-time-jobs",
     "trello": "https://trello.com/c/u1EdX7Yt/483-f36-how-has-covid-19-affected-part-time-jobs",
     "github": "",
-    "charts": []
+    "charts": [
+        "fig1a_workers-full",
+        "fig1b_workers-part",
+        "fig2a_young-workers-full",
+        "fig2b_young-workers-part",
+        "fig3a_older-workers-full",
+        "fig3b_older-workers-part"
+    ]
 }
