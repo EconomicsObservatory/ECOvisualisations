@@ -1,24 +1,48 @@
-### fig1_not_playing
-!["fig1_not_playing"](visualisation/fig1_not_playing.png "fig1_not_playing")
+### fig1_climate_scenarios_local
+!["fig1_climate_scenarios_local"](visualisation/fig1_climate_scenarios_local.png "fig1_climate_scenarios_local")
 
-### fig2_pitch
-!["fig2_pitch"](visualisation/fig2_pitch.png "fig2_pitch")
+### fig3_cherry_blossom_local
+!["fig3_cherry_blossom_local"](visualisation/fig3_cherry_blossom_local.png "fig3_cherry_blossom_local")
 
-### fig3_pass
-!["fig3_pass"](visualisation/fig3_pass.png "fig3_pass")
+### fig3_cherry_blossom_local
+!["fig3_cherry_blossom_local"](visualisation/fig3_cherry_blossom_local.png "fig3_cherry_blossom_local")
 
-### fig4_match_pass
-!["fig4_match_pass"](visualisation/fig4_match_pass.png "fig4_match_pass")
+### fig3_cherry_blossom_local
+!["fig3_cherry_blossom_local"](visualisation/fig3_cherry_blossom_local.png "fig3_cherry_blossom_local")
 
-### fig5_margin
-!["fig5_margin"](visualisation/fig5_margin.png "fig5_margin")
+### fig3_cherry_blossom_local
+!["fig3_cherry_blossom_local"](visualisation/fig3_cherry_blossom_local.png "fig3_cherry_blossom_local")
 
-### fig6a_injuries
-!["fig6a_injuries"](visualisation/fig6a_injuries.png "fig6a_injuries")
+### fig4a_ice_local
+!["fig4a_ice_local"](visualisation/fig4a_ice_local.png "fig4a_ice_local")
 
-### fig6b_infections
-!["fig6b_infections"](visualisation/fig6b_infections.png "fig6b_infections")
+### fig4a_ice_local
+!["fig4a_ice_local"](visualisation/fig4a_ice_local.png "fig4a_ice_local")
 
-### fig7_quartile
-!["fig7_quartile"](visualisation/fig7_quartile.png "fig7_quartile")
+### fig4b_glaciers_local
+!["fig4b_glaciers_local"](visualisation/fig4b_glaciers_local.png "fig4b_glaciers_local")
+
+### fig4b_glaciers_local
+!["fig4b_glaciers_local"](visualisation/fig4b_glaciers_local.png "fig4b_glaciers_local")
+
+### fig4b_glaciers_local
+!["fig4b_glaciers_local"](visualisation/fig4b_glaciers_local.png "fig4b_glaciers_local")
+
+### fig4b_glaciers_local
+!["fig4b_glaciers_local"](visualisation/fig4b_glaciers_local.png "fig4b_glaciers_local")
+
+### fig4b_glaciers_local
+!["fig4b_glaciers_local"](visualisation/fig4b_glaciers_local.png "fig4b_glaciers_local")
+
+### fig4b_glaciers_local
+!["fig4b_glaciers_local"](visualisation/fig4b_glaciers_local.png "fig4b_glaciers_local")
+
+### fig4b_glaciers_local
+!["fig4b_glaciers_local"](visualisation/fig4b_glaciers_local.png "fig4b_glaciers_local")
+
+### fig4b_glaciers_local
+!["fig4b_glaciers_local"](visualisation/fig4b_glaciers_local.png "fig4b_glaciers_local")
+
+### fig4b_glaciers_local
+!["fig4b_glaciers_local"](visualisation/fig4b_glaciers_local.png "fig4b_glaciers_local")
 
