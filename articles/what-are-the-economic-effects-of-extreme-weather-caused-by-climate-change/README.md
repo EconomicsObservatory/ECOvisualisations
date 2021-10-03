@@ -1,6 +1,6 @@
-### fig1a_extreme-events
-!["fig1a_extreme-events"](visualisation/fig1a_extreme-events.png "fig1a_extreme-events")
+### fig1a_extreme-events_local
+!["fig1a_extreme-events_local"](visualisation/fig1a_extreme-events_local.png "fig1a_extreme-events_local")
 
-### fig1a_extreme-event-dotplot
-!["fig1a_extreme-event-dotplot"](visualisation/fig1a_extreme-event-dotplot.png "fig1a_extreme-event-dotplot")
+### fig1b_extreme-event-dotplot_local
+!["fig1b_extreme-event-dotplot_local"](visualisation/fig1b_extreme-event-dotplot_local.png "fig1b_extreme-event-dotplot_local")
 
