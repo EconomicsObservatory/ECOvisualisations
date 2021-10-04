@@ -1,0 +1,41 @@
+,industry,index,value,year
+0,Upstream,Upstream_2017,0.0,2017
+1,Upstream,Upstream_2018,0.0,2018
+2,Upstream,Upstream_2019,475.0,2019
+3,Upstream,Upstream_2020,326.0,2020
+4,Upstream,Upstream_2021E,351.0,2021E
+5,Mid/downstream,Mid/downstream_2017,0.0,2017
+6,Mid/downstream,Mid/downstream_2018,0.0,2018
+7,Mid/downstream,Mid/downstream_2019,281.0,2019
+8,Mid/downstream,Mid/downstream_2020,197.0,2020
+9,Mid/downstream,Mid/downstream_2021E,252.0,2021E
+10,Coal supply,Coal supply_2017,0.0,2017
+11,Coal supply,Coal supply_2018,0.0,2018
+12,Coal supply,Coal supply_2019,99.1,2019
+13,Coal supply,Coal supply_2020,90.2,2020
+14,Coal supply,Coal supply_2021E,90.6,2021E
+15,Low-carbon fuels,Low-carbon fuels_2017,0.0,2017
+16,Low-carbon fuels,Low-carbon fuels_2018,0.0,2018
+17,Low-carbon fuels,Low-carbon fuels_2019,8.99,2019
+18,Low-carbon fuels,Low-carbon fuels_2020,8.35,2020
+19,Low-carbon fuels,Low-carbon fuels_2021E,14.6,2021E
+20,Renewable power,Renewable power_2017,0.0,2017
+21,Renewable power,Renewable power_2018,0.0,2018
+22,Renewable power,Renewable power_2019,336.0,2019
+23,Renewable power,Renewable power_2020,359.0,2020
+24,Renewable power,Renewable power_2021E,367.0,2021E
+25,Fossil fuel power,Fossil fuel power_2017,0.0,2017
+26,Fossil fuel power,Fossil fuel power_2018,0.0,2018
+27,Fossil fuel power,Fossil fuel power_2019,130.0,2019
+28,Fossil fuel power,Fossil fuel power_2020,113.0,2020
+29,Fossil fuel power,Fossil fuel power_2021E,119.0,2021E
+30,Nuclear power,Nuclear power_2017,0.0,2017
+31,Nuclear power,Nuclear power_2018,0.0,2018
+32,Nuclear power,Nuclear power_2019,39.1,2019
+33,Nuclear power,Nuclear power_2020,41.7,2020
+34,Nuclear power,Nuclear power_2021E,44.0,2021E
+35,Electricity networks and battery storage,Electricity networks and battery storage_2017,0.0,2017
+36,Electricity networks and battery storage,Electricity networks and battery storage_2018,0.0,2018
+37,Electricity networks and battery storage,Electricity networks and battery storage_2019,273.0,2019
+38,Electricity networks and battery storage,Electricity networks and battery storage_2020,265.0,2020
+39,Electricity networks and battery storage,Electricity networks and battery storage_2021E,293.0,2021E

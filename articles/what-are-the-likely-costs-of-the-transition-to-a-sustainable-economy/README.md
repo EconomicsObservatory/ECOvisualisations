@@ -1,24 +1,186 @@
-### fig1_not_playing
-!["fig1_not_playing"](visualisation/fig1_not_playing.png "fig1_not_playing")
+### fig1_lcoe_local
+!["fig1_lcoe_local"](visualisation/fig1_lcoe_local.png "fig1_lcoe_local")
 
-### fig2_pitch
-!["fig2_pitch"](visualisation/fig2_pitch.png "fig2_pitch")
+### fig1_lcoe_local_dark
+!["fig1_lcoe_local_dark"](visualisation/fig1_lcoe_local_dark.png "fig1_lcoe_local_dark")
 
-### fig3_pass
-!["fig3_pass"](visualisation/fig3_pass.png "fig3_pass")
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
 
-### fig4_match_pass
-!["fig4_match_pass"](visualisation/fig4_match_pass.png "fig4_match_pass")
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
 
-### fig5_margin
-!["fig5_margin"](visualisation/fig5_margin.png "fig5_margin")
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
 
-### fig6a_injuries
-!["fig6a_injuries"](visualisation/fig6a_injuries.png "fig6a_injuries")
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
 
-### fig6b_infections
-!["fig6b_infections"](visualisation/fig6b_infections.png "fig6b_infections")
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
 
-### fig7_quartile
-!["fig7_quartile"](visualisation/fig7_quartile.png "fig7_quartile")
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local
+!["fig2_energy-investment_local"](visualisation/fig2_energy-investment_local.png "fig2_energy-investment_local")
+
+### fig2_energy-investment_local_dark
+!["fig2_energy-investment_local_dark"](visualisation/fig2_energy-investment_local_dark.png "fig2_energy-investment_local_dark")
+
+### fig2_energy-investment_local_dark_dark
+!["fig2_energy-investment_local_dark_dark"](visualisation/fig2_energy-investment_local_dark_dark.png "fig2_energy-investment_local_dark_dark")
+
+### fig2_energy-investment_local_dark_dark_dark
+!["fig2_energy-investment_local_dark_dark_dark"](visualisation/fig2_energy-investment_local_dark_dark_dark.png "fig2_energy-investment_local_dark_dark_dark")
+
+### fig2_energy-investment_local_dark_dark_dark_dark
+!["fig2_energy-investment_local_dark_dark_dark_dark"](visualisation/fig2_energy-investment_local_dark_dark_dark_dark.png "fig2_energy-investment_local_dark_dark_dark_dark")
+
+### fig2_energy-investment_local_dark_dark_dark_dark_dark
+!["fig2_energy-investment_local_dark_dark_dark_dark_dark"](visualisation/fig2_energy-investment_local_dark_dark_dark_dark_dark.png "fig2_energy-investment_local_dark_dark_dark_dark_dark")
+
+### fig3_investment_local_dark
+!["fig3_investment_local_dark"](visualisation/fig3_investment_local_dark.png "fig3_investment_local_dark")
+
+### fig3_investment_local_dark
+!["fig3_investment_local_dark"](visualisation/fig3_investment_local_dark.png "fig3_investment_local_dark")
+
+### fig3_investment_local_dark
+!["fig3_investment_local_dark"](visualisation/fig3_investment_local_dark.png "fig3_investment_local_dark")
+
+### fig3_investment_local
+!["fig3_investment_local"](visualisation/fig3_investment_local.png "fig3_investment_local")
+
+### fig3_investment_local
+!["fig3_investment_local"](visualisation/fig3_investment_local.png "fig3_investment_local")
+
+### fig3_investment_local
+!["fig3_investment_local"](visualisation/fig3_investment_local.png "fig3_investment_local")
+
+### fig3_investment_local
+!["fig3_investment_local"](visualisation/fig3_investment_local.png "fig3_investment_local")
+
+### fig3_investment_local
+!["fig3_investment_local"](visualisation/fig3_investment_local.png "fig3_investment_local")
+
+### fig3_investment_local
+!["fig3_investment_local"](visualisation/fig3_investment_local.png "fig3_investment_local")
+
+### fig3_investment_local
+!["fig3_investment_local"](visualisation/fig3_investment_local.png "fig3_investment_local")
+
+### fig3_investment_local
+!["fig3_investment_local"](visualisation/fig3_investment_local.png "fig3_investment_local")
+
+### fig3_investment_local
+!["fig3_investment_local"](visualisation/fig3_investment_local.png "fig3_investment_local")
+
+### fig3_investment_local
+!["fig3_investment_local"](visualisation/fig3_investment_local.png "fig3_investment_local")
+
+### fig3_investment_local
+!["fig3_investment_local"](visualisation/fig3_investment_local.png "fig3_investment_local")
+
+### fig3_investment_local
+!["fig3_investment_local"](visualisation/fig3_investment_local.png "fig3_investment_local")
+
+### fig3_investment_local
+!["fig3_investment_local"](visualisation/fig3_investment_local.png "fig3_investment_local")
+
+### fig3_investment_local
+!["fig3_investment_local"](visualisation/fig3_investment_local.png "fig3_investment_local")
+
+### fig3_investment_local
+!["fig3_investment_local"](visualisation/fig3_investment_local.png "fig3_investment_local")
+
+### fig3_investment_local
+!["fig3_investment_local"](visualisation/fig3_investment_local.png "fig3_investment_local")
+
+### fig3_investment_local
+!["fig3_investment_local"](visualisation/fig3_investment_local.png "fig3_investment_local")
+
+### fig5_margin_local
+!["fig5_margin_local"](visualisation/fig5_margin_local.png "fig5_margin_local")
+
+### fig7_quartile_local
+!["fig7_quartile_local"](visualisation/fig7_quartile_local.png "fig7_quartile_local")
+
+### fig3_investment_local
+!["fig3_investment_local"](visualisation/fig3_investment_local.png "fig3_investment_local")
+
+### fig3_investment_local
+!["fig3_investment_local"](visualisation/fig3_investment_local.png "fig3_investment_local")
+
+### fig3_investment_local_dark
+!["fig3_investment_local_dark"](visualisation/fig3_investment_local_dark.png "fig3_investment_local_dark")
+
+### fig3_investment_local_dark_dark
+!["fig3_investment_local_dark_dark"](visualisation/fig3_investment_local_dark_dark.png "fig3_investment_local_dark_dark")
 
