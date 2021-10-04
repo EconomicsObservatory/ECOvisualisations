@@ -1,39 +1,30 @@
-### fig1_climate_scenarios_local
-!["fig1_climate_scenarios_local"](visualisation/fig1_climate_scenarios_local.png "fig1_climate_scenarios_local")
+### fig1_climate_scenarios
+!["fig1_climate_scenarios"](visualisation/fig1_climate_scenarios.png "fig1_climate_scenarios")
 
-### fig1_climate_scenarios_local
-!["fig1_climate_scenarios_local"](visualisation/fig1_climate_scenarios_local.png "fig1_climate_scenarios_local")
+### fig1_climate_scenarios
+!["fig1_climate_scenarios"](visualisation/fig1_climate_scenarios.png "fig1_climate_scenarios")
 
-### fig2_gdp_emissions_intensity_local
-!["fig2_gdp_emissions_intensity_local"](visualisation/fig2_gdp_emissions_intensity_local.png "fig2_gdp_emissions_intensity_local")
+### fig2_gdp_emissions_intensity
+!["fig2_gdp_emissions_intensity"](visualisation/fig2_gdp_emissions_intensity.png "fig2_gdp_emissions_intensity")
 
-### fig2_gdp_emissions_intensity_local
-!["fig2_gdp_emissions_intensity_local"](visualisation/fig2_gdp_emissions_intensity_local.png "fig2_gdp_emissions_intensity_local")
+### fig2_gdp_emissions_intensity
+!["fig2_gdp_emissions_intensity"](visualisation/fig2_gdp_emissions_intensity.png "fig2_gdp_emissions_intensity")
 
-### fig3_cherry_blossom_local
-!["fig3_cherry_blossom_local"](visualisation/fig3_cherry_blossom_local.png "fig3_cherry_blossom_local")
+### fig3_cherry_blossom
+!["fig3_cherry_blossom"](visualisation/fig3_cherry_blossom.png "fig3_cherry_blossom")
 
-### fig3_cherry_blossom_local
-!["fig3_cherry_blossom_local"](visualisation/fig3_cherry_blossom_local.png "fig3_cherry_blossom_local")
+### fig3_cherry_blossom
+!["fig3_cherry_blossom"](visualisation/fig3_cherry_blossom.png "fig3_cherry_blossom")
 
-### fig4a_ice_local
-!["fig4a_ice_local"](visualisation/fig4a_ice_local.png "fig4a_ice_local")
+### fig4a_ice
+!["fig4a_ice"](visualisation/fig4a_ice.png "fig4a_ice")
 
-### fig4a_ice_local
-!["fig4a_ice_local"](visualisation/fig4a_ice_local.png "fig4a_ice_local")
+### fig4a_ice
+!["fig4a_ice"](visualisation/fig4a_ice.png "fig4a_ice")
 
-### fig4b_glaciers_local
-!["fig4b_glaciers_local"](visualisation/fig4b_glaciers_local.png "fig4b_glaciers_local")
+### fig4b_glaciers
+!["fig4b_glaciers"](visualisation/fig4b_glaciers.png "fig4b_glaciers")
 
-### fig4b_glaciers_local
-!["fig4b_glaciers_local"](visualisation/fig4b_glaciers_local.png "fig4b_glaciers_local")
-
-### fig4b_glaciers_local
-!["fig4b_glaciers_local"](visualisation/fig4b_glaciers_local.png "fig4b_glaciers_local")
-
-### fig4b_glaciers_local
-!["fig4b_glaciers_local"](visualisation/fig4b_glaciers_local.png "fig4b_glaciers_local")
-
-### fig4b_glaciers_local
-!["fig4b_glaciers_local"](visualisation/fig4b_glaciers_local.png "fig4b_glaciers_local")
+### fig4b_glaciers
+!["fig4b_glaciers"](visualisation/fig4b_glaciers.png "fig4b_glaciers")
 
