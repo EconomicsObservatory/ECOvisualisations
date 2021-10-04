@@ -16,11 +16,11 @@
 ### fig3_cherry_blossom_dark
 !["fig3_cherry_blossom_dark"](visualisation/fig3_cherry_blossom_dark.png "fig3_cherry_blossom_dark")
 
+### fig4a_ice
+!["fig4a_ice"](visualisation/fig4a_ice.png "fig4a_ice")
+
 ### fig4a_ice_dark
 !["fig4a_ice_dark"](visualisation/fig4a_ice_dark.png "fig4a_ice_dark")
-
-### fig4a_ice_dark_dark
-!["fig4a_ice_dark_dark"](visualisation/fig4a_ice_dark_dark.png "fig4a_ice_dark_dark")
 
 ### fig4b_glaciers
 !["fig4b_glaciers"](visualisation/fig4b_glaciers.png "fig4b_glaciers")
