@@ -128,7 +128,7 @@ Our preferred `line-style` is always `solid ▬ 2px`. Secondary lines are shown 
 
 ## 🌌 Charting guidelines
 
-For every chart we create, we try to prametrise as much as possible, loading the color schemes and styles directly from this guideline repository folder. This allows us to maintain a consistent style for our charts and, if needed, correct appearance bugs and update all charts created in the past with new styles. Learn more about how do we accomplish this in the [Code](#-coding-guidelines) section.
+For every chart we create, we try to prametrise as much as possible, loading the color schemes and styles directly from this guideline repository folder. This allows us to maintain a consistent style for our charts and, if needed, correct appearance bugs and update all charts created in the past with new styles. Learn more about how do we accomplish this in the [Code](#-coding-guidelines) section. The inspiration comes from the [Urban Institute](https://www.urban.org/)'s [Dataviz Styleguide](https://urbaninstitute.github.io/graphics-styleguide/). Whenever possible, we try to automate the applying of styles to plots through themes. For Vega, themes look like [this](https://vega.github.io/vega-themes/), which also [translates](https://towardsdatascience.com/consistently-beautiful-visualizations-with-altair-themes-c7f9f889602) to [Altair](https://altair-viz.github.io/). 
 
 The aesthetic zens we follow are those of:
 
@@ -238,4 +238,4 @@ The coding zens we follow are those of:
 
 ## Make sure you check out the 📐[Data Guidelines ↗](https://github.com/EconomicsObservatory/ECOdataHUB/tree/main/guidelines) too!
 
-Updated on 📆 2021-05-15 by [Dénes Csala](https://csaladen.es)
+Updated on 📆 2021-10-04 by [Dénes Csala](https://csaladen.es)
