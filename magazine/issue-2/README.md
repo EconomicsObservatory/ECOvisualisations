@@ -40,9 +40,9 @@
 ### fig6b_time-allocation-b_dark
 !["fig6b_time-allocation-b_dark"](visualisation/fig6b_time-allocation-b_dark.png "fig6b_time-allocation-b_dark")
 
+### fig7_policies
+!["fig7_policies"](visualisation/fig7_policies.png "fig7_policies")
+
 ### fig7_policies_dark
 !["fig7_policies_dark"](visualisation/fig7_policies_dark.png "fig7_policies_dark")
-
-### fig7_policies_dark_dark
-!["fig7_policies_dark_dark"](visualisation/fig7_policies_dark_dark.png "fig7_policies_dark_dark")
 
