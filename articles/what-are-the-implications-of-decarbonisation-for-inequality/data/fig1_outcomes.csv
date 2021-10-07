@@ -1,0 +1,273 @@
+,cat,subcat,a,value
+0,Building codes,Environmental effectiveness,neg,0.0
+1,Building codes,Environmental effectiveness,o,0.15
+2,Building codes,Environmental effectiveness,pos,0.85
+3,Building codes,Environmental effectiveness,total,20.0
+4,Building codes,Technological effectiveness,total,0.0
+5,Building codes,Cost-related outcomes,neg,0.0
+6,Building codes,Cost-related outcomes,o,0.0
+7,Building codes,Cost-related outcomes,pos,1.0
+8,Building codes,Cost-related outcomes,total,8.0
+9,Building codes,Innovation incentives,total,0.0
+10,Building codes,Competitiveness,neg,0.0
+11,Building codes,Competitiveness,o,0.5
+12,Building codes,Competitiveness,pos,0.5
+13,Building codes,Competitiveness,total,2.0
+14,Building codes,Distributional outcomes,neg,0.0
+15,Building codes,Distributional outcomes,o,0.0
+16,Building codes,Distributional outcomes,pos,1.0
+17,Building codes,Distributional outcomes,total,3.0
+18,Building codes,Other social outcomes,neg,0.0
+19,Building codes,Other social outcomes,o,0.0
+20,Building codes,Other social outcomes,pos,1.0
+21,Building codes,Other social outcomes,total,1.0
+22,Renewable Portfolio Standards,Environmental effectiveness,neg,0.0
+23,Renewable Portfolio Standards,Environmental effectiveness,o,0.14285714285714285
+24,Renewable Portfolio Standards,Environmental effectiveness,pos,0.8571428571428571
+25,Renewable Portfolio Standards,Environmental effectiveness,total,14.0
+26,Renewable Portfolio Standards,Technological effectiveness,neg,0.03333333333333333
+27,Renewable Portfolio Standards,Technological effectiveness,o,0.5
+28,Renewable Portfolio Standards,Technological effectiveness,pos,0.4666666666666667
+29,Renewable Portfolio Standards,Technological effectiveness,total,30.0
+30,Renewable Portfolio Standards,Cost-related outcomes,neg,0.3181818181818182
+31,Renewable Portfolio Standards,Cost-related outcomes,o,0.2727272727272727
+32,Renewable Portfolio Standards,Cost-related outcomes,pos,0.4090909090909091
+33,Renewable Portfolio Standards,Cost-related outcomes,total,22.0
+34,Renewable Portfolio Standards,Innovation incentives,neg,0.0
+35,Renewable Portfolio Standards,Innovation incentives,o,0.7777777777777778
+36,Renewable Portfolio Standards,Innovation incentives,pos,0.2222222222222222
+37,Renewable Portfolio Standards,Innovation incentives,total,9.0
+38,Renewable Portfolio Standards,Competitiveness,neg,0.0
+39,Renewable Portfolio Standards,Competitiveness,o,0.375
+40,Renewable Portfolio Standards,Competitiveness,pos,0.625
+41,Renewable Portfolio Standards,Competitiveness,total,8.0
+42,Renewable Portfolio Standards,Distributional outcomes,neg,0.5
+43,Renewable Portfolio Standards,Distributional outcomes,o,0.0
+44,Renewable Portfolio Standards,Distributional outcomes,pos,0.5
+45,Renewable Portfolio Standards,Distributional outcomes,total,8.0
+46,Renewable Portfolio Standards,Other social outcomes,neg,0.2857142857142857
+47,Renewable Portfolio Standards,Other social outcomes,o,0.0
+48,Renewable Portfolio Standards,Other social outcomes,pos,0.7142857142857143
+49,Renewable Portfolio Standards,Other social outcomes,total,7.0
+50,R&D funding,Environmental effectiveness,neg,0.0
+51,R&D funding,Environmental effectiveness,o,0.42857142857142855
+52,R&D funding,Environmental effectiveness,pos,0.5714285714285714
+53,R&D funding,Environmental effectiveness,total,7.0
+54,R&D funding,Technological effectiveness,neg,0.0
+55,R&D funding,Technological effectiveness,o,0.5
+56,R&D funding,Technological effectiveness,pos,0.5
+57,R&D funding,Technological effectiveness,total,6.0
+58,R&D funding,Cost-related outcomes,neg,0.25
+59,R&D funding,Cost-related outcomes,o,0.0
+60,R&D funding,Cost-related outcomes,pos,0.75
+61,R&D funding,Cost-related outcomes,total,4.0
+62,R&D funding,Innovation incentives,neg,0.0
+63,R&D funding,Innovation incentives,o,0.23529411764705882
+64,R&D funding,Innovation incentives,pos,0.7647058823529411
+65,R&D funding,Innovation incentives,total,17.0
+66,R&D funding,Competitiveness,neg,0.15
+67,R&D funding,Competitiveness,o,0.15
+68,R&D funding,Competitiveness,pos,0.7
+69,R&D funding,Competitiveness,total,13.0
+70,R&D funding,Distributional outcomes,neg,0.0
+71,R&D funding,Distributional outcomes,o,0.0
+72,R&D funding,Distributional outcomes,pos,1.0
+73,R&D funding,Distributional outcomes,total,3.0
+74,R&D funding,Other social outcomes,neg,1.0
+75,R&D funding,Other social outcomes,o,0.0
+76,R&D funding,Other social outcomes,pos,0.0
+77,R&D funding,Other social outcomes,total,1.0
+78,Government procurement,Environmental effectiveness,neg,0.0
+79,Government procurement,Environmental effectiveness,o,0.0
+80,Government procurement,Environmental effectiveness,pos,1.0
+81,Government procurement,Environmental effectiveness,total,8.0
+82,Government procurement,Technological effectiveness,neg,0.0
+83,Government procurement,Technological effectiveness,o,0.3333333333333333
+84,Government procurement,Technological effectiveness,pos,0.6666666666666666
+85,Government procurement,Technological effectiveness,total,9.0
+86,Government procurement,Cost-related outcomes,neg,0.5
+87,Government procurement,Cost-related outcomes,o,0.0
+88,Government procurement,Cost-related outcomes,pos,0.5
+89,Government procurement,Cost-related outcomes,total,2.0
+90,Government procurement,Innovation incentives,neg,0.0
+91,Government procurement,Innovation incentives,o,0.0
+92,Government procurement,Innovation incentives,pos,1.0
+93,Government procurement,Innovation incentives,total,1.0
+94,Government procurement,Competitiveness,neg,0.25
+95,Government procurement,Competitiveness,o,0.5
+96,Government procurement,Competitiveness,pos,0.25
+97,Government procurement,Competitiveness,total,4.0
+98,Government procurement,Distributional outcomes,neg,0.0
+99,Government procurement,Distributional outcomes,o,0.0
+100,Government procurement,Distributional outcomes,pos,1.0
+101,Government procurement,Distributional outcomes,total,1.0
+102,Government procurement,Other social outcomes,total,0.0
+103,Auctions,Environmental effectiveness,neg,0.0
+104,Auctions,Environmental effectiveness,o,0.0
+105,Auctions,Environmental effectiveness,pos,1.0
+106,Auctions,Environmental effectiveness,total,2.0
+107,Auctions,Technological effectiveness,neg,0.2727272727272727
+108,Auctions,Technological effectiveness,o,0.13636363636363635
+109,Auctions,Technological effectiveness,pos,0.5909090909090909
+110,Auctions,Technological effectiveness,total,22.0
+111,Auctions,Cost-related outcomes,neg,0.05
+112,Auctions,Cost-related outcomes,o,0.1
+113,Auctions,Cost-related outcomes,pos,0.85
+114,Auctions,Cost-related outcomes,total,20.0
+115,Auctions,Innovation incentives,neg,0.16666666666666666
+116,Auctions,Innovation incentives,o,0.3333333333333333
+117,Auctions,Innovation incentives,pos,0.5
+118,Auctions,Innovation incentives,total,6.0
+119,Auctions,Competitiveness,neg,0.6666666666666666
+120,Auctions,Competitiveness,o,0.0
+121,Auctions,Competitiveness,pos,0.3333333333333333
+122,Auctions,Competitiveness,total,6.0
+123,Auctions,Distributional outcomes,neg,1.0
+124,Auctions,Distributional outcomes,o,0.0
+125,Auctions,Distributional outcomes,pos,0.0
+126,Auctions,Distributional outcomes,total,2.0
+127,Auctions,Other social outcomes,neg,0.75
+128,Auctions,Other social outcomes,o,0.25
+129,Auctions,Other social outcomes,pos,0.0
+130,Auctions,Other social outcomes,total,4.0
+131,FITs/FIPs,Environmental effectiveness,neg,0.0
+132,FITs/FIPs,Environmental effectiveness,o,0.3333333333333333
+133,FITs/FIPs,Environmental effectiveness,pos,0.6666666666666666
+134,FITs/FIPs,Environmental effectiveness,total,6.0
+135,FITs/FIPs,Technological effectiveness,neg,0.029411764705882353
+136,FITs/FIPs,Technological effectiveness,o,0.058823529411764705
+137,FITs/FIPs,Technological effectiveness,pos,0.9117647058823529
+138,FITs/FIPs,Technological effectiveness,total,34.0
+139,FITs/FIPs,Cost-related outcomes,neg,0.42105263157894735
+140,FITs/FIPs,Cost-related outcomes,o,0.0
+141,FITs/FIPs,Cost-related outcomes,pos,0.5789473684210527
+142,FITs/FIPs,Cost-related outcomes,total,19.0
+143,FITs/FIPs,Innovation incentives,neg,0.0
+144,FITs/FIPs,Innovation incentives,o,0.2857142857142857
+145,FITs/FIPs,Innovation incentives,pos,0.7142857142857143
+146,FITs/FIPs,Innovation incentives,total,14.0
+147,FITs/FIPs,Competitiveness,neg,0.2
+148,FITs/FIPs,Competitiveness,o,0.3
+149,FITs/FIPs,Competitiveness,pos,0.5
+150,FITs/FIPs,Competitiveness,total,10.0
+151,FITs/FIPs,Distributional outcomes,neg,0.9230769230769231
+152,FITs/FIPs,Distributional outcomes,o,0.07692307692307693
+153,FITs/FIPs,Distributional outcomes,pos,0.0
+154,FITs/FIPs,Distributional outcomes,total,13.0
+155,FITs/FIPs,Other social outcomes,neg,0.16666666666666666
+156,FITs/FIPs,Other social outcomes,o,0.16666666666666666
+157,FITs/FIPs,Other social outcomes,pos,0.6666666666666666
+158,FITs/FIPs,Other social outcomes,total,6.0
+159,Taxes and Tax exemptions,Environmental effectiveness,neg,0.03125
+160,Taxes and Tax exemptions,Environmental effectiveness,o,0.125
+161,Taxes and Tax exemptions,Environmental effectiveness,pos,0.84375
+162,Taxes and Tax exemptions,Environmental effectiveness,total,32.0
+163,Taxes and Tax exemptions,Technological effectiveness,neg,0.0
+164,Taxes and Tax exemptions,Technological effectiveness,o,0.25
+165,Taxes and Tax exemptions,Technological effectiveness,pos,0.75
+166,Taxes and Tax exemptions,Technological effectiveness,total,8.0
+167,Taxes and Tax exemptions,Cost-related outcomes,neg,0.125
+168,Taxes and Tax exemptions,Cost-related outcomes,o,0.0
+169,Taxes and Tax exemptions,Cost-related outcomes,pos,0.875
+170,Taxes and Tax exemptions,Cost-related outcomes,total,8.0
+171,Taxes and Tax exemptions,Innovation incentives,neg,0.0
+172,Taxes and Tax exemptions,Innovation incentives,o,0.25
+173,Taxes and Tax exemptions,Innovation incentives,pos,0.75
+174,Taxes and Tax exemptions,Innovation incentives,total,4.0
+175,Taxes and Tax exemptions,Competitiveness,neg,0.4074074074074074
+176,Taxes and Tax exemptions,Competitiveness,o,0.37037037037037035
+177,Taxes and Tax exemptions,Competitiveness,pos,0.2222222222222222
+178,Taxes and Tax exemptions,Competitiveness,total,27.0
+179,Taxes and Tax exemptions,Distributional outcomes,neg,0.625
+180,Taxes and Tax exemptions,Distributional outcomes,o,0.125
+181,Taxes and Tax exemptions,Distributional outcomes,pos,0.25
+182,Taxes and Tax exemptions,Distributional outcomes,total,24.0
+183,Taxes and Tax exemptions,Other social outcomes,neg,0.25
+184,Taxes and Tax exemptions,Other social outcomes,o,0.25
+185,Taxes and Tax exemptions,Other social outcomes,pos,0.5
+186,Taxes and Tax exemptions,Other social outcomes,total,4.0
+187,GHG emission allowance tradings schemes,Environmental effectiveness,neg,0.0
+188,GHG emission allowance tradings schemes,Environmental effectiveness,o,0.14285714285714285
+189,GHG emission allowance tradings schemes,Environmental effectiveness,pos,0.8571428571428571
+190,GHG emission allowance tradings schemes,Environmental effectiveness,total,21.0
+191,GHG emission allowance tradings schemes,Technological effectiveness,neg,0.08333333333333333
+192,GHG emission allowance tradings schemes,Technological effectiveness,o,0.5833333333333334
+193,GHG emission allowance tradings schemes,Technological effectiveness,pos,0.3333333333333333
+194,GHG emission allowance tradings schemes,Technological effectiveness,total,12.0
+195,GHG emission allowance tradings schemes,Cost-related outcomes,neg,0.0
+196,GHG emission allowance tradings schemes,Cost-related outcomes,o,0.5
+197,GHG emission allowance tradings schemes,Cost-related outcomes,pos,0.5
+198,GHG emission allowance tradings schemes,Cost-related outcomes,total,2.0
+199,GHG emission allowance tradings schemes,Innovation incentives,neg,0.05
+200,GHG emission allowance tradings schemes,Innovation incentives,o,0.55
+201,GHG emission allowance tradings schemes,Innovation incentives,pos,0.4
+202,GHG emission allowance tradings schemes,Innovation incentives,total,20.0
+203,GHG emission allowance tradings schemes,Competitiveness,neg,0.2962962962962963
+204,GHG emission allowance tradings schemes,Competitiveness,o,0.6296296296296297
+205,GHG emission allowance tradings schemes,Competitiveness,pos,0.07407407407407407
+206,GHG emission allowance tradings schemes,Competitiveness,total,27.0
+207,GHG emission allowance tradings schemes,Distributional outcomes,neg,0.6
+208,GHG emission allowance tradings schemes,Distributional outcomes,o,0.2
+209,GHG emission allowance tradings schemes,Distributional outcomes,pos,0.2
+210,GHG emission allowance tradings schemes,Distributional outcomes,total,5.0
+211,GHG emission allowance tradings schemes,Other social outcomes,neg,0.0
+212,GHG emission allowance tradings schemes,Other social outcomes,o,0.5
+213,GHG emission allowance tradings schemes,Other social outcomes,pos,0.5
+214,GHG emission allowance tradings schemes,Other social outcomes,total,2.0
+215,Green certificates,Environmental effectiveness,neg,0.0
+216,Green certificates,Environmental effectiveness,o,0.25
+217,Green certificates,Environmental effectiveness,pos,0.75
+218,Green certificates,Environmental effectiveness,total,4.0
+219,Green certificates,Technological effectiveness,neg,0.0
+220,Green certificates,Technological effectiveness,o,0.5357142857142857
+221,Green certificates,Technological effectiveness,pos,0.4642857142857143
+222,Green certificates,Technological effectiveness,total,28.0
+223,Green certificates,Cost-related outcomes,neg,0.45
+224,Green certificates,Cost-related outcomes,o,0.2
+225,Green certificates,Cost-related outcomes,pos,0.35
+226,Green certificates,Cost-related outcomes,total,20.0
+227,Green certificates,Innovation incentives,neg,0.2727272727272727
+228,Green certificates,Innovation incentives,o,0.5454545454545454
+229,Green certificates,Innovation incentives,pos,0.18181818181818182
+230,Green certificates,Innovation incentives,total,11.0
+231,Green certificates,Competitiveness,neg,0.3333333333333333
+232,Green certificates,Competitiveness,o,0.5
+233,Green certificates,Competitiveness,pos,0.16666666666666666
+234,Green certificates,Competitiveness,total,6.0
+235,Green certificates,Distributional outcomes,neg,0.8333333333333334
+236,Green certificates,Distributional outcomes,o,0.0
+237,Green certificates,Distributional outcomes,pos,0.16666666666666666
+238,Green certificates,Distributional outcomes,total,12.0
+239,Green certificates,Other social outcomes,neg,0.5714285714285714
+240,Green certificates,Other social outcomes,o,0.14285714285714285
+241,Green certificates,Other social outcomes,pos,0.2857142857142857
+242,Green certificates,Other social outcomes,total,7.0
+243,White certificates,Environmental effectiveness,neg,0.0
+244,White certificates,Environmental effectiveness,o,0.0
+245,White certificates,Environmental effectiveness,pos,1.0
+246,White certificates,Environmental effectiveness,total,14.0
+247,White certificates,Technological effectiveness,neg,0.2
+248,White certificates,Technological effectiveness,o,0.0
+249,White certificates,Technological effectiveness,pos,0.8
+250,White certificates,Technological effectiveness,total,5.0
+251,White certificates,Cost-related outcomes,neg,0.0
+252,White certificates,Cost-related outcomes,o,0.0
+253,White certificates,Cost-related outcomes,pos,1.0
+254,White certificates,Cost-related outcomes,total,12.0
+255,White certificates,Innovation incentives,neg,0.0
+256,White certificates,Innovation incentives,o,0.25
+257,White certificates,Innovation incentives,pos,0.75
+258,White certificates,Innovation incentives,total,4.0
+259,White certificates,Competitiveness,neg,0.0
+260,White certificates,Competitiveness,o,0.0
+261,White certificates,Competitiveness,pos,1.0
+262,White certificates,Competitiveness,total,2.0
+263,White certificates,Distributional outcomes,neg,0.2727272727272727
+264,White certificates,Distributional outcomes,o,0.09090909090909091
+265,White certificates,Distributional outcomes,pos,0.6363636363636364
+266,White certificates,Distributional outcomes,total,11.0
+267,White certificates,Other social outcomes,neg,0.0
+268,White certificates,Other social outcomes,o,0.0
+269,White certificates,Other social outcomes,pos,1.0
+270,White certificates,Other social outcomes,total,1.0
+271,White certificates,,total,705.0
