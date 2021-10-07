@@ -46,3 +46,6 @@
 ### fig7_policies_dark
 !["fig7_policies_dark"](visualisation/fig7_policies_dark.png "fig7_policies_dark")
 
+### fig7_policies_dark_dark
+!["fig7_policies_dark_dark"](visualisation/fig7_policies_dark_dark.png "fig7_policies_dark_dark")
+
