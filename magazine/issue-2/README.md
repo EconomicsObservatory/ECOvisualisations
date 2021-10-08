@@ -186,17 +186,14 @@ Cloned from [what-are-the-long-term-economic-effects-of-air-pollution](https://r
 
 ## Productivity
 
-### fig18-1a_time-allocation
-!["fig18-1a_time-allocation"](visualisation/fig18-1a_time-allocation.png "fig18-1a_time-allocation")
+### fig18-1a_time-allocation_dark --- [json](visualisation/fig18-1a_time-allocation_dark.json "fig18-1a_time-allocation_dark") [svg](visualisation/fig18-1a_time-allocation_dark.svg "fig18-1a_time-allocation_dark") [png](visualisation/fig18-1a_time-allocation_dark.png "fig18-1a_time-allocation_dark")
+[!["fig18-1a_time-allocation_dark"](visualisation/fig18-1a_time-allocation_dark.svg "fig18-1a_time-allocation_dark")](visualisation/fig18-1a_time-allocation_dark.svg "fig18-1a_time-allocation_dark")
 
-### fig18-1a_time-allocation_dark
-!["fig18-1a_time-allocation_dark"](visualisation/fig18-1a_time-allocation_dark.png "fig18-1a_time-allocation_dark")
+### fig18-1b_time-allocation-b --- [json](visualisation/fig18-1b_time-allocation-b.json "fig18-1b_time-allocation-b") [svg](visualisation/fig18-1b_time-allocation-b.svg "fig18-1b_time-allocation-b") [png](visualisation/fig18-1b_time-allocation-b.png "fig18-1b_time-allocation-b")
+[!["fig18-1b_time-allocation-b"](visualisation/fig18-1b_time-allocation-b.svg "fig18-1b_time-allocation-b")](visualisation/fig18-1b_time-allocation-b.svg "fig18-1b_time-allocation-b")
 
-### fig18-1b_time-allocation-b
-!["fig18-1b_time-allocation-b"](visualisation/fig18-1b_time-allocation-b.png "fig18-1b_time-allocation-b")
-
-### fig18-1b_time-allocation-b_dark
-!["fig18-1b_time-allocation-b_dark"](visualisation/fig18-1b_time-allocation-b_dark.png "fig18-1b_time-allocation-b_dark")
+### fig18-1b_time-allocation-b_dark --- [json](visualisation/fig18-1b_time-allocation-b_dark.json "fig18-1b_time-allocation-b_dark") [svg](visualisation/fig18-1b_time-allocation-b_dark.svg "fig18-1b_time-allocation-b_dark") [png](visualisation/fig18-1b_time-allocation-b_dark.png "fig18-1b_time-allocation-b_dark")
+[!["fig18-1b_time-allocation-b_dark"](visualisation/fig18-1b_time-allocation-b_dark.svg "fig18-1b_time-allocation-b_dark")](visualisation/fig18-1b_time-allocation-b_dark.svg "fig18-1b_time-allocation-b_dark")
 
 # Article 19 
 
@@ -250,11 +247,11 @@ Cloned from [how-are-agricultural-economies-affected-by-climate-change](https://
 
 ## Firms, competition
 
-### fig23-1_policies
-!["fig23-1_policies"](visualisation/fig23-1_policies.png "fig23-1_policies")
+### fig23-1_policies --- [json](visualisation/fig23-1_policies.json "fig23-1_policies") [svg](visualisation/fig23-1_policies.svg "fig23-1_policies") [png](visualisation/fig23-1_policies.png "fig23-1_policies")
+[!["fig23-1_policies"](visualisation/fig23-1_policies.svg "fig23-1_policies")](visualisation/fig23-1_policies.svg "fig23-1_policies")
 
-### fig23-1_policies_dark
-!["fig23-1_policies_dark"](visualisation/fig23-1_policies_dark.png "fig23-1_policies_dark")
+### fig23-1_policies_dark --- [json](visualisation/fig23-1_policies_dark.json "fig23-1_policies_dark") [svg](visualisation/fig23-1_policies_dark.svg "fig23-1_policies_dark") [png](visualisation/fig23-1_policies_dark.png "fig23-1_policies_dark")
+[!["fig23-1_policies_dark"](visualisation/fig23-1_policies_dark.svg "fig23-1_policies_dark")](visualisation/fig23-1_policies_dark.svg "fig23-1_policies_dark")
 
 # Article 24 
 
