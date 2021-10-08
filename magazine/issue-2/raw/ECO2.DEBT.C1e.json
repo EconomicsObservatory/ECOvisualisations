@@ -1,0 +1,45 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Carbon per capita by country",
+
+"title": {
+    "text": "Government debt – G7",
+    "subtitle":"% GDP. Source: IMF World Economic Outlook 2021",
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10,
+    "anchor": "start",
+    "color": "black"
+  },
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/main/data/ECO2.DEBT.C1e.csv"
+  },
+  "height": 300,
+  "width": 400,
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "Year", "type": "temporal", "title": "", "axis": {"grid": false}},
+    "y": {
+      "field": "Value3",
+      "type": "quantitative",
+      "title": "",
+      "axis": {"grid": false},
+      "sort": [],
+      "scale": {"domain": [0, 300]}
+    },
+    "color": {
+      "field": "Country",
+      "title": null,
+      "legend": {"orient": "top-left"},
+      "type": "nominal",
+      "sort": [],
+      "scale": {"scheme": "yellowgreenblue"}
+    },
+    "tooltip": [
+      {"field": "Year", "type": "temporal", "timeUnit": "year", "title": "Year"},
+      {"field": "Value1", "type": "quantitative", "title": "GDP ($ trillion)"},
+      {"field": "Value2", "type": "quantitative", "title": "Gross debt ($ trillion)"},
+      {"field": "Value3", "type": "quantitative", "title": "Debt (% GDP)"}
+    ]
+  }
+}

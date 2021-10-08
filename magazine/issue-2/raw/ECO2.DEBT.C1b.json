@@ -1,0 +1,45 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Carbon per capita by country",
+
+"title": {
+    "text": "Sovereign debt - by G7 country",
+    "subtitle":"% GDP. Source: CEIC",
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10,
+    "anchor": "start",
+    "color": "black"
+  },
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/main/data/ECO2.DEBT.C1b.csv"
+  },
+  "height": 300,
+  "width": 350,
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "Date", "type": "temporal", "title": "", "axis": {"grid": false}},
+    "y": {
+      "field": "Value",
+      "type": "quantitative",
+      "scale": {"domain": [40,300]},
+      "title": "",
+      "axis": {"grid": false},
+      "sort": []
+     
+    },
+    "color": {
+      "field": "Country",
+      "title": null,
+      "legend": {"orient": "top-left"},
+      "type": "nominal",
+      "sort": [],
+      "scale": {"scheme": "yellowgreenblue"}
+    },
+    "tooltip": [
+      {"field": "Year", "type": "temporal", "timeUnit": "year", "title": "Year"},
+      {"field": "Value", "type": "quantitative", "title": "Debt (% GDP)"},
+      {"field": "Country"}
+    ]
+  }
+}

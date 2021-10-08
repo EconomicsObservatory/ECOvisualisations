@@ -1,0 +1,715 @@
+,Time,Country,Value,Value2
+0,1901,Brazil,0.113601872,National
+1,1902,Brazil,0.132434057,National
+2,1903,Brazil,0.126165371,National
+3,1904,Brazil,0.132560164,National
+4,1905,Brazil,0.138663334,National
+5,1906,Brazil,0.155489165,National
+6,1907,Brazil,0.164063398,National
+7,1908,Brazil,0.167284103,National
+8,1909,Brazil,0.164454792,National
+9,1910,Brazil,0.187335137,National
+10,1911,Brazil,0.201243418,National
+11,1912,Brazil,0.239201387,National
+12,1913,Brazil,0.252772235,National
+13,1914,Brazil,0.168447099,National
+14,1915,Brazil,0.126233023,National
+15,1916,Brazil,0.113221229,National
+16,1917,Brazil,0.09618711,National
+17,1918,Brazil,0.087563766,National
+18,1919,Brazil,0.113335421,National
+19,1920,Brazil,0.131799209,National
+20,1921,Brazil,0.102386154,National
+21,1922,Brazil,0.131226663,National
+22,1923,Brazil,0.157002896,National
+23,1924,Brazil,0.170091501,National
+24,1925,Brazil,0.175531212,National
+25,1926,Brazil,0.175291235,National
+26,1927,Brazil,0.190501827,National
+27,1928,Brazil,0.182163919,National
+28,1929,Brazil,0.191084623,National
+29,1930,Brazil,0.162706601,National
+30,1931,Brazil,0.120548583,National
+31,1932,Brazil,0.118131759,National
+32,1933,Brazil,0.131115204,National
+33,1934,Brazil,0.125779657,National
+34,1935,Brazil,0.146891296,National
+35,1936,Brazil,0.134453154,National
+36,1937,Brazil,0.155854587,National
+37,1938,Brazil,0.152905149,National
+38,1939,Brazil,0.146223902,National
+39,1940,Brazil,0.156118002,National
+40,1941,Brazil,0.147848209,National
+41,1942,Brazil,0.134919718,National
+42,1943,Brazil,0.145449839,National
+43,1944,Brazil,0.12936392,National
+44,1945,Brazil,0.14623076,National
+45,1946,Brazil,0.15617692,National
+46,1947,Brazil,0.18296175,National
+47,1948,Brazil,0.156741348,National
+48,1949,Brazil,0.141862098,National
+49,1950,Brazil,0.364225512,National
+50,1951,Brazil,0.389514585,National
+51,1952,Brazil,0.435275312,National
+52,1953,Brazil,0.427438431,National
+53,1954,Brazil,0.488495712,National
+54,1955,Brazil,0.544083123,National
+55,1956,Brazil,0.568842936,National
+56,1957,Brazil,0.543242763,National
+57,1958,Brazil,0.573142471,National
+58,1959,Brazil,0.556409167,National
+59,1960,Brazil,0.649105987,National
+60,1961,Brazil,0.661335509,National
+61,1962,Brazil,0.700936417,National
+62,1963,Brazil,0.705202773,National
+63,1964,Brazil,0.699027657,National
+64,1965,Brazil,0.675625687,National
+65,1966,Brazil,0.749286848,National
+66,1967,Brazil,0.750595302,National
+67,1968,Brazil,0.854894808,National
+68,1969,Brazil,0.907120543,National
+69,1970,Brazil,0.98336177,National
+70,1971,Brazil,1.050008114,National
+71,1972,Brazil,1.141753152,National
+72,1973,Brazil,1.291031694,National
+73,1974,Brazil,1.365034611,National
+74,1975,Brazil,1.403835789,National
+75,1976,Brazil,1.406290816,National
+76,1977,Brazil,1.441657452,National
+77,1978,Brazil,1.528231131,National
+78,1979,Brazil,1.587701505,National
+79,1980,Brazil,1.53908524,National
+80,1981,Brazil,1.379525047,National
+81,1982,Brazil,1.350134745,National
+82,1983,Brazil,1.277931363,National
+83,1984,Brazil,1.266056238,National
+84,1985,Brazil,1.330165294,National
+85,1986,Brazil,1.428047618,National
+86,1987,Brazil,1.460613392,National
+87,1988,Brazil,1.445142786,National
+88,1989,Brazil,1.449576595,National
+89,1990,Brazil,1.388704314,National
+90,1991,Brazil,1.432446593,National
+91,1992,Brazil,1.415692645,National
+92,1993,Brazil,1.455751887,National
+93,1994,Brazil,1.502013868,National
+94,1995,Brazil,1.577481397,National
+95,1996,Brazil,1.708196521,National
+96,1997,Brazil,1.773740984,National
+97,1998,Brazil,1.815858577,National
+98,1999,Brazil,1.835447196,National
+99,2000,Brazil,1.854946164,National
+100,2001,Brazil,1.879203819,National
+101,2002,Brazil,1.823763393,National
+102,2003,Brazil,1.746383936,National
+103,2004,Brazil,1.813392737,National
+104,2005,Brazil,1.837919578,National
+105,2006,Brazil,1.817249324,National
+106,2007,Brazil,1.877235323,National
+107,2008,Brazil,1.980652752,National
+108,2009,Brazil,1.857219727,National
+109,2010,Brazil,2.101230326,National
+110,2011,Brazil,2.17684404,National
+111,2012,Brazil,2.308720496,National
+112,2013,Brazil,2.462478203,National
+113,2014,Brazil,2.583762552,National
+114,2015,Brazil,2.421914536,National
+115,2016,Brazil,2.320701496,National
+116,2017,Brazil,2.331611425,National
+117,2018,Brazil,2.22777271,National
+118,2019,Brazil,2.206660839,National
+119,1901,China,,National
+120,1902,China,0.000235184,National
+121,1903,China,0.004821833,National
+122,1904,China,0.005099291,National
+123,1905,China,0.005577828,National
+124,1906,China,0.041312085,National
+125,1907,China,0.040432872,National
+126,1908,China,0.054273666,National
+127,1909,China,0.049418629,National
+128,1910,China,0.044120656,National
+129,1911,China,0.065025453,National
+130,1912,China,0.022603429,National
+131,1913,China,0.024574634,National
+132,1914,China,0.034133026,National
+133,1915,China,0.03595468,National
+134,1916,China,0.039708588,National
+135,1917,China,0.043400232,National
+136,1918,China,0.045502433,National
+137,1919,China,0.051879241,National
+138,1920,China,0.056772612,National
+139,1921,China,0.053312556,National
+140,1922,China,0.055949025,National
+141,1923,China,0.067302041,National
+142,1924,China,0.073201367,National
+143,1925,China,0.069051198,National
+144,1926,China,0.06128683,National
+145,1927,China,0.069191898,National
+146,1928,China,0.070144547,National
+147,1929,China,0.073373474,National
+148,1930,China,0.077309812,National
+149,1931,China,0.081565714,National
+150,1932,China,0.077630962,National
+151,1933,China,0.084327335,National
+152,1934,China,0.097850317,National
+153,1935,China,0.113823,National
+154,1936,China,0.127691091,National
+155,1937,China,0.118290082,National
+156,1938,China,0.107577005,National
+157,1939,China,0.129866287,National
+158,1940,China,0.165628323,National
+159,1941,China,0.205870369,National
+160,1942,China,0.216642551,National
+161,1943,China,0.184125033,National
+162,1944,China,0.184270533,National
+163,1945,China,0.094393709,National
+164,1946,China,0.058298539,National
+165,1947,China,0.062249235,National
+166,1948,China,0.043989565,National
+167,1949,China,0.108548398,National
+168,1950,China,0.141737516,National
+169,1951,China,0.178304621,National
+170,1952,China,0.219691335,National
+171,1953,China,0.225465784,National
+172,1954,China,0.266773813,National
+173,1955,China,0.311186374,National
+174,1956,China,0.347339189,National
+175,1957,China,0.405571416,National
+176,1958,China,0.819335852,National
+177,1959,China,1.107563454,National
+178,1960,China,1.179542746,National
+179,1961,China,0.82115814,National
+180,1962,China,0.644099382,National
+181,1963,China,0.627240573,National
+182,1964,China,0.615179191,National
+183,1965,China,0.655437954,National
+184,1966,China,0.702382004,National
+185,1967,China,0.566790363,National
+186,1968,China,0.596633789,National
+187,1969,China,0.714583978,National
+188,1970,China,0.930602026,National
+189,1971,China,1.029756773,National
+190,1972,China,1.068325347,National
+191,1973,China,1.085624395,National
+192,1974,China,1.084341499,National
+193,1975,China,1.233050444,National
+194,1976,China,1.263374862,National
+195,1977,China,1.361744475,National
+196,1978,China,1.49686282,National
+197,1979,China,1.508026459,National
+198,1980,China,1.458756874,National
+199,1981,China,1.422831316,National
+200,1982,China,1.527768729,National
+201,1983,China,1.588412587,National
+202,1984,China,1.703236375,National
+203,1985,China,1.814608779,National
+204,1986,China,1.874169605,National
+205,1987,China,1.963142074,National
+206,1988,China,2.063561486,National
+207,1989,China,2.060578029,National
+208,1990,China,2.056948251,National
+209,1991,China,2.127618647,National
+210,1992,China,2.198697117,National
+211,1993,China,2.326678588,National
+212,1994,China,2.447311816,National
+213,1995,China,2.63115627,National
+214,1996,China,2.723113332,National
+215,1997,China,2.705673552,National
+216,1998,China,2.567569938,National
+217,1999,China,2.542408874,National
+218,2000,China,2.595244139,National
+219,2001,China,2.637260195,National
+220,2002,China,2.893206353,National
+221,2003,China,3.385004921,National
+222,2004,China,3.874198709,National
+223,2005,China,4.336693901,National
+224,2006,China,4.765171339,National
+225,2007,China,5.097905885,National
+226,2008,China,5.448698793,National
+227,2009,China,5.700108973,National
+228,2010,China,6.210165352,National
+229,2011,China,6.820350561,National
+230,2012,China,6.959874207,National
+231,2013,China,7.038326376,National
+232,2014,China,7.017279991,National
+233,2015,China,6.8829047,National
+234,2016,China,6.755435196,National
+235,2017,China,6.861770126,National
+236,2018,China,6.974106028,National
+237,2019,China,7.096383171,National
+238,1901,United Kingdom,10.69973871,National
+239,1902,United Kingdom,11.00219631,National
+240,1903,United Kingdom,10.97949755,National
+241,1904,United Kingdom,10.92385483,National
+242,1905,United Kingdom,10.96155373,National
+243,1906,United Kingdom,11.24662301,National
+244,1907,United Kingdom,11.63956884,National
+245,1908,United Kingdom,11.24634169,National
+246,1909,United Kingdom,11.24115533,National
+247,1910,United Kingdom,11.23629032,National
+248,1911,United Kingdom,11.41682119,National
+249,1912,United Kingdom,10.74777484,National
+250,1913,United Kingdom,11.67306099,National
+251,1914,United Kingdom,11.23216509,National
+252,1915,United Kingdom,11.29783585,National
+253,1916,United Kingdom,11.64889238,National
+254,1917,United Kingdom,11.49236793,National
+255,1918,United Kingdom,10.70842782,National
+256,1919,United Kingdom,10.45104057,National
+257,1920,United Kingdom,10.72462143,National
+258,1921,United Kingdom,7.245593668,National
+259,1922,United Kingdom,9.637909974,National
+260,1923,United Kingdom,10.1737069,National
+261,1924,United Kingdom,10.5910393,National
+262,1925,United Kingdom,9.958201944,National
+263,1926,United Kingdom,5.437124355,National
+264,1927,United Kingdom,10.26105167,National
+265,1928,United Kingdom,9.590417246,National
+266,1929,United Kingdom,10.06006561,National
+267,1930,United Kingdom,9.59732627,National
+268,1931,United Kingdom,8.926329108,National
+269,1932,United Kingdom,8.532724455,National
+270,1933,United Kingdom,8.416142639,National
+271,1934,United Kingdom,9.047932249,National
+272,1935,United Kingdom,9.137540109,National
+273,1936,United Kingdom,9.620653071,National
+274,1937,United Kingdom,9.880762464,National
+275,1938,United Kingdom,9.415310129,National
+276,1939,United Kingdom,9.427187756,National
+277,1940,United Kingdom,9.850406556,National
+278,1941,United Kingdom,9.709047898,National
+279,1942,United Kingdom,9.65597751,National
+280,1943,United Kingdom,9.314791018,National
+281,1944,United Kingdom,9.004568831,National
+282,1945,United Kingdom,8.482808347,National
+283,1946,United Kingdom,8.828534357,National
+284,1947,United Kingdom,9.285232144,National
+285,1948,United Kingdom,9.503015702,National
+286,1949,United Kingdom,9.623308651,National
+287,1950,United Kingdom,9.893948613,National
+288,1951,United Kingdom,10.77532135,National
+289,1952,United Kingdom,10.43821658,National
+290,1953,United Kingdom,10.64433686,National
+291,1954,United Kingdom,10.86655196,National
+292,1955,United Kingdom,11.29859876,National
+293,1956,United Kingdom,11.20281569,National
+294,1957,United Kingdom,11.08268883,National
+295,1958,United Kingdom,10.74902603,National
+296,1959,United Kingdom,10.50236583,National
+297,1960,United Kingdom,11.15159187,National
+298,1961,United Kingdom,11.16323018,National
+299,1962,United Kingdom,11.16442597,National
+300,1963,United Kingdom,11.27802589,National
+301,1964,United Kingdom,11.28122022,National
+302,1965,United Kingdom,11.46939808,National
+303,1966,United Kingdom,11.32647961,National
+304,1967,United Kingdom,10.79076726,National
+305,1968,United Kingdom,11.00045896,National
+306,1969,United Kingdom,11.34920075,National
+307,1970,United Kingdom,11.7427059,National
+308,1971,United Kingdom,11.84574224,National
+309,1972,United Kingdom,11.59426122,National
+310,1973,United Kingdom,11.77690465,National
+311,1974,United Kingdom,11.00306443,National
+312,1975,United Kingdom,10.74311453,National
+313,1976,United Kingdom,10.65220955,National
+314,1977,United Kingdom,10.75300939,National
+315,1978,United Kingdom,10.75888676,National
+316,1979,United Kingdom,11.46718819,National
+317,1980,United Kingdom,10.30148152,National
+318,1981,United Kingdom,9.970562726,National
+319,1982,United Kingdom,9.748065575,National
+320,1983,United Kingdom,9.692872648,National
+321,1984,United Kingdom,9.392521009,National
+322,1985,United Kingdom,9.920021289,National
+323,1986,United Kingdom,10.05882182,National
+324,1987,United Kingdom,10.08981109,National
+325,1988,United Kingdom,10.03810494,National
+326,1989,United Kingdom,10.20776688,National
+327,1990,United Kingdom,10.51002027,National
+328,1991,United Kingdom,10.62259634,National
+329,1992,United Kingdom,10.32435075,National
+330,1993,United Kingdom,10.04899415,National
+331,1994,United Kingdom,9.956337257,National
+332,1995,United Kingdom,9.784079973,National
+333,1996,United Kingdom,10.12568784,National
+334,1997,United Kingdom,9.648262919,National
+335,1998,United Kingdom,9.704558366,National
+336,1999,United Kingdom,9.553639604,National
+337,2000,United Kingdom,9.631279857,National
+338,2001,United Kingdom,9.745542301,National
+339,2002,United Kingdom,9.444436234,National
+340,2003,United Kingdom,9.59974767,National
+341,2004,United Kingdom,9.57386159,National
+342,2005,United Kingdom,9.453414145,National
+343,2006,United Kingdom,9.331113892,National
+344,2007,United Kingdom,9.10013431,National
+345,2008,United Kingdom,8.766787771,National
+346,2009,United Kingdom,7.867294068,National
+347,2010,United Kingdom,8.068447873,National
+348,2011,United Kingdom,7.338161726,National
+349,2012,United Kingdom,7.559796126,National
+350,2013,United Kingdom,7.354132787,National
+351,2014,United Kingdom,6.71105738,National
+352,2015,United Kingdom,6.414980428,National
+353,2016,United Kingdom,6.019934432,National
+354,2017,United Kingdom,5.816062074,National
+355,2018,United Kingdom,5.66171039,National
+356,2019,United Kingdom,5.477245609,National
+357,1901,United States,9.122886129,National
+358,1902,United States,9.497449853,National
+359,1903,United States,10.90210759,National
+360,1904,United States,10.52763183,National
+361,1905,United States,11.55214396,National
+362,1906,United States,11.89773465,National
+363,1907,United States,13.5796905,National
+364,1908,United States,11.64983417,National
+365,1909,United States,12.65961513,National
+366,1910,United States,13.56314047,National
+367,1911,United States,13.18047842,National
+368,1912,United States,13.82833305,National
+369,1913,United States,14.57984277,National
+370,1914,United States,13.08616141,National
+371,1915,United States,13.35719014,National
+372,1916,United States,14.61870996,National
+373,1917,United States,15.86727593,National
+374,1918,United States,16.4160506,National
+375,1919,United States,13.77278385,National
+376,1920,United States,15.98899349,National
+377,1921,United States,12.90992353,National
+378,1922,United States,12.80922253,National
+379,1923,United States,16.63472339,National
+380,1924,United States,14.66052466,National
+381,1925,United States,14.82006216,National
+382,1926,United States,15.84462852,National
+383,1927,United States,15.28288359,National
+384,1928,United States,14.83922461,National
+385,1929,United States,15.73508898,National
+386,1930,United States,13.84725151,National
+387,1931,United States,11.6845403,National
+388,1932,United States,9.833093289,National
+389,1933,United States,10.47877685,National
+390,1934,United States,11.08665457,National
+391,1935,United States,11.44213585,National
+392,1936,United States,13.05091987,National
+393,1937,United States,13.56142601,National
+394,1938,United States,11.38390092,National
+395,1939,United States,12.44512636,National
+396,1940,United States,13.84377982,National
+397,1941,United States,14.94030837,National
+398,1942,United States,15.89001843,National
+399,1943,United States,16.22224214,National
+400,1944,United States,17.245708,National
+401,1945,United States,16.46047915,National
+402,1946,United States,15.5348012,National
+403,1947,United States,16.83965749,National
+404,1948,United States,17.18349767,National
+405,1949,United States,13.98757432,National
+406,1950,United States,15.96997363,National
+407,1951,United States,16.24098338,National
+408,1952,United States,15.5903853,National
+409,1953,United States,15.70765573,National
+410,1954,United States,14.71704954,National
+411,1955,United States,15.84892698,National
+412,1956,United States,16.32686338,National
+413,1957,United States,15.91164568,National
+414,1958,United States,15.15784998,National
+415,1959,United States,15.36028132,National
+416,1960,United States,15.46596556,National
+417,1961,United States,15.17840295,National
+418,1962,United States,15.51630013,National
+419,1963,United States,15.98517623,National
+420,1964,United States,16.4773219,National
+421,1965,United States,16.96352488,National
+422,1966,United States,17.62877501,National
+423,1967,United States,18.11283841,National
+424,1968,United States,18.60152791,National
+425,1969,United States,19.36589535,National
+426,1970,United States,20.64550166,National
+427,1971,United States,20.58485357,National
+428,1972,United States,21.37409219,National
+429,1973,United States,22.13251309,National
+430,1974,United States,21.15449458,National
+431,1975,United States,20.08752548,National
+432,1976,United States,20.83880565,National
+433,1977,United States,21.22188404,National
+434,1978,United States,21.68057366,National
+435,1979,United States,21.52751047,National
+436,1980,United States,20.55429045,National
+437,1981,United States,19.55814227,National
+438,1982,United States,18.39848556,National
+439,1983,United States,18.37019262,National
+440,1984,United States,18.75395982,National
+441,1985,United States,18.64589681,National
+442,1986,United States,18.48657218,National
+443,1987,United States,19.10131361,National
+444,1988,United States,19.74997374,National
+445,1989,United States,19.81380058,National
+446,1990,United States,20.34071322,National
+447,1991,United States,19.95328581,National
+448,1992,United States,20.16687961,National
+449,1993,United States,20.35755743,National
+450,1994,United States,20.50416553,National
+451,1995,United States,20.51147857,National
+452,1996,United States,20.96972714,National
+453,1997,United States,20.99158418,National
+454,1998,United States,20.89961593,National
+455,1999,United States,20.93103392,National
+456,2000,United States,21.2915728,National
+457,2001,United States,20.73180162,National
+458,2002,United States,20.68599574,National
+459,2003,United States,20.67504773,National
+460,2004,United States,20.89110184,National
+461,2005,United States,20.78650179,National
+462,2006,United States,20.32197468,National
+463,2007,United States,20.38678159,National
+464,2008,United States,19.54139344,National
+465,2009,United States,17.92651752,National
+466,2010,United States,18.43965306,National
+467,2011,United States,17.86129712,National
+468,2012,United States,17.09177235,National
+469,2013,United States,17.42734515,National
+470,2014,United States,17.45274735,National
+471,2015,United States,16.86756937,National
+472,2016,United States,16.3839177,National
+473,2017,United States,16.16071569,National
+474,2018,United States,16.5849827,National
+475,2019,United States,16.05973527,National
+476,1901,India,0.054076903,National
+477,1902,India,0.059304548,National
+478,1903,India,0.06021408,National
+479,1904,India,0.067078028,National
+480,1905,India,0.068280871,National
+481,1906,India,0.07850378,National
+482,1907,India,0.087061145,National
+483,1908,India,0.099172372,National
+484,1909,India,0.095704279,National
+485,1910,India,0.092712609,National
+486,1911,India,0.097405462,National
+487,1912,India,0.111620265,National
+488,1913,India,0.122548022,National
+489,1914,India,0.122781634,National
+490,1915,India,0.127604525,National
+491,1916,India,0.128279429,National
+492,1917,India,0.133230109,National
+493,1918,India,0.148910744,National
+494,1919,India,0.161668811,National
+495,1920,India,0.130424031,National
+496,1921,India,0.139495322,National
+497,1922,India,0.136478886,National
+498,1923,India,0.139636673,National
+499,1924,India,0.148559895,National
+500,1925,India,0.14574453,National
+501,1926,India,0.144406817,National
+502,1927,India,0.150568427,National
+503,1928,India,0.14325965,National
+504,1929,India,0.147906593,National
+505,1930,India,0.148798521,National
+506,1931,India,0.134613518,National
+507,1932,India,0.123594175,National
+508,1933,India,0.119789017,National
+509,1934,India,0.13208539,National
+510,1935,India,0.136275661,National
+511,1936,India,0.132242011,National
+512,1937,India,0.144628381,National
+513,1938,India,0.159628047,National
+514,1939,India,0.154262798,National
+515,1940,India,0.161561279,National
+516,1941,India,0.163443431,National
+517,1942,India,0.16133478,National
+518,1943,India,0.138953489,National
+519,1944,India,0.140440409,National
+520,1945,India,0.153885414,National
+521,1946,India,0.150067945,National
+522,1947,India,0.150885714,National
+523,1948,India,0.148921576,National
+524,1949,India,0.15349598,National
+525,1950,India,0.162629773,National
+526,1951,India,0.167700692,National
+527,1952,India,0.173702987,National
+528,1953,India,0.173978574,National
+529,1954,India,0.18015807,National
+530,1955,India,0.192514053,National
+531,1956,India,0.195905056,National
+532,1957,India,0.215798089,National
+533,1958,India,0.221418836,National
+534,1959,India,0.229962434,National
+535,1960,India,0.247455818,National
+536,1961,India,0.262341475,National
+537,1962,India,0.283058447,National
+538,1963,India,0.297920983,National
+539,1964,India,0.285749257,National
+540,1965,India,0.308383872,National
+541,1966,India,0.313155263,National
+542,1967,India,0.30703316,National
+543,1968,India,0.327936386,National
+544,1969,India,0.327105793,National
+545,1970,India,0.327735659,National
+546,1971,India,0.338464281,National
+547,1972,India,0.349843176,National
+548,1973,India,0.351992951,National
+549,1974,India,0.355004394,National
+550,1975,India,0.376363603,National
+551,1976,India,0.384341725,National
+552,1977,India,0.397444499,National
+553,1978,India,0.394724898,National
+554,1979,India,0.405017972,National
+555,1980,India,0.417886629,National
+556,1981,India,0.440829272,National
+557,1982,India,0.444911845,National
+558,1983,India,0.470541172,National
+559,1984,India,0.472066065,National
+560,1985,India,0.507508824,National
+561,1986,India,0.532216818,National
+562,1987,India,0.556183578,National
+563,1988,India,0.587831624,National
+564,1989,India,0.632842453,National
+565,1990,India,0.662660684,National
+566,1991,India,0.691265119,National
+567,1992,India,0.721673338,National
+568,1993,India,0.731197775,National
+569,1994,India,0.758381935,National
+570,1995,India,0.790870128,National
+571,1996,India,0.840981946,National
+572,1997,India,0.859156087,National
+573,1998,India,0.861160591,National
+574,1999,India,0.916780382,National
+575,2000,India,0.926035573,National
+576,2001,India,0.923282893,National
+577,2002,India,0.935546592,National
+578,2003,India,0.953121047,National
+579,2004,India,0.996140863,National
+580,2005,India,1.033243597,National
+581,2006,India,1.08068438,National
+582,2007,India,1.147654937,National
+583,2008,India,1.218131584,National
+584,2009,India,1.324201614,National
+585,2010,India,1.359883796,National
+586,2011,India,1.412526586,National
+587,2012,India,1.533688874,National
+588,2013,India,1.587559059,National
+589,2014,India,1.686037698,National
+590,2015,India,1.719975157,National
+591,2016,India,1.806212938,National
+592,2017,India,1.835280397,National
+593,2018,India,1.915749804,National
+594,2019,India,1.914823083,National
+595,1901,World,1.215954441,Global
+596,1902,World,1.239491279,Global
+597,1903,World,1.344320789,Global
+598,1904,World,1.350529852,Global
+599,1905,World,1.429726685,Global
+600,1906,World,1.493212348,Global
+601,1907,World,1.678380299,Global
+602,1908,World,1.606005841,Global
+603,1909,World,1.660942526,Global
+604,1910,World,1.73266057,Global
+605,1911,World,1.754682785,Global
+606,1912,World,1.828005623,Global
+607,1913,World,1.96723564,Global
+608,1914,World,1.775217936,Global
+609,1915,World,1.741021439,Global
+610,1916,World,1.868068518,Global
+611,1917,World,1.941540311,Global
+612,1918,World,1.901234661,Global
+613,1919,World,1.636390736,Global
+614,1920,World,1.888921785,Global
+615,1921,World,1.64353525,Global
+616,1922,World,1.708366775,Global
+617,1923,World,1.920065292,Global
+618,1924,World,1.906860481,Global
+619,1925,World,1.900239724,Global
+620,1926,World,1.844946734,Global
+621,1927,World,1.992224083,Global
+622,1928,World,1.959648525,Global
+623,1929,World,2.079332716,Global
+624,1930,World,1.893429422,Global
+625,1931,World,1.671649605,Global
+626,1932,World,1.488632192,Global
+627,1933,World,1.548613653,Global
+628,1934,World,1.664589241,Global
+629,1935,World,1.726875157,Global
+630,1936,World,1.876767153,Global
+631,1937,World,1.98631708,Global
+632,1938,World,1.851803254,Global
+633,1939,World,1.942567605,Global
+634,1940,World,2.107427941,Global
+635,1941,World,2.141468595,Global
+636,1942,World,2.121458451,Global
+637,1943,World,2.146057658,Global
+638,1944,World,2.169196659,Global
+639,1945,World,1.791955291,Global
+640,1946,World,1.941192331,Global
+641,1947,World,2.12867211,Global
+642,1948,World,2.214237881,Global
+643,1949,World,2.117773902,Global
+644,1950,World,2.364878145,Global
+645,1951,World,2.466602552,Global
+646,1952,World,2.455530884,Global
+647,1953,World,2.480491024,Global
+648,1954,World,2.490027405,Global
+649,1955,World,2.681927445,Global
+650,1956,World,2.805339345,Global
+651,1957,World,2.84666489,Global
+652,1958,World,2.875260746,Global
+653,1959,World,2.969720681,Global
+654,1960,World,3.075798474,Global
+655,1961,World,3.026026837,Global
+656,1962,World,3.074988759,Global
+657,1963,World,3.187800489,Global
+658,1964,World,3.289456628,Global
+659,1965,World,3.374459028,Global
+660,1966,World,3.460711432,Global
+661,1967,World,3.498793206,Global
+662,1968,World,3.614145478,Global
+663,1969,World,3.776350562,Global
+664,1970,World,4.006786926,Global
+665,1971,World,4.085490548,Global
+666,1972,World,4.191087115,Global
+667,1973,World,4.328324955,Global
+668,1974,World,4.227458223,Global
+669,1975,World,4.143413444,Global
+670,1976,World,4.284280838,Global
+671,1977,World,4.323894063,Global
+672,1978,World,4.4043866,Global
+673,1979,World,4.443376551,Global
+674,1980,World,4.344871915,Global
+675,1981,World,4.152827772,Global
+676,1982,World,4.050118593,Global
+677,1983,World,4.01659683,Global
+678,1984,World,4.060657657,Global
+679,1985,World,4.129982625,Global
+680,1986,World,4.112774079,Global
+681,1987,World,4.168750582,Global
+682,1988,World,4.249593929,Global
+683,1989,World,4.237443759,Global
+684,1990,World,4.260677268,Global
+685,1991,World,4.279330079,Global
+686,1992,World,4.081701787,Global
+687,1993,World,4.063818707,Global
+688,1994,World,4.033759903,Global
+689,1995,World,4.061854792,Global
+690,1996,World,4.128976818,Global
+691,1997,World,4.096690878,Global
+692,1998,World,4.028896961,Global
+693,1999,World,4.028708357,Global
+694,2000,World,4.088722431,Global
+695,2001,World,4.070982122,Global
+696,2002,World,4.111729683,Global
+697,2003,World,4.258798934,Global
+698,2004,World,4.406400096,Global
+699,2005,World,4.495766998,Global
+700,2006,World,4.585864043,Global
+701,2007,World,4.666583506,Global
+702,2008,World,4.705496568,Global
+703,2009,World,4.578097954,Global
+704,2010,World,4.762505242,Global
+705,2011,World,4.858491706,Global
+706,2012,World,4.878030689,Global
+707,2013,World,4.852210747,Global
+708,2014,World,4.831180646,Global
+709,2015,World,4.77105896,Global
+710,2016,World,4.718690854,Global
+711,2017,World,4.729334392,Global
+712,2018,World,4.772543108,Global
+713,2019,World,4.724384419,Global
