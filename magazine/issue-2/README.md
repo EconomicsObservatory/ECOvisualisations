@@ -2,47 +2,47 @@
 
 ## Climate in numbers
 
-### fig4-1_fossil-fuels_local --- [json](visualisation/fig4-1_fossil-fuels_local.json "fig4-1_fossil-fuels_local") [svg](visualisation/fig4-1_fossil-fuels_local.svg "fig4-1_fossil-fuels_local") [png](visualisation/fig4-1_fossil-fuels_local.png "fig4-1_fossil-fuels_local")
-[!["fig4-1_fossil-fuels_local"](visualisation/fig4-1_fossil-fuels_local.svg "fig4-1_fossil-fuels_local")](visualisation/fig4-1_fossil-fuels_local.svg "fig4-1_fossil-fuels_local")
+### fig4-1_fossil-fuels --- [json](visualisation/fig4-1_fossil-fuels.json "fig4-1_fossil-fuels") [svg](visualisation/fig4-1_fossil-fuels.svg "fig4-1_fossil-fuels") [png](visualisation/fig4-1_fossil-fuels.png "fig4-1_fossil-fuels")
+[!["fig4-1_fossil-fuels"](visualisation/fig4-1_fossil-fuels.svg "fig4-1_fossil-fuels")](visualisation/fig4-1_fossil-fuels.svg "fig4-1_fossil-fuels")
 
-### fig4-1_fossil-fuels_local_dark --- [json](visualisation/fig4-1_fossil-fuels_local_dark.json "fig4-1_fossil-fuels_local_dark") [svg](visualisation/fig4-1_fossil-fuels_local_dark.svg "fig4-1_fossil-fuels_local_dark") [png](visualisation/fig4-1_fossil-fuels_local_dark.png "fig4-1_fossil-fuels_local_dark")
-[!["fig4-1_fossil-fuels_local_dark"](visualisation/fig4-1_fossil-fuels_local_dark.svg "fig4-1_fossil-fuels_local_dark")](visualisation/fig4-1_fossil-fuels_local_dark.svg "fig4-1_fossil-fuels_local_dark")
+### fig4-1_fossil-fuels_dark --- [json](visualisation/fig4-1_fossil-fuels_dark.json "fig4-1_fossil-fuels_dark") [svg](visualisation/fig4-1_fossil-fuels_dark.svg "fig4-1_fossil-fuels_dark") [png](visualisation/fig4-1_fossil-fuels_dark.png "fig4-1_fossil-fuels_dark")
+[!["fig4-1_fossil-fuels_dark"](visualisation/fig4-1_fossil-fuels_dark.svg "fig4-1_fossil-fuels_dark")](visualisation/fig4-1_fossil-fuels_dark.svg "fig4-1_fossil-fuels_dark")
 
-### fig4-2a_emissions_local --- [json](visualisation/fig4-2a_emissions_local.json "fig4-2a_emissions_local") [svg](visualisation/fig4-2a_emissions_local.svg "fig4-2a_emissions_local") [png](visualisation/fig4-2a_emissions_local.png "fig4-2a_emissions_local")
-[!["fig4-2a_emissions_local"](visualisation/fig4-2a_emissions_local.svg "fig4-2a_emissions_local")](visualisation/fig4-2a_emissions_local.svg "fig4-2a_emissions_local")
+### fig4-2a_emissions --- [json](visualisation/fig4-2a_emissions.json "fig4-2a_emissions") [svg](visualisation/fig4-2a_emissions.svg "fig4-2a_emissions") [png](visualisation/fig4-2a_emissions.png "fig4-2a_emissions")
+[!["fig4-2a_emissions"](visualisation/fig4-2a_emissions.svg "fig4-2a_emissions")](visualisation/fig4-2a_emissions.svg "fig4-2a_emissions")
 
-### fig4-2a_emissions_local_dark --- [json](visualisation/fig4-2a_emissions_local_dark.json "fig4-2a_emissions_local_dark") [svg](visualisation/fig4-2a_emissions_local_dark.svg "fig4-2a_emissions_local_dark") [png](visualisation/fig4-2a_emissions_local_dark.png "fig4-2a_emissions_local_dark")
-[!["fig4-2a_emissions_local_dark"](visualisation/fig4-2a_emissions_local_dark.svg "fig4-2a_emissions_local_dark")](visualisation/fig4-2a_emissions_local_dark.svg "fig4-2a_emissions_local_dark")
+### fig4-2a_emissions_dark --- [json](visualisation/fig4-2a_emissions_dark.json "fig4-2a_emissions_dark") [svg](visualisation/fig4-2a_emissions_dark.svg "fig4-2a_emissions_dark") [png](visualisation/fig4-2a_emissions_dark.png "fig4-2a_emissions_dark")
+[!["fig4-2a_emissions_dark"](visualisation/fig4-2a_emissions_dark.svg "fig4-2a_emissions_dark")](visualisation/fig4-2a_emissions_dark.svg "fig4-2a_emissions_dark")
 
-### fig4-2b_emissions_local --- [json](visualisation/fig4-2b_emissions_local.json "fig4-2b_emissions_local") [svg](visualisation/fig4-2b_emissions_local.svg "fig4-2b_emissions_local") [png](visualisation/fig4-2b_emissions_local.png "fig4-2b_emissions_local")
-[!["fig4-2b_emissions_local"](visualisation/fig4-2b_emissions_local.svg "fig4-2b_emissions_local")](visualisation/fig4-2b_emissions_local.svg "fig4-2b_emissions_local")
+### fig4-2b_emissions --- [json](visualisation/fig4-2b_emissions.json "fig4-2b_emissions") [svg](visualisation/fig4-2b_emissions.svg "fig4-2b_emissions") [png](visualisation/fig4-2b_emissions.png "fig4-2b_emissions")
+[!["fig4-2b_emissions"](visualisation/fig4-2b_emissions.svg "fig4-2b_emissions")](visualisation/fig4-2b_emissions.svg "fig4-2b_emissions")
 
-### fig4-2b_emissions_local_dark --- [json](visualisation/fig4-2b_emissions_local_dark.json "fig4-2b_emissions_local_dark") [svg](visualisation/fig4-2b_emissions_local_dark.svg "fig4-2b_emissions_local_dark") [png](visualisation/fig4-2b_emissions_local_dark.png "fig4-2b_emissions_local_dark")
-[!["fig4-2b_emissions_local_dark"](visualisation/fig4-2b_emissions_local_dark.svg "fig4-2b_emissions_local_dark")](visualisation/fig4-2b_emissions_local_dark.svg "fig4-2b_emissions_local_dark")
+### fig4-2b_emissions_dark --- [json](visualisation/fig4-2b_emissions_dark.json "fig4-2b_emissions_dark") [svg](visualisation/fig4-2b_emissions_dark.svg "fig4-2b_emissions_dark") [png](visualisation/fig4-2b_emissions_dark.png "fig4-2b_emissions_dark")
+[!["fig4-2b_emissions_dark"](visualisation/fig4-2b_emissions_dark.svg "fig4-2b_emissions_dark")](visualisation/fig4-2b_emissions_dark.svg "fig4-2b_emissions_dark")
 
-### fig4-3_climate-scenarios_local --- [json](visualisation/fig4-3_climate-scenarios_local.json "fig4-3_climate-scenarios_local") [svg](visualisation/fig4-3_climate-scenarios_local.svg "fig4-3_climate-scenarios_local") [png](visualisation/fig4-3_climate-scenarios_local.png "fig4-3_climate-scenarios_local")
-[!["fig4-3_climate-scenarios_local"](visualisation/fig4-3_climate-scenarios_local.svg "fig4-3_climate-scenarios_local")](visualisation/fig4-3_climate-scenarios_local.svg "fig4-3_climate-scenarios_local")
+### fig4-3_climate-scenarios --- [json](visualisation/fig4-3_climate-scenarios.json "fig4-3_climate-scenarios") [svg](visualisation/fig4-3_climate-scenarios.svg "fig4-3_climate-scenarios") [png](visualisation/fig4-3_climate-scenarios.png "fig4-3_climate-scenarios")
+[!["fig4-3_climate-scenarios"](visualisation/fig4-3_climate-scenarios.svg "fig4-3_climate-scenarios")](visualisation/fig4-3_climate-scenarios.svg "fig4-3_climate-scenarios")
 
-### fig4-3_climate-scenarios_local_dark --- [json](visualisation/fig4-3_climate-scenarios_local_dark.json "fig4-3_climate-scenarios_local_dark") [svg](visualisation/fig4-3_climate-scenarios_local_dark.svg "fig4-3_climate-scenarios_local_dark") [png](visualisation/fig4-3_climate-scenarios_local_dark.png "fig4-3_climate-scenarios_local_dark")
-[!["fig4-3_climate-scenarios_local_dark"](visualisation/fig4-3_climate-scenarios_local_dark.svg "fig4-3_climate-scenarios_local_dark")](visualisation/fig4-3_climate-scenarios_local_dark.svg "fig4-3_climate-scenarios_local_dark")
+### fig4-3_climate-scenarios_dark --- [json](visualisation/fig4-3_climate-scenarios_dark.json "fig4-3_climate-scenarios_dark") [svg](visualisation/fig4-3_climate-scenarios_dark.svg "fig4-3_climate-scenarios_dark") [png](visualisation/fig4-3_climate-scenarios_dark.png "fig4-3_climate-scenarios_dark")
+[!["fig4-3_climate-scenarios_dark"](visualisation/fig4-3_climate-scenarios_dark.svg "fig4-3_climate-scenarios_dark")](visualisation/fig4-3_climate-scenarios_dark.svg "fig4-3_climate-scenarios_dark")
 
-### fig4-4_gdp-loss_local --- [json](visualisation/fig4-4_gdp-loss_local.json "fig4-4_gdp-loss_local") [svg](visualisation/fig4-4_gdp-loss_local.svg "fig4-4_gdp-loss_local") [png](visualisation/fig4-4_gdp-loss_local.png "fig4-4_gdp-loss_local")
-[!["fig4-4_gdp-loss_local"](visualisation/fig4-4_gdp-loss_local.svg "fig4-4_gdp-loss_local")](visualisation/fig4-4_gdp-loss_local.svg "fig4-4_gdp-loss_local")
+### fig4-4_gdp-loss --- [json](visualisation/fig4-4_gdp-loss.json "fig4-4_gdp-loss") [svg](visualisation/fig4-4_gdp-loss.svg "fig4-4_gdp-loss") [png](visualisation/fig4-4_gdp-loss.png "fig4-4_gdp-loss")
+[!["fig4-4_gdp-loss"](visualisation/fig4-4_gdp-loss.svg "fig4-4_gdp-loss")](visualisation/fig4-4_gdp-loss.svg "fig4-4_gdp-loss")
 
-### fig4-4_gdp-loss_local_dark --- [json](visualisation/fig4-4_gdp-loss_local_dark.json "fig4-4_gdp-loss_local_dark") [svg](visualisation/fig4-4_gdp-loss_local_dark.svg "fig4-4_gdp-loss_local_dark") [png](visualisation/fig4-4_gdp-loss_local_dark.png "fig4-4_gdp-loss_local_dark")
-[!["fig4-4_gdp-loss_local_dark"](visualisation/fig4-4_gdp-loss_local_dark.svg "fig4-4_gdp-loss_local_dark")](visualisation/fig4-4_gdp-loss_local_dark.svg "fig4-4_gdp-loss_local_dark")
+### fig4-4_gdp-loss_dark --- [json](visualisation/fig4-4_gdp-loss_dark.json "fig4-4_gdp-loss_dark") [svg](visualisation/fig4-4_gdp-loss_dark.svg "fig4-4_gdp-loss_dark") [png](visualisation/fig4-4_gdp-loss_dark.png "fig4-4_gdp-loss_dark")
+[!["fig4-4_gdp-loss_dark"](visualisation/fig4-4_gdp-loss_dark.svg "fig4-4_gdp-loss_dark")](visualisation/fig4-4_gdp-loss_dark.svg "fig4-4_gdp-loss_dark")
 
-### fig4-5_forest-area_local --- [json](visualisation/fig4-5_forest-area_local.json "fig4-5_forest-area_local") [svg](visualisation/fig4-5_forest-area_local.svg "fig4-5_forest-area_local") [png](visualisation/fig4-5_forest-area_local.png "fig4-5_forest-area_local")
-[!["fig4-5_forest-area_local"](visualisation/fig4-5_forest-area_local.svg "fig4-5_forest-area_local")](visualisation/fig4-5_forest-area_local.svg "fig4-5_forest-area_local")
+### fig4-5_forest-area --- [json](visualisation/fig4-5_forest-area.json "fig4-5_forest-area") [svg](visualisation/fig4-5_forest-area.svg "fig4-5_forest-area") [png](visualisation/fig4-5_forest-area.png "fig4-5_forest-area")
+[!["fig4-5_forest-area"](visualisation/fig4-5_forest-area.svg "fig4-5_forest-area")](visualisation/fig4-5_forest-area.svg "fig4-5_forest-area")
 
-### fig4-5_forest-area_local_dark --- [json](visualisation/fig4-5_forest-area_local_dark.json "fig4-5_forest-area_local_dark") [svg](visualisation/fig4-5_forest-area_local_dark.svg "fig4-5_forest-area_local_dark") [png](visualisation/fig4-5_forest-area_local_dark.png "fig4-5_forest-area_local_dark")
-[!["fig4-5_forest-area_local_dark"](visualisation/fig4-5_forest-area_local_dark.svg "fig4-5_forest-area_local_dark")](visualisation/fig4-5_forest-area_local_dark.svg "fig4-5_forest-area_local_dark")
+### fig4-5_forest-area_dark --- [json](visualisation/fig4-5_forest-area_dark.json "fig4-5_forest-area_dark") [svg](visualisation/fig4-5_forest-area_dark.svg "fig4-5_forest-area_dark") [png](visualisation/fig4-5_forest-area_dark.png "fig4-5_forest-area_dark")
+[!["fig4-5_forest-area_dark"](visualisation/fig4-5_forest-area_dark.svg "fig4-5_forest-area_dark")](visualisation/fig4-5_forest-area_dark.svg "fig4-5_forest-area_dark")
 
-### fig4-6_endangered-species_local --- [json](visualisation/fig4-6_endangered-species_local.json "fig4-6_endangered-species_local") [svg](visualisation/fig4-6_endangered-species_local.svg "fig4-6_endangered-species_local") [png](visualisation/fig4-6_endangered-species_local.png "fig4-6_endangered-species_local")
-[!["fig4-6_endangered-species_local"](visualisation/fig4-6_endangered-species_local.svg "fig4-6_endangered-species_local")](visualisation/fig4-6_endangered-species_local.svg "fig4-6_endangered-species_local")
+### fig4-6_endangered-species --- [json](visualisation/fig4-6_endangered-species.json "fig4-6_endangered-species") [svg](visualisation/fig4-6_endangered-species.svg "fig4-6_endangered-species") [png](visualisation/fig4-6_endangered-species.png "fig4-6_endangered-species")
+[!["fig4-6_endangered-species"](visualisation/fig4-6_endangered-species.svg "fig4-6_endangered-species")](visualisation/fig4-6_endangered-species.svg "fig4-6_endangered-species")
 
-### fig4-6_endangered-species_local_dark --- [json](visualisation/fig4-6_endangered-species_local_dark.json "fig4-6_endangered-species_local_dark") [svg](visualisation/fig4-6_endangered-species_local_dark.svg "fig4-6_endangered-species_local_dark") [png](visualisation/fig4-6_endangered-species_local_dark.png "fig4-6_endangered-species_local_dark")
-[!["fig4-6_endangered-species_local_dark"](visualisation/fig4-6_endangered-species_local_dark.svg "fig4-6_endangered-species_local_dark")](visualisation/fig4-6_endangered-species_local_dark.svg "fig4-6_endangered-species_local_dark")
+### fig4-6_endangered-species_dark --- [json](visualisation/fig4-6_endangered-species_dark.json "fig4-6_endangered-species_dark") [svg](visualisation/fig4-6_endangered-species_dark.svg "fig4-6_endangered-species_dark") [png](visualisation/fig4-6_endangered-species_dark.png "fig4-6_endangered-species_dark")
+[!["fig4-6_endangered-species_dark"](visualisation/fig4-6_endangered-species_dark.svg "fig4-6_endangered-species_dark")](visualisation/fig4-6_endangered-species_dark.svg "fig4-6_endangered-species_dark")
 
 # Article 5 
 
@@ -74,23 +74,23 @@
 
 ## Plastics
 
-### fig7-1_ocean_local --- [json](visualisation/fig7-1_ocean_local.json "fig7-1_ocean_local") [svg](visualisation/fig7-1_ocean_local.svg "fig7-1_ocean_local") [png](visualisation/fig7-1_ocean_local.png "fig7-1_ocean_local")
-[!["fig7-1_ocean_local"](visualisation/fig7-1_ocean_local.svg "fig7-1_ocean_local")](visualisation/fig7-1_ocean_local.svg "fig7-1_ocean_local")
+### fig7-1_ocean --- [json](visualisation/fig7-1_ocean.json "fig7-1_ocean") [svg](visualisation/fig7-1_ocean.svg "fig7-1_ocean") [png](visualisation/fig7-1_ocean.png "fig7-1_ocean")
+[!["fig7-1_ocean"](visualisation/fig7-1_ocean.svg "fig7-1_ocean")](visualisation/fig7-1_ocean.svg "fig7-1_ocean")
 
-### fig7-1_ocean_local_dark --- [json](visualisation/fig7-1_ocean_local_dark.json "fig7-1_ocean_local_dark") [svg](visualisation/fig7-1_ocean_local_dark.svg "fig7-1_ocean_local_dark") [png](visualisation/fig7-1_ocean_local_dark.png "fig7-1_ocean_local_dark")
-[!["fig7-1_ocean_local_dark"](visualisation/fig7-1_ocean_local_dark.svg "fig7-1_ocean_local_dark")](visualisation/fig7-1_ocean_local_dark.svg "fig7-1_ocean_local_dark")
+### fig7-1_ocean_dark --- [json](visualisation/fig7-1_ocean_dark.json "fig7-1_ocean_dark") [svg](visualisation/fig7-1_ocean_dark.svg "fig7-1_ocean_dark") [png](visualisation/fig7-1_ocean_dark.png "fig7-1_ocean_dark")
+[!["fig7-1_ocean_dark"](visualisation/fig7-1_ocean_dark.svg "fig7-1_ocean_dark")](visualisation/fig7-1_ocean_dark.svg "fig7-1_ocean_dark")
 
-### fig7-2_river_local --- [json](visualisation/fig7-2_river_local.json "fig7-2_river_local") [svg](visualisation/fig7-2_river_local.svg "fig7-2_river_local") [png](visualisation/fig7-2_river_local.png "fig7-2_river_local")
-[!["fig7-2_river_local"](visualisation/fig7-2_river_local.svg "fig7-2_river_local")](visualisation/fig7-2_river_local.svg "fig7-2_river_local")
+### fig7-2_river --- [json](visualisation/fig7-2_river.json "fig7-2_river") [svg](visualisation/fig7-2_river.svg "fig7-2_river") [png](visualisation/fig7-2_river.png "fig7-2_river")
+[!["fig7-2_river"](visualisation/fig7-2_river.svg "fig7-2_river")](visualisation/fig7-2_river.svg "fig7-2_river")
 
-### fig7-2_river_local_dark --- [json](visualisation/fig7-2_river_local_dark.json "fig7-2_river_local_dark") [svg](visualisation/fig7-2_river_local_dark.svg "fig7-2_river_local_dark") [png](visualisation/fig7-2_river_local_dark.png "fig7-2_river_local_dark")
-[!["fig7-2_river_local_dark"](visualisation/fig7-2_river_local_dark.svg "fig7-2_river_local_dark")](visualisation/fig7-2_river_local_dark.svg "fig7-2_river_local_dark")
+### fig7-2_river_dark --- [json](visualisation/fig7-2_river_dark.json "fig7-2_river_dark") [svg](visualisation/fig7-2_river_dark.svg "fig7-2_river_dark") [png](visualisation/fig7-2_river_dark.png "fig7-2_river_dark")
+[!["fig7-2_river_dark"](visualisation/fig7-2_river_dark.svg "fig7-2_river_dark")](visualisation/fig7-2_river_dark.svg "fig7-2_river_dark")
 
-### fig8-1_east-africa-gdp_local --- [json](visualisation/fig8-1_east-africa-gdp_local.json "fig8-1_east-africa-gdp_local") [svg](visualisation/fig8-1_east-africa-gdp_local.svg "fig8-1_east-africa-gdp_local") [png](visualisation/fig8-1_east-africa-gdp_local.png "fig8-1_east-africa-gdp_local")
-[!["fig8-1_east-africa-gdp_local"](visualisation/fig8-1_east-africa-gdp_local.svg "fig8-1_east-africa-gdp_local")](visualisation/fig8-1_east-africa-gdp_local.svg "fig8-1_east-africa-gdp_local")
+### fig8-1_east-africa-gdp --- [json](visualisation/fig8-1_east-africa-gdp.json "fig8-1_east-africa-gdp") [svg](visualisation/fig8-1_east-africa-gdp.svg "fig8-1_east-africa-gdp") [png](visualisation/fig8-1_east-africa-gdp.png "fig8-1_east-africa-gdp")
+[!["fig8-1_east-africa-gdp"](visualisation/fig8-1_east-africa-gdp.svg "fig8-1_east-africa-gdp")](visualisation/fig8-1_east-africa-gdp.svg "fig8-1_east-africa-gdp")
 
-### fig8-1_east-africa-gdp_local_dark --- [json](visualisation/fig8-1_east-africa-gdp_local_dark.json "fig8-1_east-africa-gdp_local_dark") [svg](visualisation/fig8-1_east-africa-gdp_local_dark.svg "fig8-1_east-africa-gdp_local_dark") [png](visualisation/fig8-1_east-africa-gdp_local_dark.png "fig8-1_east-africa-gdp_local_dark")
-[!["fig8-1_east-africa-gdp_local_dark"](visualisation/fig8-1_east-africa-gdp_local_dark.svg "fig8-1_east-africa-gdp_local_dark")](visualisation/fig8-1_east-africa-gdp_local_dark.svg "fig8-1_east-africa-gdp_local_dark")
+### fig8-1_east-africa-gdp_dark --- [json](visualisation/fig8-1_east-africa-gdp_dark.json "fig8-1_east-africa-gdp_dark") [svg](visualisation/fig8-1_east-africa-gdp_dark.svg "fig8-1_east-africa-gdp_dark") [png](visualisation/fig8-1_east-africa-gdp_dark.png "fig8-1_east-africa-gdp_dark")
+[!["fig8-1_east-africa-gdp_dark"](visualisation/fig8-1_east-africa-gdp_dark.svg "fig8-1_east-africa-gdp_dark")](visualisation/fig8-1_east-africa-gdp_dark.svg "fig8-1_east-africa-gdp_dark")
 
 ### Fig 8-2 map of Africa with locations of JG# Article 9 
 
@@ -118,43 +118,43 @@
 
 ## Post-growth
 
-### fig11-1_gdp-emissions-intensity_local --- [json](visualisation/fig11-1_gdp-emissions-intensity_local.json "fig11-1_gdp-emissions-intensity_local") [svg](visualisation/fig11-1_gdp-emissions-intensity_local.svg "fig11-1_gdp-emissions-intensity_local") [png](visualisation/fig11-1_gdp-emissions-intensity_local.png "fig11-1_gdp-emissions-intensity_local")
-[!["fig11-1_gdp-emissions-intensity_local"](visualisation/fig11-1_gdp-emissions-intensity_local.svg "fig11-1_gdp-emissions-intensity_local")](visualisation/fig11-1_gdp-emissions-intensity_local.svg "fig11-1_gdp-emissions-intensity_local")
+### fig11-1_gdp-emissions-intensity --- [json](visualisation/fig11-1_gdp-emissions-intensity.json "fig11-1_gdp-emissions-intensity") [svg](visualisation/fig11-1_gdp-emissions-intensity.svg "fig11-1_gdp-emissions-intensity") [png](visualisation/fig11-1_gdp-emissions-intensity.png "fig11-1_gdp-emissions-intensity")
+[!["fig11-1_gdp-emissions-intensity"](visualisation/fig11-1_gdp-emissions-intensity.svg "fig11-1_gdp-emissions-intensity")](visualisation/fig11-1_gdp-emissions-intensity.svg "fig11-1_gdp-emissions-intensity")
 
-### fig11-1_gdp-emissions-intensity_local_dark --- [json](visualisation/fig11-1_gdp-emissions-intensity_local_dark.json "fig11-1_gdp-emissions-intensity_local_dark") [svg](visualisation/fig11-1_gdp-emissions-intensity_local_dark.svg "fig11-1_gdp-emissions-intensity_local_dark") [png](visualisation/fig11-1_gdp-emissions-intensity_local_dark.png "fig11-1_gdp-emissions-intensity_local_dark")
-[!["fig11-1_gdp-emissions-intensity_local_dark"](visualisation/fig11-1_gdp-emissions-intensity_local_dark.svg "fig11-1_gdp-emissions-intensity_local_dark")](visualisation/fig11-1_gdp-emissions-intensity_local_dark.svg "fig11-1_gdp-emissions-intensity_local_dark")
+### fig11-1_gdp-emissions-intensity_dark --- [json](visualisation/fig11-1_gdp-emissions-intensity_dark.json "fig11-1_gdp-emissions-intensity_dark") [svg](visualisation/fig11-1_gdp-emissions-intensity_dark.svg "fig11-1_gdp-emissions-intensity_dark") [png](visualisation/fig11-1_gdp-emissions-intensity_dark.png "fig11-1_gdp-emissions-intensity_dark")
+[!["fig11-1_gdp-emissions-intensity_dark"](visualisation/fig11-1_gdp-emissions-intensity_dark.svg "fig11-1_gdp-emissions-intensity_dark")](visualisation/fig11-1_gdp-emissions-intensity_dark.svg "fig11-1_gdp-emissions-intensity_dark")
 
 # Article 12 
 
 ## Centre page
 
-### fig12-1_cherry-blossom_local --- [json](visualisation/fig12-1_cherry-blossom_local.json "fig12-1_cherry-blossom_local") [svg](visualisation/fig12-1_cherry-blossom_local.svg "fig12-1_cherry-blossom_local") [png](visualisation/fig12-1_cherry-blossom_local.png "fig12-1_cherry-blossom_local")
-[!["fig12-1_cherry-blossom_local"](visualisation/fig12-1_cherry-blossom_local.svg "fig12-1_cherry-blossom_local")](visualisation/fig12-1_cherry-blossom_local.svg "fig12-1_cherry-blossom_local")
+### fig12-1_cherry-blossom --- [json](visualisation/fig12-1_cherry-blossom.json "fig12-1_cherry-blossom") [svg](visualisation/fig12-1_cherry-blossom.svg "fig12-1_cherry-blossom") [png](visualisation/fig12-1_cherry-blossom.png "fig12-1_cherry-blossom")
+[!["fig12-1_cherry-blossom"](visualisation/fig12-1_cherry-blossom.svg "fig12-1_cherry-blossom")](visualisation/fig12-1_cherry-blossom.svg "fig12-1_cherry-blossom")
 
-### fig12-1_cherry-blossom_local_dark --- [json](visualisation/fig12-1_cherry-blossom_local_dark.json "fig12-1_cherry-blossom_local_dark") [svg](visualisation/fig12-1_cherry-blossom_local_dark.svg "fig12-1_cherry-blossom_local_dark") [png](visualisation/fig12-1_cherry-blossom_local_dark.png "fig12-1_cherry-blossom_local_dark")
-[!["fig12-1_cherry-blossom_local_dark"](visualisation/fig12-1_cherry-blossom_local_dark.svg "fig12-1_cherry-blossom_local_dark")](visualisation/fig12-1_cherry-blossom_local_dark.svg "fig12-1_cherry-blossom_local_dark")
+### fig12-1_cherry-blossom_dark --- [json](visualisation/fig12-1_cherry-blossom_dark.json "fig12-1_cherry-blossom_dark") [svg](visualisation/fig12-1_cherry-blossom_dark.svg "fig12-1_cherry-blossom_dark") [png](visualisation/fig12-1_cherry-blossom_dark.png "fig12-1_cherry-blossom_dark")
+[!["fig12-1_cherry-blossom_dark"](visualisation/fig12-1_cherry-blossom_dark.svg "fig12-1_cherry-blossom_dark")](visualisation/fig12-1_cherry-blossom_dark.svg "fig12-1_cherry-blossom_dark")
 
-### fig12-2a_ice_local --- [json](visualisation/fig12-2a_ice_local.json "fig12-2a_ice_local") [svg](visualisation/fig12-2a_ice_local.svg "fig12-2a_ice_local") [png](visualisation/fig12-2a_ice_local.png "fig12-2a_ice_local")
-[!["fig12-2a_ice_local"](visualisation/fig12-2a_ice_local.svg "fig12-2a_ice_local")](visualisation/fig12-2a_ice_local.svg "fig12-2a_ice_local")
+### fig12-2a_ice --- [json](visualisation/fig12-2a_ice.json "fig12-2a_ice") [svg](visualisation/fig12-2a_ice.svg "fig12-2a_ice") [png](visualisation/fig12-2a_ice.png "fig12-2a_ice")
+[!["fig12-2a_ice"](visualisation/fig12-2a_ice.svg "fig12-2a_ice")](visualisation/fig12-2a_ice.svg "fig12-2a_ice")
 
-### fig12-2a_ice_local_dark --- [json](visualisation/fig12-2a_ice_local_dark.json "fig12-2a_ice_local_dark") [svg](visualisation/fig12-2a_ice_local_dark.svg "fig12-2a_ice_local_dark") [png](visualisation/fig12-2a_ice_local_dark.png "fig12-2a_ice_local_dark")
-[!["fig12-2a_ice_local_dark"](visualisation/fig12-2a_ice_local_dark.svg "fig12-2a_ice_local_dark")](visualisation/fig12-2a_ice_local_dark.svg "fig12-2a_ice_local_dark")
+### fig12-2a_ice_dark --- [json](visualisation/fig12-2a_ice_dark.json "fig12-2a_ice_dark") [svg](visualisation/fig12-2a_ice_dark.svg "fig12-2a_ice_dark") [png](visualisation/fig12-2a_ice_dark.png "fig12-2a_ice_dark")
+[!["fig12-2a_ice_dark"](visualisation/fig12-2a_ice_dark.svg "fig12-2a_ice_dark")](visualisation/fig12-2a_ice_dark.svg "fig12-2a_ice_dark")
 
-### fig12-2b_glaciers_local --- [json](visualisation/fig12-2b_glaciers_local.json "fig12-2b_glaciers_local") [svg](visualisation/fig12-2b_glaciers_local.svg "fig12-2b_glaciers_local") [png](visualisation/fig12-2b_glaciers_local.png "fig12-2b_glaciers_local")
-[!["fig12-2b_glaciers_local"](visualisation/fig12-2b_glaciers_local.svg "fig12-2b_glaciers_local")](visualisation/fig12-2b_glaciers_local.svg "fig12-2b_glaciers_local")
+### fig12-2b_glaciers --- [json](visualisation/fig12-2b_glaciers.json "fig12-2b_glaciers") [svg](visualisation/fig12-2b_glaciers.svg "fig12-2b_glaciers") [png](visualisation/fig12-2b_glaciers.png "fig12-2b_glaciers")
+[!["fig12-2b_glaciers"](visualisation/fig12-2b_glaciers.svg "fig12-2b_glaciers")](visualisation/fig12-2b_glaciers.svg "fig12-2b_glaciers")
 
-### fig12-2b_glaciers_local_dark --- [json](visualisation/fig12-2b_glaciers_local_dark.json "fig12-2b_glaciers_local_dark") [svg](visualisation/fig12-2b_glaciers_local_dark.svg "fig12-2b_glaciers_local_dark") [png](visualisation/fig12-2b_glaciers_local_dark.png "fig12-2b_glaciers_local_dark")
-[!["fig12-2b_glaciers_local_dark"](visualisation/fig12-2b_glaciers_local_dark.svg "fig12-2b_glaciers_local_dark")](visualisation/fig12-2b_glaciers_local_dark.svg "fig12-2b_glaciers_local_dark")
+### fig12-2b_glaciers_dark --- [json](visualisation/fig12-2b_glaciers_dark.json "fig12-2b_glaciers_dark") [svg](visualisation/fig12-2b_glaciers_dark.svg "fig12-2b_glaciers_dark") [png](visualisation/fig12-2b_glaciers_dark.png "fig12-2b_glaciers_dark")
+[!["fig12-2b_glaciers_dark"](visualisation/fig12-2b_glaciers_dark.svg "fig12-2b_glaciers_dark")](visualisation/fig12-2b_glaciers_dark.svg "fig12-2b_glaciers_dark")
 
 # Article 13 
 
 ## Promises
 
-### fig13-1_co2targets_local
-!["fig13-1_co2targets_local"](visualisation/fig13-1_co2targets_local.png "fig13-1_co2targets_local")
+### fig13-1_co2targets
+!["fig13-1_co2targets"](visualisation/fig13-1_co2targets.png "fig13-1_co2targets")
 
-### fig13-1_co2targets_local_dark
-!["fig13-1_co2targets_local_dark"](visualisation/fig13-1_co2targets_local_dark.png "fig13-1_co2targets_local_dark")
+### fig13-1_co2targets_dark
+!["fig13-1_co2targets_dark"](visualisation/fig13-1_co2targets_dark.png "fig13-1_co2targets_dark")
 
 # Article 17 
 
@@ -176,17 +176,17 @@
 
 ## Productivity
 
-### fig18-1a_time-allocation_local
-!["fig18-1a_time-allocation_local"](visualisation/fig18-1a_time-allocation_local.png "fig18-1a_time-allocation_local")
+### fig18-1a_time-allocation
+!["fig18-1a_time-allocation"](visualisation/fig18-1a_time-allocation.png "fig18-1a_time-allocation")
 
-### fig18-1a_time-allocation_local_dark
-!["fig18-1a_time-allocation_local_dark"](visualisation/fig18-1a_time-allocation_local_dark.png "fig18-1a_time-allocation_local_dark")
+### fig18-1a_time-allocation_dark
+!["fig18-1a_time-allocation_dark"](visualisation/fig18-1a_time-allocation_dark.png "fig18-1a_time-allocation_dark")
 
-### fig18-1b_time-allocation-b_local
-!["fig18-1b_time-allocation-b_local"](visualisation/fig18-1b_time-allocation-b_local.png "fig18-1b_time-allocation-b_local")
+### fig18-1b_time-allocation-b
+!["fig18-1b_time-allocation-b"](visualisation/fig18-1b_time-allocation-b.png "fig18-1b_time-allocation-b")
 
-### fig18-1b_time-allocation-b_local_dark
-!["fig18-1b_time-allocation-b_local_dark"](visualisation/fig18-1b_time-allocation-b_local_dark.png "fig18-1b_time-allocation-b_local_dark")
+### fig18-1b_time-allocation-b_dark
+!["fig18-1b_time-allocation-b_dark"](visualisation/fig18-1b_time-allocation-b_dark.png "fig18-1b_time-allocation-b_dark")
 
 # Article 19 
 
@@ -228,19 +228,19 @@
 
 ## Firms, competition
 
-### fig23-1_policies_local
-!["fig23-1_policies_local"](visualisation/fig23-1_policies_local.png "fig23-1_policies_local")
+### fig23-1_policies
+!["fig23-1_policies"](visualisation/fig23-1_policies.png "fig23-1_policies")
 
-### fig23-1_policies_local_dark
-!["fig23-1_policies_local_dark"](visualisation/fig23-1_policies_local_dark.png "fig23-1_policies_local_dark")
+### fig23-1_policies_dark
+!["fig23-1_policies_dark"](visualisation/fig23-1_policies_dark.png "fig23-1_policies_dark")
 
 # Article 24 
 
 ## Public debt
 
-### fig24-1_debt_local --- [json](visualisation/fig24-1_debt_local.json "fig24-1_debt_local") [svg](visualisation/fig24-1_debt_local.svg "fig24-1_debt_local") [png](visualisation/fig24-1_debt_local.png "fig24-1_debt_local")
-[!["fig24-1_debt_local"](visualisation/fig24-1_debt_local.svg "fig24-1_debt_local")](visualisation/fig24-1_debt_local.svg "fig24-1_debt_local")
+### fig24-1_debt --- [json](visualisation/fig24-1_debt.json "fig24-1_debt") [svg](visualisation/fig24-1_debt.svg "fig24-1_debt") [png](visualisation/fig24-1_debt.png "fig24-1_debt")
+[!["fig24-1_debt"](visualisation/fig24-1_debt.svg "fig24-1_debt")](visualisation/fig24-1_debt.svg "fig24-1_debt")
 
-### fig24-1_debt_local_dark --- [json](visualisation/fig24-1_debt_local_dark.json "fig24-1_debt_local_dark") [svg](visualisation/fig24-1_debt_local_dark.svg "fig24-1_debt_local_dark") [png](visualisation/fig24-1_debt_local_dark.png "fig24-1_debt_local_dark")
-[!["fig24-1_debt_local_dark"](visualisation/fig24-1_debt_local_dark.svg "fig24-1_debt_local_dark")](visualisation/fig24-1_debt_local_dark.svg "fig24-1_debt_local_dark")
+### fig24-1_debt_dark --- [json](visualisation/fig24-1_debt_dark.json "fig24-1_debt_dark") [svg](visualisation/fig24-1_debt_dark.svg "fig24-1_debt_dark") [png](visualisation/fig24-1_debt_dark.png "fig24-1_debt_dark")
+[!["fig24-1_debt_dark"](visualisation/fig24-1_debt_dark.svg "fig24-1_debt_dark")](visualisation/fig24-1_debt_dark.svg "fig24-1_debt_dark")
 
