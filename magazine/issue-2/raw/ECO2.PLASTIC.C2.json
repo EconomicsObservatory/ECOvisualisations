@@ -1,48 +1,48 @@
 {
 
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
-  "description": "Ocean plastic",
+    "description": "Ocean plastic",
 
-  "title": {
+    "title": {
 
-    "text": "Plastic waste by river", 
-    "subtitle": "Tonnes (2015). Source: Lebreton et al (2017)",
-    "subtitleFontStyle":"italic",
-    "subtitleFontSize":10,
-    "anchor": "start",
-    "color": "black"
-},
-
- 
-  "data": {"url": "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/main/data/ECO2.PLASTIC.C2.csv"},
-
-  "mark":{
-
-
-      "type": "bar", 
-      "color": "#86d0bb",
-      "strokeWidth":2,
-      "opacity":1
+        "text": "Plastic waste by river",
+        "subtitle": "Tonnes (2015). Source: Lebreton et al (2017)",
+        "subtitleFontStyle": "italic",
+        "subtitleFontSize": 10,
+        "anchor": "start",
+        "color": "black"
     },
 
-  "height": 300,
-  "width": 200,
 
-  "encoding": {
+    "data": { "url": "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/main/data/ECO2.PLASTIC.C2.csv" },
 
-    "y": {"field": "River", "type": "ordinal", "sort": "-x", "title": null, "axis": {"labelLimit": false}},
+    "mark": {
 
-    "x": {"field": "Value", "type": "quantitative", "title": null},
+
+        "type": "bar",
+        "color": "#86d0bb",
+        "strokeWidth": 2,
+        "opacity": 1
+    },
+
+    "height": 300,
+    "width": 200,
+
+    "encoding": {
+
+        "y": { "field": "River", "type": "ordinal", "sort": "-x", "title": null, "axis": { "labelLimit": false } },
+
+        "x": { "field": "Value", "type": "quantitative", "title": null },
 
         "tooltip": [
 
-      {"field": "River", "type": "nominal", "title": "River (country)"},
-      {"field": "Value", "type": "quantitative", "title": "Plastic waste (tonnes)"}
+            { "field": "River", "type": "nominal", "title": "River (country)" },
+            { "field": "Value", "type": "quantitative", "title": "Plastic waste (tonnes)" }
 
- 
 
-    ]
+
+        ]
 
 
     }
