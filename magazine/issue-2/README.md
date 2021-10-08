@@ -234,3 +234,13 @@
 ### fig23-1_policies_local_dark
 !["fig23-1_policies_local_dark"](visualisation/fig23-1_policies_local_dark.png "fig23-1_policies_local_dark")
 
+# Article 24 
+
+## Public debt
+
+### fig24-1_debt_local --- [json](visualisation/fig24-1_debt_local.json "fig24-1_debt_local") [svg](visualisation/fig24-1_debt_local.svg "fig24-1_debt_local") [png](visualisation/fig24-1_debt_local.png "fig24-1_debt_local")
+[!["fig24-1_debt_local"](visualisation/fig24-1_debt_local.svg "fig24-1_debt_local")](visualisation/fig24-1_debt_local.svg "fig24-1_debt_local")
+
+### fig24-1_debt_local_dark --- [json](visualisation/fig24-1_debt_local_dark.json "fig24-1_debt_local_dark") [svg](visualisation/fig24-1_debt_local_dark.svg "fig24-1_debt_local_dark") [png](visualisation/fig24-1_debt_local_dark.png "fig24-1_debt_local_dark")
+[!["fig24-1_debt_local_dark"](visualisation/fig24-1_debt_local_dark.svg "fig24-1_debt_local_dark")](visualisation/fig24-1_debt_local_dark.svg "fig24-1_debt_local_dark")
+
