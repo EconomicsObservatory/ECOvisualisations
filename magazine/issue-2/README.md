@@ -48,6 +48,8 @@
 
 ## Targets
 
+Cloned from [is-the-uk-on-track-to-meet-its-climate-commitments](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/is-the-uk-on-track-to-meet-its-climate-commitments/)
+
 ### fig1_projected-emissions --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/is-the-uk-on-track-to-meet-its-climate-commitments/visualisation/fig1_projected-emissions.json "fig1_projected-emissions") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/is-the-uk-on-track-to-meet-its-climate-commitments/visualisation/fig1_projected-emissions.svg "fig1_projected-emissions") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/is-the-uk-on-track-to-meet-its-climate-commitments/visualisation/fig1_projected-emissions.png "fig1_projected-emissions")
 [!["fig1_projected-emissions"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/is-the-uk-on-track-to-meet-its-climate-commitments/visualisation/fig1_projected-emissions.svg "fig1_projected-emissions")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/is-the-uk-on-track-to-meet-its-climate-commitments/visualisation/fig1_projected-emissions.svg "fig1_projected-emissions")
 
@@ -57,6 +59,8 @@
 # Article 6 
 
 ## Weather
+
+Cloned from [what-are-the-economic-effects-of-extreme-weather-caused-by-climate-change](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-economic-effects-of-extreme-weather-caused-by-climate-change/)
 
 ### fig1a_extreme-events --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-economic-effects-of-extreme-weather-caused-by-climate-change/visualisation/fig1a_extreme-events.json "fig1a_extreme-events") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-economic-effects-of-extreme-weather-caused-by-climate-change/visualisation/fig1a_extreme-events.svg "fig1a_extreme-events") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-economic-effects-of-extreme-weather-caused-by-climate-change/visualisation/fig1a_extreme-events.png "fig1a_extreme-events")
 [!["fig1a_extreme-events"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-economic-effects-of-extreme-weather-caused-by-climate-change/visualisation/fig1a_extreme-events.svg "fig1a_extreme-events")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-economic-effects-of-extreme-weather-caused-by-climate-change/visualisation/fig1a_extreme-events.svg "fig1a_extreme-events")
@@ -95,6 +99,8 @@
 ### Fig 8-2 map of Africa with locations of JG# Article 9 
 
 ## Transition
+
+Cloned from [what-are-the-likely-costs-of-the-transition-to-a-sustainable-economy](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-likely-costs-of-the-transition-to-a-sustainable-economy/)
 
 ### fig1_lcoe --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-likely-costs-of-the-transition-to-a-sustainable-economy/visualisation/fig1_lcoe.json "fig1_lcoe") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-likely-costs-of-the-transition-to-a-sustainable-economy/visualisation/fig1_lcoe.svg "fig1_lcoe") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-likely-costs-of-the-transition-to-a-sustainable-economy/visualisation/fig1_lcoe.png "fig1_lcoe")
 [!["fig1_lcoe"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-likely-costs-of-the-transition-to-a-sustainable-economy/visualisation/fig1_lcoe.svg "fig1_lcoe")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-likely-costs-of-the-transition-to-a-sustainable-economy/visualisation/fig1_lcoe.svg "fig1_lcoe")
@@ -150,15 +156,17 @@
 
 ## Promises
 
-### fig13-1_co2targets
-!["fig13-1_co2targets"](visualisation/fig13-1_co2targets.png "fig13-1_co2targets")
+### fig13-1_co2targets --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-likely-costs-of-the-transition-to-a-sustainable-economy/visualisation/fig13-1_co2targets.json "fig13-1_co2targets") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-likely-costs-of-the-transition-to-a-sustainable-economy/visualisation/fig13-1_co2targets.svg "fig13-1_co2targets") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-likely-costs-of-the-transition-to-a-sustainable-economy/visualisation/fig13-1_co2targets.png "fig13-1_co2targets")
+[!["fig13-1_co2targets"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-likely-costs-of-the-transition-to-a-sustainable-economy/visualisation/fig13-1_co2targets.svg "fig13-1_co2targets")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-likely-costs-of-the-transition-to-a-sustainable-economy/visualisation/fig13-1_co2targets.svg "fig13-1_co2targets")
 
-### fig13-1_co2targets_dark
-!["fig13-1_co2targets_dark"](visualisation/fig13-1_co2targets_dark.png "fig13-1_co2targets_dark")
+### fig13-1_co2targets_dark --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-likely-costs-of-the-transition-to-a-sustainable-economy/visualisation/fig13-1_co2targets_dark.json "fig13-1_co2targets_dark") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-likely-costs-of-the-transition-to-a-sustainable-economy/visualisation/fig13-1_co2targets_dark.svg "fig13-1_co2targets_dark") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-likely-costs-of-the-transition-to-a-sustainable-economy/visualisation/fig13-1_co2targets_dark.png "fig13-1_co2targets_dark")
+[!["fig13-1_co2targets_dark"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-likely-costs-of-the-transition-to-a-sustainable-economy/visualisation/fig13-1_co2targets_dark.svg "fig13-1_co2targets_dark")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-likely-costs-of-the-transition-to-a-sustainable-economy/visualisation/fig13-1_co2targets_dark.svg "fig13-1_co2targets_dark")
 
 # Article 17 
 
 ## Historic pollution
+
+Cloned from [what-are-the-long-term-economic-effects-of-air-pollution](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/)
 
 ### fig1_coal --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig1_coal.json "fig1_coal") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig1_coal.svg "fig1_coal") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig1_coal.png "fig1_coal")
 [!["fig1_coal"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig1_coal.svg "fig1_coal")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig1_coal.svg "fig1_coal")
@@ -166,7 +174,9 @@
 ### fig1_coal_dark --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig1_coal_dark.json "fig1_coal_dark") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig1_coal_dark.svg "fig1_coal_dark") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig1_coal_dark.png "fig1_coal_dark")
 [!["fig1_coal_dark"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig1_coal_dark.svg "fig1_coal_dark")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig1_coal_dark.svg "fig1_coal_dark")
 
-### Fig 17-2 Ordnance survey map### fig3_pollution --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig3_pollution.json "fig3_pollution") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig3_pollution.svg "fig3_pollution") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig3_pollution.png "fig3_pollution")
+### Fig 17-2 Ordnance survey map
+
+### fig3_pollution --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig3_pollution.json "fig3_pollution") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig3_pollution.svg "fig3_pollution") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig3_pollution.png "fig3_pollution")
 [!["fig3_pollution"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig3_pollution.svg "fig3_pollution")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig3_pollution.svg "fig3_pollution")
 
 ### fig3_pollution_dark --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig3_pollution_dark.json "fig3_pollution_dark") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig3_pollution_dark.svg "fig3_pollution_dark") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-long-term-economic-effects-of-air-pollution/visualisation/fig3_pollution_dark.png "fig3_pollution_dark")
@@ -192,9 +202,13 @@
 
 ## Coal
 
-### Fig 19-1 through 4: several charts in the article, but no specs or data# Article 21 
+### Fig 19-1 through 4: several charts in the article, but no specs or data
+
+# Article 21 
 
 ## Inequality
+
+Cloned from [what-are-the-implications-of-decarbonisation-for-inequality](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/)
 
 ### fig1_outcomes --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig1_outcomes.json "fig1_outcomes") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig1_outcomes.svg "fig1_outcomes") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig1_outcomes.png "fig1_outcomes")
 [!["fig1_outcomes"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig1_outcomes.svg "fig1_outcomes")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig1_outcomes.svg "fig1_outcomes")
@@ -202,9 +216,13 @@
 ### fig1_outcomes_dark --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig1_outcomes_dark.json "fig1_outcomes_dark") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig1_outcomes_dark.svg "fig1_outcomes_dark") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig1_outcomes_dark.png "fig1_outcomes_dark")
 [!["fig1_outcomes_dark"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig1_outcomes_dark.svg "fig1_outcomes_dark")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig1_outcomes_dark.svg "fig1_outcomes_dark")
 
-### Fig 21-2 polar chart# Article 22 
+### Fig 21-2 polar chart
+
+# Article 22 
 
 ## Agriculture
+
+Cloned from [how-are-agricultural-economies-affected-by-climate-change](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/)
 
 ### fig1_productivity --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig1_productivity.json "fig1_productivity") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig1_productivity.svg "fig1_productivity") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig1_productivity.png "fig1_productivity")
 [!["fig1_productivity"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig1_productivity.svg "fig1_productivity")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig1_productivity.svg "fig1_productivity")
@@ -224,7 +242,11 @@
 ### fig3_africa_dark --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig3_africa_dark.json "fig3_africa_dark") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig3_africa_dark.svg "fig3_africa_dark") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig3_africa_dark.png "fig3_africa_dark")
 [!["fig3_africa_dark"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig3_africa_dark.svg "fig3_africa_dark")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig3_africa_dark.svg "fig3_africa_dark")
 
-### Fig 22-4a World map of warming scenario 1.5### Fig 22-4b World map of warming scenario 2# Article 23 
+### Fig 22-4a World map of warming scenario 1.5
+
+### Fig 22-4b World map of warming scenario 2
+
+# Article 23 
 
 ## Firms, competition
 
