@@ -90,13 +90,19 @@ Cloned from [what-are-the-economic-effects-of-extreme-weather-caused-by-climate-
 ### fig7-2_river_dark --- [json](visualisation/fig7-2_river_dark.json "fig7-2_river_dark") [svg](visualisation/fig7-2_river_dark.svg "fig7-2_river_dark") [png](visualisation/fig7-2_river_dark.png "fig7-2_river_dark")
 [!["fig7-2_river_dark"](visualisation/fig7-2_river_dark.svg "fig7-2_river_dark")](visualisation/fig7-2_river_dark.svg "fig7-2_river_dark")
 
+# Article 8 
+
+## JG interview
+
 ### fig8-1_east-africa-gdp --- [json](visualisation/fig8-1_east-africa-gdp.json "fig8-1_east-africa-gdp") [svg](visualisation/fig8-1_east-africa-gdp.svg "fig8-1_east-africa-gdp") [png](visualisation/fig8-1_east-africa-gdp.png "fig8-1_east-africa-gdp")
 [!["fig8-1_east-africa-gdp"](visualisation/fig8-1_east-africa-gdp.svg "fig8-1_east-africa-gdp")](visualisation/fig8-1_east-africa-gdp.svg "fig8-1_east-africa-gdp")
 
 ### fig8-1_east-africa-gdp_dark --- [json](visualisation/fig8-1_east-africa-gdp_dark.json "fig8-1_east-africa-gdp_dark") [svg](visualisation/fig8-1_east-africa-gdp_dark.svg "fig8-1_east-africa-gdp_dark") [png](visualisation/fig8-1_east-africa-gdp_dark.png "fig8-1_east-africa-gdp_dark")
 [!["fig8-1_east-africa-gdp_dark"](visualisation/fig8-1_east-africa-gdp_dark.svg "fig8-1_east-africa-gdp_dark")](visualisation/fig8-1_east-africa-gdp_dark.svg "fig8-1_east-africa-gdp_dark")
 
-### Fig 8-2 map of Africa with locations of JG# Article 9 
+### Fig 8-2 map of Africa with locations of JG 
+
+# Article 9 
 
 ## Transition
 
@@ -185,6 +191,9 @@ Cloned from [what-are-the-long-term-economic-effects-of-air-pollution](https://r
 # Article 18 
 
 ## Productivity
+
+### fig18-1a_time-allocation --- [json](visualisation/fig18-1a_time-allocation.json "fig18-1a_time-allocation") [svg](visualisation/fig18-1a_time-allocation.svg "fig18-1a_time-allocation") [png](visualisation/fig18-1a_time-allocation.png "fig18-1a_time-allocation")
+[!["fig18-1a_time-allocation"](visualisation/fig18-1a_time-allocation.svg "fig18-1a_time-allocation")](visualisation/fig18-1a_time-allocation.svg "fig18-1a_time-allocation")
 
 ### fig18-1a_time-allocation_dark --- [json](visualisation/fig18-1a_time-allocation_dark.json "fig18-1a_time-allocation_dark") [svg](visualisation/fig18-1a_time-allocation_dark.svg "fig18-1a_time-allocation_dark") [png](visualisation/fig18-1a_time-allocation_dark.png "fig18-1a_time-allocation_dark")
 [!["fig18-1a_time-allocation_dark"](visualisation/fig18-1a_time-allocation_dark.svg "fig18-1a_time-allocation_dark")](visualisation/fig18-1a_time-allocation_dark.svg "fig18-1a_time-allocation_dark")
