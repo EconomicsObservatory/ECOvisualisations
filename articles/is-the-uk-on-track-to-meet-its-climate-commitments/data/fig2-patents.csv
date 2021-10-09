@@ -1,0 +1,134 @@
+,Time,Country,Value
+0,2000,Canada,7.82
+1,2001,Canada,7.68
+2,2002,Canada,8.48
+3,2003,Canada,9.51
+4,2004,Canada,9.38
+5,2005,Canada,9.67
+6,2006,Canada,9.74
+7,2007,Canada,10.19
+8,2008,Canada,10.38
+9,2009,Canada,11.2
+10,2010,Canada,12.01
+11,2011,Canada,12.62
+12,2012,Canada,12.33
+13,2013,Canada,11.05
+14,2014,Canada,11.89
+15,2015,Canada,11.29
+16,2016,Canada,11.07
+17,2017,Canada,11.77
+18,2018,Canada,10.27
+19,2000,France,6.15
+20,2001,France,5.82
+21,2002,France,6.42
+22,2003,France,8.01
+23,2004,France,7.94
+24,2005,France,8.07
+25,2006,France,9.06
+26,2007,France,10.45
+27,2008,France,10.91
+28,2009,France,12.51
+29,2010,France,12.93
+30,2011,France,13.68
+31,2012,France,14.45
+32,2013,France,13.82
+33,2014,France,13.42
+34,2015,France,13.1
+35,2016,France,11.94
+36,2017,France,12.37
+37,2018,France,12.82
+38,2000,Germany,9.41
+39,2001,Germany,9.55
+40,2002,Germany,9.52
+41,2003,Germany,9.01
+42,2004,Germany,9.18
+43,2005,Germany,9.5
+44,2006,Germany,10.76
+45,2007,Germany,11.39
+46,2008,Germany,13.32
+47,2009,Germany,14.41
+48,2010,Germany,15.17
+49,2011,Germany,15.39
+50,2012,Germany,14.98
+51,2013,Germany,14.02
+52,2014,Germany,14.0
+53,2015,Germany,13.47
+54,2016,Germany,13.42
+55,2017,Germany,13.92
+56,2018,Germany,14.29
+57,2000,Italy,5.47
+58,2001,Italy,6.43
+59,2002,Italy,5.85
+60,2003,Italy,7.6
+61,2004,Italy,6.94
+62,2005,Italy,6.88
+63,2006,Italy,7.58
+64,2007,Italy,8.94
+65,2008,Italy,10.3
+66,2009,Italy,11.72
+67,2010,Italy,11.01
+68,2011,Italy,11.06
+69,2012,Italy,11.71
+70,2013,Italy,10.53
+71,2014,Italy,10.26
+72,2015,Italy,10.15
+73,2016,Italy,9.9
+74,2017,Italy,10.15
+75,2018,Italy,9.38
+76,2000,Japan,8.49
+77,2001,Japan,9.03
+78,2002,Japan,8.64
+79,2003,Japan,9.24
+80,2004,Japan,8.99
+81,2005,Japan,9.19
+82,2006,Japan,9.48
+83,2007,Japan,9.9
+84,2008,Japan,9.75
+85,2009,Japan,11.27
+86,2010,Japan,12.56
+87,2011,Japan,13.47
+88,2012,Japan,13.04
+89,2013,Japan,12.64
+90,2014,Japan,12.42
+91,2015,Japan,12.2
+92,2016,Japan,11.83
+93,2017,Japan,11.67
+94,2018,Japan,10.41
+95,2000,Great Britain,5.39
+96,2001,Great Britain,5.57
+97,2002,Great Britain,5.7
+98,2003,Great Britain,6.38
+99,2004,Great Britain,6.63
+100,2005,Great Britain,7.03
+101,2006,Great Britain,8.17
+102,2007,Great Britain,8.61
+103,2008,Great Britain,9.97
+104,2009,Great Britain,11.34
+105,2010,Great Britain,12.47
+106,2011,Great Britain,13.05
+107,2012,Great Britain,12.78
+108,2013,Great Britain,12.31
+109,2014,Great Britain,11.99
+110,2015,Great Britain,12.21
+111,2016,Great Britain,11.57
+112,2017,Great Britain,10.71
+113,2018,Great Britain,11.15
+114,2000,United States,5.64
+115,2001,United States,5.91
+116,2002,United States,6.6
+117,2003,United States,6.47
+118,2004,United States,6.91
+119,2005,United States,7.39
+120,2006,United States,8.1
+121,2007,United States,9.6
+122,2008,United States,11.28
+123,2009,United States,12.39
+124,2010,United States,12.64
+125,2011,United States,12.19
+126,2012,United States,12.36
+127,2013,United States,11.5
+128,2014,United States,11.25
+129,2015,United States,11.11
+130,2016,United States,11.06
+131,2017,United States,10.41
+132,2018,United States,9.47
