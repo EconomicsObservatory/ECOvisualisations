@@ -1,0 +1,42 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <script src="https://cdn.jsdelivr.net/npm/d3plus@2"></script>
+</head>
+
+<body>
+    <script>
+        radar = new d3plus.Radar()
+        radar.config({
+            backgroundConfig: {
+                duration: 0,
+                fill: "transparent"
+            },
+            shapeConfig: {
+                opacity: 0.5,
+            },
+            axisConfig: {
+                shapeConfig: {
+                    fill: 'none',
+                    labelConfig: {
+                        fontColor: "#676A86",
+                        padding: 0,
+                        rotate: 0,
+                        //fontFamily: "sans-serif",
+                        verticalAlign: 'middle'
+                    }, stroke: "#676A86", strokeOpacity: 0.1,
+                    strokeWidth: 1
+                }
+            },
+            data: '../data/fig2_radar.csv',
+            legendSort: (a, b) => { if (a.subcat == 'Distributional outcomes') return -1; else return 1; },
+            groupBy: 'subcat',
+            metric: 'cat',
+            value: 'value'
+        })
+        radar.render()
+    </script>
+</body>
+
+</html>

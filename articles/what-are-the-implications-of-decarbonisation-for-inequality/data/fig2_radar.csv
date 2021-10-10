@@ -1,0 +1,69 @@
+,cat,subcat,value,one
+0,Building codes,Environmental effectiveness,0.7449999999999999,1
+1,Building codes,Cost-related outcomes,1.0,1
+2,Building codes,Competitiveness,0.5,1
+3,Building codes,Distributional outcomes,1.0,1
+4,Building codes,Other social outcomes,1.0,1
+5,Renewable Portfolio Standards,Environmental effectiveness,0.7551020408163265,1
+6,Renewable Portfolio Standards,Technological effectiveness,0.4688888888888889,1
+7,Renewable Portfolio Standards,Cost-related outcomes,0.3429752066115702,1
+8,Renewable Portfolio Standards,Innovation incentives,0.654320987654321,1
+9,Renewable Portfolio Standards,Competitiveness,0.53125,1
+10,Renewable Portfolio Standards,Distributional outcomes,0.5,1
+11,Renewable Portfolio Standards,Other social outcomes,0.5918367346938775,1
+12,R&D funding,Environmental effectiveness,0.510204081632653,1
+13,R&D funding,Technological effectiveness,0.5,1
+14,R&D funding,Cost-related outcomes,0.625,1
+15,R&D funding,Innovation incentives,0.6401384083044982,1
+16,R&D funding,Competitiveness,0.5349999999999999,1
+17,R&D funding,Distributional outcomes,1.0,1
+18,R&D funding,Other social outcomes,1.0,1
+19,Government procurement,Environmental effectiveness,1.0,1
+20,Government procurement,Technological effectiveness,0.5555555555555556,1
+21,Government procurement,Cost-related outcomes,0.5,1
+22,Government procurement,Innovation incentives,1.0,1
+23,Government procurement,Competitiveness,0.375,1
+24,Government procurement,Distributional outcomes,1.0,1
+25,Government procurement,Other social outcomes,0.0,1
+26,Auctions,Environmental effectiveness,1.0,1
+27,Auctions,Technological effectiveness,0.44214876033057854,1
+28,Auctions,Cost-related outcomes,0.7349999999999999,1
+29,Auctions,Innovation incentives,0.3888888888888889,1
+30,Auctions,Competitiveness,0.5555555555555556,1
+31,Auctions,Distributional outcomes,1.0,1
+32,Auctions,Other social outcomes,0.625,1
+33,FITs/FIPs,Environmental effectiveness,0.5555555555555556,1
+34,FITs/FIPs,Technological effectiveness,0.8356401384083044,1
+35,FITs/FIPs,Cost-related outcomes,0.5124653739612188,1
+36,FITs/FIPs,Innovation incentives,0.5918367346938775,1
+37,FITs/FIPs,Competitiveness,0.38,1
+38,FITs/FIPs,Distributional outcomes,0.8579881656804735,1
+39,FITs/FIPs,Other social outcomes,0.5,1
+40,Taxes and Tax exemptions,Environmental effectiveness,0.728515625,1
+41,Taxes and Tax exemptions,Technological effectiveness,0.625,1
+42,Taxes and Tax exemptions,Cost-related outcomes,0.78125,1
+43,Taxes and Tax exemptions,Innovation incentives,0.625,1
+44,Taxes and Tax exemptions,Competitiveness,0.35253772290809327,1
+45,Taxes and Tax exemptions,Distributional outcomes,0.46875,1
+46,Taxes and Tax exemptions,Other social outcomes,0.375,1
+47,GHG emission allowance tradings schemes,Environmental effectiveness,0.7551020408163265,1
+48,GHG emission allowance tradings schemes,Technological effectiveness,0.45833333333333337,1
+49,GHG emission allowance tradings schemes,Cost-related outcomes,0.5,1
+50,GHG emission allowance tradings schemes,Innovation incentives,0.4650000000000001,1
+51,GHG emission allowance tradings schemes,Competitiveness,0.48971193415637865,1
+52,GHG emission allowance tradings schemes,Distributional outcomes,0.44000000000000006,1
+53,GHG emission allowance tradings schemes,Other social outcomes,0.5,1
+54,Green certificates,Environmental effectiveness,0.625,1
+55,Green certificates,Technological effectiveness,0.5025510204081632,1
+56,Green certificates,Cost-related outcomes,0.365,1
+57,Green certificates,Innovation incentives,0.40495867768595034,1
+58,Green certificates,Competitiveness,0.3888888888888889,1
+59,Green certificates,Distributional outcomes,0.7222222222222223,1
+60,Green certificates,Other social outcomes,0.42857142857142855,1
+61,White certificates,Environmental effectiveness,1.0,1
+62,White certificates,Technological effectiveness,0.6800000000000002,1
+63,White certificates,Cost-related outcomes,1.0,1
+64,White certificates,Innovation incentives,0.625,1
+65,White certificates,Competitiveness,1.0,1
+66,White certificates,Distributional outcomes,0.48760330578512395,1
+67,White certificates,Other social outcomes,1.0,1
