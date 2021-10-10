@@ -6,7 +6,7 @@
   "autosize": {"type": "fit", "contains": "padding"},
 
 "title": {
-    "text": "CO2 Emissions",
+    "text": "CO₂ Emissions per capita by region",
     "subtitle":"Million tonnes. Source: Authors' calculations",
     "subtitleFontStyle":"italic",
     "subtitleFontSize":10,

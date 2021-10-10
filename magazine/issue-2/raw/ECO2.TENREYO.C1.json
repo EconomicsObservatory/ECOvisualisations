@@ -24,7 +24,7 @@
         "y": {
           "field": "Value2",
           "type": "quantitative",
-          "title": "Actual reduction in fossil CO2 emissions 2010-2018 (%)",
+          "title": "Actual reduction in fossil CO₂ emissions 2010-2018 (%)",
           "scale": {"domain": [-55, 55]}
         },
         "color": {"field": "country", "type": "nominal", "legend": null, "scale": {"scheme": "yellowgreenblue"}},
