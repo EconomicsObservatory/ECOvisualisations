@@ -106,7 +106,11 @@ Cloned from [what-are-the-economic-effects-of-extreme-weather-caused-by-climate-
 ### fig8-1_east-africa-gdp_dark --- [json](visualisation/fig8-1_east-africa-gdp_dark.json "fig8-1_east-africa-gdp_dark") [svg](visualisation/fig8-1_east-africa-gdp_dark.svg "fig8-1_east-africa-gdp_dark") [png](visualisation/fig8-1_east-africa-gdp_dark.png "fig8-1_east-africa-gdp_dark")
 [!["fig8-1_east-africa-gdp_dark"](visualisation/fig8-1_east-africa-gdp_dark.svg "fig8-1_east-africa-gdp_dark")](visualisation/fig8-1_east-africa-gdp_dark.svg "fig8-1_east-africa-gdp_dark")
 
-### Fig 8-2 map of Africa with locations of JG 
+### fig8-2/map --- [html](visualisation/fig8-2/index.html "fig8-2/map") [svg](visualisation/fig8-2/map.svg "fig8-2/map") [png](visualisation/fig8-2/map.png "fig8-2/map")
+[!["fig8-2/map"](visualisation/fig8-2/map.svg "fig8-2/map")](visualisation/fig8-2/map.svg "fig8-2/map")
+
+### fig8-2/map_dark --- [html](visualisation/fig8-2/index_dark.html "fig8-2/map_dark") [svg](visualisation/fig8-2/map_dark.svg "fig8-2/map_dark") [png](visualisation/fig8-2/map_dark.png "fig8-2/map_dark")
+[!["fig8-2/map_dark"](visualisation/fig8-2/map_dark.svg "fig8-2/map_dark")](visualisation/fig8-2/map_dark.svg "fig8-2/map_dark")
 
 # Article 9 
 
