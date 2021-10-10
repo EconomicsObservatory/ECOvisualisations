@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <script src="d3plus-geomap.v0.6.full.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: none;
+        }
+        
+        div,
+        text {
+            font-family: sans-serif !important;
+        }
+    </style>
+</head>
+
+<body></body>
+<script>
+    let chart = new d3plus.Geomap()
+    let cities = [{
+        'city': 'Gombe',
+        'lat': -4.699107876370256,
+        'lon': 29.64147634562057
+    }, {
+        'city': 'Dar es Salaam',
+        'lat': -6.79956405641965,
+        'lon': 39.21309092579137
+    }, {
+        'city': 'Kinshasa',
+        'lat': -4.420455599379867,
+        'lon': 15.268492719196708
+    }]
+    chart.data(cities)
+        .groupBy('city')
+        .zoom(false)
+        .detectVisible(false)
+        .tiles(false)
+        .title('')
+        .point(function(d) {
+            return [d['lon'], d['lat']];
+        })
+        .legend(false)
+        .color(function(d) {
+            return '#F4134D'
+        })
+        .label(d => d['city'])
+        .pointSize(20)
+        .ocean("transparent")
+        .loadingMessage(false)
+        .config({
+            shapeConfig: {
+                Path: {
+                    fill: (function(d) {
+                        return ((d['id'] == 'Tanzania') | (d['id'] == 'Democratic Republic of the Congo')) ? '#36B7B4' : '#122B39'
+                    })
+                },
+                label: function(d) {
+                    return ((d['id'] == 'Tanzania') | (d['id'] == 'Democratic Republic of the Congo')) ? d['id'] : ''
+                },
+                labelConfig: {
+                    fontColor: '#122B39',
+                    fontWeight: 'normal',
+                    fontMin: 1,
+                    fontMax: 28,
+                    fontResize: true,
+                    padding: "10 2 2 2"
+                },
+            }
+        })
+
+    chart.topojson("africa.topo.json", function(map) {
+        map['objects']['continent_Africa_subunits']['geometries'].forEach(function(d, i) {
+            d['id'] = d['properties']['geounit']
+        })
+        return map
+    })
+
+    chart.render()
+</script>
+
+</html>
