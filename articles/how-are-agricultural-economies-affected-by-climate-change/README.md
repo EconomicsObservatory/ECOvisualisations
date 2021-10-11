@@ -16,3 +16,8 @@
 ### fig3_africa_dark
 !["fig3_africa_dark"](visualisation/fig3_africa_dark.png "fig3_africa_dark")
 
+### fig4a_rcp26
+!["fig4a_rcp26"](visualisation/fig4a_rcp26.png "fig4a_rcp26")
+
+### fig4b_rcp45
+!["fig4b_rcp45"](visualisation/fig4b_rcp45.png "fig4b_rcp45")
