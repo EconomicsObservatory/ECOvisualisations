@@ -40,15 +40,14 @@
         },
         {
             "mark": { "type": "rule", "color": "#e54753", "size": 2 },
-            "encoding": { "x": { "field": "Lines", "type": "temporal" } },
+            "encoding": { "x": { "field": "x", "type": "quantitative" } },
             "data": {
                 "values": [
-                    { "Lines": "1997-01-01" },
-                    { "Lines": "2009-01-01" },
-                    { "Lines": "2015-01-01" }
+                    { "x": 1997 },
+                    { "x": 2009 },
+                    { "x": 2015 }
 
-                ],
-                "format": { "parse": { "Date": "utc:'%d %b %Y'" } }
+                ]
             }
         }
     ]

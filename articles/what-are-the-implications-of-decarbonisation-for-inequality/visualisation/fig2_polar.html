@@ -25,12 +25,17 @@
                         rotate: 0,
                         //fontFamily: "sans-serif",
                         verticalAlign: 'middle'
-                    }, stroke: "#676A86", strokeOpacity: 0.1,
+                    },
+                    stroke: "#676A86",
+                    strokeOpacity: 0.1,
                     strokeWidth: 1
                 }
             },
-            data: '../data/fig2_radar.csv',
-            legendSort: (a, b) => { if (a.subcat == 'Distributional outcomes') return -1; else return 1; },
+            data: '../data/fig2_polar.csv',
+            legendSort: (a, b) => {
+                if (a.subcat == 'Distributional outcomes') return -1;
+                else return 1;
+            },
             groupBy: 'subcat',
             metric: 'cat',
             value: 'value'
