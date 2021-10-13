@@ -1,0 +1,53 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+        "url": "https://raw.githubusercontent.com/BenPimley/ECO/main/JT%20Coal%20Fig1.5.csv"
+    },
+    "width": 400,
+    "height": 300,
+    "mark": {
+        "type": "line",
+        "color": "#122b39"
+    },
+    "encoding": {
+        "y": {
+            "field": "Value2",
+            "type": "quantitative",
+            "title": "Total energy consumption per capita (megajoules)",
+            "scale": {
+                "domain": [
+                    0,
+                    100000
+                ]
+            }
+        },
+        "x": {
+            "field": "Time",
+            "type": "quantitative",
+            "axis": {
+                "title": "",
+                "labelAngle": 360
+            },
+            "sort": []
+        },
+        "tooltip": [{
+                "field": "Time",
+                "type": "ordinal",
+                "title": "Time period"
+            },
+            {
+                "field": "Value2",
+                "type": "quantitative",
+                "title": "Energy consumption per capita (megajoules)"
+            }
+        ]
+    },
+    "config": {
+        "view": {
+            "stroke": "transparent"
+        },
+        "axis": {
+            "domainWidth": 1
+        }
+    }
+}

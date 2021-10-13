@@ -230,7 +230,23 @@ Cloned from [what-are-the-long-term-economic-effects-of-air-pollution](https://w
 
 ## Coal
 
-### Fig 19-1 through 4: several charts in the article, but no specs or data
+### fig19-1a_long-term-energy-consumption-per-capita --- [json](visualisation/fig19-1a_long-term-energy-consumption-per-capita.json "fig19-1a_long-term-energy-consumption-per-capita") [svg](visualisation/fig19-1a_long-term-energy-consumption-per-capita.svg "fig19-1a_long-term-energy-consumption-per-capita") [png](visualisation/fig19-1a_long-term-energy-consumption-per-capita.png "fig19-1a_long-term-energy-consumption-per-capita")
+[!["fig19-1a_long-term-energy-consumption-per-capita"](visualisation/fig19-1a_long-term-energy-consumption-per-capita.svg "fig19-1a_long-term-energy-consumption-per-capita")](visualisation/fig19-1a_long-term-energy-consumption-per-capita.svg "fig19-1a_long-term-energy-consumption-per-capita")
+
+### fig19-1a_long-term-energy-consumption-per-capita_dark --- [json](visualisation/fig19-1a_long-term-energy-consumption-per-capita_dark.json "fig19-1a_long-term-energy-consumption-per-capita_dark") [svg](visualisation/fig19-1a_long-term-energy-consumption-per-capita_dark.svg "fig19-1a_long-term-energy-consumption-per-capita_dark") [png](visualisation/fig19-1a_long-term-energy-consumption-per-capita_dark.png "fig19-1a_long-term-energy-consumption-per-capita_dark")
+[!["fig19-1a_long-term-energy-consumption-per-capita_dark"](visualisation/fig19-1a_long-term-energy-consumption-per-capita_dark.svg "fig19-1a_long-term-energy-consumption-per-capita_dark")](visualisation/fig19-1a_long-term-energy-consumption-per-capita_dark.svg "fig19-1a_long-term-energy-consumption-per-capita_dark")
+
+### fig19-1b_total-term-energy-consumption-per-capita --- [json](visualisation/fig19-1b_total-term-energy-consumption-per-capita.json "fig19-1b_total-term-energy-consumption-per-capita") [svg](visualisation/fig19-1b_total-term-energy-consumption-per-capita.svg "fig19-1b_total-term-energy-consumption-per-capita") [png](visualisation/fig19-1b_total-term-energy-consumption-per-capita.png "fig19-1b_total-term-energy-consumption-per-capita")
+[!["fig19-1b_total-term-energy-consumption-per-capita"](visualisation/fig19-1b_total-term-energy-consumption-per-capita.svg "fig19-1b_total-term-energy-consumption-per-capita")](visualisation/fig19-1b_total-term-energy-consumption-per-capita.svg "fig19-1b_total-term-energy-consumption-per-capita")
+
+### fig19-1b_total-term-energy-consumption-per-capita_dark --- [json](visualisation/fig19-1b_total-term-energy-consumption-per-capita_dark.json "fig19-1b_total-term-energy-consumption-per-capita_dark") [svg](visualisation/fig19-1b_total-term-energy-consumption-per-capita_dark.svg "fig19-1b_total-term-energy-consumption-per-capita_dark") [png](visualisation/fig19-1b_total-term-energy-consumption-per-capita_dark.png "fig19-1b_total-term-energy-consumption-per-capita_dark")
+[!["fig19-1b_total-term-energy-consumption-per-capita_dark"](visualisation/fig19-1b_total-term-energy-consumption-per-capita_dark.svg "fig19-1b_total-term-energy-consumption-per-capita_dark")](visualisation/fig19-1b_total-term-energy-consumption-per-capita_dark.svg "fig19-1b_total-term-energy-consumption-per-capita_dark")
+
+### fig19-2_coal-share --- [json](visualisation/fig19-2_coal-share.json "fig19-2_coal-share") [svg](visualisation/fig19-2_coal-share.svg "fig19-2_coal-share") [png](visualisation/fig19-2_coal-share.png "fig19-2_coal-share")
+[!["fig19-2_coal-share"](visualisation/fig19-2_coal-share.svg "fig19-2_coal-share")](visualisation/fig19-2_coal-share.svg "fig19-2_coal-share")
+
+### fig19-2_coal-share_dark --- [json](visualisation/fig19-2_coal-share_dark.json "fig19-2_coal-share_dark") [svg](visualisation/fig19-2_coal-share_dark.svg "fig19-2_coal-share_dark") [png](visualisation/fig19-2_coal-share_dark.png "fig19-2_coal-share_dark")
+[!["fig19-2_coal-share_dark"](visualisation/fig19-2_coal-share_dark.svg "fig19-2_coal-share_dark")](visualisation/fig19-2_coal-share_dark.svg "fig19-2_coal-share_dark")
 
 # Article 21 
 
