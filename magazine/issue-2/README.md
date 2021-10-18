@@ -214,3 +214,104 @@ Cloned from [what-are-the-long-term-economic-effects-of-air-pollution](https://w
 
 ## Productivity
 
+### fig18-1a_time-allocation --- [json](visualisation/fig18-1a_time-allocation.json "fig18-1a_time-allocation") [svg](visualisation/fig18-1a_time-allocation.svg "fig18-1a_time-allocation") [png](visualisation/fig18-1a_time-allocation.png "fig18-1a_time-allocation")
+[!["fig18-1a_time-allocation"](visualisation/fig18-1a_time-allocation.svg "fig18-1a_time-allocation")](visualisation/fig18-1a_time-allocation.svg "fig18-1a_time-allocation")
+
+### fig18-1a_time-allocation_dark --- [json](visualisation/fig18-1a_time-allocation_dark.json "fig18-1a_time-allocation_dark") [svg](visualisation/fig18-1a_time-allocation_dark.svg "fig18-1a_time-allocation_dark") [png](visualisation/fig18-1a_time-allocation_dark.png "fig18-1a_time-allocation_dark")
+[!["fig18-1a_time-allocation_dark"](visualisation/fig18-1a_time-allocation_dark.svg "fig18-1a_time-allocation_dark")](visualisation/fig18-1a_time-allocation_dark.svg "fig18-1a_time-allocation_dark")
+
+### fig18-1b_time-allocation-b --- [json](visualisation/fig18-1b_time-allocation-b.json "fig18-1b_time-allocation-b") [svg](visualisation/fig18-1b_time-allocation-b.svg "fig18-1b_time-allocation-b") [png](visualisation/fig18-1b_time-allocation-b.png "fig18-1b_time-allocation-b")
+[!["fig18-1b_time-allocation-b"](visualisation/fig18-1b_time-allocation-b.svg "fig18-1b_time-allocation-b")](visualisation/fig18-1b_time-allocation-b.svg "fig18-1b_time-allocation-b")
+
+### fig18-1b_time-allocation-b_dark --- [json](visualisation/fig18-1b_time-allocation-b_dark.json "fig18-1b_time-allocation-b_dark") [svg](visualisation/fig18-1b_time-allocation-b_dark.svg "fig18-1b_time-allocation-b_dark") [png](visualisation/fig18-1b_time-allocation-b_dark.png "fig18-1b_time-allocation-b_dark")
+[!["fig18-1b_time-allocation-b_dark"](visualisation/fig18-1b_time-allocation-b_dark.svg "fig18-1b_time-allocation-b_dark")](visualisation/fig18-1b_time-allocation-b_dark.svg "fig18-1b_time-allocation-b_dark")
+
+# Article 19 
+
+## Coal
+
+### fig19-1a_long-term-energy-consumption-per-capita --- [json](visualisation/fig19-1a_long-term-energy-consumption-per-capita.json "fig19-1a_long-term-energy-consumption-per-capita") [svg](visualisation/fig19-1a_long-term-energy-consumption-per-capita.svg "fig19-1a_long-term-energy-consumption-per-capita") [png](visualisation/fig19-1a_long-term-energy-consumption-per-capita.png "fig19-1a_long-term-energy-consumption-per-capita")
+[!["fig19-1a_long-term-energy-consumption-per-capita"](visualisation/fig19-1a_long-term-energy-consumption-per-capita.svg "fig19-1a_long-term-energy-consumption-per-capita")](visualisation/fig19-1a_long-term-energy-consumption-per-capita.svg "fig19-1a_long-term-energy-consumption-per-capita")
+
+### fig19-1a_long-term-energy-consumption-per-capita_dark --- [json](visualisation/fig19-1a_long-term-energy-consumption-per-capita_dark.json "fig19-1a_long-term-energy-consumption-per-capita_dark") [svg](visualisation/fig19-1a_long-term-energy-consumption-per-capita_dark.svg "fig19-1a_long-term-energy-consumption-per-capita_dark") [png](visualisation/fig19-1a_long-term-energy-consumption-per-capita_dark.png "fig19-1a_long-term-energy-consumption-per-capita_dark")
+[!["fig19-1a_long-term-energy-consumption-per-capita_dark"](visualisation/fig19-1a_long-term-energy-consumption-per-capita_dark.svg "fig19-1a_long-term-energy-consumption-per-capita_dark")](visualisation/fig19-1a_long-term-energy-consumption-per-capita_dark.svg "fig19-1a_long-term-energy-consumption-per-capita_dark")
+
+### fig19-1b_total-term-energy-consumption-per-capita --- [json](visualisation/fig19-1b_total-term-energy-consumption-per-capita.json "fig19-1b_total-term-energy-consumption-per-capita") [svg](visualisation/fig19-1b_total-term-energy-consumption-per-capita.svg "fig19-1b_total-term-energy-consumption-per-capita") [png](visualisation/fig19-1b_total-term-energy-consumption-per-capita.png "fig19-1b_total-term-energy-consumption-per-capita")
+[!["fig19-1b_total-term-energy-consumption-per-capita"](visualisation/fig19-1b_total-term-energy-consumption-per-capita.svg "fig19-1b_total-term-energy-consumption-per-capita")](visualisation/fig19-1b_total-term-energy-consumption-per-capita.svg "fig19-1b_total-term-energy-consumption-per-capita")
+
+### fig19-1b_total-term-energy-consumption-per-capita_dark --- [json](visualisation/fig19-1b_total-term-energy-consumption-per-capita_dark.json "fig19-1b_total-term-energy-consumption-per-capita_dark") [svg](visualisation/fig19-1b_total-term-energy-consumption-per-capita_dark.svg "fig19-1b_total-term-energy-consumption-per-capita_dark") [png](visualisation/fig19-1b_total-term-energy-consumption-per-capita_dark.png "fig19-1b_total-term-energy-consumption-per-capita_dark")
+[!["fig19-1b_total-term-energy-consumption-per-capita_dark"](visualisation/fig19-1b_total-term-energy-consumption-per-capita_dark.svg "fig19-1b_total-term-energy-consumption-per-capita_dark")](visualisation/fig19-1b_total-term-energy-consumption-per-capita_dark.svg "fig19-1b_total-term-energy-consumption-per-capita_dark")
+
+### fig19-2_coal-share --- [json](visualisation/fig19-2_coal-share.json "fig19-2_coal-share") [svg](visualisation/fig19-2_coal-share.svg "fig19-2_coal-share") [png](visualisation/fig19-2_coal-share.png "fig19-2_coal-share")
+[!["fig19-2_coal-share"](visualisation/fig19-2_coal-share.svg "fig19-2_coal-share")](visualisation/fig19-2_coal-share.svg "fig19-2_coal-share")
+
+### fig19-2_coal-share_dark --- [json](visualisation/fig19-2_coal-share_dark.json "fig19-2_coal-share_dark") [svg](visualisation/fig19-2_coal-share_dark.svg "fig19-2_coal-share_dark") [png](visualisation/fig19-2_coal-share_dark.png "fig19-2_coal-share_dark")
+[!["fig19-2_coal-share_dark"](visualisation/fig19-2_coal-share_dark.svg "fig19-2_coal-share_dark")](visualisation/fig19-2_coal-share_dark.svg "fig19-2_coal-share_dark")
+
+# Article 21 
+
+## Inequality
+
+Cloned from [what-are-the-implications-of-decarbonisation-for-inequality](https://www.github.com/EconomicsObservatory/ECOvisualisations/tree/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/)
+
+### fig1_outcomes --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig1_outcomes.json "fig1_outcomes") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig1_outcomes.svg "fig1_outcomes") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig1_outcomes.png "fig1_outcomes")
+[!["fig1_outcomes"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig1_outcomes.svg "fig1_outcomes")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig1_outcomes.svg "fig1_outcomes")
+
+### fig1_outcomes_dark --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig1_outcomes_dark.json "fig1_outcomes_dark") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig1_outcomes_dark.svg "fig1_outcomes_dark") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig1_outcomes_dark.png "fig1_outcomes_dark")
+[!["fig1_outcomes_dark"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig1_outcomes_dark.svg "fig1_outcomes_dark")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig1_outcomes_dark.svg "fig1_outcomes_dark")
+
+### Fig 21-2 radar chart
+
+### fig2_polar --- [pdf](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig2_polar.pdf "fig2_polar") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig2_polar.svg "fig2_polar") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig2_polar.png "fig2_polar")
+[!["fig2_polar"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig2_polar.svg "fig2_polar")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/what-are-the-implications-of-decarbonisation-for-inequality/visualisation/fig2_polar.svg "fig2_polar")
+
+# Article 22 
+
+## Agriculture
+
+Cloned from [how-are-agricultural-economies-affected-by-climate-change](https://www.github.com/EconomicsObservatory/ECOvisualisations/tree/main/articles/how-are-agricultural-economies-affected-by-climate-change/)
+
+### fig1_productivity --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig1_productivity.json "fig1_productivity") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig1_productivity.svg "fig1_productivity") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig1_productivity.png "fig1_productivity")
+[!["fig1_productivity"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig1_productivity.svg "fig1_productivity")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig1_productivity.svg "fig1_productivity")
+
+### fig1_productivity_dark --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig1_productivity_dark.json "fig1_productivity_dark") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig1_productivity_dark.svg "fig1_productivity_dark") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig1_productivity_dark.png "fig1_productivity_dark")
+[!["fig1_productivity_dark"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig1_productivity_dark.svg "fig1_productivity_dark")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig1_productivity_dark.svg "fig1_productivity_dark")
+
+### fig2_yield --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig2_yield.json "fig2_yield") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig2_yield.svg "fig2_yield") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig2_yield.png "fig2_yield")
+[!["fig2_yield"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig2_yield.svg "fig2_yield")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig2_yield.svg "fig2_yield")
+
+### fig2_yield_dark --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig2_yield_dark.json "fig2_yield_dark") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig2_yield_dark.svg "fig2_yield_dark") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig2_yield_dark.png "fig2_yield_dark")
+[!["fig2_yield_dark"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig2_yield_dark.svg "fig2_yield_dark")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig2_yield_dark.svg "fig2_yield_dark")
+
+### fig3_africa --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig3_africa.json "fig3_africa") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig3_africa.svg "fig3_africa") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig3_africa.png "fig3_africa")
+[!["fig3_africa"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig3_africa.svg "fig3_africa")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig3_africa.svg "fig3_africa")
+
+### fig3_africa_dark --- [json](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig3_africa_dark.json "fig3_africa_dark") [svg](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig3_africa_dark.svg "fig3_africa_dark") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig3_africa_dark.png "fig3_africa_dark")
+[!["fig3_africa_dark"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig3_africa_dark.svg "fig3_africa_dark")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig3_africa_dark.svg "fig3_africa_dark")
+
+### fig4a_rcp26 --- [kmz](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig4a_rcp26.kmz "fig4a_rcp26") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig4a_rcp26.png "fig4a_rcp26")
+[!["fig4a_rcp26"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig4a_rcp26.png "fig4a_rcp26")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig4a_rcp26.png "fig4a_rcp26")
+
+### fig4b_rcp45 --- [kmz](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig4b_rcp45.kmz "fig4b_rcp45") [png](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig4b_rcp45.png "fig4b_rcp45")
+[!["fig4b_rcp45"](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig4b_rcp45.png "fig4b_rcp45")](https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-are-agricultural-economies-affected-by-climate-change/visualisation/fig4b_rcp45.png "fig4b_rcp45")
+
+# Article 23 
+
+## Firms, competition
+
+### fig23-1_policies --- [json](visualisation/fig23-1_policies.json "fig23-1_policies") [svg](visualisation/fig23-1_policies.svg "fig23-1_policies") [png](visualisation/fig23-1_policies.png "fig23-1_policies")
+[!["fig23-1_policies"](visualisation/fig23-1_policies.svg "fig23-1_policies")](visualisation/fig23-1_policies.svg "fig23-1_policies")
+
+### fig23-1_policies_dark --- [json](visualisation/fig23-1_policies_dark.json "fig23-1_policies_dark") [svg](visualisation/fig23-1_policies_dark.svg "fig23-1_policies_dark") [png](visualisation/fig23-1_policies_dark.png "fig23-1_policies_dark")
+[!["fig23-1_policies_dark"](visualisation/fig23-1_policies_dark.svg "fig23-1_policies_dark")](visualisation/fig23-1_policies_dark.svg "fig23-1_policies_dark")
+
+# Article 24 
+
+## Public debt
+
+### fig24-1_debt --- [json](visualisation/fig24-1_debt.json "fig24-1_debt") [svg](visualisation/fig24-1_debt.svg "fig24-1_debt") [png](visualisation/fig24-1_debt.png "fig24-1_debt")
+[!["fig24-1_debt"](visualisation/fig24-1_debt.svg "fig24-1_debt")](visualisation/fig24-1_debt.svg "fig24-1_debt")
+
+### fig24-1_debt_dark --- [json](visualisation/fig24-1_debt_dark.json "fig24-1_debt_dark") [svg](visualisation/fig24-1_debt_dark.svg "fig24-1_debt_dark") [png](visualisation/fig24-1_debt_dark.png "fig24-1_debt_dark")
+[!["fig24-1_debt_dark"](visualisation/fig24-1_debt_dark.svg "fig24-1_debt_dark")](visualisation/fig24-1_debt_dark.svg "fig24-1_debt_dark")
+
