@@ -315,3 +315,9 @@ Cloned from [how-are-agricultural-economies-affected-by-climate-change](https://
 ### fig24-1_debt_dark --- [json](visualisation/fig24-1_debt_dark.json "fig24-1_debt_dark") [svg](visualisation/fig24-1_debt_dark.svg "fig24-1_debt_dark") [png](visualisation/fig24-1_debt_dark.png "fig24-1_debt_dark")
 [!["fig24-1_debt_dark"](visualisation/fig24-1_debt_dark.svg "fig24-1_debt_dark")](visualisation/fig24-1_debt_dark.svg "fig24-1_debt_dark")
 
+# Article 22 
+
+## Agriculture
+
+Cloned from [how-are-agricultural-economies-affected-by-climate-change](https://www.github.com/EconomicsObservatory/ECOvisualisations/tree/main/articles/how-are-agricultural-economies-affected-by-climate-change/)
+

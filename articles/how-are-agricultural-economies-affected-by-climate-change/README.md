@@ -1,23 +1,18 @@
-### fig1_productivity
-!["fig1_productivity"](visualisation/fig1_productivity.png "fig1_productivity")
+### fig1_productivity_local
+!["fig1_productivity_local"](visualisation/fig1_productivity_local.png "fig1_productivity_local")
 
-### fig1_productivity_dark
-!["fig1_productivity_dark"](visualisation/fig1_productivity_dark.png "fig1_productivity_dark")
+### fig1_productivity_local_dark
+!["fig1_productivity_local_dark"](visualisation/fig1_productivity_local_dark.png "fig1_productivity_local_dark")
 
-### fig2_yield
-!["fig2_yield"](visualisation/fig2_yield.png "fig2_yield")
+### fig2_yield_local
+!["fig2_yield_local"](visualisation/fig2_yield_local.png "fig2_yield_local")
 
-### fig2_yield_dark
-!["fig2_yield_dark"](visualisation/fig2_yield_dark.png "fig2_yield_dark")
+### fig2_yield_local_dark
+!["fig2_yield_local_dark"](visualisation/fig2_yield_local_dark.png "fig2_yield_local_dark")
 
-### fig3_africa
-!["fig3_africa"](visualisation/fig3_africa.png "fig3_africa")
+### fig3_africa_local
+!["fig3_africa_local"](visualisation/fig3_africa_local.png "fig3_africa_local")
 
-### fig3_africa_dark
-!["fig3_africa_dark"](visualisation/fig3_africa_dark.png "fig3_africa_dark")
+### fig3_africa_local_dark
+!["fig3_africa_local_dark"](visualisation/fig3_africa_local_dark.png "fig3_africa_local_dark")
 
-### fig4a_rcp26
-!["fig4a_rcp26"](visualisation/fig4a_rcp26.png "fig4a_rcp26")
-
-### fig4b_rcp45
-!["fig4b_rcp45"](visualisation/fig4b_rcp45.png "fig4b_rcp45")
