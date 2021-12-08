@@ -1,24 +1,24 @@
-### fig1_not_playing
-!["fig1_not_playing"](visualisation/fig1_not_playing.png "fig1_not_playing")
+### fig1_cases_local
+!["fig1_cases_local"](visualisation/fig1_cases_local.png "fig1_cases_local")
 
-### fig2_pitch
-!["fig2_pitch"](visualisation/fig2_pitch.png "fig2_pitch")
+### fig2_deaths_local
+!["fig2_deaths_local"](visualisation/fig2_deaths_local.png "fig2_deaths_local")
 
-### fig3_pass
-!["fig3_pass"](visualisation/fig3_pass.png "fig3_pass")
+### fig3_growth_local
+!["fig3_growth_local"](visualisation/fig3_growth_local.png "fig3_growth_local")
 
-### fig4_match_pass
-!["fig4_match_pass"](visualisation/fig4_match_pass.png "fig4_match_pass")
+### fig4_growth_world_local
+!["fig4_growth_world_local"](visualisation/fig4_growth_world_local.png "fig4_growth_world_local")
 
-### fig5_margin
-!["fig5_margin"](visualisation/fig5_margin.png "fig5_margin")
+### fig4_growth_world_local
+!["fig4_growth_world_local"](visualisation/fig4_growth_world_local.png "fig4_growth_world_local")
 
-### fig6a_injuries
-!["fig6a_injuries"](visualisation/fig6a_injuries.png "fig6a_injuries")
+### fig5_projections_local
+!["fig5_projections_local"](visualisation/fig5_projections_local.png "fig5_projections_local")
 
-### fig6b_infections
-!["fig6b_infections"](visualisation/fig6b_infections.png "fig6b_infections")
+### fig6_outbreak_local
+!["fig6_outbreak_local"](visualisation/fig6_outbreak_local.png "fig6_outbreak_local")
 
-### fig7_quartile
-!["fig7_quartile"](visualisation/fig7_quartile.png "fig7_quartile")
+### fig7_changes_local
+!["fig7_changes_local"](visualisation/fig7_changes_local.png "fig7_changes_local")
 
