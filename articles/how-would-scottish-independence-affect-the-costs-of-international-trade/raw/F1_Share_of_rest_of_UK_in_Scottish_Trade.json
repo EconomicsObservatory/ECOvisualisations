@@ -1,0 +1,36 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Share of the rest of UK in Scottish trade",
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/observatory/main/Share%20of%20rest%20of%20UK%20in%20Scottish%20Trade.csv"
+  },
+  "height": 400,
+  "width": 500,
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "Year", "type": "nominal", "title": null, "sort": []},
+    "y": {
+      "field": "Percentage",
+      "type": "quantitative",
+      "title": "%",
+      "sort": [],
+      "scale": {"domain": [55, 75]}
+    },
+    "color": {
+      "field": "Trade",
+      "type": "nominal",
+      "legend": {"orient": "top-left"},
+      "sort": [],
+      "scale": {"range": ["#36b7b4", "#9adbd9"]}
+    },
+    "tooltip": [
+      {"field": "Year", "type": "nominal"},
+      {
+        "field": "Percentage",
+        "type": "quantitative",
+        "title": "Share of rest of UK in Scottish trade"
+      },
+      {"field": "Trade"}
+    ]
+  }
+}

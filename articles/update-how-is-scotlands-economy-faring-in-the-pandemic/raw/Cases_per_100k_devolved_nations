@@ -1,0 +1,36 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Cumulative Covid cases per 100,000",
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/observatory/main/Cases%20per%20100k%20Devolved%20Nations.csv"
+  },
+  "height": 400,
+  "width": 500,
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "Date", "type": "temporal", "title": null},
+    "y": {
+      "field": "Cumulative cases per 100k",
+      "type": "quantitative",
+      "title": "",
+      "sort": []
+    },
+    "color": {
+      "field": "Nation",
+      "title": null,
+      "type": "nominal",
+      "legend": {"orient": "top-left"},
+      "sort": [],
+      "scale": {"range": ["#122b39", "#179fdb", "#36b7b4", "#5c268b"]}
+    },
+    "tooltip": [
+      {"field": "Date", "type": "temporal"},
+      {
+        "field": "Cumulative cases per 100k",
+        "type": "quantitative",
+        "title": "Cumulative cases per 100k"
+      },
+      {"field": "Nation"}
+    ]
+  }
+}

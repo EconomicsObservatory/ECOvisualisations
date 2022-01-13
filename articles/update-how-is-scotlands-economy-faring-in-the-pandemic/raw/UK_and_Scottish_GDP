@@ -1,0 +1,37 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "GDP UK and Scotland",
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/observatory/main/Scottish%20and%20UK%20GDP%20to%20Oct%2021.csv"
+  },
+  "height": 400,
+  "width": 500,
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "Date", "type": "temporal", "title": null},
+    "y": {
+      "field": "GDP",
+      "type": "quantitative",
+      "title": "",
+      "sort": [],
+      "scale": {"domain": [70,110]}
+    },
+    "color": {
+      "field": "Country",
+      "title": null,
+      "type": "nominal",
+      "legend": {"orient": "top-left"},
+      "sort": [],
+      "scale": {"range": ["#36b7b4", "#5c268b"]}
+    },
+    "tooltip": [
+      {"field": "Date", "type": "temporal"},
+      {
+        "field": "GDP",
+        "type": "quantitative",
+        "title": "GDP (Index 2017=100)"
+      },
+      {"field": "Country"}
+    ]
+  }
+}

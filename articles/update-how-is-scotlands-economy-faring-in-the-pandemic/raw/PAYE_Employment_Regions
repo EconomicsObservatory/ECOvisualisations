@@ -1,0 +1,47 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Regional PAYE employment",
+  "height": 350,
+  "width": 350,
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/observatory/main/PAYE%20Employment%20Regions.csv"
+  },
+  "mark": "bar",
+  "encoding": {
+    "y": {"field": "Region", "sort": "", "title": ""},
+    "x": {
+      "aggregate": "sum",
+      "field": "Percentage",
+      "title": ""
+    },
+    "color": {
+      "field": "Region",
+      "type": "nominal",
+      "scale": {
+        "range": [
+          "#122b39",
+          "#122b39",
+          "#122b39",
+          "#122b39",
+          "#122b39",
+          "#122b39",
+          "#e6224b",
+          "#122b39",
+          "#122b39",
+          "#36b7b4",
+          "#122b39",
+          "#122b39",
+          "#122b39",
+          "#36b7b4",
+          "#122b39",
+          "#122b39",
+          "#122b39",
+          "#122b39",
+          "#122b39",
+          ""
+        ]
+      },
+      "legend": null
+    }
+  }
+}
