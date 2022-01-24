@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <script src="https://economicsobservatory.github.io/ECOvisualisations/articles/scottish-independence-what-are-the-big-economic-questions/visualisation/fig1/d3plus-geomap.v0.6.full.min.js"></script>
+    <script src="https://economicsobservatory.github.io/ECOvisualisations/articles/scottish-independence-what-are-the-big-economic-questions/visualisation/fig5/d3plus-geomap.v0.6.full.min.js"></script>
     <style>
         body {
             margin: 0;
@@ -21,7 +21,7 @@
 <body></body>
 <script>
     let chart = new d3plus.Geomap()
-    chart.data('https://economicsobservatory.github.io/ECOvisualisations/articles/scottish-independence-what-are-the-big-economic-questions/visualisation/fig1/population_change.json')
+    chart.data('https://economicsobservatory.github.io/ECOvisualisations/articles/scottish-independence-what-are-the-big-economic-questions/visualisation/fig5/population_change.json')
         .zoom(false)
         .colorScale("pop")
         .colorScaleConfig({
@@ -51,7 +51,7 @@
             }
         })
 
-    chart.topojson("https://economicsobservatory.github.io/ECOvisualisations/articles/scottish-independence-what-are-the-big-economic-questions/visualisation/fig1/scotland_lad_mini_data.json", function (map) {
+    chart.topojson("https://economicsobservatory.github.io/ECOvisualisations/articles/scottish-independence-what-are-the-big-economic-questions/visualisation/fig5/scotland_lad_mini_data.json", function (map) {
         map['objects']['lad']['geometries'].forEach(function (d, i) {
             d['id'] = d['properties']['LAD13NM']
         })
