@@ -1,8 +1,7 @@
-<!doctype html>
 <html>
 
 <head>
-    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <script src="d3plus-geomap.v0.6.full.min.js"></script>
     <style>
         body {
@@ -18,44 +17,48 @@
     </style>
 </head>
 
-<body></body>
-<script>
-    let chart = new d3plus.Geomap()
-    chart.data('2014_referendum.json')
-        .zoom(false)
-        .colorScale("yes")
-        .colorScaleConfig({
-            color: ['#F4134D', '#E54753', '#eeeeee', '#0063AF'],
-            axisConfig: {
-                // domain: [-10, 10]
-            },
-        })
-        .detectVisible(false)
-        .tiles(false)
-        .title('')
-        .ocean("transparent")
-        .loadingMessage(false)
-        .label(d => d['id']+': '+d['yes']+'% ' + ' voted YES')
-        .shapeConfig({
-            label: function (d) {
-                return d['yes']
-            },
-            labelConfig: {
-                fontMin: 6,
-                fontMax: 14,
-                fontResize: true,
-                padding: "-3 -3 -3 -3"
-            }
+<body>
+    <script>
+        let chart = new d3plus.Geomap()
+        chart.data('2014_referendum.json')
+            .zoom(false)
+            .colorScale("yes")
+            .colorScaleConfig({
+                color: ['#F4134D', '#E54753', '#eeeeee', '#0063AF'],
+                axisConfig: {
+                    tickFormat: function (d) {
+                        return d>55?Math.round(d) + " %": Math.round(d);
+                    },
+                    // domain: [-10, 10]
+                },
+            })
+            .detectVisible(false)
+            .tiles(false)
+            .title('')
+            .ocean("transparent")
+            .loadingMessage(false)
+            .label(d => d['id'] + ': ' + d['yes'] + '% ' + ' voted YES')
+            .shapeConfig({
+                label: function (d) {
+                    return d['yes']
+                },
+                labelConfig: {
+                    fontMin: 6,
+                    fontMax: 14,
+                    fontResize: true,
+                    padding: "-3 -3 -3 -3"
+                }
+            })
+
+        chart.topojson("scotland_lad_mini_data.json", function (map) {
+            map['objects']['lad']['geometries'].forEach(function (d, i) {
+                d['id'] = d['properties']['LAD13NM']
+            })
+            return map
         })
 
-    chart.topojson("scotland_lad_mini_data.json", function (map) {
-        map['objects']['lad']['geometries'].forEach(function (d, i) {
-            d['id'] = d['properties']['LAD13NM']
-        })
-        return map
-    })
-
-    chart.render()
-</script>
+        chart.render()
+    </script>
+</body>
 
 </html>
