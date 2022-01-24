@@ -4,9 +4,6 @@
 ### fig2_polls
 !["fig2_polls"](visualisation/fig2_polls.png "fig2_polls")
 
-### fig2_polls
-!["fig2_polls"](visualisation/fig2_polls.png "fig2_polls")
-
 ### fig4_public_spending
 !["fig4_public_spending"](visualisation/fig4_public_spending.png "fig4_public_spending")
 
