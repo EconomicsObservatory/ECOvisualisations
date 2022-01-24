@@ -1,6 +1,6 @@
-### fig1_trade_local
-!["fig1_trade_local"](visualisation/fig1_trade_local.png "fig1_trade_local")
+### fig1_trade
+!["fig1_trade"](visualisation/fig1_trade.png "fig1_trade")
 
-### fig2_residual_local
-!["fig2_residual_local"](visualisation/fig2_residual_local.png "fig2_residual_local")
+### fig2_residual
+!["fig2_residual"](visualisation/fig2_residual.png "fig2_residual")
 
