@@ -1,24 +1,21 @@
-### fig1_not_playing
-!["fig1_not_playing"](visualisation/fig1_not_playing.png "fig1_not_playing")
+### fig1_gdp_per_head_local
+!["fig1_gdp_per_head_local"](visualisation/fig1_gdp_per_head_local.png "fig1_gdp_per_head_local")
 
-### fig2_pitch
-!["fig2_pitch"](visualisation/fig2_pitch.png "fig2_pitch")
+### fig2_gdp_per_head_map
+[Interactive map](https://economicsobservatory.github.io/ECOvisualisations/articles/levelling-up-what-might-it-mean-for-scotland/visualisation/fig2/)
 
-### fig3_pass
-!["fig3_pass"](visualisation/fig3_pass.png "fig3_pass")
+### fig3a_simd_gla
+[Interactive map](https://economicsobservatory.github.io/ECOvisualisations/articles/levelling-up-what-might-it-mean-for-scotland/visualisation/fig3/a.html)
 
-### fig4_match_pass
-!["fig4_match_pass"](visualisation/fig4_match_pass.png "fig4_match_pass")
+### fig3b_simd_edi
+[Interactive map](https://economicsobservatory.github.io/ECOvisualisations/articles/levelling-up-what-might-it-mean-for-scotland/visualisation/fig3/b.html)
 
-### fig5_margin
-!["fig5_margin"](visualisation/fig5_margin.png "fig5_margin")
+### fig4_gdhi_per_head_local
+!["fig4_gdhi_per_head_local"](visualisation/fig4_gdhi_per_head_local.png "fig4_gdhi_per_head_local")
 
-### fig6a_injuries
-!["fig6a_injuries"](visualisation/fig6a_injuries.png "fig6a_injuries")
+### fig6_employment_local
+!["fig6_employment_local"](visualisation/fig6_employment_local.png "fig6_employment_local")
 
-### fig6b_infections
-!["fig6b_infections"](visualisation/fig6b_infections.png "fig6b_infections")
-
-### fig7_quartile
-!["fig7_quartile"](visualisation/fig7_quartile.png "fig7_quartile")
+### fig7_population_change
+[Interactive map](https://economicsobservatory.github.io/ECOvisualisations/articles/levelling-up-what-might-it-mean-for-scotland/visualisation/fig7/)
 

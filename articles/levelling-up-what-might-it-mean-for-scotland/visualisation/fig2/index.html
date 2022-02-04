@@ -1,0 +1,71 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script src="./d3plus-geomap.v0.6.full.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: none;
+        }
+        
+        div,
+        text {
+            font-family: sans-serif !important;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        let chart = new d3plus.Geomap()
+        chart.data('./fig2_gdp_per_head_map.json', function(data) {
+                data.forEach(function(d, i) {
+                    d['year2'] = d['year'] + '-01-01'
+                })
+                return data
+            })
+            .zoom(false)
+            .colorScale("gdp_per_head")
+            .colorScaleConfig({
+                color: ['#eeeeee', '#0063AF'],
+                axisConfig: {
+                    tickFormat: function(d) {
+                        return Math.round(d / 1000) + 'k';
+                    },
+                    // domain: [-10, 10]
+                },
+            })
+            .detectVisible(false)
+            .tiles(false)
+            .title('')
+            .time('year')
+            .ocean("transparent")
+            .projection('geoNaturalEarth')
+            .loadingMessage(false)
+            .label(d => d['id'] + ' | ' + d['year'] + ' | ' + d['gdp_per_head'] + ' £/year/head')
+            .shapeConfig({
+                label: function(d) {
+                    return Math.round(d['gdp_per_head'] / 1000) / 1 + 'k'
+                },
+                labelConfig: {
+                    fontMin: 6,
+                    fontMax: 14,
+                    fontResize: true,
+                    padding: "-3 -3 -3 -3"
+                }
+            })
+
+        chart.topojson("./geogNUTS2018GB_scot.json", function(map) {
+            map['objects']['nuts3']['geometries'].forEach(function(d, i) {
+                d['id'] = d['properties']['AREANM']
+            })
+            return map
+        })
+
+        chart.render()
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,133 @@
+,region,year,gdp_per_head
+11,North East,2009,17291.0
+12,North East,2010,17443.0
+13,North East,2011,17648.0
+14,North East,2012,18010.0
+15,North East,2013,18211.0
+16,North East,2014,18753.0
+17,North East,2015,19344.0
+18,North East,2016,19591.0
+19,North East,2017,19888.0
+20,North East,2018,20216.0
+21,North East,2019,20727.0
+33,North West,2009,19763.0
+34,North West,2010,20054.0
+35,North West,2011,20117.0
+36,North West,2012,20589.0
+37,North West,2013,21273.0
+38,North West,2014,22054.0
+39,North West,2015,22842.0
+40,North West,2016,23559.0
+41,North West,2017,24387.0
+42,North West,2018,24965.0
+43,North West,2019,25629.0
+55,Yorkshire and The Humber,2009,18647.0
+56,Yorkshire and The Humber,2010,18602.0
+57,Yorkshire and The Humber,2011,18753.0
+58,Yorkshire and The Humber,2012,19130.0
+59,Yorkshire and The Humber,2013,19588.0
+60,Yorkshire and The Humber,2014,20108.0
+61,Yorkshire and The Humber,2015,20917.0
+62,Yorkshire and The Humber,2016,21208.0
+63,Yorkshire and The Humber,2017,21962.0
+64,Yorkshire and The Humber,2018,22588.0
+65,Yorkshire and The Humber,2019,23269.0
+77,East Midlands,2009,18274.0
+78,East Midlands,2010,18770.0
+79,East Midlands,2011,18960.0
+80,East Midlands,2012,19492.0
+81,East Midlands,2013,20176.0
+82,East Midlands,2014,20760.0
+83,East Midlands,2015,21193.0
+84,East Midlands,2016,21574.0
+85,East Midlands,2017,22088.0
+86,East Midlands,2018,22851.0
+87,East Midlands,2019,23476.0
+99,West Midlands,2009,17916.0
+100,West Midlands,2010,18387.0
+101,West Midlands,2011,18820.0
+102,West Midlands,2012,19300.0
+103,West Midlands,2013,20116.0
+104,West Midlands,2014,20947.0
+105,West Midlands,2015,21616.0
+106,West Midlands,2016,22402.0
+107,West Midlands,2017,23192.0
+108,West Midlands,2018,23926.0
+109,West Midlands,2019,24343.0
+121,East of England,2009,20753.0
+122,East of England,2010,20831.0
+123,East of England,2011,20793.0
+124,East of England,2012,21273.0
+125,East of England,2013,22030.0
+126,East of England,2014,23017.0
+127,East of England,2015,23593.0
+128,East of England,2016,24455.0
+129,East of England,2017,25788.0
+130,East of England,2018,26243.0
+131,East of England,2019,27015.0
+143,London,2009,38173.0
+144,London,2010,38911.0
+145,London,2011,39735.0
+146,London,2012,41093.0
+147,London,2013,42606.0
+148,London,2014,44823.0
+149,London,2015,45832.0
+150,London,2016,47959.0
+151,London,2017,48751.0
+152,London,2018,50336.0
+153,London,2019,52239.0
+165,South East,2009,24626.0
+166,South East,2010,25055.0
+167,South East,2011,25443.0
+168,South East,2012,26118.0
+169,South East,2013,26882.0
+170,South East,2014,27792.0
+171,South East,2015,28674.0
+172,South East,2016,29163.0
+173,South East,2017,29850.0
+174,South East,2018,30713.0
+175,South East,2019,31783.0
+187,South West,2009,20197.0
+188,South West,2010,20654.0
+189,South West,2011,20754.0
+190,South West,2012,21220.0
+191,South West,2013,21717.0
+192,South West,2014,22721.0
+193,South West,2015,22999.0
+194,South West,2016,23618.0
+195,South West,2017,24443.0
+196,South West,2018,24964.0
+197,South West,2019,25629.0
+209,Wales,2009,16019.0
+210,Wales,2010,16327.0
+211,Wales,2011,16912.0
+212,Wales,2012,17398.0
+213,Wales,2013,17984.0
+214,Wales,2014,18416.0
+215,Wales,2015,19032.0
+216,Wales,2016,19703.0
+217,Wales,2017,20131.0
+218,Wales,2018,20854.0
+219,Wales,2019,21295.0
+231,Scotland,2009,21501.0
+232,Scotland,2010,21331.0
+233,Scotland,2011,21716.0
+234,Scotland,2012,22332.0
+235,Scotland,2013,23298.0
+236,Scotland,2014,24258.0
+237,Scotland,2015,24483.0
+238,Scotland,2016,24718.0
+239,Scotland,2017,25592.0
+240,Scotland,2018,26180.0
+241,Scotland,2019,26968.0
+253,Northern Ireland,2009,17753.0
+254,Northern Ireland,2010,17408.0
+255,Northern Ireland,2011,17623.0
+256,Northern Ireland,2012,18275.0
+257,Northern Ireland,2013,18686.0
+258,Northern Ireland,2014,19268.0
+259,Northern Ireland,2015,19893.0
+260,Northern Ireland,2016,20780.0
+261,Northern Ireland,2017,21401.0
+262,Northern Ireland,2018,21859.0
+263,Northern Ireland,2019,22298.0

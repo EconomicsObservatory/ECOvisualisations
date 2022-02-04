@@ -1,0 +1,139 @@
+,itl,region,year,gdhi_per_head
+0,UK,United Kingdom,1997,10788.0
+1,UK,United Kingdom,1998,11019.0
+2,UK,United Kingdom,1999,11528.0
+3,UK,United Kingdom,2000,12250.0
+4,UK,United Kingdom,2001,12654.0
+5,UK,United Kingdom,2002,13008.0
+6,UK,United Kingdom,2003,13344.0
+7,UK,United Kingdom,2004,13857.0
+8,UK,United Kingdom,2005,14392.0
+9,UK,United Kingdom,2006,14942.0
+10,UK,United Kingdom,2007,15653.0
+11,UK,United Kingdom,2008,16077.0
+12,UK,United Kingdom,2009,16306.0
+13,UK,United Kingdom,2010,16506.0
+14,UK,United Kingdom,2011,16745.0
+15,UK,United Kingdom,2012,17382.0
+16,UK,United Kingdom,2013,17983.0
+17,UK,United Kingdom,2014,18511.0
+18,UK,United Kingdom,2015,19511.0
+19,UK,United Kingdom,2016,19727.0
+20,UK,United Kingdom,2017,20051.0
+21,UK,United Kingdom,2018,20908.0
+22,UK,United Kingdom,2019,21433.0
+23,ITL2,North Eastern Scotland,1997,11078.0
+24,ITL2,North Eastern Scotland,1998,11260.0
+25,ITL2,North Eastern Scotland,1999,11201.0
+26,ITL2,North Eastern Scotland,2000,12037.0
+27,ITL2,North Eastern Scotland,2001,12615.0
+28,ITL2,North Eastern Scotland,2002,13094.0
+29,ITL2,North Eastern Scotland,2003,13328.0
+30,ITL2,North Eastern Scotland,2004,14265.0
+31,ITL2,North Eastern Scotland,2005,15327.0
+32,ITL2,North Eastern Scotland,2006,16060.0
+33,ITL2,North Eastern Scotland,2007,17114.0
+34,ITL2,North Eastern Scotland,2008,17987.0
+35,ITL2,North Eastern Scotland,2009,18298.0
+36,ITL2,North Eastern Scotland,2010,18725.0
+37,ITL2,North Eastern Scotland,2011,19644.0
+38,ITL2,North Eastern Scotland,2012,20355.0
+39,ITL2,North Eastern Scotland,2013,21514.0
+40,ITL2,North Eastern Scotland,2014,21963.0
+41,ITL2,North Eastern Scotland,2015,22025.0
+42,ITL2,North Eastern Scotland,2016,20944.0
+43,ITL2,North Eastern Scotland,2017,20972.0
+44,ITL2,North Eastern Scotland,2018,21662.0
+45,ITL2,North Eastern Scotland,2019,22151.0
+46,ITL2,Highlands and Islands,1997,8888.0
+47,ITL2,Highlands and Islands,1998,9062.0
+48,ITL2,Highlands and Islands,1999,9289.0
+49,ITL2,Highlands and Islands,2000,9856.0
+50,ITL2,Highlands and Islands,2001,10326.0
+51,ITL2,Highlands and Islands,2002,10812.0
+52,ITL2,Highlands and Islands,2003,11004.0
+53,ITL2,Highlands and Islands,2004,11441.0
+54,ITL2,Highlands and Islands,2005,11878.0
+55,ITL2,Highlands and Islands,2006,12801.0
+56,ITL2,Highlands and Islands,2007,13550.0
+57,ITL2,Highlands and Islands,2008,15018.0
+58,ITL2,Highlands and Islands,2009,15403.0
+59,ITL2,Highlands and Islands,2010,15800.0
+60,ITL2,Highlands and Islands,2011,15835.0
+61,ITL2,Highlands and Islands,2012,16511.0
+62,ITL2,Highlands and Islands,2013,16993.0
+63,ITL2,Highlands and Islands,2014,17261.0
+64,ITL2,Highlands and Islands,2015,17956.0
+65,ITL2,Highlands and Islands,2016,18140.0
+66,ITL2,Highlands and Islands,2017,18380.0
+67,ITL2,Highlands and Islands,2018,19127.0
+68,ITL2,Highlands and Islands,2019,19846.0
+69,ITL2,Eastern Scotland,1997,10198.0
+70,ITL2,Eastern Scotland,1998,10493.0
+71,ITL2,Eastern Scotland,1999,10941.0
+72,ITL2,Eastern Scotland,2000,11662.0
+73,ITL2,Eastern Scotland,2001,12181.0
+74,ITL2,Eastern Scotland,2002,12638.0
+75,ITL2,Eastern Scotland,2003,13065.0
+76,ITL2,Eastern Scotland,2004,13691.0
+77,ITL2,Eastern Scotland,2005,14086.0
+78,ITL2,Eastern Scotland,2006,14655.0
+79,ITL2,Eastern Scotland,2007,15421.0
+80,ITL2,Eastern Scotland,2008,15915.0
+81,ITL2,Eastern Scotland,2009,15945.0
+82,ITL2,Eastern Scotland,2010,16170.0
+83,ITL2,Eastern Scotland,2011,16663.0
+84,ITL2,Eastern Scotland,2012,17191.0
+85,ITL2,Eastern Scotland,2013,17706.0
+86,ITL2,Eastern Scotland,2014,18038.0
+87,ITL2,Eastern Scotland,2015,18647.0
+88,ITL2,Eastern Scotland,2016,18887.0
+89,ITL2,Eastern Scotland,2017,19205.0
+90,ITL2,Eastern Scotland,2018,19895.0
+91,ITL2,Eastern Scotland,2019,20505.0
+92,ITL2,West Central Scotland,1997,9391.0
+93,ITL2,West Central Scotland,1998,9586.0
+94,ITL2,West Central Scotland,1999,10136.0
+95,ITL2,West Central Scotland,2000,10905.0
+96,ITL2,West Central Scotland,2001,11342.0
+97,ITL2,West Central Scotland,2002,11732.0
+98,ITL2,West Central Scotland,2003,12052.0
+99,ITL2,West Central Scotland,2004,12413.0
+100,ITL2,West Central Scotland,2005,12826.0
+101,ITL2,West Central Scotland,2006,13305.0
+102,ITL2,West Central Scotland,2007,14020.0
+103,ITL2,West Central Scotland,2008,14534.0
+104,ITL2,West Central Scotland,2009,14667.0
+105,ITL2,West Central Scotland,2010,14766.0
+106,ITL2,West Central Scotland,2011,14956.0
+107,ITL2,West Central Scotland,2012,15383.0
+108,ITL2,West Central Scotland,2013,15758.0
+109,ITL2,West Central Scotland,2014,16189.0
+110,ITL2,West Central Scotland,2015,16808.0
+111,ITL2,West Central Scotland,2016,17021.0
+112,ITL2,West Central Scotland,2017,17236.0
+113,ITL2,West Central Scotland,2018,17755.0
+114,ITL2,West Central Scotland,2019,18159.0
+115,ITL2,Southern Scotland,1997,9287.0
+116,ITL2,Southern Scotland,1998,9500.0
+117,ITL2,Southern Scotland,1999,9782.0
+118,ITL2,Southern Scotland,2000,10451.0
+119,ITL2,Southern Scotland,2001,10844.0
+120,ITL2,Southern Scotland,2002,11438.0
+121,ITL2,Southern Scotland,2003,11800.0
+122,ITL2,Southern Scotland,2004,12453.0
+123,ITL2,Southern Scotland,2005,12905.0
+124,ITL2,Southern Scotland,2006,13365.0
+125,ITL2,Southern Scotland,2007,14075.0
+126,ITL2,Southern Scotland,2008,14589.0
+127,ITL2,Southern Scotland,2009,14798.0
+128,ITL2,Southern Scotland,2010,15260.0
+129,ITL2,Southern Scotland,2011,15539.0
+130,ITL2,Southern Scotland,2012,15907.0
+131,ITL2,Southern Scotland,2013,16394.0
+132,ITL2,Southern Scotland,2014,16742.0
+133,ITL2,Southern Scotland,2015,17341.0
+134,ITL2,Southern Scotland,2016,17489.0
+135,ITL2,Southern Scotland,2017,17732.0
+136,ITL2,Southern Scotland,2018,18337.0
+137,ITL2,Southern Scotland,2019,18883.0

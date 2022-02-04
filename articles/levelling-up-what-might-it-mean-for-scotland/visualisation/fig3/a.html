@@ -1,0 +1,72 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script src="./d3plus-geomap.v0.6.full.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: none;
+        }
+        
+        div,
+        text {
+            font-family: sans-serif !important;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        let indicator = 'decile'
+        let ind = 10;
+        let chart = new d3plus.Geomap()
+        chart.data('./fig3a_simd_gla.json', function(data) {
+                data.forEach(function(d, i) {
+                    d['id'] = d['datazone']
+                })
+                return data
+            })
+            .zoom(false)
+            .colorScale(indicator)
+            .colorScaleConfig({
+                color: ['#eeeeee', '#0063AF'],
+                axisConfig: {
+                    tickFormat: function(d) {
+                        return Math.round(d) + (d > ind - 1 ? 'th ' + indicator : '');
+                    },
+                },
+            })
+            .detectVisible(false)
+            .tiles(false)
+            .title('')
+            .time('year')
+            .ocean("transparent")
+            .projection('geoNaturalEarth')
+            .loadingMessage(false)
+            .label(d => d['zone'] + ' | ' + d['id'] + ' | ' + d['year'] + ' | ' + d[indicator] + (d[indicator] % 10 == 1 ? 'st' : d[indicator] % 10 == 2 ? 'nd' : d[indicator] % 10 == 3 ? 'rd' : 'th') + ' ' + indicator)
+            .shapeConfig({
+                // label: function(d) {
+                //     return Math.round(d[indicator] / 1) / 1 + ''
+                // },
+                labelConfig: {
+                    fontMin: 6,
+                    fontMax: 14,
+                    fontResize: true,
+                    padding: "-3 -3 -3 -3"
+                }
+            })
+
+        chart.topojson("./sc_dz_11_micro_gla.json", function(map) {
+            map['objects']['sc_dz_11']['geometries'].forEach(function(d, i) {
+                d['id'] = d['properties']['DataZone']
+            })
+            return map
+        })
+
+        chart.render()
+    </script>
+</body>
+
+</html>

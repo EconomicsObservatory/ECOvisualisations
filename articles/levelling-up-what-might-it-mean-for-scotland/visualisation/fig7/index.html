@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <script src="https://economicsobservatory.github.io/ECOvisualisations/articles/scottish-independence-what-are-the-big-economic-questions/visualisation/fig5/d3plus-geomap.v0.6.full.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: none;
+        }
+
+        div,
+        text {
+            font-family: sans-serif !important;
+        }
+    </style>
+</head>
+
+<body></body>
+<script>
+    let chart = new d3plus.Geomap()
+    chart.data('https://economicsobservatory.github.io/ECOvisualisations/articles/scottish-independence-what-are-the-big-economic-questions/visualisation/fig5/population_change.json')
+        .zoom(false)
+        .colorScale("pop")
+        .colorScaleConfig({
+            color: ['#F4134D', '#eeeeee', '#0063AF','#243B5A'],
+            axisConfig: {
+                tickFormat: function (d) {
+                    return d > 19 ? Math.round(d) + " %" : Math.round(d);
+                },
+                // domain: [-10, 10]
+            },
+        })
+        .detectVisible(false)
+        .tiles(false)
+        .title('')
+        .ocean("transparent")
+        .projection('geoNaturalEarth')
+        .loadingMessage(false)
+        .label(d => d['id']+': '+d['pop']+' % change in population between 2000 and 2020')
+        .shapeConfig({
+            label: function (d) {
+                return d['pop']
+            },
+            labelConfig: {
+                fontMin: 6,
+                fontMax: 14,
+                fontResize: true,
+                padding: "-3 -3 -3 -3"
+            }
+        })
+
+    chart.topojson("https://economicsobservatory.github.io/ECOvisualisations/articles/scottish-independence-what-are-the-big-economic-questions/visualisation/fig5/scotland_lad_mini_data.json", function (map) {
+        map['objects']['lad']['geometries'].forEach(function (d, i) {
+            d['id'] = d['properties']['LAD13NM']
+        })
+        return map
+    })
+
+    chart.render()
+</script>
+
+</html>
