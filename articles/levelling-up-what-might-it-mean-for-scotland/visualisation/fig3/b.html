@@ -31,7 +31,7 @@
             .zoom(false)
             .colorScale(indicator)
             .colorScaleConfig({
-                color: ['#eeeeee', '#0063AF'],
+                color: ['#eeeeee', '#0063AF', '#243B5A'],
                 axisConfig: {
                     tickFormat: function(d) {
                         return Math.round(d) + (d > ind - 1 ? 'th ' + indicator : '');
@@ -43,7 +43,7 @@
             .title('')
             .time('year')
             .ocean("transparent")
-            .projection('geoNaturalEarth')
+            // .projection('geoNaturalEarth')
             .loadingMessage(false)
             .label(d => d['zone'] + ' | ' + d['id'] + ' | ' + d['year'] + ' | ' + d[indicator] + (d[indicator] % 10 == 1 ? 'st' : d[indicator] % 10 == 2 ? 'nd' : d[indicator] % 10 == 3 ? 'rd' : 'th') + ' ' + indicator)
             .shapeConfig({
