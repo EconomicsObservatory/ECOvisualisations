@@ -10,6 +10,12 @@
 ### fig4_consumption_patterns
 !["fig4_consumption_patterns"](visualisation/fig4_consumption_patterns.png "fig4_consumption_patterns")
 
+### fig4_consumption_patterns
+!["fig4_consumption_patterns"](visualisation/fig4_consumption_patterns.png "fig4_consumption_patterns")
+
+### fig4_consumption_patterns
+!["fig4_consumption_patterns"](visualisation/fig4_consumption_patterns.png "fig4_consumption_patterns")
+
 ### fig5_pce_inflation
 !["fig5_pce_inflation"](visualisation/fig5_pce_inflation.png "fig5_pce_inflation")
 
