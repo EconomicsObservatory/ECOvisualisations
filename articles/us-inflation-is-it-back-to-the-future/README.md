@@ -7,8 +7,8 @@
 ### fig3_pce_core_cpi
 !["fig3_pce_core_cpi"](visualisation/fig3_pce_core_cpi.png "fig3_pce_core_cpi")
 
-### fig4_consumption patterns
-!["fig4_consumption patterns"](visualisation/fig4_consumption patterns.png "fig4_consumption patterns")
+### fig4_consumption_patterns
+!["fig4_consumption_patterns"](visualisation/fig4_consumption_patterns.png "fig4_consumption_patterns")
 
 ### fig5_pce_inflation
 !["fig5_pce_inflation"](visualisation/fig5_pce_inflation.png "fig5_pce_inflation")
