@@ -1,0 +1,666 @@
+,date,indicator,value
+0,2004-01-01,House Prices (Lagged),8.28095
+1,2004-01-01,Owner's Equivalent Rent ,1.87815
+2,2004-01-01,Rent,2.45942
+3,2004-02-01,House Prices (Lagged),8.47139
+4,2004-02-01,Owner's Equivalent Rent ,1.92132
+5,2004-02-01,Rent,2.50368
+6,2004-03-01,House Prices (Lagged),8.68496
+7,2004-03-01,Owner's Equivalent Rent ,2.01005
+8,2004-03-01,Rent,2.49878
+9,2004-04-01,House Prices (Lagged),9.03881
+10,2004-04-01,Owner's Equivalent Rent ,2.28311
+11,2004-04-01,Rent,2.54279
+12,2004-05-01,House Prices (Lagged),9.32784
+13,2004-05-01,Owner's Equivalent Rent ,2.32558
+14,2004-05-01,Rent,2.58663
+15,2004-06-01,House Prices (Lagged),9.56115
+16,2004-06-01,Owner's Equivalent Rent ,2.55358
+17,2004-06-01,Rent,2.73038
+18,2004-07-01,House Prices (Lagged),9.63284
+19,2004-07-01,Owner's Equivalent Rent ,2.50227
+20,2004-07-01,Rent,2.72374
+21,2004-08-01,House Prices (Lagged),9.75914
+22,2004-08-01,Owner's Equivalent Rent ,2.54314
+23,2004-08-01,Rent,2.81417
+24,2004-09-01,House Prices (Lagged),9.64903
+25,2004-09-01,Owner's Equivalent Rent ,2.44676
+26,2004-09-01,Rent,2.80736
+27,2004-10-01,House Prices (Lagged),9.46245
+28,2004-10-01,Owner's Equivalent Rent ,2.30456
+29,2004-10-01,Rent,2.85162
+30,2004-11-01,House Prices (Lagged),9.14916
+31,2004-11-01,Owner's Equivalent Rent ,2.2092
+32,2004-11-01,Rent,2.74699
+33,2004-12-01,House Prices (Lagged),8.90364
+34,2004-12-01,Owner's Equivalent Rent ,2.2973
+35,2004-12-01,Rent,2.886
+36,2005-01-01,House Prices (Lagged),8.86122
+37,2005-01-01,Owner's Equivalent Rent ,2.38309
+38,2005-01-01,Rent,2.97648
+39,2005-02-01,House Prices (Lagged),9.0084
+40,2005-02-01,Owner's Equivalent Rent ,2.46858
+41,2005-02-01,Rent,2.96935
+42,2005-03-01,House Prices (Lagged),9.23007
+43,2005-03-01,Owner's Equivalent Rent ,2.41827
+44,2005-03-01,Rent,3.01147
+45,2005-04-01,House Prices (Lagged),9.38677
+46,2005-04-01,Owner's Equivalent Rent ,2.23214
+47,2005-04-01,Rent,3.00429
+48,2005-05-01,House Prices (Lagged),9.57273
+49,2005-05-01,Owner's Equivalent Rent ,2.27273
+50,2005-05-01,Rent,2.94957
+51,2005-06-01,House Prices (Lagged),9.81368
+52,2005-06-01,Owner's Equivalent Rent ,2.17875
+53,2005-06-01,Rent,2.89511
+54,2005-07-01,House Prices (Lagged),10.2271
+55,2005-07-01,Owner's Equivalent Rent ,2.21926
+56,2005-07-01,Rent,2.98295
+57,2005-08-01,House Prices (Lagged),10.67827
+58,2005-08-01,Owner's Equivalent Rent ,2.17006
+59,2005-08-01,Rent,2.87872
+60,2005-09-01,House Prices (Lagged),11.42389
+61,2005-09-01,Owner's Equivalent Rent ,2.25564
+62,2005-09-01,Rent,2.91902
+63,2005-10-01,House Prices (Lagged),12.02486
+64,2005-10-01,Owner's Equivalent Rent ,2.29682
+65,2005-10-01,Rent,3.05451
+66,2005-11-01,House Prices (Lagged),12.51157
+67,2005-11-01,Owner's Equivalent Rent ,2.42611
+68,2005-11-01,Rent,3.18949
+69,2005-12-01,House Prices (Lagged),12.98039
+70,2005-12-01,Owner's Equivalent Rent ,2.46587
+71,2005-12-01,Rent,3.08555
+72,2006-01-01,House Prices (Lagged),13.139
+73,2006-01-01,Owner's Equivalent Rent ,2.50329
+74,2006-01-01,Rent,2.98368
+75,2006-02-01,House Prices (Lagged),13.12774
+76,2006-02-01,Owner's Equivalent Rent ,2.54052
+77,2006-02-01,Rent,3.06977
+78,2006-03-01,House Prices (Lagged),13.15484
+79,2006-03-01,Owner's Equivalent Rent ,2.71098
+80,2006-03-01,Rent,3.15545
+81,2006-04-01,House Prices (Lagged),13.27994
+82,2006-04-01,Owner's Equivalent Rent ,2.96943
+83,2006-04-01,Rent,3.19444
+84,2006-05-01,House Prices (Lagged),13.49918
+85,2006-05-01,Owner's Equivalent Rent ,3.2244
+86,2006-05-01,Rent,3.32717
+87,2006-06-01,House Prices (Lagged),13.63848
+88,2006-06-01,Owner's Equivalent Rent ,3.56832
+89,2006-06-01,Rent,3.50554
+90,2006-07-01,House Prices (Lagged),13.80467
+91,2006-07-01,Owner's Equivalent Rent ,3.73426
+92,2006-07-01,Rent,3.54023
+93,2006-08-01,House Prices (Lagged),14.0077
+94,2006-08-01,Owner's Equivalent Rent ,3.90117
+95,2006-08-01,Rent,3.76147
+96,2006-09-01,House Prices (Lagged),14.22543
+97,2006-09-01,Owner's Equivalent Rent ,3.97924
+98,2006-09-01,Rent,3.88838
+99,2006-10-01,House Prices (Lagged),14.24281
+100,2006-10-01,Owner's Equivalent Rent ,4.18826
+101,2006-10-01,Rent,3.96717
+102,2006-11-01,House Prices (Lagged),14.29958
+103,2006-11-01,Owner's Equivalent Rent ,4.2205
+104,2006-11-01,Rent,4.04545
+105,2006-12-01,House Prices (Lagged),14.28277
+106,2006-12-01,Owner's Equivalent Rent ,4.29738
+107,2006-12-01,Rent,4.30839
+108,2007-01-01,House Prices (Lagged),14.28421
+109,2007-01-01,Owner's Equivalent Rent ,4.26093
+110,2007-01-01,Rent,4.48438
+111,2007-02-01,House Prices (Lagged),14.3733
+112,2007-02-01,Owner's Equivalent Rent ,4.23751
+113,2007-02-01,Rent,4.57536
+114,2007-03-01,House Prices (Lagged),14.5074
+115,2007-03-01,Owner's Equivalent Rent ,4.13027
+116,2007-03-01,Rent,4.58614
+117,2007-04-01,House Prices (Lagged),14.36551
+118,2007-04-01,Owner's Equivalent Rent ,3.89864
+119,2007-04-01,Rent,4.52221
+120,2007-05-01,House Prices (Lagged),14.08163
+121,2007-05-01,Owner's Equivalent Rent ,3.51878
+122,2007-05-01,Rent,4.44946
+123,2007-06-01,House Prices (Lagged),13.51043
+124,2007-06-01,Owner's Equivalent Rent ,3.23109
+125,2007-06-01,Rent,4.30971
+126,2007-07-01,House Prices (Lagged),12.92512
+127,2007-07-01,Owner's Equivalent Rent ,3.03432
+128,2007-07-01,Rent,4.23268
+129,2007-08-01,House Prices (Lagged),12.089
+130,2007-08-01,Owner's Equivalent Rent ,2.96829
+131,2007-08-01,Rent,4.02785
+132,2007-09-01,House Prices (Lagged),11.04231
+133,2007-09-01,Owner's Equivalent Rent ,2.948
+134,2007-09-01,Rent,3.94452
+135,2007-10-01,House Prices (Lagged),9.96952
+136,2007-10-01,Owner's Equivalent Rent ,2.80771
+137,2007-10-01,Rent,4.00658
+138,2007-11-01,House Prices (Lagged),8.75053
+139,2007-11-01,Owner's Equivalent Rent ,2.84132
+140,2007-11-01,Rent,4.04937
+141,2007-12-01,House Prices (Lagged),7.28541
+142,2007-12-01,Owner's Equivalent Rent ,2.815
+143,2007-12-01,Rent,3.95739
+144,2008-01-01,House Prices (Lagged),6.03747
+145,2008-01-01,Owner's Equivalent Rent ,2.74014
+146,2008-01-01,Rent,3.91844
+147,2008-02-01,House Prices (Lagged),4.82205
+148,2008-02-01,Owner's Equivalent Rent ,2.62233
+149,2008-02-01,Rent,3.70503
+150,2008-03-01,House Prices (Lagged),3.70983
+151,2008-03-01,Owner's Equivalent Rent ,2.57439
+152,2008-03-01,Rent,3.60395
+153,2008-04-01,House Prices (Lagged),2.9667
+154,2008-04-01,Owner's Equivalent Rent ,2.61844
+155,2008-04-01,Rent,3.64581
+156,2008-05-01,House Prices (Lagged),2.20288
+157,2008-05-01,Owner's Equivalent Rent ,2.62645
+158,2008-05-01,Rent,3.53416
+159,2008-06-01,House Prices (Lagged),1.73397
+160,2008-06-01,Owner's Equivalent Rent ,2.66148
+161,2008-06-01,Rent,3.66086
+162,2008-07-01,House Prices (Lagged),1.04575
+163,2008-07-01,Owner's Equivalent Rent ,2.6289
+164,2008-07-01,Rent,3.67866
+165,2008-08-01,House Prices (Lagged),0.53554
+166,2008-08-01,Owner's Equivalent Rent ,2.50268
+167,2008-08-01,Rent,3.76948
+168,2008-09-01,House Prices (Lagged),-0.3037
+169,2008-09-01,Owner's Equivalent Rent ,2.45872
+170,2008-09-01,Rent,3.7567
+171,2008-10-01,House Prices (Lagged),-0.82604
+172,2008-10-01,Owner's Equivalent Rent ,2.36259
+173,2008-10-01,Rent,3.67723
+174,2008-11-01,House Prices (Lagged),-1.35318
+175,2008-11-01,Owner's Equivalent Rent ,2.29994
+176,2008-11-01,Rent,3.57393
+177,2008-12-01,House Prices (Lagged),-1.62885
+178,2008-12-01,Owner's Equivalent Rent ,2.09993
+179,2008-12-01,Rent,3.41946
+180,2009-01-01,House Prices (Lagged),-1.95713
+181,2009-01-01,Owner's Equivalent Rent ,2.12669
+182,2009-01-01,Rent,3.38712
+183,2009-02-01,House Prices (Lagged),-2.26025
+184,2009-02-01,Owner's Equivalent Rent ,2.09169
+185,2009-02-01,Rent,3.3205
+186,2009-03-01,House Prices (Lagged),-2.75519
+187,2009-03-01,Owner's Equivalent Rent ,2.12436
+188,2009-03-01,Rent,3.22368
+189,2009-04-01,House Prices (Lagged),-3.54461
+190,2009-04-01,Owner's Equivalent Rent ,2.06636
+191,2009-04-01,Rent,3.07487
+192,2009-05-01,House Prices (Lagged),-4.61303
+193,2009-05-01,Owner's Equivalent Rent ,2.12693
+194,2009-05-01,Rent,3.00493
+195,2009-06-01,House Prices (Lagged),-5.39868
+196,2009-06-01,Owner's Equivalent Rent ,1.92048
+197,2009-06-01,Rent,2.65908
+198,2009-07-01,House Prices (Lagged),-6.36993
+199,2009-07-01,Owner's Equivalent Rent ,1.75164
+200,2009-07-01,Rent,2.31215
+201,2009-08-01,House Prices (Lagged),-7.27677
+202,2009-08-01,Owner's Equivalent Rent ,1.68227
+203,2009-08-01,Rent,1.98541
+204,2009-09-01,House Prices (Lagged),-7.84219
+205,2009-09-01,Owner's Equivalent Rent ,1.33532
+206,2009-09-01,Rent,1.64907
+207,2009-10-01,House Prices (Lagged),-8.12931
+208,2009-10-01,Owner's Equivalent Rent ,1.1751
+209,2009-10-01,Rent,1.23365
+210,2009-11-01,House Prices (Lagged),-8.17165
+211,2009-11-01,Owner's Equivalent Rent ,0.79183
+212,2009-11-01,Rent,0.89387
+213,2009-12-01,House Prices (Lagged),-8.26425
+214,2009-12-01,Owner's Equivalent Rent ,0.71672
+215,2009-12-01,Rent,0.69598
+216,2010-01-01,House Prices (Lagged),-8.44227
+217,2010-01-01,Owner's Equivalent Rent ,0.42886
+218,2010-01-01,Rent,0.47182
+219,2010-02-01,House Prices (Lagged),-8.85395
+220,2010-02-01,Owner's Equivalent Rent ,0.28006
+221,2010-02-01,Rent,0.28674
+222,2010-03-01,House Prices (Lagged),-9.60792
+223,2010-03-01,Owner's Equivalent Rent ,-0.01717
+224,2010-03-01,Rent,0.18099
+225,2010-04-01,House Prices (Lagged),-10.34586
+226,2010-04-01,Owner's Equivalent Rent ,-0.17576
+227,2010-04-01,Rent,0.0454
+228,2010-05-01,House Prices (Lagged),-10.89854
+229,2010-05-01,Owner's Equivalent Rent ,-0.28324
+230,2010-05-01,Rent,-0.05782
+231,2010-06-01,House Prices (Lagged),-11.99679
+232,2010-06-01,Owner's Equivalent Rent ,-0.24351
+233,2010-06-01,Rent,-0.03734
+234,2010-07-01,House Prices (Lagged),-12.6953
+235,2010-07-01,Owner's Equivalent Rent ,-0.1918
+236,2010-07-01,Rent,0.05301
+237,2010-08-01,House Prices (Lagged),-12.75348
+238,2010-08-01,Owner's Equivalent Rent ,-0.262
+239,2010-08-01,Rent,-0.00201
+240,2010-09-01,House Prices (Lagged),-12.74106
+241,2010-09-01,Owner's Equivalent Rent ,-0.10585
+242,2010-09-01,Rent,0.16187
+243,2010-10-01,House Prices (Lagged),-12.18168
+244,2010-10-01,Owner's Equivalent Rent ,-0.03386
+245,2010-10-01,Rent,0.2933
+246,2010-11-01,House Prices (Lagged),-11.28714
+247,2010-11-01,Owner's Equivalent Rent ,0.19251
+248,2010-11-01,Rent,0.57496
+249,2010-12-01,House Prices (Lagged),-10.05296
+250,2010-12-01,Owner's Equivalent Rent ,0.28683
+251,2010-12-01,Rent,0.798
+252,2011-01-01,House Prices (Lagged),-9.03183
+253,2011-01-01,Owner's Equivalent Rent ,0.46602
+254,2011-01-01,Rent,0.96771
+255,2011-02-01,House Prices (Lagged),-8.28656
+256,2011-02-01,Owner's Equivalent Rent ,0.62877
+257,2011-02-01,Rent,1.12924
+258,2011-03-01,House Prices (Lagged),-7.58988
+259,2011-03-01,Owner's Equivalent Rent ,0.78927
+260,2011-03-01,Rent,1.22687
+261,2011-04-01,House Prices (Lagged),-6.64853
+262,2011-04-01,Owner's Equivalent Rent ,0.89166
+263,2011-04-01,Rent,1.28869
+264,2011-05-01,House Prices (Lagged),-5.21237
+265,2011-05-01,Owner's Equivalent Rent ,0.94732
+266,2011-05-01,Rent,1.39319
+267,2011-06-01,House Prices (Lagged),-3.85465
+268,2011-06-01,Owner's Equivalent Rent ,1.04544
+269,2011-06-01,Rent,1.44298
+270,2011-07-01,House Prices (Lagged),-2.91711
+271,2011-07-01,Owner's Equivalent Rent ,1.23172
+272,2011-07-01,Rent,1.58916
+273,2011-08-01,House Prices (Lagged),-3.08912
+274,2011-08-01,Owner's Equivalent Rent ,1.41752
+275,2011-08-01,Rent,1.99941
+276,2011-09-01,House Prices (Lagged),-1.99027
+277,2011-09-01,Owner's Equivalent Rent ,1.49365
+278,2011-09-01,Rent,2.10933
+279,2011-10-01,House Prices (Lagged),-1.04871
+280,2011-10-01,Owner's Equivalent Rent ,1.6244
+281,2011-10-01,Rent,2.41689
+282,2011-11-01,House Prices (Lagged),-0.76534
+283,2011-11-01,Owner's Equivalent Rent ,1.6631
+284,2011-11-01,Rent,2.41694
+285,2011-12-01,House Prices (Lagged),-1.39857
+286,2011-12-01,Owner's Equivalent Rent ,1.76424
+287,2011-12-01,Rent,2.47145
+288,2012-01-01,House Prices (Lagged),-2.11347
+289,2012-01-01,Owner's Equivalent Rent ,1.84225
+290,2012-01-01,Rent,2.44837
+291,2012-02-01,House Prices (Lagged),-2.81419
+292,2012-02-01,Owner's Equivalent Rent ,1.83615
+293,2012-02-01,Rent,2.52354
+294,2012-03-01,House Prices (Lagged),-3.35307
+295,2012-03-01,Owner's Equivalent Rent ,1.96703
+296,2012-03-01,Rent,2.54774
+297,2012-04-01,House Prices (Lagged),-3.66938
+298,2012-04-01,Owner's Equivalent Rent ,2.10304
+299,2012-04-01,Rent,2.6568
+300,2012-05-01,House Prices (Lagged),-4.13287
+301,2012-05-01,Owner's Equivalent Rent ,2.11495
+302,2012-05-01,Rent,2.70927
+303,2012-06-01,House Prices (Lagged),-4.1101
+304,2012-06-01,Owner's Equivalent Rent ,2.06423
+305,2012-06-01,Rent,2.69803
+306,2012-07-01,House Prices (Lagged),-4.10819
+307,2012-07-01,Owner's Equivalent Rent ,1.9976
+308,2012-07-01,Rent,2.77456
+309,2012-08-01,House Prices (Lagged),-3.71396
+310,2012-08-01,Owner's Equivalent Rent ,2.00952
+311,2012-08-01,Rent,2.62753
+312,2012-09-01,House Prices (Lagged),-4.04117
+313,2012-09-01,Owner's Equivalent Rent ,2.11462
+314,2012-09-01,Rent,2.66781
+315,2012-10-01,House Prices (Lagged),-4.2902
+316,2012-10-01,Owner's Equivalent Rent ,2.10341
+317,2012-10-01,Rent,2.76001
+318,2012-11-01,House Prices (Lagged),-4.31255
+319,2012-11-01,Owner's Equivalent Rent ,2.11756
+320,2012-11-01,Rent,2.72968
+321,2012-12-01,House Prices (Lagged),-3.89571
+322,2012-12-01,Owner's Equivalent Rent ,2.08459
+323,2012-12-01,Rent,2.68635
+324,2013-01-01,House Prices (Lagged),-3.53616
+325,2013-01-01,Owner's Equivalent Rent ,2.0662
+326,2013-01-01,Rent,2.71076
+327,2013-02-01,House Prices (Lagged),-3.16817
+328,2013-02-01,Owner's Equivalent Rent ,2.13267
+329,2013-02-01,Rent,2.73913
+330,2013-03-01,House Prices (Lagged),-3.0697
+331,2013-03-01,Owner's Equivalent Rent ,2.07835
+332,2013-03-01,Rent,2.80467
+333,2013-04-01,House Prices (Lagged),-3.29772
+334,2013-04-01,Owner's Equivalent Rent ,2.06275
+335,2013-04-01,Rent,2.72746
+336,2013-05-01,House Prices (Lagged),-3.63625
+337,2013-05-01,Owner's Equivalent Rent ,2.1283
+338,2013-05-01,Rent,2.82682
+339,2013-06-01,House Prices (Lagged),-3.88808
+340,2013-06-01,Owner's Equivalent Rent ,2.22666
+341,2013-06-01,Rent,2.89044
+342,2013-07-01,House Prices (Lagged),-3.50963
+343,2013-07-01,Owner's Equivalent Rent ,2.2114
+344,2013-07-01,Rent,2.83537
+345,2013-08-01,House Prices (Lagged),-2.7203
+346,2013-08-01,Owner's Equivalent Rent ,2.25098
+347,2013-08-01,Rent,3.00295
+348,2013-09-01,House Prices (Lagged),-1.39992
+349,2013-09-01,Owner's Equivalent Rent ,2.21705
+350,2013-09-01,Rent,2.95156
+351,2013-10-01,House Prices (Lagged),-0.49367
+352,2013-10-01,Owner's Equivalent Rent ,2.26083
+353,2013-10-01,Rent,2.76087
+354,2013-11-01,House Prices (Lagged),0.25516
+355,2013-11-01,Owner's Equivalent Rent ,2.3565
+356,2013-11-01,Rent,2.78435
+357,2013-12-01,House Prices (Lagged),0.8637
+358,2013-12-01,Owner's Equivalent Rent ,2.47781
+359,2013-12-01,Rent,2.87393
+360,2014-01-01,House Prices (Lagged),1.3622
+361,2014-01-01,Owner's Equivalent Rent ,2.51991
+362,2014-01-01,Rent,2.8776
+363,2014-02-01,House Prices (Lagged),2.05874
+364,2014-02-01,Owner's Equivalent Rent ,2.53648
+365,2014-02-01,Rent,2.81879
+366,2014-03-01,House Prices (Lagged),2.98927
+367,2014-03-01,Owner's Equivalent Rent ,2.61983
+368,2014-03-01,Rent,2.88352
+369,2014-04-01,House Prices (Lagged),4.0178
+370,2014-04-01,Owner's Equivalent Rent ,2.62407
+371,2014-04-01,Rent,3.05131
+372,2014-05-01,House Prices (Lagged),5.3408
+373,2014-05-01,Owner's Equivalent Rent ,2.64319
+374,2014-05-01,Rent,3.05786
+375,2014-06-01,House Prices (Lagged),6.44018
+376,2014-06-01,Owner's Equivalent Rent ,2.63495
+377,2014-06-01,Rent,3.15318
+378,2014-07-01,House Prices (Lagged),7.56376
+379,2014-07-01,Owner's Equivalent Rent ,2.72236
+380,2014-07-01,Rent,3.27723
+381,2014-08-01,House Prices (Lagged),8.33389
+382,2014-08-01,Owner's Equivalent Rent ,2.68187
+383,2014-08-01,Rent,3.18169
+384,2014-09-01,House Prices (Lagged),8.90369
+385,2014-09-01,Owner's Equivalent Rent ,2.7033
+386,2014-09-01,Rent,3.29238
+387,2014-10-01,House Prices (Lagged),9.02467
+388,2014-10-01,Owner's Equivalent Rent ,2.70989
+389,2014-10-01,Rent,3.34309
+390,2014-11-01,House Prices (Lagged),9.08305
+391,2014-11-01,Owner's Equivalent Rent ,2.69169
+392,2014-11-01,Rent,3.48174
+393,2014-12-01,House Prices (Lagged),9.26362
+394,2014-12-01,Owner's Equivalent Rent ,2.59384
+395,2014-12-01,Rent,3.38108
+396,2015-01-01,House Prices (Lagged),9.71362
+397,2015-01-01,Owner's Equivalent Rent ,2.63792
+398,2015-01-01,Rent,3.39861
+399,2015-02-01,House Prices (Lagged),10.1586
+400,2015-02-01,Owner's Equivalent Rent ,2.69108
+401,2015-02-01,Rent,3.54046
+402,2015-03-01,House Prices (Lagged),10.61528
+403,2015-03-01,Owner's Equivalent Rent ,2.70886
+404,2015-03-01,Rent,3.52632
+405,2015-04-01,House Prices (Lagged),10.83003
+406,2015-04-01,Owner's Equivalent Rent ,2.77877
+407,2015-04-01,Rent,3.46516
+408,2015-05-01,House Prices (Lagged),10.6992
+409,2015-05-01,Owner's Equivalent Rent ,2.80007
+410,2015-05-01,Rent,3.47093
+411,2015-06-01,House Prices (Lagged),10.7123
+412,2015-06-01,Owner's Equivalent Rent ,2.94713
+413,2015-06-01,Rent,3.52679
+414,2015-07-01,House Prices (Lagged),10.43627
+415,2015-07-01,Owner's Equivalent Rent ,2.99645
+416,2015-07-01,Rent,3.56274
+417,2015-08-01,House Prices (Lagged),10.13971
+418,2015-08-01,Owner's Equivalent Rent ,3.01836
+419,2015-08-01,Rent,3.6167
+420,2015-09-01,House Prices (Lagged),8.94554
+421,2015-09-01,Owner's Equivalent Rent ,3.0808
+422,2015-09-01,Rent,3.70794
+423,2015-10-01,House Prices (Lagged),7.95043
+424,2015-10-01,Owner's Equivalent Rent ,3.08426
+425,2015-10-01,Rent,3.74321
+426,2015-11-01,House Prices (Lagged),7.03469
+427,2015-11-01,Owner's Equivalent Rent ,3.06667
+428,2015-11-01,Rent,3.6409
+429,2015-12-01,House Prices (Lagged),6.25368
+430,2015-12-01,Owner's Equivalent Rent ,3.13809
+431,2015-12-01,Rent,3.67781
+432,2016-01-01,House Prices (Lagged),5.5876
+433,2016-01-01,Owner's Equivalent Rent ,3.16456
+434,2016-01-01,Rent,3.70491
+435,2016-02-01,House Prices (Lagged),5.05128
+436,2016-02-01,Owner's Equivalent Rent ,3.15536
+437,2016-02-01,Rent,3.67861
+438,2016-03-01,House Prices (Lagged),4.73879
+439,2016-03-01,Owner's Equivalent Rent ,3.1327
+440,2016-03-01,Rent,3.65874
+441,2016-04-01,House Prices (Lagged),4.61012
+442,2016-04-01,Owner's Equivalent Rent ,3.14897
+443,2016-04-01,Rent,3.72957
+444,2016-05-01,House Prices (Lagged),4.58062
+445,2016-05-01,Owner's Equivalent Rent ,3.26541
+446,2016-05-01,Rent,3.79637
+447,2016-06-01,House Prices (Lagged),4.51269
+448,2016-06-01,Owner's Equivalent Rent ,3.23627
+449,2016-06-01,Rent,3.81397
+450,2016-07-01,House Prices (Lagged),4.32376
+451,2016-07-01,Owner's Equivalent Rent ,3.243
+452,2016-07-01,Rent,3.76525
+453,2016-08-01,House Prices (Lagged),4.2344
+454,2016-08-01,Owner's Equivalent Rent ,3.2953
+455,2016-08-01,Rent,3.7789
+456,2016-09-01,House Prices (Lagged),4.28603
+457,2016-09-01,Owner's Equivalent Rent ,3.38437
+458,2016-09-01,Rent,3.69607
+459,2016-10-01,House Prices (Lagged),4.29879
+460,2016-10-01,Owner's Equivalent Rent ,3.4505
+461,2016-10-01,Rent,3.79093
+462,2016-11-01,House Prices (Lagged),4.35363
+463,2016-11-01,Owner's Equivalent Rent ,3.55847
+464,2016-11-01,Rent,3.88017
+465,2016-12-01,House Prices (Lagged),4.3563
+466,2016-12-01,Owner's Equivalent Rent ,3.58489
+467,2016-12-01,Rent,3.95977
+468,2017-01-01,House Prices (Lagged),4.40583
+469,2017-01-01,Owner's Equivalent Rent ,3.5398
+470,2017-01-01,Rent,3.92563
+471,2017-02-01,House Prices (Lagged),4.47458
+472,2017-02-01,Owner's Equivalent Rent ,3.52616
+473,2017-02-01,Rent,3.90536
+474,2017-03-01,House Prices (Lagged),4.67028
+475,2017-03-01,Owner's Equivalent Rent ,3.48253
+476,2017-03-01,Rent,3.87715
+477,2017-04-01,House Prices (Lagged),4.88204
+478,2017-04-01,Owner's Equivalent Rent ,3.38252
+479,2017-04-01,Rent,3.84193
+480,2017-05-01,House Prices (Lagged),5.09759
+481,2017-05-01,Owner's Equivalent Rent ,3.25024
+482,2017-05-01,Rent,3.84462
+483,2017-06-01,House Prices (Lagged),5.20628
+484,2017-06-01,Owner's Equivalent Rent ,3.22773
+485,2017-06-01,Rent,3.85668
+486,2017-07-01,House Prices (Lagged),5.28851
+487,2017-07-01,Owner's Equivalent Rent ,3.2047
+488,2017-07-01,Rent,3.81019
+489,2017-08-01,House Prices (Lagged),5.19169
+490,2017-08-01,Owner's Equivalent Rent ,3.26301
+491,2017-08-01,Rent,3.8813
+492,2017-09-01,House Prices (Lagged),5.06642
+493,2017-09-01,Owner's Equivalent Rent ,3.18421
+494,2017-09-01,Rent,3.78175
+495,2017-10-01,House Prices (Lagged),5.02053
+496,2017-10-01,Owner's Equivalent Rent ,3.19772
+497,2017-10-01,Rent,3.69541
+498,2017-11-01,House Prices (Lagged),4.94763
+499,2017-11-01,Owner's Equivalent Rent ,3.12864
+500,2017-11-01,Rent,3.67489
+501,2017-12-01,House Prices (Lagged),4.88585
+502,2017-12-01,Owner's Equivalent Rent ,3.17775
+503,2017-12-01,Rent,3.68937
+504,2018-01-01,House Prices (Lagged),4.88866
+505,2018-01-01,Owner's Equivalent Rent ,3.19951
+506,2018-01-01,Rent,3.73055
+507,2018-02-01,House Prices (Lagged),4.98714
+508,2018-02-01,Owner's Equivalent Rent ,3.14556
+509,2018-02-01,Rent,3.63761
+510,2018-03-01,House Prices (Lagged),5.0874
+511,2018-03-01,Owner's Equivalent Rent ,3.25816
+512,2018-03-01,Rent,3.61304
+513,2018-04-01,House Prices (Lagged),5.12775
+514,2018-04-01,Owner's Equivalent Rent ,3.35835
+515,2018-04-01,Rent,3.69455
+516,2018-05-01,House Prices (Lagged),5.19231
+517,2018-05-01,Owner's Equivalent Rent ,3.41245
+518,2018-05-01,Rent,3.62655
+519,2018-06-01,House Prices (Lagged),5.30493
+520,2018-06-01,Owner's Equivalent Rent ,3.37021
+521,2018-06-01,Rent,3.5807
+522,2018-07-01,House Prices (Lagged),5.49758
+523,2018-07-01,Owner's Equivalent Rent ,3.39087
+524,2018-07-01,Rent,3.62718
+525,2018-08-01,House Prices (Lagged),5.55952
+526,2018-08-01,Owner's Equivalent Rent ,3.33068
+527,2018-08-01,Rent,3.60994
+528,2018-09-01,House Prices (Lagged),5.62155
+529,2018-09-01,Owner's Equivalent Rent ,3.26992
+530,2018-09-01,Rent,3.63073
+531,2018-10-01,House Prices (Lagged),5.62695
+532,2018-10-01,Owner's Equivalent Rent ,3.25219
+533,2018-10-01,Rent,3.57206
+534,2018-11-01,House Prices (Lagged),5.65304
+535,2018-11-01,Owner's Equivalent Rent ,3.31414
+536,2018-11-01,Rent,3.61339
+537,2018-12-01,House Prices (Lagged),5.69379
+538,2018-12-01,Owner's Equivalent Rent ,3.2261
+539,2018-12-01,Rent,3.4759
+540,2019-01-01,House Prices (Lagged),5.74146
+541,2019-01-01,Owner's Equivalent Rent ,3.20333
+542,2019-01-01,Rent,3.43374
+543,2019-02-01,House Prices (Lagged),5.83095
+544,2019-02-01,Owner's Equivalent Rent ,3.32339
+545,2019-02-01,Rent,3.51247
+546,2019-03-01,House Prices (Lagged),5.92012
+547,2019-03-01,Owner's Equivalent Rent ,3.32513
+548,2019-03-01,Rent,3.68174
+549,2019-04-01,House Prices (Lagged),6.01976
+550,2019-04-01,Owner's Equivalent Rent ,3.35239
+551,2019-04-01,Rent,3.76149
+552,2019-05-01,House Prices (Lagged),6.09526
+553,2019-05-01,Owner's Equivalent Rent ,3.34444
+554,2019-05-01,Rent,3.7302
+555,2019-06-01,House Prices (Lagged),6.21103
+556,2019-06-01,Owner's Equivalent Rent ,3.40746
+557,2019-06-01,Rent,3.87349
+558,2019-07-01,House Prices (Lagged),6.21064
+559,2019-07-01,Owner's Equivalent Rent ,3.36871
+560,2019-07-01,Rent,3.83716
+561,2019-08-01,House Prices (Lagged),6.42695
+562,2019-08-01,Owner's Equivalent Rent ,3.34119
+563,2019-08-01,Rent,3.73833
+564,2019-09-01,House Prices (Lagged),6.46304
+565,2019-09-01,Owner's Equivalent Rent ,3.40161
+566,2019-09-01,Rent,3.82573
+567,2019-10-01,House Prices (Lagged),6.41172
+568,2019-10-01,Owner's Equivalent Rent ,3.31544
+569,2019-10-01,Rent,3.73557
+570,2019-11-01,House Prices (Lagged),6.25948
+571,2019-11-01,Owner's Equivalent Rent ,3.26237
+572,2019-11-01,Rent,3.65808
+573,2019-12-01,House Prices (Lagged),6.12656
+574,2019-12-01,Owner's Equivalent Rent ,3.2788
+575,2019-12-01,Rent,3.68641
+576,2020-01-01,House Prices (Lagged),5.90764
+577,2020-01-01,Owner's Equivalent Rent ,3.34567
+578,2020-01-01,Rent,3.75556
+579,2020-02-01,House Prices (Lagged),5.64395
+580,2020-02-01,Owner's Equivalent Rent ,3.27932
+581,2020-02-01,Rent,3.75822
+582,2020-03-01,House Prices (Lagged),5.41371
+583,2020-03-01,Owner's Equivalent Rent ,3.21844
+584,2020-03-01,Rent,3.66581
+585,2020-04-01,House Prices (Lagged),5.27001
+586,2020-04-01,Owner's Equivalent Rent ,3.06905
+587,2020-04-01,Rent,3.48578
+588,2020-05-01,House Prices (Lagged),4.94043
+589,2020-05-01,Owner's Equivalent Rent ,3.0562
+590,2020-05-01,Rent,3.48523
+591,2020-06-01,House Prices (Lagged),4.52
+592,2020-06-01,Owner's Equivalent Rent ,2.83884
+593,2020-06-01,Rent,3.21974
+594,2020-07-01,House Prices (Lagged),4.12586
+595,2020-07-01,Owner's Equivalent Rent ,2.79573
+596,2020-07-01,Rent,3.11968
+597,2020-08-01,House Prices (Lagged),3.82549
+598,2020-08-01,Owner's Equivalent Rent ,2.68335
+599,2020-08-01,Rent,2.94795
+600,2020-09-01,House Prices (Lagged),3.63174
+601,2020-09-01,Owner's Equivalent Rent ,2.49228
+602,2020-09-01,Rent,2.71872
+603,2020-10-01,House Prices (Lagged),3.53051
+604,2020-10-01,Owner's Equivalent Rent ,2.49725
+605,2020-10-01,Rent,2.66971
+606,2020-11-01,House Prices (Lagged),3.41454
+607,2020-11-01,Owner's Equivalent Rent ,2.28062
+608,2020-11-01,Rent,2.44775
+609,2020-12-01,House Prices (Lagged),3.2194
+610,2020-12-01,Owner's Equivalent Rent ,2.17137
+611,2020-12-01,Rent,2.2762
+612,2021-01-01,House Prices (Lagged),3.13396
+613,2021-01-01,Owner's Equivalent Rent ,2.00912
+614,2021-01-01,Rent,2.05225
+615,2021-02-01,House Prices (Lagged),3.12092
+616,2021-02-01,Owner's Equivalent Rent ,2.02977
+617,2021-02-01,Rent,1.95679
+618,2021-03-01,House Prices (Lagged),3.1815
+619,2021-03-01,Owner's Equivalent Rent ,2.01244
+620,2021-03-01,Rent,1.82552
+621,2021-04-01,House Prices (Lagged),3.22581
+622,2021-04-01,Owner's Equivalent Rent ,2.04158
+623,2021-04-01,Rent,1.80281
+624,2021-05-01,House Prices (Lagged),3.42194
+625,2021-05-01,Owner's Equivalent Rent ,2.10894
+626,2021-05-01,Rent,1.82066
+627,2021-06-01,House Prices (Lagged),3.69006
+628,2021-06-01,Owner's Equivalent Rent ,2.34332
+629,2021-06-01,Rent,1.91594
+630,2021-07-01,House Prices (Lagged),4.01672
+631,2021-07-01,Owner's Equivalent Rent ,2.43162
+632,2021-07-01,Rent,1.90642
+633,2021-08-01,House Prices (Lagged),4.2983
+634,2021-08-01,Owner's Equivalent Rent ,2.55098
+635,2021-08-01,Rent,2.12181
+636,2021-09-01,House Prices (Lagged),4.57626
+637,2021-09-01,Owner's Equivalent Rent ,2.89493
+638,2021-09-01,Rent,2.43358
+639,2021-10-01,House Prices (Lagged),4.6025
+640,2021-10-01,Owner's Equivalent Rent ,3.13265
+641,2021-10-01,Rent,2.69982
+642,2021-11-01,House Prices (Lagged),4.37008
+643,2021-11-01,Owner's Equivalent Rent ,3.52952
+644,2021-11-01,Rent,3.0482
+645,2021-12-01,House Prices (Lagged),4.38463
+646,2021-12-01,Owner's Equivalent Rent ,3.79382
+647,2021-12-01,Rent,3.33164
+648,2022-01-01,House Prices (Lagged),4.84381
+649,2022-02-01,House Prices (Lagged),5.83713
+650,2022-03-01,House Prices (Lagged),7.05149
+651,2022-04-01,House Prices (Lagged),8.4275
+652,2022-05-01,House Prices (Lagged),9.54013
+653,2022-06-01,House Prices (Lagged),10.44118
+654,2022-07-01,House Prices (Lagged),11.29301
+655,2022-08-01,House Prices (Lagged),12.15858
+656,2022-09-01,House Prices (Lagged),13.45091
+657,2022-10-01,House Prices (Lagged),14.99567
+658,2022-11-01,House Prices (Lagged),16.90948
+659,2022-12-01,House Prices (Lagged),18.80927
+660,2023-01-01,House Prices (Lagged),19.82233
+661,2023-02-01,House Prices (Lagged),19.97403
+662,2023-03-01,House Prices (Lagged),19.63717
+663,2023-04-01,House Prices (Lagged),19.0308
+664,2023-05-01,House Prices (Lagged),18.80959
