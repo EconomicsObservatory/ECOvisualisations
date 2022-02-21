@@ -35,7 +35,7 @@ chart.animate({
     }
 }, t)
 
-// step 1
+// step 2
 chart.animate({
     "config": {
         "channels": {
@@ -47,7 +47,7 @@ chart.animate({
     }
 }, t)
 
-// //step 1
+// //step 3
 chart.animate({
     "config": {
         "channels": {
@@ -56,7 +56,7 @@ chart.animate({
     }
 }, t)
 
-// //step 1
+// //step 4
 chart.animate({
     "config": {
         "geometry": "rectangle",
@@ -66,7 +66,7 @@ chart.animate({
     }
 }, t)
 
-// //step 1
+// //step 5
 chart.animate({
     "config": {
         "channels": {
@@ -77,6 +77,7 @@ chart.animate({
     }
 }, t)
 
+//step 6
 chart.animate({
     "config": {
         "channels": {
@@ -86,6 +87,7 @@ chart.animate({
     }
 }, t)
 
+//step 7
 chart.animate({
     "config": {
         "channels": {
@@ -96,22 +98,26 @@ chart.animate({
         "align": "center"
     }
 }, t)
+
+//step 8
 chart.animate({
     "config": {
         "channels": {
             "x": { "detach": ["Medal"] }
         }
     }
-}, t)
+}, '100ms')
 
+//step 9
 chart.animate({
     "config": {
         "channels": {
             "x": { "attach": ["Year"] }
         }
     }
-}, t)
+}, '100ms')
 
+//step 10
 chart.animate({
     "config": {
         "channels": {
@@ -122,6 +128,7 @@ chart.animate({
     }
 }, t)
 
+//step 11
 chart.animate({
     "config": {
         "channels": {
@@ -133,6 +140,7 @@ chart.animate({
     }
 }, t)
 
+//step 12
 chart.animate({
     "data": {
         "filter": d => d["Country"] == "AUT" &&
@@ -146,6 +154,7 @@ chart.animate({
     }
 }, t)
 
+//step 13
 chart.animate({
     "config": {
         "channels": {
@@ -157,12 +166,14 @@ chart.animate({
 }, t)
 
 
+//step 14
 chart.animate({
     "config": {
         "split": true
     }
 }, t)
 
+//step 15
 chart.animate({
     "config": {
         "split": false,
@@ -170,6 +181,7 @@ chart.animate({
     }
 }, t)
 
+//step 16
 chart.animate({
     "data": {
         "filter": d => d["Country"] == "AUT" &&
@@ -179,6 +191,7 @@ chart.animate({
     "config": {}
 }, t)
 
+//step 17
 chart.animate({
     "config": {
         "channels": {
@@ -190,6 +203,7 @@ chart.animate({
     }
 }, t)
 
+//step 18
 chart.animate({
     "data": {
         "filter": d => d["Country"] != "XX" &&
