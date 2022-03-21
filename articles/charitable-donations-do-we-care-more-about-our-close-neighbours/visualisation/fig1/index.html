@@ -49,7 +49,7 @@
     <script>
         var viz = new d3plus.Pack()
             .config({
-                data: "donations.json",
+                data: "https://economicsobservatory.github.io/ECOvisualisations/articles/charitable-donations-do-we-care-more-about-our-close-neighbours/visualisation/fig1/donations.json",
                 groupBy: ["type", "area", "country", 'year'],
                 color: "area",
                 depth:2,
@@ -81,7 +81,11 @@
                 time:"year",
                 timeFilter: function(d){return d},
                 timelineConfig:{
-                    brushing: true
+                    brushing: true,
+                    // tickFormat: function(d){
+                    //     y=1900+ new Date(d).getYear()
+                    //     return y==2020?y:''
+                    // } 
                 },
                 legendConfig: {
                     shapeConfig: {
