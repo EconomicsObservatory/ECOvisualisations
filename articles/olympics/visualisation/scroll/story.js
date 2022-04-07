@@ -30,13 +30,13 @@ ScrollyTelling.init(Vizzu, "#scrollyTellingContainer", "#vizzuArticle",
 						"colorPalette": '#179FDBFF #36B7B4FF'
 					},
 					"xAxis": {
-						"guides": {
-							"color": "#aa4455"
+						"interlacing": {
+							"color": "#ffffff22"
 						}
 					},
 					"yAxis": {
-						"guides": {
-							"color": "#ff4455"
+						"interlacing": {
+							"color": "#ffffff22"
 						}
 					}
 				},
