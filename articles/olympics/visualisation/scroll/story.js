@@ -42,7 +42,8 @@ ScrollyTelling.init(Vizzu, "#scrollyTellingContainer", "#vizzuArticle",
 				},
 				"title": {
 					"fontSize": 20,
-					"paddingBottom": -30
+					"paddingBottom": -30,
+					"color":"#eeeeee"
 				},
 				"backgroundColor": "#ffffff00",
 				"fontSize": 16,
