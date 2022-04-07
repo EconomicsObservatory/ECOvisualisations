@@ -11,8 +11,14 @@
      overflow-x: none;
      font-family: "Spectral";
      padding: 40px;
+     color: #eeeeee;
+     background-color: darkblue;
+ }
+
+ h1 {
+     color: #f1c232;
  }
 
  #myVizzu {
-     padding-top:40px;
+     padding-top: 40px;
  }

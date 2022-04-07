@@ -29,14 +29,25 @@ ScrollyTelling.init(Vizzu, "#scrollyTellingContainer", "#vizzuArticle",
 						},
 						"colorPalette": '#179FDBFF #36B7B4FF'
 					},
+					"xAxis": {
+						"guides": {
+							"color": "#aa4455"
+						}
+					},
+					"yAxis": {
+						"guides": {
+							"color": "#ff4455"
+						}
+					}
 				},
 				"title": {
 					"fontSize": 20,
 					"paddingBottom": -30
 				},
+				"backgroundColor": "#ffffff00",
 				"fontSize": 16,
 				"fontFamily": "Spectral"
-			}
+			},
 		}),
 
 		chart => chart.animate({
@@ -59,7 +70,6 @@ ScrollyTelling.init(Vizzu, "#scrollyTellingContainer", "#vizzuArticle",
 				"coordSystem": "polar",
 				"geometry": "rectangle",
 				"title": 'This chart shows the distribution of events.'
-
 			},
 			"style": {
 				"plot": {
@@ -102,9 +112,7 @@ ScrollyTelling.init(Vizzu, "#scrollyTellingContainer", "#vizzuArticle",
 				},
 				"coordSystem": "cartesian",
 				"title": '17.5% of all medals are awarded in 🏂 Winter events.'
-
 			},
-
 		}),
 
 		chart => chart.animate({
@@ -433,5 +441,6 @@ ScrollyTelling.init(Vizzu, "#scrollyTellingContainer", "#vizzuArticle",
 		})
 
 	], { scrollType: "animate" });
+	
 
 
