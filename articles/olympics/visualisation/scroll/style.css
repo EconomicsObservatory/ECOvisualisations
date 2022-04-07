@@ -1,0 +1,18 @@
+ @font-face {
+     font-family: "Spectral";
+     src: url(https://economicsobservatory.github.io/ECOvisualisations/guidelines/fonts/Spectral/Spectral-Regular.ttf) format("truetype");
+ }
+
+ *, *::after, *::before {
+     box-sizing: border-box;
+ }
+
+ body {
+     overflow-x: none;
+     font-family: "Spectral";
+     padding: 40px;
+ }
+
+ #myVizzu {
+     padding-top:40px;
+ }
