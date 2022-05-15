@@ -1,0 +1,56 @@
+,Ethnicity,Wealth,value
+0,White British,Net financial wealth,10000
+1,White British,Net property wealth,123000
+2,White British,Physical wealth,40800
+3,White British,Private pension wealth,84800
+4,White British,Other wealth,73700
+5,Other White,Net financial wealth,5100
+6,Other White,Net property wealth,30000
+7,Other White,Physical wealth,25100
+8,Other White,Private pension wealth,15000
+9,Other White,Other wealth,47600
+10,Mixed/Multiple,Net financial wealth,1500
+11,Mixed/Multiple,Net property wealth,0
+12,Mixed/Multiple,Physical wealth,25000
+13,Mixed/Multiple,Private pension wealth,23700
+14,Mixed/Multiple,Other wealth,59100
+15,Indian,Net financial wealth,11700
+16,Indian,Net property wealth,165000
+17,Indian,Physical wealth,35000
+18,Indian,Private pension wealth,57100
+19,Indian,Other wealth,83000
+20,Pakistani,Net financial wealth,2200
+21,Pakistani,Net property wealth,110000
+22,Pakistani,Physical wealth,28500
+23,Pakistani,Private pension wealth,5000
+24,Pakistani,Other wealth,22400
+25,Bangladeshi,Net financial wealth,2000
+26,Bangladeshi,Net property wealth,0
+27,Bangladeshi,Physical wealth,16500
+28,Bangladeshi,Private pension wealth,200
+29,Bangladeshi,Other wealth,17700
+30,Other Asian background,Net financial wealth,1200
+31,Other Asian background,Net property wealth,82000
+32,Other Asian background,Physical wealth,27000
+33,Other Asian background,Private pension wealth,25300
+34,Other Asian background,Other wealth,24300
+35,Black Caribbean,Net financial wealth,700
+36,Black Caribbean,Net property wealth,0
+37,Black Caribbean,Physical wealth,26600
+38,Black Caribbean,Private pension wealth,29700
+39,Black Caribbean,Other wealth,34300
+40,Black African,Net financial wealth,200
+41,Black African,Net property wealth,0
+42,Black African,Physical wealth,15000
+43,Black African,Private pension wealth,8000
+44,Black African,Other wealth,9200
+45,Chinese,Net financial wealth,6500
+46,Chinese,Net property wealth,125000
+47,Chinese,Physical wealth,15000
+48,Chinese,Private pension wealth,3500
+49,Chinese,Other wealth,69300
+50,Any other ethnic group,Net financial wealth,1100
+51,Any other ethnic group,Net property wealth,0
+52,Any other ethnic group,Physical wealth,16000
+53,Any other ethnic group,Private pension wealth,4000
+54,Any other ethnic group,Other wealth,37700

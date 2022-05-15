@@ -1,0 +1,119 @@
+<!doctype html>
+<html>
+
+<head>
+
+    <meta charset="utf-8">
+    <title>Circle Packing Chart | D3plus</title>
+
+    <!-- <script src="https://d3plus.org/js/d3plus-hierarchy.v0.7.full.min.js"></script>
+    <script src="https://d3plus.org/js/d3plus-hierarchy.v0.7.full.min.js"></script> -->
+    <!-- <script src="https://d3plus.org/js/d3plus-hierarchy.v2.0.full.min.js"></script> -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/d3plus@2"></script> -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/d3plus-hierarchy"></script> -->
+    <script src="https://economicsobservatory.github.io/ECOvisualisations/articles/charitable-donations-do-we-care-more-about-our-close-neighbours/visualisation/fig1/d3plus-hierarchy.full.js"></script>
+
+    <style>
+        @font-face {
+            font-family: "Spectral Light";
+            src: url('https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/guidelines/fonts/Spectral/Spectral-Light.ttf') format("truetype");
+        }
+
+        @font-face {
+            font-family: "Circular";
+            src: url('https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/guidelines/fonts/Circular/CircularStd-Book.otf') format("opentype");
+        }
+
+        body {
+            margin: 0;
+            overflow: hidden;
+        }
+
+        .d3plus-Pack .d3plus-Circle-text .d3plus-textBox text:last-child {
+            /* font-size: 12px !important; */
+        }
+
+        .tooltip div {
+            font-family: "Spectral Light" !important;
+        }
+
+        .tooltip td {
+            font-family: "Circular" !important;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <script>
+        var viz = new d3plus.Pack()
+            .config({
+                data: "wealth_categories.json",
+                groupBy: ['Ethnicity','Wealth'],
+                color: "Ethnicity",
+                depth:1,
+                shapeConfig: {
+                    Circle: {
+                        label: function (d) {
+                            return d['Wealth']
+                        },
+                        labelConfig: {
+                            fontWeight: 'normal',
+                            fontMin: 4,
+                            fontMax: 40,
+                            // fontSize: function(d) {
+                            //     return d.value / 3
+                            // },
+                            // fontSize: 10,
+                            fontResize: true,
+                            padding: "0 -3 -3 -3",
+                            fontFamily: "Spectral Light",
+                        },
+                    }
+                },
+                legendConfig: {
+                    shapeConfig: {
+                        labelConfig: {
+                            fontSize: 12,
+                            fontWeight: "bold",
+                            fontFamily: "Spectral Light",
+                        },
+
+                    },
+                    padding: 5
+                },
+                detectVisible: false,
+                loadingMessage: false,
+                legendPosition: 'bottom',
+                tooltipConfig: {
+                    title:function(d){
+                        return d['Ethnicity']
+                    },
+                    tbody: [
+                        [function(d) {
+                            return d['Wealth']+': £'+Math.round(d['value'] * 10) / 10.0 
+                        }]
+                    ],
+                    className: 'tooltip'
+                },
+            })
+            .render();
+
+        // setTimeout(function() {
+        //     var texts = document.querySelectorAll('.d3plus-Pack .d3plus-Circle-text .d3plus-textBox')
+        //     texts.forEach(d => {
+        //         var v = d.querySelectorAll('text')[d.querySelectorAll('text').length - 1];
+        //         var y = v.innerHTML.split(' ').slice(-1)[0].replace('£', '').replace('M', '') / 10
+        //             // v.style.fontFamily = "Circular"
+        //         v.style.fontSize =
+        //             // v.style.fontSize.replace('px', '') * 0.7
+        //             v.style.fontSize.replace('px', '') * 0.7 + y
+        //         v.setAttribute('y', v.getAttribute('y').replace('px', '') * 0.9 + y * 1.1)
+        //     });
+        // }, 200)
+    </script>
+
+</body>
+
+</html>
