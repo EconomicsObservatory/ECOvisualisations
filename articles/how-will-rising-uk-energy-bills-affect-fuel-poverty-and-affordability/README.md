@@ -1,9 +1,9 @@
-### fig1_gas_local
-!["fig1_gas_local"](visualisation/fig1_gas_local.png "fig1_gas_local")
+### fig1_gas
+!["fig1_gas"](visualisation/fig1_gas.png "fig1_gas")
 
-### fig2_expenditure_local
-!["fig2_expenditure_local"](visualisation/fig2_expenditure_local.png "fig2_expenditure_local")
+### fig2_expenditure
+!["fig2_expenditure"](visualisation/fig2_expenditure.png "fig2_expenditure")
 
-### fig3_fuel_poverty_local
-!["fig3_fuel_poverty_local"](visualisation/fig3_fuel_poverty_local.png "fig3_fuel_poverty_local")
+### fig3_fuel_poverty
+!["fig3_fuel_poverty"](visualisation/fig3_fuel_poverty.png "fig3_fuel_poverty")
 
