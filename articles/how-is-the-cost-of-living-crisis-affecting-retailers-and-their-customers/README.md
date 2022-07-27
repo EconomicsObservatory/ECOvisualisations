@@ -1,9 +1,9 @@
-### fig4_index_local
-!["fig4_index_local"](visualisation/fig4_index_local.png "fig4_index_local")
+### fig4_index
+!["fig4_index"](visualisation/fig4_index.png "fig4_index")
 
-### fig5_margin_local
-!["fig5_margin_local"](visualisation/fig5_margin_local.png "fig5_margin_local")
+### fig5_margin
+!["fig5_margin"](visualisation/fig5_margin.png "fig5_margin")
 
-### fig6_injuries_local
-!["fig6_injuries_local"](visualisation/fig6_injuries_local.png "fig6_injuries_local")
+### fig6_injuries
+!["fig6_injuries"](visualisation/fig6_injuries.png "fig6_injuries")
 
