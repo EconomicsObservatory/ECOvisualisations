@@ -1,0 +1,233 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "height": 300,
+  "width": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/observatory/main/SM.LM_C3c.csv"
+  },
+  "transform": [
+    {"calculate": "datum.region+'#'+datum.group", "as": "region#group"},
+    {
+      "lookup": "region#group",
+      "from": {
+        "data": {
+          "values": [
+            {
+              "itlcode": "North East#ITL2a",
+              "itlname": "Tees Valley and Durham"
+            },
+            {
+              "itlcode": "North East#ITL2b",
+              "itlname": "Northumberland and Tyne and Wear"
+            },
+            {"itlcode": "North West#ITL2a", "itlname": "Cumbria"},
+            {"itlcode": "North West#ITL2b", "itlname": "Greater Manchester"},
+            {"itlcode": "North West#ITL2c", "itlname": "Lancashire"},
+            {"itlcode": "North West#ITL2d", "itlname": "Cheshire"},
+            {"itlcode": "North West#ITL2e", "itlname": "Merseyside"},
+            {
+              "itlcode": "Yorkshire and the Humber#ITL2a",
+              "itlname": "East Yorkshire and Northern Lincolnshire"
+            },
+            {
+              "itlcode": "Yorkshire and the Humber#ITL2b",
+              "itlname": "North Yorkshire"
+            },
+            {
+              "itlcode": "Yorkshire and the Humber#ITL2c",
+              "itlname": "South Yorkshire"
+            },
+            {
+              "itlcode": "Yorkshire and the Humber#ITL2d",
+              "itlname": "West Yorkshire"
+            },
+            {
+              "itlcode": "East Midlands#ITL2a",
+              "itlname": "Derbyshire and Nottinghamshire"
+            },
+            {
+              "itlcode": "East Midlands#ITL2b",
+              "itlname": "Leicestershire, Rutland and Northamptonshire"
+            },
+            {"itlcode": "East Midlands#ITL2c", "itlname": "Lincolnshire"},
+            {
+              "itlcode": "West Midlands#ITL2a",
+              "itlname": "Herefordshire, Worcestershire and Warwickshire"
+            },
+            {
+              "itlcode": "West Midlands#ITL2b",
+              "itlname": "Shropshire and Staffordshire"
+            },
+            {
+              "itlcode": "West Midlands#ITL2c",
+              "itlname": "West Midlands (county)"
+            },
+            {"itlcode": "East#ITL2a", "itlname": "East Anglia"},
+            {
+              "itlcode": "East#ITL2b",
+              "itlname": "Bedfordshire and Hertfordshire"
+            },
+            {"itlcode": "East#ITL2c", "itlname": "Essex"},
+            {"itlcode": "London#ITL2a", "itlname": "Inner London - West"},
+            {"itlcode": "London#ITL2b", "itlname": "Inner London - East"},
+            {
+              "itlcode": "London#ITL2c",
+              "itlname": "Outer London - East and North East"
+            },
+            {"itlcode": "London#ITL2d", "itlname": "Outer London - South"},
+            {
+              "itlcode": "London#ITL2e",
+              "itlname": "Outer London - West and North West"
+            },
+            {
+              "itlcode": "South East#ITL2a",
+              "itlname": "Berkshire, Buckinghamshire and Oxfordshire"
+            },
+            {
+              "itlcode": "South East#ITL2b",
+              "itlname": "Surrey, East and West Sussex"
+            },
+            {
+              "itlcode": "South East#ITL2c",
+              "itlname": "Hampshire and Isle of Wight"
+            },
+            {"itlcode": "South East#ITL2d", "itlname": "Kent"},
+            {
+              "itlcode": "South West#ITL2a",
+              "itlname": "Gloucestershire, Wiltshire and Bristol/Bath area"
+            },
+            {"itlcode": "South West#ITL2b", "itlname": "Dorset and Somerset"},
+            {
+              "itlcode": "South West#ITL2c",
+              "itlname": "Cornwall and Isles of Scilly"
+            },
+            {"itlcode": "South West#ITL2d", "itlname": "Devon"},
+            {"itlcode": "Wales#ITL2a", "itlname": "West Wales and The Valleys"},
+            {"itlcode": "Wales#ITL2b", "itlname": "East Wales"},
+            {"itlcode": "Scotland#ITL2a", "itlname": "North Eastern Scotland"},
+            {"itlcode": "Scotland#ITL2b", "itlname": "Highlands and Islands"},
+            {"itlcode": "Scotland#ITL2c", "itlname": "Eastern Scotland"},
+            {"itlcode": "Scotland#ITL2d", "itlname": "West Central Scotland"},
+            {"itlcode": "Scotland#ITL2e", "itlname": "Southern Scotland"},
+            {"itlcode": "Northern Ireland#ITL2a", "itlname": "Northern Ireland"}
+          ]
+        },
+        "key": "itlcode",
+        "fields": ["itlname"]
+      }
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "value",
+      "type": "quantitative",
+      "title": "Annual pay growth (%)",
+      "scale": {"domain": [4, 8.5]}
+    },
+    "y": {
+      "field": "region",
+      "sort": [],
+      "type": "nominal",
+      "title": null,
+      "axis": {"offset": 5, "ticks": false, "minExtent": 70, "domain": false}
+    }
+  },
+  "layer": [
+    {
+      "mark": {"type": "rule", "size": 2, "color": "purple", "yOffset": -18},
+      "encoding": {
+        "y": {"field": "value", "type": "quantitative", "axis": null}
+      },
+      "transform": [{"filter": "datum.region=='UK'"}]
+    },
+    {
+      "mark": {
+        "type": "text",
+        "size": 12,
+        "color": "purple",
+        "text": "UK average",
+        "xOffset": 6,
+        "yOffset": 140,
+        "align": "left"
+      },
+      "encoding": {
+        "y": {"field": "region", "type": "nominal", "axis": null},
+        "tooltip": [
+          {"field": "region", "type": "nominal", "title": "Region"},
+          {
+            "field": "value",
+            "type": "quantitative",
+            "title": "Annual pay growth"
+          },
+          {"field": "region", "title": "Region"}
+        ]
+      },
+      "transform": [{"filter": "datum.region=='UK'"}]
+    },
+    {
+      "mark": "line",
+      "encoding": {
+        "detail": {"field": "region", "type": "nominal"},
+        "color": {"value": "#ED6971"}
+      },
+      "transform": [{"filter": "datum.region!='UK'"}]
+    },
+    {
+      "mark": {"type": "point", "size": 80, "filled": true, "fillOpacity": 0.8},
+      "encoding": {
+        "y": {"field": "region", "type": "nominal", "axis": null},
+        "color": {
+          "field": "group1",
+          "type": "nominal",
+          "scale": {"domain": ["ITL1", "ITL2"], "range": ["#e6224b", "gray"]},
+          "title": null,
+          "legend": {"labelFontSize": 12}
+        },
+        "tooltip": [
+          {"field": "region", "type": "nominal", "title": "Region"},
+          {"field": "itlname", "title": "Sub-region"},
+          {
+            "field": "value",
+            "type": "quantitative",
+            "title": "Annual pay growth"
+          }
+        ]
+      },
+      "transform": [
+        {"filter": "datum.region!='UK'"},
+        {"filter": "datum.group1!='ITL1'"}
+      ]
+    },
+    {
+      "mark": {
+        "type": "point",
+        "size": 150,
+        "filled": true,
+        "fillOpacity": 0.8
+      },
+      "encoding": {
+        "y": {"field": "region", "type": "nominal", "axis": null},
+        "color": {
+          "field": "group1",
+          "type": "nominal",
+          "scale": {"domain": ["ITL1", "ITL2"], "range": ["#e6224b", "gray"]},
+          "title": null,
+          "legend": {"labelFontSize": 12}
+        },
+        "tooltip": [
+          {"field": "region", "type": "nominal", "title": "Region"},
+          {
+            "field": "value",
+            "type": "quantitative",
+            "title": "Annual pay growth"
+          },
+          {"field": "region", "title": "Region"}
+        ]
+      },
+      "transform": [
+        {"filter": "datum.region!='UK'"},
+        {"filter": "datum.group1=='ITL1'"}
+      ]
+    }
+  ]
+}

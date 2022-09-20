@@ -1,0 +1,69 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/observatory/main/SM.LM_C1.csv"
+  },
+  "mark": {
+    "type": "bar",
+    "size": 25
+  },
+  "width": 400,
+  "height": 300,
+  "encoding": {
+    "x": {
+      "field": "region",
+      "sort": [],
+      "type": "nominal",
+      "title": null,
+      "axis": {
+        "labelAngle": 35
+      }
+    },
+    "y": {
+      "field": "value",
+      "title": null,
+      "type": "quantitative"
+    },
+    "color": {
+      "field": "group",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Student",
+          "Family caring",
+          "Temp sick",
+          "Long-term sick",
+          "Discouraged",
+          "Retired",
+          "Other"
+        ],
+        "range": [
+          "#e6224b",
+          "#122b39 ",
+          "#179fdb",
+          "#36b7b4",
+          "#f4c245",
+          "#00a767",
+          "#0063af"
+        ]
+      },
+      "title": null
+    },
+    "tooltip": [
+      {
+        "field": "region",
+        "type": "nominal",
+        "title": "Region"
+      },
+      {
+        "field": "value",
+        "type": "quantitative",
+        "title": "Change in number inactive"
+      },
+      {
+        "field": "group",
+        "title": "Inactivity reason"
+      }
+    ]
+  }
+}
