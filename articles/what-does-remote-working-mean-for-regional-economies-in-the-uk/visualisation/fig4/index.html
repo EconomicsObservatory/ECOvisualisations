@@ -1,0 +1,66 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script src="https://economicsobservatory.github.io/ECOvisualisations/articles/scottish-independence-what-are-the-big-economic-questions/visualisation/fig1/d3plus-geomap.v0.6.full.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: none;
+        }
+
+        div,
+        text {
+            font-family: sans-serif !important;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        let chart = new d3plus.Geomap()
+        chart.data('lad_data.json')
+            // .zoom(false)
+            .colorScale("WFH")
+            .colorScaleConfig({
+                color: ['#F4134D', '#E54753', '#eeeeee', '#0063AF'],
+                // color: ['#eeeeee', '#0063AF', '#003157'],
+                axisConfig: {
+                    tickFormat: function (d) {
+                        return d>55?Math.round(d) + " %": Math.round(d);
+                    },
+                    // domain: [-10, 10]
+                },
+            })
+            .detectVisible(false)
+            .tiles(false)
+            .title('')
+            .ocean("transparent")
+            .projection('geoNaturalEarth')
+            .loadingMessage(false)
+            .label(d => d['lad11nm'] + ': ' + d['WFH'] + '% ' + ' more work from home')
+            .shapeConfig({
+                label: function (d) {
+                    return d['WFH2']
+                },
+                labelConfig: {
+                    fontMin: 14,
+                    fontMax: 16,
+                    fontResize: true,
+                    padding: "0 0 0 0"
+                }
+            })
+
+        chart.topojson("topo_lad_standard.json", function (map) {
+            map['objects']['lad']['geometries'].forEach(function (d, i) {
+                // d['id'] = d['properties']['LAD13NM']
+            })
+            return map
+        })
+
+        chart.render()
+    </script>
+</body>
+
+</html>
