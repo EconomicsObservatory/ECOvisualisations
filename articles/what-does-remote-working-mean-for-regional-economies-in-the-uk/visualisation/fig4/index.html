@@ -2,7 +2,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <script src="https://economicsobservatory.github.io/ECOvisualisations/articles/scottish-independence-what-are-the-big-economic-questions/visualisation/fig1/d3plus-geomap.v0.6.full.min.js"></script>
+    <script src="https://economicsobservatory.github.io/ECOvisualisations/articles/what-does-remote-working-mean-for-regional-economies-in-the-uk/visualisation/fig4/d3plus-geomap.v0.6.full.min.js"></script>
     <style>
         body {
             margin: 0;
@@ -20,7 +20,7 @@
 <body>
     <script>
         let chart = new d3plus.Geomap()
-        chart.data('lad_data.json')
+        chart.data('https://economicsobservatory.github.io/ECOvisualisations/articles/what-does-remote-working-mean-for-regional-economies-in-the-uk/visualisation/fig4/lad_data.json')
             // .zoom(false)
             .colorScale("WFH")
             .colorScaleConfig({
@@ -52,7 +52,7 @@
                 }
             })
 
-        chart.topojson("topo_lad_standard.json", function (map) {
+        chart.topojson("https://economicsobservatory.github.io/ECOvisualisations/articles/what-does-remote-working-mean-for-regional-economies-in-the-uk/visualisation/fig4/topo_lad_standard.json", function (map) {
             map['objects']['lad']['geometries'].forEach(function (d, i) {
                 // d['id'] = d['properties']['LAD13NM']
             })
