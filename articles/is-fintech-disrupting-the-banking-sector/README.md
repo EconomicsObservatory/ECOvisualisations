@@ -1,3 +1,3 @@
-### fig1_deals_local
-!["fig1_deals_local"](visualisation/fig1_deals_local.png "fig1_deals_local")
+### fig1_deals
+!["fig1_deals"](visualisation/fig1_deals.png "fig1_deals")
 
