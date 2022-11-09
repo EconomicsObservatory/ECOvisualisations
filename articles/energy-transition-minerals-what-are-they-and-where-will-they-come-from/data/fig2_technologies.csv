@@ -1,0 +1,38 @@
+,cat,industry,metal,value
+0,A,Electric car,Copper,53.0
+1,A,Electric car,Nickel,40.0
+2,A,Electric car,Cobalt,13.0
+3,A,Electric car,Graphite,66.0
+4,A,Electric car,Manganese,24.0
+5,A,Electric car,Lithium,9.0
+6,A,Electric car,Rare earths,2.0
+7,A,Conventional car,Copper,22.0
+8,A,Conventional car,Manganese,11.0
+9,B,Offshore wind,Copper,8000.0
+10,B,Offshore wind,Nickel,260.0
+11,B,Offshore wind,Zinc,5470.0
+12,B,Offshore wind,Molybdenum,110.0
+13,B,Offshore wind,Chromium,570.0
+14,B,Offshore wind,Manganese,730.0
+15,B,Offshore wind,Rare earths,260.0
+16,B,Onshore wind,Copper,2870.0
+17,B,Onshore wind,Nickel,420.0
+18,B,Onshore wind,Zinc,5470.0
+19,B,Onshore wind,Molybdenum,110.0
+20,B,Onshore wind,Chromium,570.0
+21,B,Onshore wind,Manganese,730.0
+22,B,Onshore wind,Rare earths,50.0
+23,B,Photovoltaics,Copper,2840.0
+24,B,Photovoltaics,Silicon,3930.0
+25,B,Nuclear,Copper,1480.0
+26,B,Nuclear,Nickel,1250.0
+27,B,Nuclear,Molybdenum,100.0
+28,B,Nuclear,Chromium,2170.0
+29,B,Nuclear,Manganese,170.0
+30,B,Coal,Copper,1120.0
+31,B,Coal,Nickel,730.0
+32,B,Coal,Molybdenum,70.0
+33,B,Coal,Chromium,290.0
+34,B,Coal,Cobalt,220.0
+35,B,Natural gas,Copper,1120.0
+36,B,Natural gas,Rare earths,50.0

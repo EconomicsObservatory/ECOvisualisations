@@ -1,0 +1,211 @@
+,metal,industry,value
+0,Steel,Geothermal,3
+1,Steel,Hydro,3
+2,Steel,Nuclear,3
+3,Steel,Bioenergy,3
+4,Steel,Electricity networks,3
+5,Steel,Concentrated solar,3
+6,Steel,Hydrogen,3
+7,Steel,Wind,3
+8,Steel,Photovoltaics,3
+9,Steel,Electric vehicles,3
+10,Copper,Geothermal,1
+11,Copper,Hydro,2
+12,Copper,Nuclear,1
+13,Copper,Bioenergy,3
+14,Copper,Electricity networks,3
+15,Copper,Concentrated solar,2
+16,Copper,Hydrogen,2
+17,Copper,Wind,3
+18,Copper,Photovoltaics,3
+19,Copper,Electric vehicles,3
+20,Aluminium,Geothermal,1
+21,Aluminium,Hydro,2
+22,Aluminium,Nuclear,1
+23,Aluminium,Bioenergy,2
+24,Aluminium,Electricity networks,3
+25,Aluminium,Concentrated solar,3
+26,Aluminium,Hydrogen,2
+27,Aluminium,Wind,2
+28,Aluminium,Photovoltaics,3
+29,Aluminium,Electric vehicles,3
+30,Nickel,Geothermal,3
+31,Nickel,Hydro,1
+32,Nickel,Nuclear,2
+33,Nickel,Bioenergy,1
+34,Nickel,Electricity networks,1
+35,Nickel,Concentrated solar,2
+36,Nickel,Hydrogen,2
+37,Nickel,Wind,2
+38,Nickel,Photovoltaics,2
+39,Nickel,Electric vehicles,3
+40,Zinc,Geothermal,1
+41,Zinc,Hydro,2
+42,Zinc,Nuclear,1
+43,Zinc,Bioenergy,2
+44,Zinc,Electricity networks,1
+45,Zinc,Concentrated solar,2
+46,Zinc,Hydrogen,1
+47,Zinc,Wind,3
+48,Zinc,Photovoltaics,2
+49,Zinc,Electric vehicles,1
+50,Dysprosium,Geothermal,1
+51,Dysprosium,Hydro,1
+52,Dysprosium,Nuclear,1
+53,Dysprosium,Bioenergy,1
+54,Dysprosium,Electricity networks,1
+55,Dysprosium,Concentrated solar,1
+56,Dysprosium,Hydrogen,1
+57,Dysprosium,Wind,3
+58,Dysprosium,Photovoltaics,1
+59,Dysprosium,Electric vehicles,3
+60,Neodymium,Geothermal,1
+61,Neodymium,Hydro,1
+62,Neodymium,Nuclear,1
+63,Neodymium,Bioenergy,1
+64,Neodymium,Electricity networks,1
+65,Neodymium,Concentrated solar,1
+66,Neodymium,Hydrogen,1
+67,Neodymium,Wind,3
+68,Neodymium,Photovoltaics,1
+69,Neodymium,Electric vehicles,3
+70,Praseodymium,Geothermal,1
+71,Praseodymium,Hydro,1
+72,Praseodymium,Nuclear,1
+73,Praseodymium,Bioenergy,1
+74,Praseodymium,Electricity networks,1
+75,Praseodymium,Concentrated solar,1
+76,Praseodymium,Hydrogen,1
+77,Praseodymium,Wind,3
+78,Praseodymium,Photovoltaics,1
+79,Praseodymium,Electric vehicles,3
+80,Silicon,Geothermal,1
+81,Silicon,Hydro,1
+82,Silicon,Nuclear,1
+83,Silicon,Bioenergy,1
+84,Silicon,Electricity networks,1
+85,Silicon,Concentrated solar,1
+86,Silicon,Hydrogen,1
+87,Silicon,Wind,1
+88,Silicon,Photovoltaics,3
+89,Silicon,Electric vehicles,3
+90,Terbium,Geothermal,1
+91,Terbium,Hydro,1
+92,Terbium,Nuclear,1
+93,Terbium,Bioenergy,1
+94,Terbium,Electricity networks,1
+95,Terbium,Concentrated solar,1
+96,Terbium,Hydrogen,1
+97,Terbium,Wind,3
+98,Terbium,Photovoltaics,1
+99,Terbium,Electric vehicles,3
+100,Cobalt,Geothermal,1
+101,Cobalt,Hydro,1
+102,Cobalt,Nuclear,1
+103,Cobalt,Bioenergy,1
+104,Cobalt,Electricity networks,1
+105,Cobalt,Concentrated solar,1
+106,Cobalt,Hydrogen,1
+107,Cobalt,Wind,1
+108,Cobalt,Photovoltaics,1
+109,Cobalt,Electric vehicles,3
+110,Graphite,Geothermal,1
+111,Graphite,Hydro,1
+112,Graphite,Nuclear,1
+113,Graphite,Bioenergy,1
+114,Graphite,Electricity networks,1
+115,Graphite,Concentrated solar,1
+116,Graphite,Hydrogen,1
+117,Graphite,Wind,1
+118,Graphite,Photovoltaics,1
+119,Graphite,Electric vehicles,3
+120,Manganese,Geothermal,1
+121,Manganese,Hydro,1
+122,Manganese,Nuclear,1
+123,Manganese,Bioenergy,1
+124,Manganese,Electricity networks,1
+125,Manganese,Concentrated solar,1
+126,Manganese,Hydrogen,1
+127,Manganese,Wind,2
+128,Manganese,Photovoltaics,1
+129,Manganese,Electric vehicles,3
+130,Silver,Geothermal,1
+131,Silver,Hydro,1
+132,Silver,Nuclear,1
+133,Silver,Bioenergy,1
+134,Silver,Electricity networks,1
+135,Silver,Concentrated solar,1
+136,Silver,Hydrogen,1
+137,Silver,Wind,1
+138,Silver,Photovoltaics,3
+139,Silver,Electric vehicles,2
+140,Cadmium,Geothermal,1
+141,Cadmium,Hydro,1
+142,Cadmium,Nuclear,1
+143,Cadmium,Bioenergy,1
+144,Cadmium,Electricity networks,1
+145,Cadmium,Concentrated solar,1
+146,Cadmium,Hydrogen,1
+147,Cadmium,Wind,1
+148,Cadmium,Photovoltaics,3
+149,Cadmium,Electric vehicles,1
+150,Gallium,Geothermal,1
+151,Gallium,Hydro,1
+152,Gallium,Nuclear,1
+153,Gallium,Bioenergy,1
+154,Gallium,Electricity networks,1
+155,Gallium,Concentrated solar,1
+156,Gallium,Hydrogen,1
+157,Gallium,Wind,1
+158,Gallium,Photovoltaics,3
+159,Gallium,Electric vehicles,1
+160,Iridium,Geothermal,1
+161,Iridium,Hydro,1
+162,Iridium,Nuclear,1
+163,Iridium,Bioenergy,1
+164,Iridium,Electricity networks,1
+165,Iridium,Concentrated solar,1
+166,Iridium,Hydrogen,1
+167,Iridium,Wind,1
+168,Iridium,Photovoltaics,1
+169,Iridium,Electric vehicles,1
+170,Lithium,Geothermal,1
+171,Lithium,Hydro,1
+172,Lithium,Nuclear,1
+173,Lithium,Bioenergy,1
+174,Lithium,Electricity networks,1
+175,Lithium,Concentrated solar,1
+176,Lithium,Hydrogen,1
+177,Lithium,Wind,1
+178,Lithium,Photovoltaics,1
+179,Lithium,Electric vehicles,3
+180,Platinum,Geothermal,1
+181,Platinum,Hydro,1
+182,Platinum,Nuclear,1
+183,Platinum,Bioenergy,1
+184,Platinum,Electricity networks,1
+185,Platinum,Concentrated solar,1
+186,Platinum,Hydrogen,1
+187,Platinum,Wind,1
+188,Platinum,Photovoltaics,1
+189,Platinum,Electric vehicles,1
+190,Tellurium,Geothermal,1
+191,Tellurium,Hydro,1
+192,Tellurium,Nuclear,1
+193,Tellurium,Bioenergy,1
+194,Tellurium,Electricity networks,1
+195,Tellurium,Concentrated solar,1
+196,Tellurium,Hydrogen,1
+197,Tellurium,Wind,1
+198,Tellurium,Photovoltaics,3
+199,Tellurium,Electric vehicles,1
+200,Uranium,Geothermal,1
+201,Uranium,Hydro,1
+202,Uranium,Nuclear,3
+203,Uranium,Bioenergy,1
+204,Uranium,Electricity networks,1
+205,Uranium,Concentrated solar,1
+206,Uranium,Hydrogen,1
+207,Uranium,Wind,1
+208,Uranium,Photovoltaics,1
+209,Uranium,Electric vehicles,1
