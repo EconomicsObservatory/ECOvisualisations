@@ -1,0 +1,154 @@
+Key stage 2 attainment
+2021/22 Academic Year
+
+Description
+
+These data files contain statistics covering attainment in the following key stage 2 assessments:
+
+- reading, writing and maths
+- reading test
+- maths test
+- grammar, punctuation and spelling (GPS) test
+- writing teacher assessment
+- science teacher assessment
+
+The publication methodology, linked to at the bottom of the publication, should be referenced alongside this data. It provides information on the data sources, their coverage and quality, as well as explaining methodology used in producing the data.
+
+Coverage
+
+This publication provides information on assessment outcomes in state-funded primary schools.  Data is for England only.
+
+File formats and conventions
+
+This dataset has been rounded to 0 decimal places.
+
+Data files
+
+Key stage 2 attainment by region and local authority
+
+Filename: ks2_regional_and_local_authority_2016_to_2022_provisional.csv
+Geographic levels: National; Local Authority; Regional
+Time period: 2015/16 to 2021/22
+Content summary: This file contains data on the attainment of pupils in key stage 2 assessments in England, broken down by region and local authority.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                                |  Variable description
+-----------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------
+avg_gps_scaled_score                                         |  Grammar, punctuation and spelling average scaled score
+avg_mat_scaled_score                                         |  Maths average scaled score
+avg_read_scaled_score                                        |  Reading average scaled score
+gender                                                       |  Gender
+no_schools                                                   |  Number of schools
+pt_gps_absent                                                |  Percentage of pupils absent in grammar, punctuation and spelling
+pt_gps_met_expected_standard                                 |  Percentage of pupils meeting the expected standard in grammar, punctuation and spelling
+pt_gps_met_higher_standard                                   |  Percentage of pupils reaching the higher standard in grammar, punctuation and spelling
+pt_gps_not_achieved_expected_standard                        |  Percentage of pupils not achieved expected standard in grammar, punctuation and spelling
+pt_gps_unable_to_access                                      |  Percentage of pupils unable to access in grammar, punctuation and spelling
+pt_gps_unable_to_access_or_just_arrived                      |  Percentage of pupils just arrived or unable to access in grammar, punctuation and spelling
+pt_gps_working_below_assessment                              |  Percentage of pupils working below the standard of the grammar, punctuation and spelling test
+pt_mat_absent                                                |  Percentage of pupils absent in maths
+pt_mat_met_expected_standard                                 |  Percentage of pupils meeting the expected standard in maths
+pt_mat_met_higher_standard                                   |  Percentage of pupils reaching the higher standard in maths test
+pt_mat_not_achieved_expected_standard                        |  Percentage of pupils not reaching the expected standard in maths test
+pt_mat_unable_to_access                                      |  Percentage of pupils unable to access in maths
+pt_mat_unable_to_access_or_just_arrived                      |  Percentage of pupils just arrived or unable to access in maths
+pt_mat_working_below_assessment                              |  Percentage of pupils not achieved expected standard in maths
+pt_read_absent                                               |  Percentage of pupils who were absent in reading
+pt_read_met_expected_standard                                |  Percentage of pupils meeting the expected standard in reading
+pt_read_met_higher_standard                                  |  Percentage of pupils reaching the higher standard in reading test
+pt_read_not_achieved_expected_standard                       |  Percentage of pupils not achieved expected standard in reading
+pt_read_unable_to_access                                     |  Percentage of pupils who were unable to access in reading
+pt_read_unable_to_access_or_just_arrived                     |  Percentage of pupils just arrived or unable to access in reading
+pt_read_working_below_assessment                             |  Percentage of pupils working below the standard of the reading test
+pt_rwm_met_expected_standard                                 |  Percentage of pupils meeting the expected standard in reading, writing and maths (combined)
+pt_rwm_met_higher_standard                                   |  Percentage of pupils reaching the higher standard in reading, writing and maths (combined)
+pt_scita_absent                                              |  Percentage of pupils absent in science TA
+pt_scita_disapplied                                          |  Percentage of pupils disapplied in science TA
+pt_scita_met_expected_standard                               |  Percentage  of pupils meeting the expected standard in science TA
+pt_scita_not_met_expected_standard                           |  Percentage of pupils who have not met the expected standard in science TA
+pt_writta_absent                                             |  Percentage of pupils who were absent in writing TA
+pt_writta_below_interim_pre_key_stage_standards              |  Percentage of pupils  working below the interim pre-key stage standards in writing TA
+pt_writta_disapplied                                         |  Percentage of pupils disapplied in writing TA
+pt_writta_early_development_of_expected_standard             |  Percentage of pupils with early development of the expected standard in writing TA
+pt_writta_engagement_model_or_below_pre_key_stage_standards  |  Percentage of pupils working at the engagement model or below pre-key stage standards in writing TA
+pt_writta_foundations_of_expected_standard                   |  Percentage of pupils with foundations of the expected standard in writing TA
+pt_writta_growing_development_of_expected_standard           |  Percentage of pupils with growing development of the expected standard in writing TA
+pt_writta_met_expected_standard                              |  Percentage of pupils meeting the expected standard in writing TA
+pt_writta_met_higher_standard                                |  Percentage of pupils working at greater depth in writing TA
+pt_writta_pre_key_stage_standard_1                           |  Percentage of pupils working at pre-key stage standard 1 in writing TA
+pt_writta_pre_key_stage_standard_2                           |  Percentage of pupils working at pre-key stage standard 2 in writing TA
+pt_writta_pre_key_stage_standard_3                           |  Percentage of pupils working at pre-key stage standard 3 in writing TA
+pt_writta_pre_key_stage_standard_4                           |  Percentage of pupils working at pre-key stage standard 4 in writing TA
+pt_writta_pre_key_stage_standard_5                           |  Percentage of pupils working at pre-key stage standard 5 in writing TA
+pt_writta_pre_key_stage_standard_6                           |  Percentage of pupils working at pre-key stage standard 6 in writing TA
+pt_writta_working_towards_expected_standard                  |  Percentage of pupils working towards the expected standard in writing TA
+t_gps_absent                                                 |  Number of pupils absent in grammar, punctuation and spelling
+t_gps_avg_scaled_score_eligible_pupils                       |  Number of eligible pupils in grammar, punctuation and spelling average scaled score calculation
+t_gps_eligible_pupils                                        |  Number of eligible pupils in grammar, punctuation and spelling
+t_gps_met_expected_standard                                  |  Number of pupils meeting the expected standard in grammar, punctuation and spelling
+t_gps_met_higher_standard                                    |  Number of pupils meeting the higher standard in grammar, punctuation and spelling
+t_gps_not_achieved_expected_standard                         |  Number of pupils not achieved expected standard in grammar, punctuation and spelling
+t_gps_sum_scaled_scores                                      |  Sum of grammar, punctuation and spelling scaled scores
+t_gps_unable_to_access                                       |  Number of pupils unable to access in grammar, punctuation and spelling
+t_gps_unable_to_access_or_just_arrived                       |  Number of pupils just arrived or unable to access in grammar, punctuation and spelling
+t_gps_working_below_assessment                               |  Number of pupils working below the standard of the grammar, punctuation and spelling test
+t_mat_absent                                                 |  Number of pupils absent in maths
+t_mat_avg_scaled_score_eligible_pupils                       |  Number of eligible pupils in maths average scaled score calculation
+t_mat_eligible_pupils                                        |  Number of eligible pupils in maths
+t_mat_met_expected_standard                                  |  Number of pupils meeting the expected standard in maths
+t_mat_met_higher_standard                                    |  Number of pupils meeting the higher standard in maths
+t_mat_not_achieved_expected_standard                         |  Number of pupils not achieved expected standard in maths
+t_mat_sum_scaled_scores                                      |  Sum of maths scaled scores
+t_mat_unable_to_access                                       |  Number of pupils unable to access in maths
+t_mat_unable_to_access_or_just_arrived                       |  Number of pupils just arrived or unable to access in maths
+t_mat_working_below_assessment                               |  Number of pupils working below the standard of the maths test
+t_read_absent                                                |  Number of pupils absent in reading
+t_read_avg_scaled_score_eligible_pupils                      |  Number of eligible pupils in reading average scaled score calculation
+t_read_eligible_pupils                                       |  Number of eligible pupils in reading
+t_read_met_expected_standard                                 |  Number of pupils meeting the expected standard in reading
+t_read_met_higher_standard                                   |  Number of pupils meeting the higher standard in reading
+t_read_not_achieved_expected_standard                        |  Number of pupils not achieved expected standard in reading
+t_read_sum_scaled_scores                                     |  Sum of reading scaled scores
+t_read_unable_to_access                                      |  Number of pupils unable to access in reading
+t_read_unable_to_access_or_just_arrived                      |  Number of pupils just arrived or unable to access in reading
+t_read_working_below_assessment                              |  Number of pupils working below the standard of the reading test
+t_rwm_eligible_pupils                                        |  Number of eligible pupils in reading, writing and maths
+t_rwm_met_expected_standard                                  |  Number of pupils meeting the expected standard in reading, writing and maths
+t_rwm_met_higher_standard                                    |  Number of pupils reaching the higher standard in reading, writing and maths
+t_scita_absent                                               |  Number of pupils absent in science TA
+t_scita_disapplied                                           |  Number of pupils disapplied in science TA
+t_scita_eligible_pupils                                      |  Number of eligible pupils in science TA
+t_scita_met_expected_standard                                |  Number of pupils meeting the expected standard in science TA
+t_scita_not_met_expected_standard                            |  Number of pupils who have not met the expected standard in science TA
+t_writta_absent                                              |  Number of pupils absent in writing TA
+t_writta_below_interim_pre_key_stage_standards               |  Number of pupils working below the interim pre-key stage standards in writing TA
+t_writta_disapplied                                          |  Number of pupils disapplied in writing TA
+t_writta_early_development_of_expected_standard              |  Number of pupils with early development of the expected standard in writing TA
+t_writta_eligible_pupils                                     |  Number of eligible pupils in writing TA
+t_writta_engagement_model_or_below_pre_key_stage_standards   |  Number of pupils working at the engagement model or below pre-key stage standards in writing TA
+t_writta_foundations_of_expected_standard                    |  Number of pupils with foundations of the expected standard in writing TA
+t_writta_growing_development_of_expected_standard            |  Number of pupils with growing development of the expected standard in writing TA
+t_writta_met_expected_standard                               |  Number of pupils meeting the expected standard in writing TA
+t_writta_met_higher_standard                                 |  Number of pupils working at greater depth in writing TA
+t_writta_pre_key_stage_standard_1                            |  Number of pupils working at pre-key stage standard 1 in writing TA
+t_writta_pre_key_stage_standard_2                            |  Number of pupils working at pre-key stage standard 2 in writing TA
+t_writta_pre_key_stage_standard_3                            |  Number of pupils working at pre-key stage standard 3 in writing TA
+t_writta_pre_key_stage_standard_4                            |  Number of pupils working at pre-key stage standard 4 in writing TA
+t_writta_pre_key_stage_standard_5                            |  Number of pupils working at pre-key stage standard 5 in writing TA
+t_writta_pre_key_stage_standard_6                            |  Number of pupils working at pre-key stage standard 6 in writing TA
+t_writta_working_towards_expected_standard                   |  Number of pupils working towards the expected standard in writing TA
+
+Footnotes:
+
+1. Figures for 2022 are based on provisional data. Figures for other years are based on final data.					
+2. Pupils who meet the expected standard in reading, writing and maths (combined) are those who meet the expected standard in all three subjects. The expected standard in reading and maths is a scaled score of 100 or above. The expected standard in writing is a teacher assessment of 'working at the expected standard' (EXS) or 'working at greater depth' (GDS).					
+3. Pupils who reach the higher standard in reading, writing and maths (combined) are those who acheive a scaled score of 110 or more in reading and maths and are assessed as 'working at greater depth' (GDS) in writing TA.					
+4. Writing teacher assessment and reading, writing and maths (combined) measures from 2018 onwards are not directly comparable to previous years due to changes in the writing teacher assessment frameworks.					
+5. All figures include LA maintained schools, academies and free schools. Excludes alternative provision and independent schools.											
+6. All figures at national, regional and local authority level in the local authority underlying data include pupils with missing results, pending maladministration or where they have taken the test in the past. These pupils are excluded from figures in the national underlying data and national tables. As a consequence of these differences, figures in the national and local authority underlying data may not match.											
+7. Figures for Isles of Scilly and City of London are based on a single school in each local authority and therefore figures have been suppressed.											
+8. Bournemouth, Christchurch and Poole was created on 1 April 2019 from areas that were previously administered by the unitary authorities of Bournemouth and Poole, and the district of Christchurch. 2019 data is not comparable to previous years. Dorset was created on 1 April 2019 from the districts of Weymouth and Portland, West Dorset, North Dorset, Purbeck and East Dorset. 2019 data is not comparable to previous years.											
+9. Data is not available for 2020 and 2021 as assessments were cancelled in these years due to the COVID-19 pandemic.
+10. Users are advised to take care when interpreting writing and science teacher assessment measures and reading, writing and maths (combined) measures for the following local authorities, particularly when making comparisons over time or between local authorities: Barnet, Bath and North East Somerset, Bedford, Blackpool, Bradford, Cambridgeshire, County Durham, Croydon, Cumbria, Darlington, Haringey, Hillingdon, Kent, Lewisham, North Yorkshire, Oldham, Oxfordshire, Peterborough, Rotherham, Sefton, Shropshire, South Gloucestershire, Staffordshire, Stoke-on-Trent, Sunderland, Surrey, Telford and Wrekin, Torbay, Tower Hamlets, West Northamptonshire, West Sussex and Worcestershire. These areas have higher rates of missing teacher assessment in 2022 than other areas - see ‘Data quality’ section for further detail.
+11. Science teacher assessment measures from 2019 onwards are not directly comparable to previous years due to changes in the science teacher assessment frameworks.					

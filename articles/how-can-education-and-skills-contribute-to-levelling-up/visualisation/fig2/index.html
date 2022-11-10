@@ -1,0 +1,146 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script
+        src="https://economicsobservatory.github.io/ECOvisualisations/articles/what-does-remote-working-mean-for-regional-economies-in-the-uk/visualisation/fig4/d3plus-geomap.v0.6.full.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: none;
+        }
+
+        div,
+        text {
+            font-family: sans-serif !important;
+        }
+
+        .button {
+            position: absolute;
+            top: 0px;
+            right: 0px;
+            font-size: 11px;
+            border: #707070 1px solid;
+            padding: 5px;
+            margin: 4px;
+            cursor: pointer;
+            background-color: #ddd;
+            width: 60px;
+            text-align: center;
+        }
+
+        .button:hover {
+            background-color: #c3c3c3;
+        }
+
+        #lads {
+            top: 30px;
+        }
+
+        #all {
+            top: 70px;
+        }
+
+        #girls {
+            top: 100px;
+        }
+
+        #boys {
+            top: 130px;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        var g = 'Total';
+        let chart = new d3plus.Geomap()
+        chart
+            // .zoom(false)
+            .colorScale("pt_rwm_met_expected_standard")
+            .colorScaleConfig({
+                // color: ['#F4134D', '#E54753', '#eeeeee', '#0063AF'],
+                color: ['#eeeeee', '#0063AF', '#003157'],
+                axisConfig: {
+                    tickFormat: function (d) {
+                        return d < 69 ? Math.round(d) : Math.round(d) + '%';
+                    },
+                    // domain: [50, 100]
+                },
+            })
+            .time('year')
+            .detectVisible(false)
+            .tiles(false)
+            .title('')
+            .ocean("transparent")
+            .projection('geoNaturalEarth')
+            .loadingMessage(false)
+
+        function loadmap(m) {
+            M = m;
+            chart
+                .label(d => ((m == 'regions') ? d['region_name'] : d['la_name']) + ': ' + d['pt_rwm_met_expected_standard'] + '%')
+                .shapeConfig({
+                    label: function (d) {
+                        return ((m == 'regions') ? d['region_name'] : d['la_name'])
+                    },
+                    labelConfig: {
+                        fontMin: 14,
+                        fontMax: 16,
+                        fontResize: true,
+                        padding: "0 0 0 0"
+                    }
+                })
+            if (m == 'regions') {
+                chart.topojson('Regions_(December_2021)_EN_BFC.json', function (map) {
+                    let key = Object.keys(map['objects'])[0]
+                    map['objects'][key]['geometries'].forEach(function (d, i) {
+                        d['id'] = d['properties']['RGN21CD']
+                    })
+                    return map
+                })
+            }
+            else if (m == 'lads') {
+                chart.topojson('Counties_and_Unitary_Authorities_(December_2021)_EN_BFC.json', function (map) {
+                    let key = Object.keys(map['objects'])[0]
+                    map['objects'][key]['geometries'].forEach(function (d, i) {
+                        d['id'] = d['properties']['CTYCDE']
+                    })
+                    map['objects'][key]['geometries'] = map['objects'][key]['geometries']
+                        .filter(function (d) { return d['properties']['CTYCDE'][0] == 'E' })
+                    return map
+                })
+            }
+
+            load(G);
+        }
+
+        function load(g) {
+            G = g;
+            console.log('Loading', g, '...')
+            chart
+                .data('data_' + M + '.json', function (data) {
+                    data.forEach(function (d) {
+                        d['id'] = ((M == 'regions') ? d['region_code'] : d['new_la_code'])
+                    })
+                    data = data.filter(function (d) { return d['gender'] == g })
+                    // console.log(data)
+                    return data;
+                }).render()
+        }
+
+        var M = 'regions';
+        loadmap(M);
+        var G = 'Total';
+        load(G);
+
+    </script>
+    <div class="button" id="regions" onclick="loadmap('regions')">Regions</div>
+    <div class="button" id="lads" onclick="loadmap('lads')">Local areas</div>
+    <div class="button" id="all" onclick="load('Total')">All</div>
+    <div class="button" id="girls" onclick="load('Girls')">Girls</div>
+    <div class="button" id="boys" onclick="load('Boys')">Boys</div>
+</body>
+
+</html>
