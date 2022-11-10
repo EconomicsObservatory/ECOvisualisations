@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <script
-        src="https://economicsobservatory.github.io/ECOvisualisations/articles/what-does-remote-working-mean-for-regional-economies-in-the-uk/visualisation/fig4/d3plus-geomap.v0.6.full.min.js"></script>
+        src="https://economicsobservatory.github.io/ECOvisualisations/articles/how-can-education-and-skills-contribute-to-levelling-up/visualisation/fig2/d3plus-geomap.v0.6.full.min.js"></script>
     <style>
         body {
             margin: 0;
@@ -54,7 +54,6 @@
 
 <body>
     <script>
-        var g = 'Total';
         let chart = new d3plus.Geomap()
         chart
             // .zoom(false)
@@ -93,7 +92,7 @@
                     }
                 })
             if (m == 'regions') {
-                chart.topojson('Regions_(December_2021)_EN_BFC.json', function (map) {
+                chart.topojson(url + 'Regions_(December_2021)_EN_BFC.json', function (map) {
                     let key = Object.keys(map['objects'])[0]
                     map['objects'][key]['geometries'].forEach(function (d, i) {
                         d['id'] = d['properties']['RGN21CD']
@@ -102,7 +101,7 @@
                 })
             }
             else if (m == 'lads') {
-                chart.topojson('Counties_and_Unitary_Authorities_(December_2021)_EN_BFC.json', function (map) {
+                chart.topojson(url + 'Counties_and_Unitary_Authorities_(December_2021)_EN_BFC.json', function (map) {
                     let key = Object.keys(map['objects'])[0]
                     map['objects'][key]['geometries'].forEach(function (d, i) {
                         d['id'] = d['properties']['CTYCDE']
@@ -120,7 +119,7 @@
             G = g;
             console.log('Loading', g, '...')
             chart
-                .data('data_' + M + '.json', function (data) {
+                .data(url+'data_' + M + '.json', function (data) {
                     data.forEach(function (d) {
                         d['id'] = ((M == 'regions') ? d['region_code'] : d['new_la_code'])
                     })
@@ -130,6 +129,7 @@
                 }).render()
         }
 
+        const url='https://economicsobservatory.github.io/ECOvisualisations/articles/how-can-education-and-skills-contribute-to-levelling-up/visualisation/fig2/'
         var M = 'regions';
         loadmap(M);
         var G = 'Total';

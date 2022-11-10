@@ -4,9 +4,6 @@
 ### fig2_school
 [Interactive map](https://economicsobservatory.github.io/ECOvisualisations/articles/how-can-education-and-skills-contribute-to-levelling-up/visualisation/fig2/)
 
-### fig2_school
-[Interactive map](https://economicsobservatory.github.io/ECOvisualisations/articles/how-can-education-and-skills-contribute-to-levelling-up/visualisation/fig2/)
-
-### fig2_school
-[Interactive map](https://economicsobservatory.github.io/ECOvisualisations/articles/how-can-education-and-skills-contribute-to-levelling-up/visualisation/fig2/)
+### fig3_private_schools_local
+!["fig3_private_schools_local"](visualisation/fig3_private_schools_local.png "fig3_private_schools_local")
 
