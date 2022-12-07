@@ -30,7 +30,7 @@
       "String": {
         key: "String",
         coerce: String,
-        extent: function (data) { return data.sort(); },
+        extent: function (data) { return data; }, //data.sort()
         within: function (d, extent, dim) { return extent[0] <= dim.scale(d) && dim.scale(d) <= extent[1]; },
         defaultScale: d3.scalePoint().range([0, innerHeight])
       },
