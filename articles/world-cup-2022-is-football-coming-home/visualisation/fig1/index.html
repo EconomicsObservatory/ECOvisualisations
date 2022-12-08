@@ -8,16 +8,16 @@
   <link rel="stylesheet" href="style.css">
   </link>
   <script>
-    var margin = { top: 66, right: 110, bottom: 20, left: 188 },
-      width = document.body.clientWidth - margin.left - margin.right,
-      height = 340 - margin.top - margin.bottom,
+    var margin = { top: 66, right: 70, bottom: 20, left: 70 },
+      width = 500//document.body.clientWidth - margin.left - margin.right,
+      height = 400 - margin.top - margin.bottom,
       innerHeight = height - 2;
 
     var devicePixelRatio = window.devicePixelRatio || 1;
 
     var color = d3.scaleOrdinal()
-      .domain(['Arg','Bra'])
-      .range(["#DB7F85", "#50AB84", "#4C6C86", "#C47DCB", "#B59248", "#DD6CA7", "#E15E5A", "#5DA5B3", "#725D82", "#54AF52", "#954D56", "#8C92E8", "#D8597D", "#AB9C27", "#D67D4B", "#D58323", "#BA89AD", "#357468", "#8F86C2", "#7D9E33", "#517C3F", "#9D5130", "#5E9ACF", "#776327", "#944F7E"]);
+      .domain(['top','btm'])
+      .range(["rgba(0,0,0,0)", "rgba(0,0,0,0)", "#DB7F85", "#50AB84", "#4C6C86", "#C47DCB", "#B59248", "#DD6CA7", "#E15E5A", "#5DA5B3", "#725D82", "#54AF52", "#954D56", "#8C92E8", "#D8597D", "#AB9C27", "#D67D4B", "#D58323", "#BA89AD", "#357468", "#8F86C2", "#7D9E33", "#517C3F", "#9D5130", "#5E9ACF", "#776327", "#944F7E", "#DB7F85", "#50AB84", "#54AF52", "#954D56", "#8C92E8", "#D8597D", "#AB9C27", "#D67D4B", "#D58323", "#BA89AD", "#357468", "#8F86C2", "#7D9E33", "#517C3F", "#9D5130"]);
 
     var types = {
       "Number": {
@@ -52,8 +52,8 @@
       
       {
         key: "pl_discmethod",
-        description: "Region",
-        type: types["String"]
+        description: "",
+        type: types["String"],
       }, 
       {
         key: " Elo Rating ",
@@ -89,24 +89,45 @@
       },
       {
         key: " Winner ",
-        description: "Winner - estimated on Nov 7",
-        type: types["Number"]
-      },
-      {
-        key: "Freq.sf",
-        description: "Semi finals",
-        type: types["Number"]
-      },
-      {
-        key: "Freq.f",
-        description: "Final",
+        description: "Winner - estimated on Nov 11",
         type: types["Number"]
       },
       {
         key: "Freq",
         description: "Winner - estimated Dec 7",
-        type: types["Number"]
+        type: types["Number"],
+        axis: d3.axisRight()
+          .tickFormat(function (d, i) {
+            return d;
+          })
       },
+      {
+        key: "Freq.f",
+        description: "Final",
+        type: types["Number"],
+        axis: d3.axisRight()
+          .tickFormat(function (d, i) {
+            return d;
+          })
+      },
+      {
+        key: "Freq.sf",
+        description: "Semi finals",
+        type: types["Number"],
+        axis: d3.axisRight()
+          .tickFormat(function (d, i) {
+            return d;
+          })
+      },
+      {
+        key: "pl_discmethod",
+        description: "",
+        type: types["String"],
+        axis: d3.axisRight()
+          .tickFormat(function (d, i) {
+            return d;
+          })
+      }, 
       // {
       //   key: "Nuclear",
       //   description: "Nuclear",
@@ -304,7 +325,7 @@
     ctx.lineWidth = 1.5;
     ctx.scale(devicePixelRatio, devicePixelRatio);
 
-    var output = d3.select("body").append("pre");
+    var output = d3.select("body").append("pre")
 
     var axes = svg.selectAll(".axis")
       .data(dimensions)
