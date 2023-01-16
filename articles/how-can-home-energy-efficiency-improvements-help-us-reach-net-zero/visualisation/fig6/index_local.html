@@ -3,9 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <!-- <script src="https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-can-home-energy-efficiency-improvements-help-us-reach-net-zero/visualisation/fig6/d3plus-geomap.v0.6.full.min.js"></script> -->
-    <script
-        src="https://economicsobservatory.github.io/ECOvisualisations/articles/scottish-independence-what-are-the-big-economic-questions/visualisation/fig5/d3plus-geomap.v0.6.full.min.js"></script>
+    <script src="d3plus-geomap.v0.6.full.min.js"></script>
     <style>
         body {
             margin: 0;
@@ -23,14 +21,14 @@
 <body></body>
 <script>
     let chart = new d3plus.Geomap()
-    chart.data('https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-can-home-energy-efficiency-improvements-help-us-reach-net-zero/visualisation/fig6/data_lad.json')
+    chart.data('data_lad.json')
         .zoom(false)
         .colorScale("potential_energy_efficiency")
         .colorScaleConfig({
-            color: ['#243B5A', '#0063AF', '#eeeeee', '#d65cad'],
+            color: ['#243B5A','#0063AF','#eeeeee','#d65cad'],
             axisConfig: {
                 tickFormat: function (d) {
-                    return d == 80 ? 'B →' : d == 79 ? '← C' : '';
+                    return d == 80 ? 'B →': d==79?'← C':'';
                 },
                 // domain: [10, 25]
             },
@@ -41,9 +39,9 @@
         .ocean("transparent")
         .projection('geoNaturalEarth')
         .loadingMessage(false)
-        .label(d => d['name'] + ': ' + d['potential_energy_efficiency'] + ' (' +
-            (d['potential_energy_efficiency'] > 80 ? 'B' : 'C')
-            + ')')
+        .label(d => d['name']+': '+d['potential_energy_efficiency']+' ('+
+        (d['potential_energy_efficiency'] > 80 ? 'B' : 'C')
+        +')')
         .shapeConfig({
             label: function (d) {
                 return d['pop']
