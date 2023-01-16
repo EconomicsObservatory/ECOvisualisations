@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <script src="d3plus-geomap.v0.6.full.min.js"></script>
+    <script src="https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-can-home-energy-efficiency-improvements-help-us-reach-net-zero/visualisation/fig5/d3plus-geomap.v0.6.full.min.js"></script>
     <style>
         body {
             margin: 0;
@@ -21,7 +21,7 @@
 <body></body>
 <script>
     let chart = new d3plus.Geomap()
-    chart.data('data_lad.json')
+    chart.data('https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-can-home-energy-efficiency-improvements-help-us-reach-net-zero/visualisation/fig5/data_lad.json')
         .zoom(false)
         .colorScale("diff")
         .colorScaleConfig({
@@ -52,7 +52,7 @@
             }
         })
 
-    chart.topojson("topo_lad.json", function (map) {
+    chart.topojson("https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-can-home-energy-efficiency-improvements-help-us-reach-net-zero/visualisation/fig5/topo_lad.json", function (map) {
         map['objects']['lad']['geometries'].forEach(function (d, i) {
             d['id'] = d['properties']['lad19cd']
         })
