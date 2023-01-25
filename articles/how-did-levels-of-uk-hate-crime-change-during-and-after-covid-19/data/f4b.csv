@@ -1,0 +1,9 @@
+gender,action,group,value,min,max
+Men,Felt unsafe,Ethnic minority,-0.021195652,-0.066847826,0.024456522
+Men,Felt unsafe,White majority,-0.017934783,-0.027717391,-0.004891304
+Men,Physically and verbally attacked,Ethnic minority,-0.027717391,-0.07173913,0.019565217
+Men,Physically and verbally attacked,White majority,-0.019565217,-0.029347826,-0.008152174
+Women,Felt unsafe,Ethnic minority,-0.07826087,-0.135326087,-0.017934783
+Women,Felt unsafe,White majority,-0.017934783,-0.030978261,-0.00326087
+Women,Physically and verbally attacked,Ethnic minority,-0.032608696,-0.088043478,0.021195652
+Women,Physically and verbally attacked,White majority,-0.009782609,-0.021195652,0
