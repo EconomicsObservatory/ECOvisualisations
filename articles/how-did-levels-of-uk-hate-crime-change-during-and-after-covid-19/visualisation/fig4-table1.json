@@ -70,7 +70,7 @@
     },
     {
       "mark": {
-        "type": "line"
+        "type": "rule"
       },
       "encoding": {
         "x": {

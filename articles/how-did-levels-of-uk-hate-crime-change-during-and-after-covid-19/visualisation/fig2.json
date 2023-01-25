@@ -31,7 +31,7 @@
       }
     },
     {
-      "mark": {"type": "line"},
+      "mark": {"type": "rule"},
       "encoding": {
         "x": {"field": "min", "type": "quantitative"},
         "x2": {"field": "max", "type": "quantitative"},
