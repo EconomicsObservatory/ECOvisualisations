@@ -1,0 +1,9 @@
+model,action,gender,value,min,max
+Uncontrolled,Felt unsafe,Women,-0.062933333,-0.082986667,-0.04352
+Uncontrolled,Felt unsafe,Men,-0.002346667,-0.0064,0.001706667
+Uncontrolled,Physically or verbally attacked,Women,-0.013653333,-0.024106667,-0.003626667
+Uncontrolled,Physically or verbally attacked,Men,-0.002346667,-0.005546667,0.001066667
+Controlled,Felt unsafe,Women,-0.061013333,-0.080853333,-0.041173333
+Controlled,Felt unsafe,Men,-0.002346667,-0.0064,0.001493333
+Controlled,Physically or verbally attacked,Women,-0.011946667,-0.022826667,-0.00256
+Controlled,Physically or verbally attacked,Men,-0.002346667,-0.00576,0.001066667
