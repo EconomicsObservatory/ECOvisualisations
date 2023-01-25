@@ -1,24 +1,21 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "height": 100,
+  "height": 150,
   "width": 400,
   "data": {
-    "url": "https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-did-levels-of-uk-hate-crime-change-during-and-after-covid-19/data/f5.csv"
+    "url": "https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-did-levels-of-uk-hate-crime-change-during-and-after-covid-19/data/f6.csv"
   },
   "transform": [
     {
-      "calculate": "datum.action+datum.group+datum.model",
+      "calculate": "datum.action+datum.model+datum.gender",
       "as": "groupaction"
-    },
-    {
-      "filter": "datum.gender=='Men'"
     }
   ],
   "layer": [
     {
       "mark": {
         "type": "point",
-        "size": 50,
+        "size": 30,
         "opacity": 1
       },
       "encoding": {
@@ -27,16 +24,6 @@
           "type": "quantitative",
           "axis": {
             "title": null
-          }
-        },
-        "shape": {
-          "field": "model",
-          "type": "nominal",
-          "legend": {
-            "labelColor": "grey",
-            "symbolFillColor": "grey",
-            "title": "Model",
-            "titleColor": "grey"
           }
         },
         "y": {
@@ -49,22 +36,31 @@
           }
         },
         "color": {
-          "field": "action",
+          "field": "gender",
           "type": "nominal",
-          "legend": null,
           "scale": {
-            "scheme": "dark2"
-          }
+            "range": [
+              "#50AB84",
+              "#C47DCB"
+            ]
+          },
+          "legend": null
         },
         "fill": {
-          "field": "action",
+          "field": "gender",
           "type": "nominal",
           "scale": {
-            "scheme": "dark2"
+            "range": [
+              "#50AB84",
+              "#C47DCB"
+            ]
           },
-          "legend": {
-            "title": null
-          }
+          "legend": null
+        },
+        "shape": {
+          "field": "model",
+          "type": "nominal",
+          "legend": null
         }
       }
     },
@@ -86,7 +82,328 @@
           "type": "nominal"
         },
         "color": {
-          "field": "action",
+          "field": "gender",
+          "type": "nominal"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "x": -0.139
+          },
+          {
+            "x": 0.039
+          }
+        ]
+      },
+      "mark": {
+        "type": "line",
+        "opacity": 0.2,
+        "strokeDash": [
+          5,
+          5
+        ]
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "x": -0.139
+          },
+          {
+            "x": -0.1
+          }
+        ]
+      },
+      "mark": {
+        "type": "line",
+        "opacity": 0.2,
+        "yOffset": -37,
+        "strokeDash": [
+          5,
+          5
+        ]
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "x": -0.139
+          },
+          {
+            "x": -0.1
+          }
+        ]
+      },
+      "mark": {
+        "type": "line",
+        "opacity": 0.2,
+        "yOffset": 37,
+        "strokeDash": [
+          5,
+          5
+        ]
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "x": 0.033,
+            "t": "Men"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "yOffset": -65
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "t",
+          "type": "nominal"
+        },
+        "color": {
+          "field": "t",
+          "type": "nominal"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "x": 0.031,
+            "t": "Women"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "yOffset": -46
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "t",
+          "type": "nominal"
+        },
+        "color": {
+          "field": "t",
+          "type": "nominal"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "x": -0.136,
+            "t": "Controlled"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "yOffset": -58,
+        "color": "gray",
+        "align": "left"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "t",
+          "type": "nominal"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "x": -0.136,
+            "t": "Uncontrolled"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "yOffset": -18,
+        "color": "gray",
+        "align": "left"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "t",
+          "type": "nominal"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "x": -0.136,
+            "t": "Controlled"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "yOffset": 18,
+        "color": "gray",
+        "align": "left"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "t",
+          "type": "nominal"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "x": -0.136,
+            "t": "Uncontrolled"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "yOffset": 58,
+        "color": "gray",
+        "align": "left"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "t",
+          "type": "nominal"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "x": -0.136,
+            "t": "Felt unsafe"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "yOffset": -37,
+        "xOffset": -15,
+        "color": "gray",
+        "align": "right"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "t",
+          "type": "nominal"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "x": -0.136,
+            "t": "Physically and"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "yOffset": 30,
+        "xOffset": -22,
+        "color": "gray",
+        "align": "right"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "t",
+          "type": "nominal"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "x": -0.136,
+            "t": "verbally attacked"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "yOffset": 44,
+        "xOffset": -15,
+        "color": "gray",
+        "align": "right"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "t",
           "type": "nominal"
         }
       }
