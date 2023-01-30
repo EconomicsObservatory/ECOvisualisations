@@ -1,0 +1,156 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script
+        src="https://economicsobservatory.github.io/ECOvisualisations/articles/how-can-education-and-skills-contribute-to-levelling-up/visualisation/fig2/d3plus-geomap.v0.6.full.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: none;
+        }
+
+        div,
+        text {
+            font-family: sans-serif !important;
+        }
+
+        .button {
+            position: absolute;
+            top: 0px;
+            right: 0px;
+            font-size: 11px;
+            border: #707070 1px solid;
+            padding: 5px;
+            margin: 4px;
+            cursor: pointer;
+            background-color: #ddd;
+            width: 60px;
+            text-align: center;
+        }
+
+        .button:hover {
+            background-color: #c3c3c3;
+        }
+
+        #states {
+            visibility: hidden;
+        }
+
+        #president {
+            top: 0px;
+        }
+
+        #Governor {
+            top: 30px;
+        }
+
+        #Senate {
+            top: 60px;
+        }
+
+        #House {
+            top: 90px;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        let chart = new d3plus.Geomap()
+        chart
+            // .zoom(false)
+            .colorScale("percent")
+            .colorScaleConfig({
+                // color: ['#0063AF', '#0063AF', '#0063AF', '#0063AF', '#eeeeee', '#F4134D', '#F4134D', '#F4134D'],
+                color: ['#0063AF', '#0063AF', '#eeeeee', '#F4134D', '#F4134D'],
+                // color: ['#eeeeee', '#0063AF', '#003157'],
+                axisConfig: {
+                    tickFormat: function (d) {
+                        return d > 69 ? 'Republican' : d < 31 ? 'Democrat' : d == 50 ? 'Neutral' : '';
+                    },
+                    domain: [30,70]
+                },
+            })
+            .time('cycle').timelineConfig({
+                render: titles,
+                buttonBehavior: "ticks",
+                scale: 'linear'
+            })
+            .detectVisible(false)
+            .tiles(false)
+            .title('Election Results')
+            .ocean("transparent")
+            .projection('geoAlbersUsa')
+            .loadingMessage(false)
+
+        function loadmap(m) {
+            M = m;
+            chart
+                .label(function (d) { return d["id"] + ' ' + (d["percent"] > 50 ? Math.round(d["percent"]*100, 2)/100 + '% Republican' : Math.round((100-d["percent"])*100, 2)/100 + '% Democrat') })
+                .shapeConfig({
+                    label: function (d) {
+                        "id"
+                    },
+                    labelConfig: {
+                        fontMin: 14,
+                        fontMax: 16,
+                        fontResize: true,
+                        padding: "0 0 0 0"
+                    }
+                })
+            if (m == 'states') {
+                chart.topojson('./USA.json', function (map) {
+                    console.log(map)
+                    map['objects']['units']['geometries'].forEach(function (d, i) {
+                        d['id'] = d['properties']['name']
+                    })
+                    // console.log(map)
+                    return map
+                })
+            }
+
+            load(G);
+        }
+
+        function load(g) {
+            G = g;
+            console.log('Loading', g, '...')
+            chart
+                .data(url + 'elections_' + M + '.json', function (data) {
+                    data.forEach(function (d) {
+                        d['id'] = d['state']
+                    })
+                    // console.log(data)
+                    data = data.filter(function (d) { return d['election'] == g })
+                    data = data.filter(function (d) { return d['ballot_party'] == 'REP' })
+                    // console.log(data)
+                    return data;
+                }).render()
+        }
+
+        // const url='https://economicsobservatory.github.io/ECOvisualisations/articles/how-can-education-and-skills-contribute-to-levelling-up/visualisation/fig2/'
+        const url = './'
+        var M = 'states';
+        loadmap(M);
+        var G = 'house';
+        load(G);
+
+        function titles() {
+            now = chart._timelineSelection[0];
+            titlestring = G.charAt(0).toUpperCase() + G.substr(1).toLowerCase()
+                + ' Election Results ' + now.toLocaleDateString('en', { 'year': 'numeric' })
+            console.log(titlestring)
+            document.querySelector("#d3plus-textBox-0").querySelector("text").innerHTML = titlestring
+        }
+
+    </script>
+    <div class="button" id="states" onclick="loadmap('states')">States</div>
+    <div class="button" id="house" onclick="load('house')">House</div>
+    <div class="button" id="senate" onclick="load('senate')">Senate</div>
+    <div class="button" id="governor" onclick="load('governor')">Governor</div>
+    <div class="button" id="president" onclick="load('president')">President</div>
+</body>
+
+</html>
