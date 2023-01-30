@@ -70,7 +70,7 @@
                     tickFormat: function (d) {
                         return d > 69 ? 'Republican' : d < 31 ? 'Democrat' : d == 50 ? 'Neutral' : '';
                     },
-                    domain: [30,70]
+                    domain: [30, 70]
                 },
             })
             .time('cycle').timelineConfig({
@@ -84,41 +84,32 @@
             .ocean("transparent")
             .projection('geoAlbersUsa')
             .loadingMessage(false)
-
-        function loadmap(m) {
-            M = m;
-            chart
-                .label(function (d) { return d["id"] + ' ' + (d["percent"] > 50 ? Math.round(d["percent"]*100, 2)/100 + '% Republican' : Math.round((100-d["percent"])*100, 2)/100 + '% Democrat') })
-                .shapeConfig({
-                    label: function (d) {
-                        "id"
-                    },
-                    labelConfig: {
-                        fontMin: 14,
-                        fontMax: 16,
-                        fontResize: true,
-                        padding: "0 0 0 0"
-                    }
-                })
-            if (m == 'states') {
-                chart.topojson('./USA.json', function (map) {
-                    console.log(map)
-                    map['objects']['units']['geometries'].forEach(function (d, i) {
-                        d['id'] = d['properties']['name']
-                    })
-                    // console.log(map)
-                    return map
-                })
-            }
-
-            load(G);
-        }
+            .label(function (d) { return d["id"] + ' ' + (d["percent"] > 50 ? Math.round(d["percent"] * 100, 2) / 100 + '% Republican' : Math.round((100 - d["percent"]) * 100, 2) / 100 + '% Democrat') })
+            .shapeConfig({
+                label: function (d) {
+                    "id"
+                },
+                labelConfig: {
+                    fontMin: 14,
+                    fontMax: 16,
+                    fontResize: true,
+                    padding: "0 0 0 0"
+                }
+            })
+        chart.topojson('./USA.json', function (map) {
+            console.log(map)
+            map['objects']['units']['geometries'].forEach(function (d, i) {
+                d['id'] = d['properties']['name']
+            })
+            // console.log(map)
+            return map
+        })
 
         function load(g) {
             G = g;
             console.log('Loading', g, '...')
             chart
-                .data(url + 'elections_' + M + '.json', function (data) {
+                .data(url + 'elections_states.json', function (data) {
                     data.forEach(function (d) {
                         d['id'] = d['state']
                     })
@@ -132,8 +123,6 @@
 
         // const url='https://economicsobservatory.github.io/ECOvisualisations/articles/how-can-education-and-skills-contribute-to-levelling-up/visualisation/fig2/'
         const url = './'
-        var M = 'states';
-        loadmap(M);
         var G = 'house';
         load(G);
 
@@ -146,7 +135,7 @@
         }
 
     </script>
-    <div class="button" id="states" onclick="loadmap('states')">States</div>
+    <div class="button" id="states" >States</div>
     <div class="button" id="house" onclick="load('house')">House</div>
     <div class="button" id="senate" onclick="load('senate')">Senate</div>
     <div class="button" id="governor" onclick="load('governor')">Governor</div>
