@@ -1,9 +1,9 @@
-### fig1b_recess_local
-!["fig1b_recess_local"](visualisation/fig1b_recess_local.png "fig1b_recess_local")
+### fig1b_recess
+!["fig1b_recess"](visualisation/fig1b_recess.png "fig1b_recess")
 
-### fig2_pass_local
-!["fig2_pass_local"](visualisation/fig2_pass_local.png "fig2_pass_local")
+### fig2_pass
+!["fig2_pass"](visualisation/fig2_pass.png "fig2_pass")
 
-### fig3_mpc_local
-!["fig3_mpc_local"](visualisation/fig3_mpc_local.png "fig3_mpc_local")
+### fig3_mpc
+!["fig3_mpc"](visualisation/fig3_mpc.png "fig3_mpc")
 
