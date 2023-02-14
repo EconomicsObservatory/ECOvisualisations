@@ -49,13 +49,13 @@
         .label(d => d['id']+': Population '+Math.round(d['pop']/100000)/10.0+'M, '+d['diff']+' food parcels / 1000 people, '+d['food_bank_parcels']+' total' )
         .shapeConfig({
             label: function (d) {
-                return d['id']+' '+d['diff']
+                return d['id']+'\n'+d['diff']
             },
             labelConfig: {
                 fontMin: 6,
                 fontMax: 14,
                 fontResize: true,
-                padding: "-3 -3 -3 -3"
+                padding: "-13 -13 -13 -13"
             }
         })
 
