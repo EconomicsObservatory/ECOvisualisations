@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <!-- <script src="https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-can-home-energy-efficiency-improvements-help-us-reach-net-zero/visualisation/fig5/d3plus-geomap.v0.6.full.min.js"></script> -->
     <script
-        src="https://economicsobservatory.github.io/ECOvisualisations/articles/scottish-independence-what-are-the-big-economic-questions/visualisation/fig5/d3plus-geomap.v0.6.full.min.js"></script>
+        src="d3plus-geomap.v0.6.full.min.js"></script>
     <style>
         body {
             margin: 0;
@@ -23,7 +23,7 @@
 <body></body>
 <script>
     let chart = new d3plus.Geomap()
-    chart.data('https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-might-the-cost-of-living-crisis-affect-peoples-health/visualisation/fig1/data.json', function (data) {
+    chart.data('data.json', function (data) {
         data.forEach(function (d) {
             d['diff'] = Math.round((d['food_bank_parcels'] / d['pop'])*1000,2)
         })
@@ -59,7 +59,7 @@
             }
         })
 
-    chart.topojson("https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-might-the-cost-of-living-crisis-affect-peoples-health/visualisation/fig1/UK_regions_topo.json", function (map) {
+    chart.topojson("UK_regions_topo.json", function (map) {
         map['objects']['European_Electoral_Regions_(December_2017)_UK_BFC']['geometries'].forEach(function (d, i) {
             d['id'] = d['properties']['eer17nm']
         })
