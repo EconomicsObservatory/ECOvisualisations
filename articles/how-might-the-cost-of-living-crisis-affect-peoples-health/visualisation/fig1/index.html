@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <!-- <script src="https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/articles/how-can-home-energy-efficiency-improvements-help-us-reach-net-zero/visualisation/fig5/d3plus-geomap.v0.6.full.min.js"></script> -->
+    <script
+        src="https://economicsobservatory.github.io/ECOvisualisations/articles/scottish-independence-what-are-the-big-economic-questions/visualisation/fig5/d3plus-geomap.v0.6.full.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: none;
+        }
+
+        div,
+        text {
+            font-family: sans-serif !important;
+        }
+    </style>
+</head>
+
+<body></body>
+<script>
+    let chart = new d3plus.Geomap()
+    chart.data('data.json', function (data) {
+        data.forEach(function (d) {
+            d['diff'] = Math.round((d['food_bank_parcels'] / d['pop'])*1000,2)
+        })
+        return data
+    })
+        // .zoom(false)
+        .colorScale("diff")
+        .colorScaleConfig({
+            color: ['#eeeeee', '#0063AF',  '#d65cad'],
+            axisConfig: {
+                // tickFormat: function (d) {
+                //     return d > 19 ? Math.round(d) + " %" : Math.round(d);
+                // },
+                // domain: [10, 25]
+            },
+        })
+        .detectVisible(false)
+        .tiles(false)
+        .title('')
+        .ocean("transparent")
+        .projection('geoNaturalEarth')
+        .loadingMessage(false)
+        .label(d => d['id']+': Population '+Math.round(d['pop']/100000)/10.0+'M, '+d['diff']+' food parcels / 1000 people, '+d['food_bank_parcels']+' total' )
+        .shapeConfig({
+            label: function (d) {
+                return d['id']+' '+d['diff']
+            },
+            labelConfig: {
+                fontMin: 6,
+                fontMax: 14,
+                fontResize: true,
+                padding: "-3 -3 -3 -3"
+            }
+        })
+
+    chart.topojson("UK_regions_topo.json", function (map) {
+        map['objects']['European_Electoral_Regions_(December_2017)_UK_BFC']['geometries'].forEach(function (d, i) {
+            d['id'] = d['properties']['eer17nm']
+        })
+        return map
+    })
+
+    chart.render()
+</script>
+
+</html>
