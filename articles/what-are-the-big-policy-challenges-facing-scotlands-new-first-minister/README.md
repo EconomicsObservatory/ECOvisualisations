@@ -1,21 +1,21 @@
-### fig1_gdp_local
-!["fig1_gdp_local"](visualisation/fig1_gdp_local.png "fig1_gdp_local")
+### fig1_gdp
+!["fig1_gdp"](visualisation/fig1_gdp.png "fig1_gdp")
 
-### fig2_tax_local
-!["fig2_tax_local"](visualisation/fig2_tax_local.png "fig2_tax_local")
+### fig2_tax
+!["fig2_tax"](visualisation/fig2_tax.png "fig2_tax")
 
-### fig3_earnings_local
-!["fig3_earnings_local"](visualisation/fig3_earnings_local.png "fig3_earnings_local")
+### fig3_earnings
+!["fig3_earnings"](visualisation/fig3_earnings.png "fig3_earnings")
 
-### fig4_emissions_local
-!["fig4_emissions_local"](visualisation/fig4_emissions_local.png "fig4_emissions_local")
+### fig4_emissions
+!["fig4_emissions"](visualisation/fig4_emissions.png "fig4_emissions")
 
-### fig5_aberdeen_local
-!["fig5_aberdeen_local"](visualisation/fig5_aberdeen_local.png "fig5_aberdeen_local")
+### fig5_aberdeen
+!["fig5_aberdeen"](visualisation/fig5_aberdeen.png "fig5_aberdeen")
 
-### fig6_population_local
-!["fig6_population_local"](visualisation/fig6_population_local.png "fig6_population_local")
+### fig6_population
+!["fig6_population"](visualisation/fig6_population.png "fig6_population")
 
-### fig7_pay_local
-!["fig7_pay_local"](visualisation/fig7_pay_local.png "fig7_pay_local")
+### fig7_pay
+!["fig7_pay"](visualisation/fig7_pay.png "fig7_pay")
 
