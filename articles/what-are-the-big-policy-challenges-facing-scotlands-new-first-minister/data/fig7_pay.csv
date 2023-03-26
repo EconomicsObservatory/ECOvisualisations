@@ -1,0 +1,2370 @@
+,Month,Region,Index,Date
+0,July 2014,Aberdeen City and Aberdeenshire,100.0,28 July 2014
+1,July 2014,Caithness and Sutherland and Ross and Cromarty,100.0,28 July 2014
+2,July 2014,"Inverness and Nairn and Moray, Badenoch and Strathspey",100.0,28 July 2014
+3,July 2014,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",100.0,28 July 2014
+4,July 2014,Na h-Eileanan Siar,100.0,28 July 2014
+5,July 2014,Orkney Islands,100.0,28 July 2014
+6,July 2014,Shetland Islands,100.0,28 July 2014
+7,July 2014,Angus and Dundee City,100.0,28 July 2014
+8,July 2014,Clackmannanshire and Fife,100.0,28 July 2014
+9,July 2014,East Lothian and Midlothian,100.0,28 July 2014
+10,July 2014,City of Edinburgh,100.0,28 July 2014
+11,July 2014,Falkirk,100.0,28 July 2014
+12,July 2014,Perth and Kinross and Stirling,100.0,28 July 2014
+13,July 2014,West Lothian,100.0,28 July 2014
+14,July 2014,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",100.0,28 July 2014
+15,July 2014,Glasgow City,100.0,28 July 2014
+16,July 2014,"Inverclyde, East Renfrewshire and Renfrewshire",100.0,28 July 2014
+17,July 2014,North Lanarkshire,100.0,28 July 2014
+18,July 2014,Scottish Borders,100.0,28 July 2014
+19,July 2014,Dumfries and Galloway,100.0,28 July 2014
+20,July 2014,East Ayrshire and North Ayrshire mainland,100.0,28 July 2014
+21,July 2014,South Ayrshire,100.0,28 July 2014
+22,July 2014,South Lanarkshire,100.0,28 July 2014
+23,August 2014,Aberdeen City and Aberdeenshire,100.5,28 August 2014
+24,August 2014,Caithness and Sutherland and Ross and Cromarty,100.3,28 August 2014
+25,August 2014,"Inverness and Nairn and Moray, Badenoch and Strathspey",100.4,28 August 2014
+26,August 2014,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",100.5,28 August 2014
+27,August 2014,Na h-Eileanan Siar,99.4,28 August 2014
+28,August 2014,Orkney Islands,99.8,28 August 2014
+29,August 2014,Shetland Islands,99.9,28 August 2014
+30,August 2014,Angus and Dundee City,100.2,28 August 2014
+31,August 2014,Clackmannanshire and Fife,100.1,28 August 2014
+32,August 2014,East Lothian and Midlothian,100.4,28 August 2014
+33,August 2014,City of Edinburgh,100.1,28 August 2014
+34,August 2014,Falkirk,100.5,28 August 2014
+35,August 2014,Perth and Kinross and Stirling,99.7,28 August 2014
+36,August 2014,West Lothian,100.8,28 August 2014
+37,August 2014,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",100.5,28 August 2014
+38,August 2014,Glasgow City,100.9,28 August 2014
+39,August 2014,"Inverclyde, East Renfrewshire and Renfrewshire",100.1,28 August 2014
+40,August 2014,North Lanarkshire,100.8,28 August 2014
+41,August 2014,Scottish Borders,100.2,28 August 2014
+42,August 2014,Dumfries and Galloway,100.6,28 August 2014
+43,August 2014,East Ayrshire and North Ayrshire mainland,100.2,28 August 2014
+44,August 2014,South Ayrshire,100.4,28 August 2014
+45,August 2014,South Lanarkshire,100.5,28 August 2014
+46,September 2014,Aberdeen City and Aberdeenshire,100.7,28 September 2014
+47,September 2014,Caithness and Sutherland and Ross and Cromarty,101.2,28 September 2014
+48,September 2014,"Inverness and Nairn and Moray, Badenoch and Strathspey",101.5,28 September 2014
+49,September 2014,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",101.2,28 September 2014
+50,September 2014,Na h-Eileanan Siar,100.2,28 September 2014
+51,September 2014,Orkney Islands,100.2,28 September 2014
+52,September 2014,Shetland Islands,100.4,28 September 2014
+53,September 2014,Angus and Dundee City,100.7,28 September 2014
+54,September 2014,Clackmannanshire and Fife,100.7,28 September 2014
+55,September 2014,East Lothian and Midlothian,100.7,28 September 2014
+56,September 2014,City of Edinburgh,100.6,28 September 2014
+57,September 2014,Falkirk,101.1,28 September 2014
+58,September 2014,Perth and Kinross and Stirling,100.2,28 September 2014
+59,September 2014,West Lothian,101.3,28 September 2014
+60,September 2014,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",100.4,28 September 2014
+61,September 2014,Glasgow City,100.4,28 September 2014
+62,September 2014,"Inverclyde, East Renfrewshire and Renfrewshire",101.0,28 September 2014
+63,September 2014,North Lanarkshire,100.8,28 September 2014
+64,September 2014,Scottish Borders,99.4,28 September 2014
+65,September 2014,Dumfries and Galloway,100.6,28 September 2014
+66,September 2014,East Ayrshire and North Ayrshire mainland,100.3,28 September 2014
+67,September 2014,South Ayrshire,100.5,28 September 2014
+68,September 2014,South Lanarkshire,100.4,28 September 2014
+69,October 2014,Aberdeen City and Aberdeenshire,100.2,28 October 2014
+70,October 2014,Caithness and Sutherland and Ross and Cromarty,101.1,28 October 2014
+71,October 2014,"Inverness and Nairn and Moray, Badenoch and Strathspey",101.6,28 October 2014
+72,October 2014,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",101.2,28 October 2014
+73,October 2014,Na h-Eileanan Siar,99.6,28 October 2014
+74,October 2014,Orkney Islands,101.5,28 October 2014
+75,October 2014,Shetland Islands,100.5,28 October 2014
+76,October 2014,Angus and Dundee City,100.8,28 October 2014
+77,October 2014,Clackmannanshire and Fife,100.2,28 October 2014
+78,October 2014,East Lothian and Midlothian,100.4,28 October 2014
+79,October 2014,City of Edinburgh,100.5,28 October 2014
+80,October 2014,Falkirk,100.4,28 October 2014
+81,October 2014,Perth and Kinross and Stirling,99.8,28 October 2014
+82,October 2014,West Lothian,100.3,28 October 2014
+83,October 2014,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",99.9,28 October 2014
+84,October 2014,Glasgow City,100.0,28 October 2014
+85,October 2014,"Inverclyde, East Renfrewshire and Renfrewshire",100.5,28 October 2014
+86,October 2014,North Lanarkshire,100.8,28 October 2014
+87,October 2014,Scottish Borders,100.5,28 October 2014
+88,October 2014,Dumfries and Galloway,100.7,28 October 2014
+89,October 2014,East Ayrshire and North Ayrshire mainland,99.8,28 October 2014
+90,October 2014,South Ayrshire,100.2,28 October 2014
+91,October 2014,South Lanarkshire,100.4,28 October 2014
+92,November 2014,Aberdeen City and Aberdeenshire,100.9,28 November 2014
+93,November 2014,Caithness and Sutherland and Ross and Cromarty,101.6,28 November 2014
+94,November 2014,"Inverness and Nairn and Moray, Badenoch and Strathspey",102.4,28 November 2014
+95,November 2014,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",101.6,28 November 2014
+96,November 2014,Na h-Eileanan Siar,99.5,28 November 2014
+97,November 2014,Orkney Islands,100.1,28 November 2014
+98,November 2014,Shetland Islands,100.8,28 November 2014
+99,November 2014,Angus and Dundee City,101.4,28 November 2014
+100,November 2014,Clackmannanshire and Fife,100.2,28 November 2014
+101,November 2014,East Lothian and Midlothian,101.5,28 November 2014
+102,November 2014,City of Edinburgh,100.9,28 November 2014
+103,November 2014,Falkirk,100.3,28 November 2014
+104,November 2014,Perth and Kinross and Stirling,100.1,28 November 2014
+105,November 2014,West Lothian,100.7,28 November 2014
+106,November 2014,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",100.5,28 November 2014
+107,November 2014,Glasgow City,100.7,28 November 2014
+108,November 2014,"Inverclyde, East Renfrewshire and Renfrewshire",101.4,28 November 2014
+109,November 2014,North Lanarkshire,101.4,28 November 2014
+110,November 2014,Scottish Borders,100.8,28 November 2014
+111,November 2014,Dumfries and Galloway,101.5,28 November 2014
+112,November 2014,East Ayrshire and North Ayrshire mainland,100.9,28 November 2014
+113,November 2014,South Ayrshire,101.2,28 November 2014
+114,November 2014,South Lanarkshire,100.8,28 November 2014
+115,December 2014,Aberdeen City and Aberdeenshire,101.9,28 December 2014
+116,December 2014,Caithness and Sutherland and Ross and Cromarty,101.7,28 December 2014
+117,December 2014,"Inverness and Nairn and Moray, Badenoch and Strathspey",103.5,28 December 2014
+118,December 2014,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",101.6,28 December 2014
+119,December 2014,Na h-Eileanan Siar,100.3,28 December 2014
+120,December 2014,Orkney Islands,100.3,28 December 2014
+121,December 2014,Shetland Islands,100.6,28 December 2014
+122,December 2014,Angus and Dundee City,101.9,28 December 2014
+123,December 2014,Clackmannanshire and Fife,101.1,28 December 2014
+124,December 2014,East Lothian and Midlothian,101.9,28 December 2014
+125,December 2014,City of Edinburgh,100.7,28 December 2014
+126,December 2014,Falkirk,99.5,28 December 2014
+127,December 2014,Perth and Kinross and Stirling,100.4,28 December 2014
+128,December 2014,West Lothian,101.0,28 December 2014
+129,December 2014,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",100.7,28 December 2014
+130,December 2014,Glasgow City,101.2,28 December 2014
+131,December 2014,"Inverclyde, East Renfrewshire and Renfrewshire",102.3,28 December 2014
+132,December 2014,North Lanarkshire,102.1,28 December 2014
+133,December 2014,Scottish Borders,102.1,28 December 2014
+134,December 2014,Dumfries and Galloway,102.2,28 December 2014
+135,December 2014,East Ayrshire and North Ayrshire mainland,101.4,28 December 2014
+136,December 2014,South Ayrshire,102.9,28 December 2014
+137,December 2014,South Lanarkshire,101.7,28 December 2014
+138,January 2015,Aberdeen City and Aberdeenshire,101.6,28 January 2015
+139,January 2015,Caithness and Sutherland and Ross and Cromarty,102.9,28 January 2015
+140,January 2015,"Inverness and Nairn and Moray, Badenoch and Strathspey",105.5,28 January 2015
+141,January 2015,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",102.8,28 January 2015
+142,January 2015,Na h-Eileanan Siar,100.7,28 January 2015
+143,January 2015,Orkney Islands,100.4,28 January 2015
+144,January 2015,Shetland Islands,99.9,28 January 2015
+145,January 2015,Angus and Dundee City,103.3,28 January 2015
+146,January 2015,Clackmannanshire and Fife,102.7,28 January 2015
+147,January 2015,East Lothian and Midlothian,101.6,28 January 2015
+148,January 2015,City of Edinburgh,101.8,28 January 2015
+149,January 2015,Falkirk,100.8,28 January 2015
+150,January 2015,Perth and Kinross and Stirling,101.4,28 January 2015
+151,January 2015,West Lothian,101.6,28 January 2015
+152,January 2015,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",102.0,28 January 2015
+153,January 2015,Glasgow City,102.5,28 January 2015
+154,January 2015,"Inverclyde, East Renfrewshire and Renfrewshire",102.4,28 January 2015
+155,January 2015,North Lanarkshire,102.8,28 January 2015
+156,January 2015,Scottish Borders,102.2,28 January 2015
+157,January 2015,Dumfries and Galloway,103.2,28 January 2015
+158,January 2015,East Ayrshire and North Ayrshire mainland,102.0,28 January 2015
+159,January 2015,South Ayrshire,103.5,28 January 2015
+160,January 2015,South Lanarkshire,102.0,28 January 2015
+161,February 2015,Aberdeen City and Aberdeenshire,100.6,28 February 2015
+162,February 2015,Caithness and Sutherland and Ross and Cromarty,101.7,28 February 2015
+163,February 2015,"Inverness and Nairn and Moray, Badenoch and Strathspey",102.9,28 February 2015
+164,February 2015,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",102.4,28 February 2015
+165,February 2015,Na h-Eileanan Siar,99.3,28 February 2015
+166,February 2015,Orkney Islands,99.5,28 February 2015
+167,February 2015,Shetland Islands,99.6,28 February 2015
+168,February 2015,Angus and Dundee City,103.0,28 February 2015
+169,February 2015,Clackmannanshire and Fife,103.2,28 February 2015
+170,February 2015,East Lothian and Midlothian,102.5,28 February 2015
+171,February 2015,City of Edinburgh,102.8,28 February 2015
+172,February 2015,Falkirk,102.8,28 February 2015
+173,February 2015,Perth and Kinross and Stirling,102.2,28 February 2015
+174,February 2015,West Lothian,102.2,28 February 2015
+175,February 2015,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",101.4,28 February 2015
+176,February 2015,Glasgow City,101.8,28 February 2015
+177,February 2015,"Inverclyde, East Renfrewshire and Renfrewshire",102.6,28 February 2015
+178,February 2015,North Lanarkshire,102.5,28 February 2015
+179,February 2015,Scottish Borders,101.7,28 February 2015
+180,February 2015,Dumfries and Galloway,102.4,28 February 2015
+181,February 2015,East Ayrshire and North Ayrshire mainland,101.4,28 February 2015
+182,February 2015,South Ayrshire,102.9,28 February 2015
+183,February 2015,South Lanarkshire,102.1,28 February 2015
+184,March 2015,Aberdeen City and Aberdeenshire,103.0,28 March 2015
+185,March 2015,Caithness and Sutherland and Ross and Cromarty,99.8,28 March 2015
+186,March 2015,"Inverness and Nairn and Moray, Badenoch and Strathspey",100.9,28 March 2015
+187,March 2015,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",101.7,28 March 2015
+188,March 2015,Na h-Eileanan Siar,98.9,28 March 2015
+189,March 2015,Orkney Islands,100.2,28 March 2015
+190,March 2015,Shetland Islands,99.2,28 March 2015
+191,March 2015,Angus and Dundee City,101.6,28 March 2015
+192,March 2015,Clackmannanshire and Fife,101.5,28 March 2015
+193,March 2015,East Lothian and Midlothian,101.4,28 March 2015
+194,March 2015,City of Edinburgh,101.7,28 March 2015
+195,March 2015,Falkirk,101.4,28 March 2015
+196,March 2015,Perth and Kinross and Stirling,101.6,28 March 2015
+197,March 2015,West Lothian,101.5,28 March 2015
+198,March 2015,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",101.9,28 March 2015
+199,March 2015,Glasgow City,101.6,28 March 2015
+200,March 2015,"Inverclyde, East Renfrewshire and Renfrewshire",102.6,28 March 2015
+201,March 2015,North Lanarkshire,101.8,28 March 2015
+202,March 2015,Scottish Borders,102.4,28 March 2015
+203,March 2015,Dumfries and Galloway,103.0,28 March 2015
+204,March 2015,East Ayrshire and North Ayrshire mainland,101.4,28 March 2015
+205,March 2015,South Ayrshire,102.4,28 March 2015
+206,March 2015,South Lanarkshire,102.5,28 March 2015
+207,April 2015,Aberdeen City and Aberdeenshire,99.6,28 April 2015
+208,April 2015,Caithness and Sutherland and Ross and Cromarty,102.3,28 April 2015
+209,April 2015,"Inverness and Nairn and Moray, Badenoch and Strathspey",103.2,28 April 2015
+210,April 2015,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",102.1,28 April 2015
+211,April 2015,Na h-Eileanan Siar,101.8,28 April 2015
+212,April 2015,Orkney Islands,103.4,28 April 2015
+213,April 2015,Shetland Islands,98.7,28 April 2015
+214,April 2015,Angus and Dundee City,101.0,28 April 2015
+215,April 2015,Clackmannanshire and Fife,101.9,28 April 2015
+216,April 2015,East Lothian and Midlothian,100.1,28 April 2015
+217,April 2015,City of Edinburgh,103.1,28 April 2015
+218,April 2015,Falkirk,102.4,28 April 2015
+219,April 2015,Perth and Kinross and Stirling,102.6,28 April 2015
+220,April 2015,West Lothian,102.5,28 April 2015
+221,April 2015,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",102.0,28 April 2015
+222,April 2015,Glasgow City,102.6,28 April 2015
+223,April 2015,"Inverclyde, East Renfrewshire and Renfrewshire",102.7,28 April 2015
+224,April 2015,North Lanarkshire,103.6,28 April 2015
+225,April 2015,Scottish Borders,100.9,28 April 2015
+226,April 2015,Dumfries and Galloway,103.0,28 April 2015
+227,April 2015,East Ayrshire and North Ayrshire mainland,101.2,28 April 2015
+228,April 2015,South Ayrshire,101.7,28 April 2015
+229,April 2015,South Lanarkshire,101.1,28 April 2015
+230,May 2015,Aberdeen City and Aberdeenshire,99.6,28 May 2015
+231,May 2015,Caithness and Sutherland and Ross and Cromarty,102.0,28 May 2015
+232,May 2015,"Inverness and Nairn and Moray, Badenoch and Strathspey",102.9,28 May 2015
+233,May 2015,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",102.3,28 May 2015
+234,May 2015,Na h-Eileanan Siar,100.3,28 May 2015
+235,May 2015,Orkney Islands,102.4,28 May 2015
+236,May 2015,Shetland Islands,98.7,28 May 2015
+237,May 2015,Angus and Dundee City,101.5,28 May 2015
+238,May 2015,Clackmannanshire and Fife,102.0,28 May 2015
+239,May 2015,East Lothian and Midlothian,100.3,28 May 2015
+240,May 2015,City of Edinburgh,102.6,28 May 2015
+241,May 2015,Falkirk,102.8,28 May 2015
+242,May 2015,Perth and Kinross and Stirling,103.1,28 May 2015
+243,May 2015,West Lothian,103.4,28 May 2015
+244,May 2015,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",101.3,28 May 2015
+245,May 2015,Glasgow City,102.2,28 May 2015
+246,May 2015,"Inverclyde, East Renfrewshire and Renfrewshire",101.7,28 May 2015
+247,May 2015,North Lanarkshire,103.2,28 May 2015
+248,May 2015,Scottish Borders,101.8,28 May 2015
+249,May 2015,Dumfries and Galloway,102.2,28 May 2015
+250,May 2015,East Ayrshire and North Ayrshire mainland,101.1,28 May 2015
+251,May 2015,South Ayrshire,101.4,28 May 2015
+252,May 2015,South Lanarkshire,101.8,28 May 2015
+253,June 2015,Aberdeen City and Aberdeenshire,99.0,28 June 2015
+254,June 2015,Caithness and Sutherland and Ross and Cromarty,101.6,28 June 2015
+255,June 2015,"Inverness and Nairn and Moray, Badenoch and Strathspey",102.7,28 June 2015
+256,June 2015,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",102.0,28 June 2015
+257,June 2015,Na h-Eileanan Siar,98.8,28 June 2015
+258,June 2015,Orkney Islands,102.7,28 June 2015
+259,June 2015,Shetland Islands,98.7,28 June 2015
+260,June 2015,Angus and Dundee City,101.4,28 June 2015
+261,June 2015,Clackmannanshire and Fife,102.2,28 June 2015
+262,June 2015,East Lothian and Midlothian,100.8,28 June 2015
+263,June 2015,City of Edinburgh,101.9,28 June 2015
+264,June 2015,Falkirk,102.8,28 June 2015
+265,June 2015,Perth and Kinross and Stirling,102.9,28 June 2015
+266,June 2015,West Lothian,103.5,28 June 2015
+267,June 2015,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",102.1,28 June 2015
+268,June 2015,Glasgow City,103.1,28 June 2015
+269,June 2015,"Inverclyde, East Renfrewshire and Renfrewshire",102.5,28 June 2015
+270,June 2015,North Lanarkshire,103.8,28 June 2015
+271,June 2015,Scottish Borders,102.6,28 June 2015
+272,June 2015,Dumfries and Galloway,102.7,28 June 2015
+273,June 2015,East Ayrshire and North Ayrshire mainland,101.7,28 June 2015
+274,June 2015,South Ayrshire,102.1,28 June 2015
+275,June 2015,South Lanarkshire,102.1,28 June 2015
+276,July 2015,Aberdeen City and Aberdeenshire,97.4,28 July 2015
+277,July 2015,Caithness and Sutherland and Ross and Cromarty,101.8,28 July 2015
+278,July 2015,"Inverness and Nairn and Moray, Badenoch and Strathspey",102.6,28 July 2015
+279,July 2015,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",102.4,28 July 2015
+280,July 2015,Na h-Eileanan Siar,99.9,28 July 2015
+281,July 2015,Orkney Islands,103.1,28 July 2015
+282,July 2015,Shetland Islands,98.7,28 July 2015
+283,July 2015,Angus and Dundee City,101.5,28 July 2015
+284,July 2015,Clackmannanshire and Fife,102.2,28 July 2015
+285,July 2015,East Lothian and Midlothian,101.3,28 July 2015
+286,July 2015,City of Edinburgh,102.4,28 July 2015
+287,July 2015,Falkirk,102.9,28 July 2015
+288,July 2015,Perth and Kinross and Stirling,102.9,28 July 2015
+289,July 2015,West Lothian,103.8,28 July 2015
+290,July 2015,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",102.6,28 July 2015
+291,July 2015,Glasgow City,103.8,28 July 2015
+292,July 2015,"Inverclyde, East Renfrewshire and Renfrewshire",103.8,28 July 2015
+293,July 2015,North Lanarkshire,104.3,28 July 2015
+294,July 2015,Scottish Borders,103.6,28 July 2015
+295,July 2015,Dumfries and Galloway,103.2,28 July 2015
+296,July 2015,East Ayrshire and North Ayrshire mainland,102.1,28 July 2015
+297,July 2015,South Ayrshire,102.5,28 July 2015
+298,July 2015,South Lanarkshire,102.7,28 July 2015
+299,August 2015,Aberdeen City and Aberdeenshire,96.2,28 August 2015
+300,August 2015,Caithness and Sutherland and Ross and Cromarty,100.7,28 August 2015
+301,August 2015,"Inverness and Nairn and Moray, Badenoch and Strathspey",102.6,28 August 2015
+302,August 2015,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",101.7,28 August 2015
+303,August 2015,Na h-Eileanan Siar,99.0,28 August 2015
+304,August 2015,Orkney Islands,103.4,28 August 2015
+305,August 2015,Shetland Islands,98.2,28 August 2015
+306,August 2015,Angus and Dundee City,101.0,28 August 2015
+307,August 2015,Clackmannanshire and Fife,101.4,28 August 2015
+308,August 2015,East Lothian and Midlothian,101.4,28 August 2015
+309,August 2015,City of Edinburgh,102.3,28 August 2015
+310,August 2015,Falkirk,103.4,28 August 2015
+311,August 2015,Perth and Kinross and Stirling,102.8,28 August 2015
+312,August 2015,West Lothian,103.0,28 August 2015
+313,August 2015,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",102.5,28 August 2015
+314,August 2015,Glasgow City,104.2,28 August 2015
+315,August 2015,"Inverclyde, East Renfrewshire and Renfrewshire",103.6,28 August 2015
+316,August 2015,North Lanarkshire,102.0,28 August 2015
+317,August 2015,Scottish Borders,102.7,28 August 2015
+318,August 2015,Dumfries and Galloway,103.7,28 August 2015
+319,August 2015,East Ayrshire and North Ayrshire mainland,102.5,28 August 2015
+320,August 2015,South Ayrshire,102.7,28 August 2015
+321,August 2015,South Lanarkshire,102.7,28 August 2015
+322,September 2015,Aberdeen City and Aberdeenshire,95.8,28 September 2015
+323,September 2015,Caithness and Sutherland and Ross and Cromarty,100.9,28 September 2015
+324,September 2015,"Inverness and Nairn and Moray, Badenoch and Strathspey",101.6,28 September 2015
+325,September 2015,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",100.8,28 September 2015
+326,September 2015,Na h-Eileanan Siar,100.0,28 September 2015
+327,September 2015,Orkney Islands,101.7,28 September 2015
+328,September 2015,Shetland Islands,97.8,28 September 2015
+329,September 2015,Angus and Dundee City,100.8,28 September 2015
+330,September 2015,Clackmannanshire and Fife,101.5,28 September 2015
+331,September 2015,East Lothian and Midlothian,101.1,28 September 2015
+332,September 2015,City of Edinburgh,102.0,28 September 2015
+333,September 2015,Falkirk,103.3,28 September 2015
+334,September 2015,Perth and Kinross and Stirling,102.2,28 September 2015
+335,September 2015,West Lothian,103.0,28 September 2015
+336,September 2015,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",102.0,28 September 2015
+337,September 2015,Glasgow City,103.9,28 September 2015
+338,September 2015,"Inverclyde, East Renfrewshire and Renfrewshire",103.2,28 September 2015
+339,September 2015,North Lanarkshire,103.9,28 September 2015
+340,September 2015,Scottish Borders,103.3,28 September 2015
+341,September 2015,Dumfries and Galloway,104.2,28 September 2015
+342,September 2015,East Ayrshire and North Ayrshire mainland,102.7,28 September 2015
+343,September 2015,South Ayrshire,102.8,28 September 2015
+344,September 2015,South Lanarkshire,103.3,28 September 2015
+345,October 2015,Aberdeen City and Aberdeenshire,95.1,28 October 2015
+346,October 2015,Caithness and Sutherland and Ross and Cromarty,100.7,28 October 2015
+347,October 2015,"Inverness and Nairn and Moray, Badenoch and Strathspey",101.8,28 October 2015
+348,October 2015,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",101.3,28 October 2015
+349,October 2015,Na h-Eileanan Siar,100.7,28 October 2015
+350,October 2015,Orkney Islands,103.0,28 October 2015
+351,October 2015,Shetland Islands,97.2,28 October 2015
+352,October 2015,Angus and Dundee City,100.7,28 October 2015
+353,October 2015,Clackmannanshire and Fife,101.6,28 October 2015
+354,October 2015,East Lothian and Midlothian,103.3,28 October 2015
+355,October 2015,City of Edinburgh,102.0,28 October 2015
+356,October 2015,Falkirk,103.0,28 October 2015
+357,October 2015,Perth and Kinross and Stirling,102.8,28 October 2015
+358,October 2015,West Lothian,103.4,28 October 2015
+359,October 2015,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",102.4,28 October 2015
+360,October 2015,Glasgow City,104.7,28 October 2015
+361,October 2015,"Inverclyde, East Renfrewshire and Renfrewshire",103.7,28 October 2015
+362,October 2015,North Lanarkshire,105.0,28 October 2015
+363,October 2015,Scottish Borders,103.0,28 October 2015
+364,October 2015,Dumfries and Galloway,103.9,28 October 2015
+365,October 2015,East Ayrshire and North Ayrshire mainland,102.9,28 October 2015
+366,October 2015,South Ayrshire,103.0,28 October 2015
+367,October 2015,South Lanarkshire,104.2,28 October 2015
+368,November 2015,Aberdeen City and Aberdeenshire,94.9,28 November 2015
+369,November 2015,Caithness and Sutherland and Ross and Cromarty,102.1,28 November 2015
+370,November 2015,"Inverness and Nairn and Moray, Badenoch and Strathspey",102.8,28 November 2015
+371,November 2015,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",103.1,28 November 2015
+372,November 2015,Na h-Eileanan Siar,101.9,28 November 2015
+373,November 2015,Orkney Islands,104.1,28 November 2015
+374,November 2015,Shetland Islands,98.3,28 November 2015
+375,November 2015,Angus and Dundee City,102.3,28 November 2015
+376,November 2015,Clackmannanshire and Fife,102.7,28 November 2015
+377,November 2015,East Lothian and Midlothian,103.4,28 November 2015
+378,November 2015,City of Edinburgh,103.2,28 November 2015
+379,November 2015,Falkirk,104.0,28 November 2015
+380,November 2015,Perth and Kinross and Stirling,104.1,28 November 2015
+381,November 2015,West Lothian,104.7,28 November 2015
+382,November 2015,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",103.2,28 November 2015
+383,November 2015,Glasgow City,105.8,28 November 2015
+384,November 2015,"Inverclyde, East Renfrewshire and Renfrewshire",104.6,28 November 2015
+385,November 2015,North Lanarkshire,105.8,28 November 2015
+386,November 2015,Scottish Borders,103.3,28 November 2015
+387,November 2015,Dumfries and Galloway,104.0,28 November 2015
+388,November 2015,East Ayrshire and North Ayrshire mainland,104.1,28 November 2015
+389,November 2015,South Ayrshire,104.8,28 November 2015
+390,November 2015,South Lanarkshire,104.2,28 November 2015
+391,December 2015,Aberdeen City and Aberdeenshire,94.1,28 December 2015
+392,December 2015,Caithness and Sutherland and Ross and Cromarty,101.3,28 December 2015
+393,December 2015,"Inverness and Nairn and Moray, Badenoch and Strathspey",101.7,28 December 2015
+394,December 2015,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",102.4,28 December 2015
+395,December 2015,Na h-Eileanan Siar,100.8,28 December 2015
+396,December 2015,Orkney Islands,102.7,28 December 2015
+397,December 2015,Shetland Islands,93.9,28 December 2015
+398,December 2015,Angus and Dundee City,101.3,28 December 2015
+399,December 2015,Clackmannanshire and Fife,102.8,28 December 2015
+400,December 2015,East Lothian and Midlothian,102.4,28 December 2015
+401,December 2015,City of Edinburgh,103.5,28 December 2015
+402,December 2015,Falkirk,103.8,28 December 2015
+403,December 2015,Perth and Kinross and Stirling,104.1,28 December 2015
+404,December 2015,West Lothian,104.9,28 December 2015
+405,December 2015,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",103.4,28 December 2015
+406,December 2015,Glasgow City,105.8,28 December 2015
+407,December 2015,"Inverclyde, East Renfrewshire and Renfrewshire",104.3,28 December 2015
+408,December 2015,North Lanarkshire,105.3,28 December 2015
+409,December 2015,Scottish Borders,103.8,28 December 2015
+410,December 2015,Dumfries and Galloway,104.1,28 December 2015
+411,December 2015,East Ayrshire and North Ayrshire mainland,103.4,28 December 2015
+412,December 2015,South Ayrshire,103.7,28 December 2015
+413,December 2015,South Lanarkshire,104.1,28 December 2015
+414,January 2016,Aberdeen City and Aberdeenshire,93.0,28 January 2016
+415,January 2016,Caithness and Sutherland and Ross and Cromarty,101.5,28 January 2016
+416,January 2016,"Inverness and Nairn and Moray, Badenoch and Strathspey",102.3,28 January 2016
+417,January 2016,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",101.8,28 January 2016
+418,January 2016,Na h-Eileanan Siar,101.0,28 January 2016
+419,January 2016,Orkney Islands,104.2,28 January 2016
+420,January 2016,Shetland Islands,96.0,28 January 2016
+421,January 2016,Angus and Dundee City,101.2,28 January 2016
+422,January 2016,Clackmannanshire and Fife,102.6,28 January 2016
+423,January 2016,East Lothian and Midlothian,101.1,28 January 2016
+424,January 2016,City of Edinburgh,102.8,28 January 2016
+425,January 2016,Falkirk,103.7,28 January 2016
+426,January 2016,Perth and Kinross and Stirling,103.5,28 January 2016
+427,January 2016,West Lothian,104.9,28 January 2016
+428,January 2016,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",104.0,28 January 2016
+429,January 2016,Glasgow City,105.7,28 January 2016
+430,January 2016,"Inverclyde, East Renfrewshire and Renfrewshire",104.4,28 January 2016
+431,January 2016,North Lanarkshire,105.1,28 January 2016
+432,January 2016,Scottish Borders,103.7,28 January 2016
+433,January 2016,Dumfries and Galloway,104.1,28 January 2016
+434,January 2016,East Ayrshire and North Ayrshire mainland,103.3,28 January 2016
+435,January 2016,South Ayrshire,103.7,28 January 2016
+436,January 2016,South Lanarkshire,104.2,28 January 2016
+437,February 2016,Aberdeen City and Aberdeenshire,92.4,28 February 2016
+438,February 2016,Caithness and Sutherland and Ross and Cromarty,101.8,28 February 2016
+439,February 2016,"Inverness and Nairn and Moray, Badenoch and Strathspey",101.6,28 February 2016
+440,February 2016,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",101.6,28 February 2016
+441,February 2016,Na h-Eileanan Siar,100.5,28 February 2016
+442,February 2016,Orkney Islands,103.3,28 February 2016
+443,February 2016,Shetland Islands,96.3,28 February 2016
+444,February 2016,Angus and Dundee City,100.8,28 February 2016
+445,February 2016,Clackmannanshire and Fife,102.8,28 February 2016
+446,February 2016,East Lothian and Midlothian,102.1,28 February 2016
+447,February 2016,City of Edinburgh,103.5,28 February 2016
+448,February 2016,Falkirk,104.5,28 February 2016
+449,February 2016,Perth and Kinross and Stirling,103.0,28 February 2016
+450,February 2016,West Lothian,105.1,28 February 2016
+451,February 2016,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",103.1,28 February 2016
+452,February 2016,Glasgow City,105.8,28 February 2016
+453,February 2016,"Inverclyde, East Renfrewshire and Renfrewshire",104.3,28 February 2016
+454,February 2016,North Lanarkshire,105.2,28 February 2016
+455,February 2016,Scottish Borders,102.8,28 February 2016
+456,February 2016,Dumfries and Galloway,104.2,28 February 2016
+457,February 2016,East Ayrshire and North Ayrshire mainland,102.9,28 February 2016
+458,February 2016,South Ayrshire,103.2,28 February 2016
+459,February 2016,South Lanarkshire,104.4,28 February 2016
+460,March 2016,Aberdeen City and Aberdeenshire,93.2,28 March 2016
+461,March 2016,Caithness and Sutherland and Ross and Cromarty,101.0,28 March 2016
+462,March 2016,"Inverness and Nairn and Moray, Badenoch and Strathspey",101.4,28 March 2016
+463,March 2016,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",102.2,28 March 2016
+464,March 2016,Na h-Eileanan Siar,101.3,28 March 2016
+465,March 2016,Orkney Islands,102.8,28 March 2016
+466,March 2016,Shetland Islands,94.1,28 March 2016
+467,March 2016,Angus and Dundee City,101.0,28 March 2016
+468,March 2016,Clackmannanshire and Fife,102.2,28 March 2016
+469,March 2016,East Lothian and Midlothian,102.2,28 March 2016
+470,March 2016,City of Edinburgh,104.0,28 March 2016
+471,March 2016,Falkirk,103.9,28 March 2016
+472,March 2016,Perth and Kinross and Stirling,102.9,28 March 2016
+473,March 2016,West Lothian,105.4,28 March 2016
+474,March 2016,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",103.4,28 March 2016
+475,March 2016,Glasgow City,106.4,28 March 2016
+476,March 2016,"Inverclyde, East Renfrewshire and Renfrewshire",104.7,28 March 2016
+477,March 2016,North Lanarkshire,106.1,28 March 2016
+478,March 2016,Scottish Borders,103.2,28 March 2016
+479,March 2016,Dumfries and Galloway,105.0,28 March 2016
+480,March 2016,East Ayrshire and North Ayrshire mainland,103.7,28 March 2016
+481,March 2016,South Ayrshire,103.9,28 March 2016
+482,March 2016,South Lanarkshire,104.9,28 March 2016
+483,April 2016,Aberdeen City and Aberdeenshire,92.4,28 April 2016
+484,April 2016,Caithness and Sutherland and Ross and Cromarty,102.3,28 April 2016
+485,April 2016,"Inverness and Nairn and Moray, Badenoch and Strathspey",101.9,28 April 2016
+486,April 2016,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",102.1,28 April 2016
+487,April 2016,Na h-Eileanan Siar,101.3,28 April 2016
+488,April 2016,Orkney Islands,103.2,28 April 2016
+489,April 2016,Shetland Islands,91.1,28 April 2016
+490,April 2016,Angus and Dundee City,101.4,28 April 2016
+491,April 2016,Clackmannanshire and Fife,102.9,28 April 2016
+492,April 2016,East Lothian and Midlothian,103.9,28 April 2016
+493,April 2016,City of Edinburgh,104.3,28 April 2016
+494,April 2016,Falkirk,104.6,28 April 2016
+495,April 2016,Perth and Kinross and Stirling,103.7,28 April 2016
+496,April 2016,West Lothian,105.6,28 April 2016
+497,April 2016,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",104.1,28 April 2016
+498,April 2016,Glasgow City,107.1,28 April 2016
+499,April 2016,"Inverclyde, East Renfrewshire and Renfrewshire",106.3,28 April 2016
+500,April 2016,North Lanarkshire,106.2,28 April 2016
+501,April 2016,Scottish Borders,105.5,28 April 2016
+502,April 2016,Dumfries and Galloway,106.8,28 April 2016
+503,April 2016,East Ayrshire and North Ayrshire mainland,105.5,28 April 2016
+504,April 2016,South Ayrshire,106.2,28 April 2016
+505,April 2016,South Lanarkshire,106.3,28 April 2016
+506,May 2016,Aberdeen City and Aberdeenshire,90.8,28 May 2016
+507,May 2016,Caithness and Sutherland and Ross and Cromarty,101.1,28 May 2016
+508,May 2016,"Inverness and Nairn and Moray, Badenoch and Strathspey",101.3,28 May 2016
+509,May 2016,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",101.3,28 May 2016
+510,May 2016,Na h-Eileanan Siar,98.9,28 May 2016
+511,May 2016,Orkney Islands,103.0,28 May 2016
+512,May 2016,Shetland Islands,91.9,28 May 2016
+513,May 2016,Angus and Dundee City,100.8,28 May 2016
+514,May 2016,Clackmannanshire and Fife,102.5,28 May 2016
+515,May 2016,East Lothian and Midlothian,105.5,28 May 2016
+516,May 2016,City of Edinburgh,104.0,28 May 2016
+517,May 2016,Falkirk,104.6,28 May 2016
+518,May 2016,Perth and Kinross and Stirling,103.5,28 May 2016
+519,May 2016,West Lothian,105.4,28 May 2016
+520,May 2016,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",103.7,28 May 2016
+521,May 2016,Glasgow City,106.4,28 May 2016
+522,May 2016,"Inverclyde, East Renfrewshire and Renfrewshire",105.3,28 May 2016
+523,May 2016,North Lanarkshire,106.3,28 May 2016
+524,May 2016,Scottish Borders,104.6,28 May 2016
+525,May 2016,Dumfries and Galloway,105.7,28 May 2016
+526,May 2016,East Ayrshire and North Ayrshire mainland,104.1,28 May 2016
+527,May 2016,South Ayrshire,104.4,28 May 2016
+528,May 2016,South Lanarkshire,105.2,28 May 2016
+529,June 2016,Aberdeen City and Aberdeenshire,91.6,28 June 2016
+530,June 2016,Caithness and Sutherland and Ross and Cromarty,102.7,28 June 2016
+531,June 2016,"Inverness and Nairn and Moray, Badenoch and Strathspey",102.7,28 June 2016
+532,June 2016,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",102.4,28 June 2016
+533,June 2016,Na h-Eileanan Siar,102.4,28 June 2016
+534,June 2016,Orkney Islands,103.7,28 June 2016
+535,June 2016,Shetland Islands,93.1,28 June 2016
+536,June 2016,Angus and Dundee City,101.6,28 June 2016
+537,June 2016,Clackmannanshire and Fife,102.9,28 June 2016
+538,June 2016,East Lothian and Midlothian,104.0,28 June 2016
+539,June 2016,City of Edinburgh,105.5,28 June 2016
+540,June 2016,Falkirk,105.5,28 June 2016
+541,June 2016,Perth and Kinross and Stirling,104.6,28 June 2016
+542,June 2016,West Lothian,106.3,28 June 2016
+543,June 2016,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",103.6,28 June 2016
+544,June 2016,Glasgow City,106.3,28 June 2016
+545,June 2016,"Inverclyde, East Renfrewshire and Renfrewshire",105.1,28 June 2016
+546,June 2016,North Lanarkshire,106.3,28 June 2016
+547,June 2016,Scottish Borders,103.5,28 June 2016
+548,June 2016,Dumfries and Galloway,104.6,28 June 2016
+549,June 2016,East Ayrshire and North Ayrshire mainland,103.7,28 June 2016
+550,June 2016,South Ayrshire,104.0,28 June 2016
+551,June 2016,South Lanarkshire,104.5,28 June 2016
+552,July 2016,Aberdeen City and Aberdeenshire,91.5,28 July 2016
+553,July 2016,Caithness and Sutherland and Ross and Cromarty,103.4,28 July 2016
+554,July 2016,"Inverness and Nairn and Moray, Badenoch and Strathspey",102.4,28 July 2016
+555,July 2016,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",102.8,28 July 2016
+556,July 2016,Na h-Eileanan Siar,102.9,28 July 2016
+557,July 2016,Orkney Islands,103.1,28 July 2016
+558,July 2016,Shetland Islands,93.3,28 July 2016
+559,July 2016,Angus and Dundee City,101.5,28 July 2016
+560,July 2016,Clackmannanshire and Fife,103.0,28 July 2016
+561,July 2016,East Lothian and Midlothian,104.3,28 July 2016
+562,July 2016,City of Edinburgh,105.6,28 July 2016
+563,July 2016,Falkirk,105.8,28 July 2016
+564,July 2016,Perth and Kinross and Stirling,105.1,28 July 2016
+565,July 2016,West Lothian,106.7,28 July 2016
+566,July 2016,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",104.5,28 July 2016
+567,July 2016,Glasgow City,107.3,28 July 2016
+568,July 2016,"Inverclyde, East Renfrewshire and Renfrewshire",105.8,28 July 2016
+569,July 2016,North Lanarkshire,107.4,28 July 2016
+570,July 2016,Scottish Borders,104.9,28 July 2016
+571,July 2016,Dumfries and Galloway,105.3,28 July 2016
+572,July 2016,East Ayrshire and North Ayrshire mainland,104.5,28 July 2016
+573,July 2016,South Ayrshire,105.3,28 July 2016
+574,July 2016,South Lanarkshire,105.3,28 July 2016
+575,August 2016,Aberdeen City and Aberdeenshire,91.0,28 August 2016
+576,August 2016,Caithness and Sutherland and Ross and Cromarty,102.4,28 August 2016
+577,August 2016,"Inverness and Nairn and Moray, Badenoch and Strathspey",101.8,28 August 2016
+578,August 2016,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",103.2,28 August 2016
+579,August 2016,Na h-Eileanan Siar,102.7,28 August 2016
+580,August 2016,Orkney Islands,102.6,28 August 2016
+581,August 2016,Shetland Islands,92.6,28 August 2016
+582,August 2016,Angus and Dundee City,100.8,28 August 2016
+583,August 2016,Clackmannanshire and Fife,102.8,28 August 2016
+584,August 2016,East Lothian and Midlothian,104.3,28 August 2016
+585,August 2016,City of Edinburgh,105.6,28 August 2016
+586,August 2016,Falkirk,105.3,28 August 2016
+587,August 2016,Perth and Kinross and Stirling,105.3,28 August 2016
+588,August 2016,West Lothian,107.2,28 August 2016
+589,August 2016,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",104.5,28 August 2016
+590,August 2016,Glasgow City,107.3,28 August 2016
+591,August 2016,"Inverclyde, East Renfrewshire and Renfrewshire",105.8,28 August 2016
+592,August 2016,North Lanarkshire,106.9,28 August 2016
+593,August 2016,Scottish Borders,104.5,28 August 2016
+594,August 2016,Dumfries and Galloway,104.3,28 August 2016
+595,August 2016,East Ayrshire and North Ayrshire mainland,104.3,28 August 2016
+596,August 2016,South Ayrshire,105.0,28 August 2016
+597,August 2016,South Lanarkshire,105.6,28 August 2016
+598,September 2016,Aberdeen City and Aberdeenshire,90.7,28 September 2016
+599,September 2016,Caithness and Sutherland and Ross and Cromarty,102.8,28 September 2016
+600,September 2016,"Inverness and Nairn and Moray, Badenoch and Strathspey",102.9,28 September 2016
+601,September 2016,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",103.9,28 September 2016
+602,September 2016,Na h-Eileanan Siar,103.4,28 September 2016
+603,September 2016,Orkney Islands,103.9,28 September 2016
+604,September 2016,Shetland Islands,92.2,28 September 2016
+605,September 2016,Angus and Dundee City,101.5,28 September 2016
+606,September 2016,Clackmannanshire and Fife,103.2,28 September 2016
+607,September 2016,East Lothian and Midlothian,104.7,28 September 2016
+608,September 2016,City of Edinburgh,106.3,28 September 2016
+609,September 2016,Falkirk,106.1,28 September 2016
+610,September 2016,Perth and Kinross and Stirling,106.2,28 September 2016
+611,September 2016,West Lothian,107.4,28 September 2016
+612,September 2016,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",104.9,28 September 2016
+613,September 2016,Glasgow City,107.8,28 September 2016
+614,September 2016,"Inverclyde, East Renfrewshire and Renfrewshire",106.0,28 September 2016
+615,September 2016,North Lanarkshire,107.6,28 September 2016
+616,September 2016,Scottish Borders,104.3,28 September 2016
+617,September 2016,Dumfries and Galloway,104.5,28 September 2016
+618,September 2016,East Ayrshire and North Ayrshire mainland,104.7,28 September 2016
+619,September 2016,South Ayrshire,105.4,28 September 2016
+620,September 2016,South Lanarkshire,105.5,28 September 2016
+621,October 2016,Aberdeen City and Aberdeenshire,90.2,28 October 2016
+622,October 2016,Caithness and Sutherland and Ross and Cromarty,103.4,28 October 2016
+623,October 2016,"Inverness and Nairn and Moray, Badenoch and Strathspey",103.7,28 October 2016
+624,October 2016,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",103.8,28 October 2016
+625,October 2016,Na h-Eileanan Siar,98.7,28 October 2016
+626,October 2016,Orkney Islands,105.1,28 October 2016
+627,October 2016,Shetland Islands,92.2,28 October 2016
+628,October 2016,Angus and Dundee City,101.8,28 October 2016
+629,October 2016,Clackmannanshire and Fife,104.0,28 October 2016
+630,October 2016,East Lothian and Midlothian,105.7,28 October 2016
+631,October 2016,City of Edinburgh,107.3,28 October 2016
+632,October 2016,Falkirk,107.2,28 October 2016
+633,October 2016,Perth and Kinross and Stirling,106.3,28 October 2016
+634,October 2016,West Lothian,108.6,28 October 2016
+635,October 2016,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",105.5,28 October 2016
+636,October 2016,Glasgow City,108.2,28 October 2016
+637,October 2016,"Inverclyde, East Renfrewshire and Renfrewshire",106.6,28 October 2016
+638,October 2016,North Lanarkshire,107.4,28 October 2016
+639,October 2016,Scottish Borders,104.9,28 October 2016
+640,October 2016,Dumfries and Galloway,105.3,28 October 2016
+641,October 2016,East Ayrshire and North Ayrshire mainland,105.2,28 October 2016
+642,October 2016,South Ayrshire,105.7,28 October 2016
+643,October 2016,South Lanarkshire,105.4,28 October 2016
+644,November 2016,Aberdeen City and Aberdeenshire,89.8,28 November 2016
+645,November 2016,Caithness and Sutherland and Ross and Cromarty,103.6,28 November 2016
+646,November 2016,"Inverness and Nairn and Moray, Badenoch and Strathspey",103.9,28 November 2016
+647,November 2016,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",104.5,28 November 2016
+648,November 2016,Na h-Eileanan Siar,96.1,28 November 2016
+649,November 2016,Orkney Islands,104.8,28 November 2016
+650,November 2016,Shetland Islands,92.1,28 November 2016
+651,November 2016,Angus and Dundee City,101.0,28 November 2016
+652,November 2016,Clackmannanshire and Fife,103.3,28 November 2016
+653,November 2016,East Lothian and Midlothian,104.8,28 November 2016
+654,November 2016,City of Edinburgh,106.5,28 November 2016
+655,November 2016,Falkirk,106.7,28 November 2016
+656,November 2016,Perth and Kinross and Stirling,104.7,28 November 2016
+657,November 2016,West Lothian,107.6,28 November 2016
+658,November 2016,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",104.5,28 November 2016
+659,November 2016,Glasgow City,108.1,28 November 2016
+660,November 2016,"Inverclyde, East Renfrewshire and Renfrewshire",105.8,28 November 2016
+661,November 2016,North Lanarkshire,107.7,28 November 2016
+662,November 2016,Scottish Borders,105.1,28 November 2016
+663,November 2016,Dumfries and Galloway,104.8,28 November 2016
+664,November 2016,East Ayrshire and North Ayrshire mainland,105.0,28 November 2016
+665,November 2016,South Ayrshire,105.2,28 November 2016
+666,November 2016,South Lanarkshire,105.6,28 November 2016
+667,December 2016,Aberdeen City and Aberdeenshire,90.1,28 December 2016
+668,December 2016,Caithness and Sutherland and Ross and Cromarty,103.7,28 December 2016
+669,December 2016,"Inverness and Nairn and Moray, Badenoch and Strathspey",103.5,28 December 2016
+670,December 2016,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",104.4,28 December 2016
+671,December 2016,Na h-Eileanan Siar,103.1,28 December 2016
+672,December 2016,Orkney Islands,105.5,28 December 2016
+673,December 2016,Shetland Islands,92.1,28 December 2016
+674,December 2016,Angus and Dundee City,102.1,28 December 2016
+675,December 2016,Clackmannanshire and Fife,103.7,28 December 2016
+676,December 2016,East Lothian and Midlothian,106.0,28 December 2016
+677,December 2016,City of Edinburgh,107.3,28 December 2016
+678,December 2016,Falkirk,107.8,28 December 2016
+679,December 2016,Perth and Kinross and Stirling,106.4,28 December 2016
+680,December 2016,West Lothian,108.0,28 December 2016
+681,December 2016,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",105.9,28 December 2016
+682,December 2016,Glasgow City,108.2,28 December 2016
+683,December 2016,"Inverclyde, East Renfrewshire and Renfrewshire",106.6,28 December 2016
+684,December 2016,North Lanarkshire,108.1,28 December 2016
+685,December 2016,Scottish Borders,104.0,28 December 2016
+686,December 2016,Dumfries and Galloway,109.3,28 December 2016
+687,December 2016,East Ayrshire and North Ayrshire mainland,104.6,28 December 2016
+688,December 2016,South Ayrshire,104.3,28 December 2016
+689,December 2016,South Lanarkshire,106.5,28 December 2016
+690,January 2017,Aberdeen City and Aberdeenshire,89.4,28 January 2017
+691,January 2017,Caithness and Sutherland and Ross and Cromarty,102.8,28 January 2017
+692,January 2017,"Inverness and Nairn and Moray, Badenoch and Strathspey",103.0,28 January 2017
+693,January 2017,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",104.4,28 January 2017
+694,January 2017,Na h-Eileanan Siar,102.1,28 January 2017
+695,January 2017,Orkney Islands,103.7,28 January 2017
+696,January 2017,Shetland Islands,92.7,28 January 2017
+697,January 2017,Angus and Dundee City,101.9,28 January 2017
+698,January 2017,Clackmannanshire and Fife,103.6,28 January 2017
+699,January 2017,East Lothian and Midlothian,106.6,28 January 2017
+700,January 2017,City of Edinburgh,108.2,28 January 2017
+701,January 2017,Falkirk,107.9,28 January 2017
+702,January 2017,Perth and Kinross and Stirling,107.2,28 January 2017
+703,January 2017,West Lothian,107.7,28 January 2017
+704,January 2017,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",105.2,28 January 2017
+705,January 2017,Glasgow City,108.4,28 January 2017
+706,January 2017,"Inverclyde, East Renfrewshire and Renfrewshire",107.0,28 January 2017
+707,January 2017,North Lanarkshire,107.3,28 January 2017
+708,January 2017,Scottish Borders,105.2,28 January 2017
+709,January 2017,Dumfries and Galloway,105.9,28 January 2017
+710,January 2017,East Ayrshire and North Ayrshire mainland,104.7,28 January 2017
+711,January 2017,South Ayrshire,104.7,28 January 2017
+712,January 2017,South Lanarkshire,106.6,28 January 2017
+713,February 2017,Aberdeen City and Aberdeenshire,89.4,28 February 2017
+714,February 2017,Caithness and Sutherland and Ross and Cromarty,102.2,28 February 2017
+715,February 2017,"Inverness and Nairn and Moray, Badenoch and Strathspey",103.1,28 February 2017
+716,February 2017,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",104.4,28 February 2017
+717,February 2017,Na h-Eileanan Siar,102.9,28 February 2017
+718,February 2017,Orkney Islands,104.5,28 February 2017
+719,February 2017,Shetland Islands,93.6,28 February 2017
+720,February 2017,Angus and Dundee City,102.3,28 February 2017
+721,February 2017,Clackmannanshire and Fife,103.7,28 February 2017
+722,February 2017,East Lothian and Midlothian,107.0,28 February 2017
+723,February 2017,City of Edinburgh,108.5,28 February 2017
+724,February 2017,Falkirk,108.0,28 February 2017
+725,February 2017,Perth and Kinross and Stirling,106.1,28 February 2017
+726,February 2017,West Lothian,107.8,28 February 2017
+727,February 2017,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",107.1,28 February 2017
+728,February 2017,Glasgow City,109.1,28 February 2017
+729,February 2017,"Inverclyde, East Renfrewshire and Renfrewshire",107.6,28 February 2017
+730,February 2017,North Lanarkshire,108.4,28 February 2017
+731,February 2017,Scottish Borders,105.9,28 February 2017
+732,February 2017,Dumfries and Galloway,105.6,28 February 2017
+733,February 2017,East Ayrshire and North Ayrshire mainland,105.6,28 February 2017
+734,February 2017,South Ayrshire,105.0,28 February 2017
+735,February 2017,South Lanarkshire,107.1,28 February 2017
+736,March 2017,Aberdeen City and Aberdeenshire,89.1,28 March 2017
+737,March 2017,Caithness and Sutherland and Ross and Cromarty,103.3,28 March 2017
+738,March 2017,"Inverness and Nairn and Moray, Badenoch and Strathspey",103.4,28 March 2017
+739,March 2017,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",105.5,28 March 2017
+740,March 2017,Na h-Eileanan Siar,102.6,28 March 2017
+741,March 2017,Orkney Islands,103.3,28 March 2017
+742,March 2017,Shetland Islands,94.5,28 March 2017
+743,March 2017,Angus and Dundee City,104.5,28 March 2017
+744,March 2017,Clackmannanshire and Fife,104.9,28 March 2017
+745,March 2017,East Lothian and Midlothian,109.1,28 March 2017
+746,March 2017,City of Edinburgh,109.8,28 March 2017
+747,March 2017,Falkirk,109.1,28 March 2017
+748,March 2017,Perth and Kinross and Stirling,105.4,28 March 2017
+749,March 2017,West Lothian,108.0,28 March 2017
+750,March 2017,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",105.3,28 March 2017
+751,March 2017,Glasgow City,109.2,28 March 2017
+752,March 2017,"Inverclyde, East Renfrewshire and Renfrewshire",107.2,28 March 2017
+753,March 2017,North Lanarkshire,111.3,28 March 2017
+754,March 2017,Scottish Borders,106.5,28 March 2017
+755,March 2017,Dumfries and Galloway,106.4,28 March 2017
+756,March 2017,East Ayrshire and North Ayrshire mainland,105.8,28 March 2017
+757,March 2017,South Ayrshire,105.3,28 March 2017
+758,March 2017,South Lanarkshire,107.5,28 March 2017
+759,April 2017,Aberdeen City and Aberdeenshire,89.0,28 April 2017
+760,April 2017,Caithness and Sutherland and Ross and Cromarty,101.8,28 April 2017
+761,April 2017,"Inverness and Nairn and Moray, Badenoch and Strathspey",103.8,28 April 2017
+762,April 2017,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",105.0,28 April 2017
+763,April 2017,Na h-Eileanan Siar,102.1,28 April 2017
+764,April 2017,Orkney Islands,104.1,28 April 2017
+765,April 2017,Shetland Islands,94.6,28 April 2017
+766,April 2017,Angus and Dundee City,104.1,28 April 2017
+767,April 2017,Clackmannanshire and Fife,106.2,28 April 2017
+768,April 2017,East Lothian and Midlothian,109.6,28 April 2017
+769,April 2017,City of Edinburgh,111.4,28 April 2017
+770,April 2017,Falkirk,110.0,28 April 2017
+771,April 2017,Perth and Kinross and Stirling,109.7,28 April 2017
+772,April 2017,West Lothian,111.3,28 April 2017
+773,April 2017,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",107.1,28 April 2017
+774,April 2017,Glasgow City,110.1,28 April 2017
+775,April 2017,"Inverclyde, East Renfrewshire and Renfrewshire",108.6,28 April 2017
+776,April 2017,North Lanarkshire,110.3,28 April 2017
+777,April 2017,Scottish Borders,106.3,28 April 2017
+778,April 2017,Dumfries and Galloway,105.7,28 April 2017
+779,April 2017,East Ayrshire and North Ayrshire mainland,105.2,28 April 2017
+780,April 2017,South Ayrshire,105.3,28 April 2017
+781,April 2017,South Lanarkshire,107.4,28 April 2017
+782,May 2017,Aberdeen City and Aberdeenshire,89.7,28 May 2017
+783,May 2017,Caithness and Sutherland and Ross and Cromarty,102.1,28 May 2017
+784,May 2017,"Inverness and Nairn and Moray, Badenoch and Strathspey",103.9,28 May 2017
+785,May 2017,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",105.6,28 May 2017
+786,May 2017,Na h-Eileanan Siar,102.9,28 May 2017
+787,May 2017,Orkney Islands,104.8,28 May 2017
+788,May 2017,Shetland Islands,96.7,28 May 2017
+789,May 2017,Angus and Dundee City,103.6,28 May 2017
+790,May 2017,Clackmannanshire and Fife,106.2,28 May 2017
+791,May 2017,East Lothian and Midlothian,109.7,28 May 2017
+792,May 2017,City of Edinburgh,111.5,28 May 2017
+793,May 2017,Falkirk,109.7,28 May 2017
+794,May 2017,Perth and Kinross and Stirling,108.0,28 May 2017
+795,May 2017,West Lothian,110.7,28 May 2017
+796,May 2017,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",108.3,28 May 2017
+797,May 2017,Glasgow City,111.5,28 May 2017
+798,May 2017,"Inverclyde, East Renfrewshire and Renfrewshire",109.8,28 May 2017
+799,May 2017,North Lanarkshire,110.0,28 May 2017
+800,May 2017,Scottish Borders,106.8,28 May 2017
+801,May 2017,Dumfries and Galloway,106.4,28 May 2017
+802,May 2017,East Ayrshire and North Ayrshire mainland,106.1,28 May 2017
+803,May 2017,South Ayrshire,106.9,28 May 2017
+804,May 2017,South Lanarkshire,108.0,28 May 2017
+805,June 2017,Aberdeen City and Aberdeenshire,90.1,28 June 2017
+806,June 2017,Caithness and Sutherland and Ross and Cromarty,102.8,28 June 2017
+807,June 2017,"Inverness and Nairn and Moray, Badenoch and Strathspey",104.3,28 June 2017
+808,June 2017,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",106.4,28 June 2017
+809,June 2017,Na h-Eileanan Siar,104.4,28 June 2017
+810,June 2017,Orkney Islands,105.2,28 June 2017
+811,June 2017,Shetland Islands,94.8,28 June 2017
+812,June 2017,Angus and Dundee City,103.9,28 June 2017
+813,June 2017,Clackmannanshire and Fife,106.7,28 June 2017
+814,June 2017,East Lothian and Midlothian,109.7,28 June 2017
+815,June 2017,City of Edinburgh,111.8,28 June 2017
+816,June 2017,Falkirk,110.1,28 June 2017
+817,June 2017,Perth and Kinross and Stirling,109.0,28 June 2017
+818,June 2017,West Lothian,111.0,28 June 2017
+819,June 2017,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",107.9,28 June 2017
+820,June 2017,Glasgow City,111.0,28 June 2017
+821,June 2017,"Inverclyde, East Renfrewshire and Renfrewshire",109.4,28 June 2017
+822,June 2017,North Lanarkshire,109.8,28 June 2017
+823,June 2017,Scottish Borders,106.6,28 June 2017
+824,June 2017,Dumfries and Galloway,106.1,28 June 2017
+825,June 2017,East Ayrshire and North Ayrshire mainland,105.8,28 June 2017
+826,June 2017,South Ayrshire,106.2,28 June 2017
+827,June 2017,South Lanarkshire,108.9,28 June 2017
+828,July 2017,Aberdeen City and Aberdeenshire,89.1,28 July 2017
+829,July 2017,Caithness and Sutherland and Ross and Cromarty,102.1,28 July 2017
+830,July 2017,"Inverness and Nairn and Moray, Badenoch and Strathspey",104.5,28 July 2017
+831,July 2017,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",105.8,28 July 2017
+832,July 2017,Na h-Eileanan Siar,102.8,28 July 2017
+833,July 2017,Orkney Islands,105.2,28 July 2017
+834,July 2017,Shetland Islands,94.1,28 July 2017
+835,July 2017,Angus and Dundee City,103.0,28 July 2017
+836,July 2017,Clackmannanshire and Fife,105.9,28 July 2017
+837,July 2017,East Lothian and Midlothian,108.9,28 July 2017
+838,July 2017,City of Edinburgh,110.4,28 July 2017
+839,July 2017,Falkirk,109.9,28 July 2017
+840,July 2017,Perth and Kinross and Stirling,108.4,28 July 2017
+841,July 2017,West Lothian,109.9,28 July 2017
+842,July 2017,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",107.2,28 July 2017
+843,July 2017,Glasgow City,110.8,28 July 2017
+844,July 2017,"Inverclyde, East Renfrewshire and Renfrewshire",109.3,28 July 2017
+845,July 2017,North Lanarkshire,110.0,28 July 2017
+846,July 2017,Scottish Borders,106.3,28 July 2017
+847,July 2017,Dumfries and Galloway,106.0,28 July 2017
+848,July 2017,East Ayrshire and North Ayrshire mainland,106.2,28 July 2017
+849,July 2017,South Ayrshire,105.9,28 July 2017
+850,July 2017,South Lanarkshire,108.4,28 July 2017
+851,August 2017,Aberdeen City and Aberdeenshire,89.6,28 August 2017
+852,August 2017,Caithness and Sutherland and Ross and Cromarty,102.9,28 August 2017
+853,August 2017,"Inverness and Nairn and Moray, Badenoch and Strathspey",104.7,28 August 2017
+854,August 2017,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",106.2,28 August 2017
+855,August 2017,Na h-Eileanan Siar,103.1,28 August 2017
+856,August 2017,Orkney Islands,106.1,28 August 2017
+857,August 2017,Shetland Islands,94.2,28 August 2017
+858,August 2017,Angus and Dundee City,103.6,28 August 2017
+859,August 2017,Clackmannanshire and Fife,105.9,28 August 2017
+860,August 2017,East Lothian and Midlothian,109.4,28 August 2017
+861,August 2017,City of Edinburgh,111.1,28 August 2017
+862,August 2017,Falkirk,109.3,28 August 2017
+863,August 2017,Perth and Kinross and Stirling,108.4,28 August 2017
+864,August 2017,West Lothian,110.7,28 August 2017
+865,August 2017,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",107.2,28 August 2017
+866,August 2017,Glasgow City,111.3,28 August 2017
+867,August 2017,"Inverclyde, East Renfrewshire and Renfrewshire",109.3,28 August 2017
+868,August 2017,North Lanarkshire,110.5,28 August 2017
+869,August 2017,Scottish Borders,107.4,28 August 2017
+870,August 2017,Dumfries and Galloway,107.0,28 August 2017
+871,August 2017,East Ayrshire and North Ayrshire mainland,106.8,28 August 2017
+872,August 2017,South Ayrshire,106.9,28 August 2017
+873,August 2017,South Lanarkshire,109.1,28 August 2017
+874,September 2017,Aberdeen City and Aberdeenshire,90.1,28 September 2017
+875,September 2017,Caithness and Sutherland and Ross and Cromarty,103.4,28 September 2017
+876,September 2017,"Inverness and Nairn and Moray, Badenoch and Strathspey",104.9,28 September 2017
+877,September 2017,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",106.4,28 September 2017
+878,September 2017,Na h-Eileanan Siar,103.4,28 September 2017
+879,September 2017,Orkney Islands,107.0,28 September 2017
+880,September 2017,Shetland Islands,94.5,28 September 2017
+881,September 2017,Angus and Dundee City,103.7,28 September 2017
+882,September 2017,Clackmannanshire and Fife,105.6,28 September 2017
+883,September 2017,East Lothian and Midlothian,110.0,28 September 2017
+884,September 2017,City of Edinburgh,111.7,28 September 2017
+885,September 2017,Falkirk,109.7,28 September 2017
+886,September 2017,Perth and Kinross and Stirling,108.7,28 September 2017
+887,September 2017,West Lothian,111.2,28 September 2017
+888,September 2017,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",108.0,28 September 2017
+889,September 2017,Glasgow City,111.9,28 September 2017
+890,September 2017,"Inverclyde, East Renfrewshire and Renfrewshire",110.5,28 September 2017
+891,September 2017,North Lanarkshire,111.4,28 September 2017
+892,September 2017,Scottish Borders,108.3,28 September 2017
+893,September 2017,Dumfries and Galloway,108.0,28 September 2017
+894,September 2017,East Ayrshire and North Ayrshire mainland,108.9,28 September 2017
+895,September 2017,South Ayrshire,109.3,28 September 2017
+896,September 2017,South Lanarkshire,110.4,28 September 2017
+897,October 2017,Aberdeen City and Aberdeenshire,90.0,28 October 2017
+898,October 2017,Caithness and Sutherland and Ross and Cromarty,103.4,28 October 2017
+899,October 2017,"Inverness and Nairn and Moray, Badenoch and Strathspey",104.4,28 October 2017
+900,October 2017,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",105.4,28 October 2017
+901,October 2017,Na h-Eileanan Siar,102.7,28 October 2017
+902,October 2017,Orkney Islands,105.5,28 October 2017
+903,October 2017,Shetland Islands,95.8,28 October 2017
+904,October 2017,Angus and Dundee City,103.5,28 October 2017
+905,October 2017,Clackmannanshire and Fife,105.0,28 October 2017
+906,October 2017,East Lothian and Midlothian,109.6,28 October 2017
+907,October 2017,City of Edinburgh,110.8,28 October 2017
+908,October 2017,Falkirk,109.2,28 October 2017
+909,October 2017,Perth and Kinross and Stirling,108.3,28 October 2017
+910,October 2017,West Lothian,111.0,28 October 2017
+911,October 2017,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",107.4,28 October 2017
+912,October 2017,Glasgow City,111.0,28 October 2017
+913,October 2017,"Inverclyde, East Renfrewshire and Renfrewshire",110.1,28 October 2017
+914,October 2017,North Lanarkshire,110.7,28 October 2017
+915,October 2017,Scottish Borders,107.9,28 October 2017
+916,October 2017,Dumfries and Galloway,108.3,28 October 2017
+917,October 2017,East Ayrshire and North Ayrshire mainland,108.1,28 October 2017
+918,October 2017,South Ayrshire,108.6,28 October 2017
+919,October 2017,South Lanarkshire,110.1,28 October 2017
+920,November 2017,Aberdeen City and Aberdeenshire,89.9,28 November 2017
+921,November 2017,Caithness and Sutherland and Ross and Cromarty,103.7,28 November 2017
+922,November 2017,"Inverness and Nairn and Moray, Badenoch and Strathspey",104.7,28 November 2017
+923,November 2017,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",106.0,28 November 2017
+924,November 2017,Na h-Eileanan Siar,103.6,28 November 2017
+925,November 2017,Orkney Islands,106.3,28 November 2017
+926,November 2017,Shetland Islands,95.4,28 November 2017
+927,November 2017,Angus and Dundee City,103.4,28 November 2017
+928,November 2017,Clackmannanshire and Fife,104.9,28 November 2017
+929,November 2017,East Lothian and Midlothian,110.5,28 November 2017
+930,November 2017,City of Edinburgh,112.3,28 November 2017
+931,November 2017,Falkirk,110.2,28 November 2017
+932,November 2017,Perth and Kinross and Stirling,108.4,28 November 2017
+933,November 2017,West Lothian,112.2,28 November 2017
+934,November 2017,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",107.8,28 November 2017
+935,November 2017,Glasgow City,111.3,28 November 2017
+936,November 2017,"Inverclyde, East Renfrewshire and Renfrewshire",109.8,28 November 2017
+937,November 2017,North Lanarkshire,111.3,28 November 2017
+938,November 2017,Scottish Borders,109.1,28 November 2017
+939,November 2017,Dumfries and Galloway,108.7,28 November 2017
+940,November 2017,East Ayrshire and North Ayrshire mainland,108.9,28 November 2017
+941,November 2017,South Ayrshire,109.3,28 November 2017
+942,November 2017,South Lanarkshire,110.7,28 November 2017
+943,December 2017,Aberdeen City and Aberdeenshire,89.0,28 December 2017
+944,December 2017,Caithness and Sutherland and Ross and Cromarty,104.2,28 December 2017
+945,December 2017,"Inverness and Nairn and Moray, Badenoch and Strathspey",105.1,28 December 2017
+946,December 2017,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",107.4,28 December 2017
+947,December 2017,Na h-Eileanan Siar,103.8,28 December 2017
+948,December 2017,Orkney Islands,106.9,28 December 2017
+949,December 2017,Shetland Islands,95.0,28 December 2017
+950,December 2017,Angus and Dundee City,103.9,28 December 2017
+951,December 2017,Clackmannanshire and Fife,105.5,28 December 2017
+952,December 2017,East Lothian and Midlothian,111.0,28 December 2017
+953,December 2017,City of Edinburgh,112.3,28 December 2017
+954,December 2017,Falkirk,110.5,28 December 2017
+955,December 2017,Perth and Kinross and Stirling,109.0,28 December 2017
+956,December 2017,West Lothian,112.1,28 December 2017
+957,December 2017,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",108.0,28 December 2017
+958,December 2017,Glasgow City,111.5,28 December 2017
+959,December 2017,"Inverclyde, East Renfrewshire and Renfrewshire",109.9,28 December 2017
+960,December 2017,North Lanarkshire,111.5,28 December 2017
+961,December 2017,Scottish Borders,109.0,28 December 2017
+962,December 2017,Dumfries and Galloway,108.9,28 December 2017
+963,December 2017,East Ayrshire and North Ayrshire mainland,109.2,28 December 2017
+964,December 2017,South Ayrshire,109.6,28 December 2017
+965,December 2017,South Lanarkshire,111.1,28 December 2017
+966,January 2018,Aberdeen City and Aberdeenshire,89.9,28 January 2018
+967,January 2018,Caithness and Sutherland and Ross and Cromarty,104.0,28 January 2018
+968,January 2018,"Inverness and Nairn and Moray, Badenoch and Strathspey",105.7,28 January 2018
+969,January 2018,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",107.4,28 January 2018
+970,January 2018,Na h-Eileanan Siar,100.9,28 January 2018
+971,January 2018,Orkney Islands,107.4,28 January 2018
+972,January 2018,Shetland Islands,93.5,28 January 2018
+973,January 2018,Angus and Dundee City,104.1,28 January 2018
+974,January 2018,Clackmannanshire and Fife,105.1,28 January 2018
+975,January 2018,East Lothian and Midlothian,111.1,28 January 2018
+976,January 2018,City of Edinburgh,112.1,28 January 2018
+977,January 2018,Falkirk,110.7,28 January 2018
+978,January 2018,Perth and Kinross and Stirling,109.0,28 January 2018
+979,January 2018,West Lothian,112.6,28 January 2018
+980,January 2018,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",108.6,28 January 2018
+981,January 2018,Glasgow City,111.9,28 January 2018
+982,January 2018,"Inverclyde, East Renfrewshire and Renfrewshire",110.2,28 January 2018
+983,January 2018,North Lanarkshire,111.7,28 January 2018
+984,January 2018,Scottish Borders,109.8,28 January 2018
+985,January 2018,Dumfries and Galloway,109.8,28 January 2018
+986,January 2018,East Ayrshire and North Ayrshire mainland,110.4,28 January 2018
+987,January 2018,South Ayrshire,111.3,28 January 2018
+988,January 2018,South Lanarkshire,111.4,28 January 2018
+989,February 2018,Aberdeen City and Aberdeenshire,90.0,28 February 2018
+990,February 2018,Caithness and Sutherland and Ross and Cromarty,104.4,28 February 2018
+991,February 2018,"Inverness and Nairn and Moray, Badenoch and Strathspey",106.2,28 February 2018
+992,February 2018,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",108.3,28 February 2018
+993,February 2018,Na h-Eileanan Siar,103.7,28 February 2018
+994,February 2018,Orkney Islands,108.0,28 February 2018
+995,February 2018,Shetland Islands,94.5,28 February 2018
+996,February 2018,Angus and Dundee City,106.2,28 February 2018
+997,February 2018,Clackmannanshire and Fife,106.0,28 February 2018
+998,February 2018,East Lothian and Midlothian,111.7,28 February 2018
+999,February 2018,City of Edinburgh,113.0,28 February 2018
+1000,February 2018,Falkirk,111.1,28 February 2018
+1001,February 2018,Perth and Kinross and Stirling,110.2,28 February 2018
+1002,February 2018,West Lothian,114.0,28 February 2018
+1003,February 2018,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",109.4,28 February 2018
+1004,February 2018,Glasgow City,112.3,28 February 2018
+1005,February 2018,"Inverclyde, East Renfrewshire and Renfrewshire",110.8,28 February 2018
+1006,February 2018,North Lanarkshire,112.8,28 February 2018
+1007,February 2018,Scottish Borders,110.0,28 February 2018
+1008,February 2018,Dumfries and Galloway,110.2,28 February 2018
+1009,February 2018,East Ayrshire and North Ayrshire mainland,110.3,28 February 2018
+1010,February 2018,South Ayrshire,112.1,28 February 2018
+1011,February 2018,South Lanarkshire,111.0,28 February 2018
+1012,March 2018,Aberdeen City and Aberdeenshire,88.0,28 March 2018
+1013,March 2018,Caithness and Sutherland and Ross and Cromarty,105.5,28 March 2018
+1014,March 2018,"Inverness and Nairn and Moray, Badenoch and Strathspey",106.8,28 March 2018
+1015,March 2018,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",108.9,28 March 2018
+1016,March 2018,Na h-Eileanan Siar,104.7,28 March 2018
+1017,March 2018,Orkney Islands,108.2,28 March 2018
+1018,March 2018,Shetland Islands,95.4,28 March 2018
+1019,March 2018,Angus and Dundee City,103.6,28 March 2018
+1020,March 2018,Clackmannanshire and Fife,105.7,28 March 2018
+1021,March 2018,East Lothian and Midlothian,110.3,28 March 2018
+1022,March 2018,City of Edinburgh,112.1,28 March 2018
+1023,March 2018,Falkirk,111.4,28 March 2018
+1024,March 2018,Perth and Kinross and Stirling,111.4,28 March 2018
+1025,March 2018,West Lothian,115.4,28 March 2018
+1026,March 2018,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",109.0,28 March 2018
+1027,March 2018,Glasgow City,112.4,28 March 2018
+1028,March 2018,"Inverclyde, East Renfrewshire and Renfrewshire",110.6,28 March 2018
+1029,March 2018,North Lanarkshire,112.3,28 March 2018
+1030,March 2018,Scottish Borders,109.7,28 March 2018
+1031,March 2018,Dumfries and Galloway,109.9,28 March 2018
+1032,March 2018,East Ayrshire and North Ayrshire mainland,110.6,28 March 2018
+1033,March 2018,South Ayrshire,111.9,28 March 2018
+1034,March 2018,South Lanarkshire,111.2,28 March 2018
+1035,April 2018,Aberdeen City and Aberdeenshire,88.9,28 April 2018
+1036,April 2018,Caithness and Sutherland and Ross and Cromarty,105.0,28 April 2018
+1037,April 2018,"Inverness and Nairn and Moray, Badenoch and Strathspey",106.2,28 April 2018
+1038,April 2018,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",107.5,28 April 2018
+1039,April 2018,Na h-Eileanan Siar,102.7,28 April 2018
+1040,April 2018,Orkney Islands,107.6,28 April 2018
+1041,April 2018,Shetland Islands,96.6,28 April 2018
+1042,April 2018,Angus and Dundee City,103.9,28 April 2018
+1043,April 2018,Clackmannanshire and Fife,105.2,28 April 2018
+1044,April 2018,East Lothian and Midlothian,111.1,28 April 2018
+1045,April 2018,City of Edinburgh,111.4,28 April 2018
+1046,April 2018,Falkirk,110.8,28 April 2018
+1047,April 2018,Perth and Kinross and Stirling,109.3,28 April 2018
+1048,April 2018,West Lothian,114.6,28 April 2018
+1049,April 2018,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",110.3,28 April 2018
+1050,April 2018,Glasgow City,113.7,28 April 2018
+1051,April 2018,"Inverclyde, East Renfrewshire and Renfrewshire",112.4,28 April 2018
+1052,April 2018,North Lanarkshire,113.1,28 April 2018
+1053,April 2018,Scottish Borders,110.0,28 April 2018
+1054,April 2018,Dumfries and Galloway,110.0,28 April 2018
+1055,April 2018,East Ayrshire and North Ayrshire mainland,110.6,28 April 2018
+1056,April 2018,South Ayrshire,111.8,28 April 2018
+1057,April 2018,South Lanarkshire,112.1,28 April 2018
+1058,May 2018,Aberdeen City and Aberdeenshire,89.6,28 May 2018
+1059,May 2018,Caithness and Sutherland and Ross and Cromarty,105.3,28 May 2018
+1060,May 2018,"Inverness and Nairn and Moray, Badenoch and Strathspey",106.6,28 May 2018
+1061,May 2018,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",107.9,28 May 2018
+1062,May 2018,Na h-Eileanan Siar,103.2,28 May 2018
+1063,May 2018,Orkney Islands,107.6,28 May 2018
+1064,May 2018,Shetland Islands,95.7,28 May 2018
+1065,May 2018,Angus and Dundee City,104.3,28 May 2018
+1066,May 2018,Clackmannanshire and Fife,105.3,28 May 2018
+1067,May 2018,East Lothian and Midlothian,111.5,28 May 2018
+1068,May 2018,City of Edinburgh,112.3,28 May 2018
+1069,May 2018,Falkirk,110.6,28 May 2018
+1070,May 2018,Perth and Kinross and Stirling,110.3,28 May 2018
+1071,May 2018,West Lothian,115.1,28 May 2018
+1072,May 2018,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",110.9,28 May 2018
+1073,May 2018,Glasgow City,114.3,28 May 2018
+1074,May 2018,"Inverclyde, East Renfrewshire and Renfrewshire",112.9,28 May 2018
+1075,May 2018,North Lanarkshire,114.2,28 May 2018
+1076,May 2018,Scottish Borders,111.4,28 May 2018
+1077,May 2018,Dumfries and Galloway,110.6,28 May 2018
+1078,May 2018,East Ayrshire and North Ayrshire mainland,111.2,28 May 2018
+1079,May 2018,South Ayrshire,112.2,28 May 2018
+1080,May 2018,South Lanarkshire,112.5,28 May 2018
+1081,June 2018,Aberdeen City and Aberdeenshire,91.5,28 June 2018
+1082,June 2018,Caithness and Sutherland and Ross and Cromarty,105.6,28 June 2018
+1083,June 2018,"Inverness and Nairn and Moray, Badenoch and Strathspey",107.1,28 June 2018
+1084,June 2018,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",107.8,28 June 2018
+1085,June 2018,Na h-Eileanan Siar,104.1,28 June 2018
+1086,June 2018,Orkney Islands,108.7,28 June 2018
+1087,June 2018,Shetland Islands,95.5,28 June 2018
+1088,June 2018,Angus and Dundee City,104.8,28 June 2018
+1089,June 2018,Clackmannanshire and Fife,106.4,28 June 2018
+1090,June 2018,East Lothian and Midlothian,113.3,28 June 2018
+1091,June 2018,City of Edinburgh,114.3,28 June 2018
+1092,June 2018,Falkirk,111.3,28 June 2018
+1093,June 2018,Perth and Kinross and Stirling,111.6,28 June 2018
+1094,June 2018,West Lothian,115.0,28 June 2018
+1095,June 2018,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",110.8,28 June 2018
+1096,June 2018,Glasgow City,114.6,28 June 2018
+1097,June 2018,"Inverclyde, East Renfrewshire and Renfrewshire",113.0,28 June 2018
+1098,June 2018,North Lanarkshire,114.9,28 June 2018
+1099,June 2018,Scottish Borders,111.9,28 June 2018
+1100,June 2018,Dumfries and Galloway,112.0,28 June 2018
+1101,June 2018,East Ayrshire and North Ayrshire mainland,112.1,28 June 2018
+1102,June 2018,South Ayrshire,113.0,28 June 2018
+1103,June 2018,South Lanarkshire,114.0,28 June 2018
+1104,July 2018,Aberdeen City and Aberdeenshire,90.4,28 July 2018
+1105,July 2018,Caithness and Sutherland and Ross and Cromarty,104.5,28 July 2018
+1106,July 2018,"Inverness and Nairn and Moray, Badenoch and Strathspey",106.3,28 July 2018
+1107,July 2018,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",107.6,28 July 2018
+1108,July 2018,Na h-Eileanan Siar,102.8,28 July 2018
+1109,July 2018,Orkney Islands,107.7,28 July 2018
+1110,July 2018,Shetland Islands,95.1,28 July 2018
+1111,July 2018,Angus and Dundee City,105.4,28 July 2018
+1112,July 2018,Clackmannanshire and Fife,106.1,28 July 2018
+1113,July 2018,East Lothian and Midlothian,113.2,28 July 2018
+1114,July 2018,City of Edinburgh,113.7,28 July 2018
+1115,July 2018,Falkirk,111.8,28 July 2018
+1116,July 2018,Perth and Kinross and Stirling,111.5,28 July 2018
+1117,July 2018,West Lothian,117.4,28 July 2018
+1118,July 2018,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",111.6,28 July 2018
+1119,July 2018,Glasgow City,114.5,28 July 2018
+1120,July 2018,"Inverclyde, East Renfrewshire and Renfrewshire",113.0,28 July 2018
+1121,July 2018,North Lanarkshire,114.7,28 July 2018
+1122,July 2018,Scottish Borders,111.1,28 July 2018
+1123,July 2018,Dumfries and Galloway,112.3,28 July 2018
+1124,July 2018,East Ayrshire and North Ayrshire mainland,111.4,28 July 2018
+1125,July 2018,South Ayrshire,111.6,28 July 2018
+1126,July 2018,South Lanarkshire,113.3,28 July 2018
+1127,August 2018,Aberdeen City and Aberdeenshire,91.8,28 August 2018
+1128,August 2018,Caithness and Sutherland and Ross and Cromarty,106.4,28 August 2018
+1129,August 2018,"Inverness and Nairn and Moray, Badenoch and Strathspey",108.2,28 August 2018
+1130,August 2018,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",108.4,28 August 2018
+1131,August 2018,Na h-Eileanan Siar,105.1,28 August 2018
+1132,August 2018,Orkney Islands,108.7,28 August 2018
+1133,August 2018,Shetland Islands,96.6,28 August 2018
+1134,August 2018,Angus and Dundee City,108.1,28 August 2018
+1135,August 2018,Clackmannanshire and Fife,109.0,28 August 2018
+1136,August 2018,East Lothian and Midlothian,115.5,28 August 2018
+1137,August 2018,City of Edinburgh,116.8,28 August 2018
+1138,August 2018,Falkirk,114.9,28 August 2018
+1139,August 2018,Perth and Kinross and Stirling,113.9,28 August 2018
+1140,August 2018,West Lothian,121.0,28 August 2018
+1141,August 2018,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",112.5,28 August 2018
+1142,August 2018,Glasgow City,115.7,28 August 2018
+1143,August 2018,"Inverclyde, East Renfrewshire and Renfrewshire",113.1,28 August 2018
+1144,August 2018,North Lanarkshire,115.4,28 August 2018
+1145,August 2018,Scottish Borders,111.0,28 August 2018
+1146,August 2018,Dumfries and Galloway,110.4,28 August 2018
+1147,August 2018,East Ayrshire and North Ayrshire mainland,111.1,28 August 2018
+1148,August 2018,South Ayrshire,111.4,28 August 2018
+1149,August 2018,South Lanarkshire,114.1,28 August 2018
+1150,September 2018,Aberdeen City and Aberdeenshire,91.0,28 September 2018
+1151,September 2018,Caithness and Sutherland and Ross and Cromarty,106.1,28 September 2018
+1152,September 2018,"Inverness and Nairn and Moray, Badenoch and Strathspey",107.5,28 September 2018
+1153,September 2018,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",108.1,28 September 2018
+1154,September 2018,Na h-Eileanan Siar,103.9,28 September 2018
+1155,September 2018,Orkney Islands,108.2,28 September 2018
+1156,September 2018,Shetland Islands,97.0,28 September 2018
+1157,September 2018,Angus and Dundee City,106.9,28 September 2018
+1158,September 2018,Clackmannanshire and Fife,108.5,28 September 2018
+1159,September 2018,East Lothian and Midlothian,114.5,28 September 2018
+1160,September 2018,City of Edinburgh,115.9,28 September 2018
+1161,September 2018,Falkirk,113.1,28 September 2018
+1162,September 2018,Perth and Kinross and Stirling,112.0,28 September 2018
+1163,September 2018,West Lothian,118.6,28 September 2018
+1164,September 2018,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",111.4,28 September 2018
+1165,September 2018,Glasgow City,113.6,28 September 2018
+1166,September 2018,"Inverclyde, East Renfrewshire and Renfrewshire",112.0,28 September 2018
+1167,September 2018,North Lanarkshire,114.7,28 September 2018
+1168,September 2018,Scottish Borders,110.5,28 September 2018
+1169,September 2018,Dumfries and Galloway,110.5,28 September 2018
+1170,September 2018,East Ayrshire and North Ayrshire mainland,111.1,28 September 2018
+1171,September 2018,South Ayrshire,111.4,28 September 2018
+1172,September 2018,South Lanarkshire,113.0,28 September 2018
+1173,October 2018,Aberdeen City and Aberdeenshire,91.5,28 October 2018
+1174,October 2018,Caithness and Sutherland and Ross and Cromarty,107.0,28 October 2018
+1175,October 2018,"Inverness and Nairn and Moray, Badenoch and Strathspey",107.7,28 October 2018
+1176,October 2018,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",109.6,28 October 2018
+1177,October 2018,Na h-Eileanan Siar,104.8,28 October 2018
+1178,October 2018,Orkney Islands,107.9,28 October 2018
+1179,October 2018,Shetland Islands,99.9,28 October 2018
+1180,October 2018,Angus and Dundee City,107.7,28 October 2018
+1181,October 2018,Clackmannanshire and Fife,108.9,28 October 2018
+1182,October 2018,East Lothian and Midlothian,116.3,28 October 2018
+1183,October 2018,City of Edinburgh,117.0,28 October 2018
+1184,October 2018,Falkirk,114.4,28 October 2018
+1185,October 2018,Perth and Kinross and Stirling,113.3,28 October 2018
+1186,October 2018,West Lothian,112.5,28 October 2018
+1187,October 2018,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",113.1,28 October 2018
+1188,October 2018,Glasgow City,115.5,28 October 2018
+1189,October 2018,"Inverclyde, East Renfrewshire and Renfrewshire",113.5,28 October 2018
+1190,October 2018,North Lanarkshire,116.0,28 October 2018
+1191,October 2018,Scottish Borders,112.6,28 October 2018
+1192,October 2018,Dumfries and Galloway,110.5,28 October 2018
+1193,October 2018,East Ayrshire and North Ayrshire mainland,112.2,28 October 2018
+1194,October 2018,South Ayrshire,112.6,28 October 2018
+1195,October 2018,South Lanarkshire,114.1,28 October 2018
+1196,November 2018,Aberdeen City and Aberdeenshire,92.3,28 November 2018
+1197,November 2018,Caithness and Sutherland and Ross and Cromarty,107.8,28 November 2018
+1198,November 2018,"Inverness and Nairn and Moray, Badenoch and Strathspey",109.5,28 November 2018
+1199,November 2018,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",111.0,28 November 2018
+1200,November 2018,Na h-Eileanan Siar,105.7,28 November 2018
+1201,November 2018,Orkney Islands,108.9,28 November 2018
+1202,November 2018,Shetland Islands,97.4,28 November 2018
+1203,November 2018,Angus and Dundee City,108.1,28 November 2018
+1204,November 2018,Clackmannanshire and Fife,108.5,28 November 2018
+1205,November 2018,East Lothian and Midlothian,115.8,28 November 2018
+1206,November 2018,City of Edinburgh,115.4,28 November 2018
+1207,November 2018,Falkirk,114.5,28 November 2018
+1208,November 2018,Perth and Kinross and Stirling,112.9,28 November 2018
+1209,November 2018,West Lothian,120.1,28 November 2018
+1210,November 2018,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",113.2,28 November 2018
+1211,November 2018,Glasgow City,116.0,28 November 2018
+1212,November 2018,"Inverclyde, East Renfrewshire and Renfrewshire",113.5,28 November 2018
+1213,November 2018,North Lanarkshire,116.7,28 November 2018
+1214,November 2018,Scottish Borders,112.6,28 November 2018
+1215,November 2018,Dumfries and Galloway,109.2,28 November 2018
+1216,November 2018,East Ayrshire and North Ayrshire mainland,112.0,28 November 2018
+1217,November 2018,South Ayrshire,110.9,28 November 2018
+1218,November 2018,South Lanarkshire,113.3,28 November 2018
+1219,December 2018,Aberdeen City and Aberdeenshire,92.3,28 December 2018
+1220,December 2018,Caithness and Sutherland and Ross and Cromarty,107.5,28 December 2018
+1221,December 2018,"Inverness and Nairn and Moray, Badenoch and Strathspey",108.4,28 December 2018
+1222,December 2018,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",109.7,28 December 2018
+1223,December 2018,Na h-Eileanan Siar,104.7,28 December 2018
+1224,December 2018,Orkney Islands,108.4,28 December 2018
+1225,December 2018,Shetland Islands,96.0,28 December 2018
+1226,December 2018,Angus and Dundee City,107.8,28 December 2018
+1227,December 2018,Clackmannanshire and Fife,108.5,28 December 2018
+1228,December 2018,East Lothian and Midlothian,116.2,28 December 2018
+1229,December 2018,City of Edinburgh,116.0,28 December 2018
+1230,December 2018,Falkirk,114.5,28 December 2018
+1231,December 2018,Perth and Kinross and Stirling,112.5,28 December 2018
+1232,December 2018,West Lothian,119.5,28 December 2018
+1233,December 2018,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",113.0,28 December 2018
+1234,December 2018,Glasgow City,115.6,28 December 2018
+1235,December 2018,"Inverclyde, East Renfrewshire and Renfrewshire",113.6,28 December 2018
+1236,December 2018,North Lanarkshire,115.9,28 December 2018
+1237,December 2018,Scottish Borders,111.5,28 December 2018
+1238,December 2018,Dumfries and Galloway,109.2,28 December 2018
+1239,December 2018,East Ayrshire and North Ayrshire mainland,110.7,28 December 2018
+1240,December 2018,South Ayrshire,111.2,28 December 2018
+1241,December 2018,South Lanarkshire,113.5,28 December 2018
+1242,January 2019,Aberdeen City and Aberdeenshire,92.9,28 January 2019
+1243,January 2019,Caithness and Sutherland and Ross and Cromarty,108.6,28 January 2019
+1244,January 2019,"Inverness and Nairn and Moray, Badenoch and Strathspey",108.6,28 January 2019
+1245,January 2019,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",109.6,28 January 2019
+1246,January 2019,Na h-Eileanan Siar,103.9,28 January 2019
+1247,January 2019,Orkney Islands,108.2,28 January 2019
+1248,January 2019,Shetland Islands,98.0,28 January 2019
+1249,January 2019,Angus and Dundee City,108.1,28 January 2019
+1250,January 2019,Clackmannanshire and Fife,109.0,28 January 2019
+1251,January 2019,East Lothian and Midlothian,117.1,28 January 2019
+1252,January 2019,City of Edinburgh,116.3,28 January 2019
+1253,January 2019,Falkirk,114.8,28 January 2019
+1254,January 2019,Perth and Kinross and Stirling,112.9,28 January 2019
+1255,January 2019,West Lothian,119.4,28 January 2019
+1256,January 2019,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",113.3,28 January 2019
+1257,January 2019,Glasgow City,115.9,28 January 2019
+1258,January 2019,"Inverclyde, East Renfrewshire and Renfrewshire",113.8,28 January 2019
+1259,January 2019,North Lanarkshire,116.8,28 January 2019
+1260,January 2019,Scottish Borders,112.4,28 January 2019
+1261,January 2019,Dumfries and Galloway,109.8,28 January 2019
+1262,January 2019,East Ayrshire and North Ayrshire mainland,111.0,28 January 2019
+1263,January 2019,South Ayrshire,110.5,28 January 2019
+1264,January 2019,South Lanarkshire,114.1,28 January 2019
+1265,February 2019,Aberdeen City and Aberdeenshire,94.2,28 February 2019
+1266,February 2019,Caithness and Sutherland and Ross and Cromarty,109.7,28 February 2019
+1267,February 2019,"Inverness and Nairn and Moray, Badenoch and Strathspey",109.8,28 February 2019
+1268,February 2019,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",110.3,28 February 2019
+1269,February 2019,Na h-Eileanan Siar,103.7,28 February 2019
+1270,February 2019,Orkney Islands,107.8,28 February 2019
+1271,February 2019,Shetland Islands,98.4,28 February 2019
+1272,February 2019,Angus and Dundee City,109.9,28 February 2019
+1273,February 2019,Clackmannanshire and Fife,110.3,28 February 2019
+1274,February 2019,East Lothian and Midlothian,118.5,28 February 2019
+1275,February 2019,City of Edinburgh,117.6,28 February 2019
+1276,February 2019,Falkirk,115.9,28 February 2019
+1277,February 2019,Perth and Kinross and Stirling,112.9,28 February 2019
+1278,February 2019,West Lothian,120.0,28 February 2019
+1279,February 2019,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",114.1,28 February 2019
+1280,February 2019,Glasgow City,116.6,28 February 2019
+1281,February 2019,"Inverclyde, East Renfrewshire and Renfrewshire",114.9,28 February 2019
+1282,February 2019,North Lanarkshire,117.5,28 February 2019
+1283,February 2019,Scottish Borders,112.6,28 February 2019
+1284,February 2019,Dumfries and Galloway,109.8,28 February 2019
+1285,February 2019,East Ayrshire and North Ayrshire mainland,111.9,28 February 2019
+1286,February 2019,South Ayrshire,111.5,28 February 2019
+1287,February 2019,South Lanarkshire,113.9,28 February 2019
+1288,March 2019,Aberdeen City and Aberdeenshire,98.4,28 March 2019
+1289,March 2019,Caithness and Sutherland and Ross and Cromarty,112.2,28 March 2019
+1290,March 2019,"Inverness and Nairn and Moray, Badenoch and Strathspey",112.6,28 March 2019
+1291,March 2019,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",112.9,28 March 2019
+1292,March 2019,Na h-Eileanan Siar,108.1,28 March 2019
+1293,March 2019,Orkney Islands,110.3,28 March 2019
+1294,March 2019,Shetland Islands,100.8,28 March 2019
+1295,March 2019,Angus and Dundee City,113.1,28 March 2019
+1296,March 2019,Clackmannanshire and Fife,114.1,28 March 2019
+1297,March 2019,East Lothian and Midlothian,121.9,28 March 2019
+1298,March 2019,City of Edinburgh,123.2,28 March 2019
+1299,March 2019,Falkirk,120.8,28 March 2019
+1300,March 2019,Perth and Kinross and Stirling,116.7,28 March 2019
+1301,March 2019,West Lothian,122.6,28 March 2019
+1302,March 2019,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",115.0,28 March 2019
+1303,March 2019,Glasgow City,119.6,28 March 2019
+1304,March 2019,"Inverclyde, East Renfrewshire and Renfrewshire",118.7,28 March 2019
+1305,March 2019,North Lanarkshire,120.2,28 March 2019
+1306,March 2019,Scottish Borders,114.9,28 March 2019
+1307,March 2019,Dumfries and Galloway,112.3,28 March 2019
+1308,March 2019,East Ayrshire and North Ayrshire mainland,114.2,28 March 2019
+1309,March 2019,South Ayrshire,115.2,28 March 2019
+1310,March 2019,South Lanarkshire,118.0,28 March 2019
+1311,April 2019,Aberdeen City and Aberdeenshire,93.9,28 April 2019
+1312,April 2019,Caithness and Sutherland and Ross and Cromarty,111.4,28 April 2019
+1313,April 2019,"Inverness and Nairn and Moray, Badenoch and Strathspey",111.4,28 April 2019
+1314,April 2019,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",113.3,28 April 2019
+1315,April 2019,Na h-Eileanan Siar,109.1,28 April 2019
+1316,April 2019,Orkney Islands,108.6,28 April 2019
+1317,April 2019,Shetland Islands,99.0,28 April 2019
+1318,April 2019,Angus and Dundee City,108.7,28 April 2019
+1319,April 2019,Clackmannanshire and Fife,111.2,28 April 2019
+1320,April 2019,East Lothian and Midlothian,119.0,28 April 2019
+1321,April 2019,City of Edinburgh,120.2,28 April 2019
+1322,April 2019,Falkirk,116.8,28 April 2019
+1323,April 2019,Perth and Kinross and Stirling,114.4,28 April 2019
+1324,April 2019,West Lothian,119.8,28 April 2019
+1325,April 2019,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",114.6,28 April 2019
+1326,April 2019,Glasgow City,119.0,28 April 2019
+1327,April 2019,"Inverclyde, East Renfrewshire and Renfrewshire",117.1,28 April 2019
+1328,April 2019,North Lanarkshire,118.6,28 April 2019
+1329,April 2019,Scottish Borders,113.7,28 April 2019
+1330,April 2019,Dumfries and Galloway,113.0,28 April 2019
+1331,April 2019,East Ayrshire and North Ayrshire mainland,115.4,28 April 2019
+1332,April 2019,South Ayrshire,113.6,28 April 2019
+1333,April 2019,South Lanarkshire,117.8,28 April 2019
+1334,May 2019,Aberdeen City and Aberdeenshire,94.3,28 May 2019
+1335,May 2019,Caithness and Sutherland and Ross and Cromarty,111.2,28 May 2019
+1336,May 2019,"Inverness and Nairn and Moray, Badenoch and Strathspey",111.9,28 May 2019
+1337,May 2019,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",114.9,28 May 2019
+1338,May 2019,Na h-Eileanan Siar,109.0,28 May 2019
+1339,May 2019,Orkney Islands,110.4,28 May 2019
+1340,May 2019,Shetland Islands,100.1,28 May 2019
+1341,May 2019,Angus and Dundee City,110.0,28 May 2019
+1342,May 2019,Clackmannanshire and Fife,112.5,28 May 2019
+1343,May 2019,East Lothian and Midlothian,121.2,28 May 2019
+1344,May 2019,City of Edinburgh,121.1,28 May 2019
+1345,May 2019,Falkirk,119.2,28 May 2019
+1346,May 2019,Perth and Kinross and Stirling,115.5,28 May 2019
+1347,May 2019,West Lothian,121.5,28 May 2019
+1348,May 2019,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",115.1,28 May 2019
+1349,May 2019,Glasgow City,120.0,28 May 2019
+1350,May 2019,"Inverclyde, East Renfrewshire and Renfrewshire",117.6,28 May 2019
+1351,May 2019,North Lanarkshire,119.2,28 May 2019
+1352,May 2019,Scottish Borders,115.4,28 May 2019
+1353,May 2019,Dumfries and Galloway,113.6,28 May 2019
+1354,May 2019,East Ayrshire and North Ayrshire mainland,115.8,28 May 2019
+1355,May 2019,South Ayrshire,114.4,28 May 2019
+1356,May 2019,South Lanarkshire,118.6,28 May 2019
+1357,June 2019,Aberdeen City and Aberdeenshire,93.9,28 June 2019
+1358,June 2019,Caithness and Sutherland and Ross and Cromarty,110.0,28 June 2019
+1359,June 2019,"Inverness and Nairn and Moray, Badenoch and Strathspey",111.4,28 June 2019
+1360,June 2019,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",113.7,28 June 2019
+1361,June 2019,Na h-Eileanan Siar,107.7,28 June 2019
+1362,June 2019,Orkney Islands,109.9,28 June 2019
+1363,June 2019,Shetland Islands,99.9,28 June 2019
+1364,June 2019,Angus and Dundee City,110.4,28 June 2019
+1365,June 2019,Clackmannanshire and Fife,111.7,28 June 2019
+1366,June 2019,East Lothian and Midlothian,122.1,28 June 2019
+1367,June 2019,City of Edinburgh,121.5,28 June 2019
+1368,June 2019,Falkirk,118.5,28 June 2019
+1369,June 2019,Perth and Kinross and Stirling,115.1,28 June 2019
+1370,June 2019,West Lothian,121.1,28 June 2019
+1371,June 2019,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",116.1,28 June 2019
+1372,June 2019,Glasgow City,120.8,28 June 2019
+1373,June 2019,"Inverclyde, East Renfrewshire and Renfrewshire",118.9,28 June 2019
+1374,June 2019,North Lanarkshire,119.8,28 June 2019
+1375,June 2019,Scottish Borders,115.9,28 June 2019
+1376,June 2019,Dumfries and Galloway,113.7,28 June 2019
+1377,June 2019,East Ayrshire and North Ayrshire mainland,115.9,28 June 2019
+1378,June 2019,South Ayrshire,115.0,28 June 2019
+1379,June 2019,South Lanarkshire,118.6,28 June 2019
+1380,July 2019,Aberdeen City and Aberdeenshire,93.8,28 July 2019
+1381,July 2019,Caithness and Sutherland and Ross and Cromarty,109.3,28 July 2019
+1382,July 2019,"Inverness and Nairn and Moray, Badenoch and Strathspey",110.7,28 July 2019
+1383,July 2019,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",112.7,28 July 2019
+1384,July 2019,Na h-Eileanan Siar,108.2,28 July 2019
+1385,July 2019,Orkney Islands,108.2,28 July 2019
+1386,July 2019,Shetland Islands,99.5,28 July 2019
+1387,July 2019,Angus and Dundee City,110.3,28 July 2019
+1388,July 2019,Clackmannanshire and Fife,111.9,28 July 2019
+1389,July 2019,East Lothian and Midlothian,122.1,28 July 2019
+1390,July 2019,City of Edinburgh,122.2,28 July 2019
+1391,July 2019,Falkirk,117.7,28 July 2019
+1392,July 2019,Perth and Kinross and Stirling,115.0,28 July 2019
+1393,July 2019,West Lothian,120.6,28 July 2019
+1394,July 2019,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",115.4,28 July 2019
+1395,July 2019,Glasgow City,120.2,28 July 2019
+1396,July 2019,"Inverclyde, East Renfrewshire and Renfrewshire",118.4,28 July 2019
+1397,July 2019,North Lanarkshire,119.2,28 July 2019
+1398,July 2019,Scottish Borders,115.3,28 July 2019
+1399,July 2019,Dumfries and Galloway,111.9,28 July 2019
+1400,July 2019,East Ayrshire and North Ayrshire mainland,115.0,28 July 2019
+1401,July 2019,South Ayrshire,114.2,28 July 2019
+1402,July 2019,South Lanarkshire,118.2,28 July 2019
+1403,August 2019,Aberdeen City and Aberdeenshire,94.1,28 August 2019
+1404,August 2019,Caithness and Sutherland and Ross and Cromarty,109.3,28 August 2019
+1405,August 2019,"Inverness and Nairn and Moray, Badenoch and Strathspey",111.1,28 August 2019
+1406,August 2019,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",112.9,28 August 2019
+1407,August 2019,Na h-Eileanan Siar,108.1,28 August 2019
+1408,August 2019,Orkney Islands,109.6,28 August 2019
+1409,August 2019,Shetland Islands,99.9,28 August 2019
+1410,August 2019,Angus and Dundee City,110.8,28 August 2019
+1411,August 2019,Clackmannanshire and Fife,112.3,28 August 2019
+1412,August 2019,East Lothian and Midlothian,122.9,28 August 2019
+1413,August 2019,City of Edinburgh,121.7,28 August 2019
+1414,August 2019,Falkirk,118.3,28 August 2019
+1415,August 2019,Perth and Kinross and Stirling,115.1,28 August 2019
+1416,August 2019,West Lothian,120.4,28 August 2019
+1417,August 2019,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",115.4,28 August 2019
+1418,August 2019,Glasgow City,120.2,28 August 2019
+1419,August 2019,"Inverclyde, East Renfrewshire and Renfrewshire",117.7,28 August 2019
+1420,August 2019,North Lanarkshire,119.5,28 August 2019
+1421,August 2019,Scottish Borders,115.5,28 August 2019
+1422,August 2019,Dumfries and Galloway,113.1,28 August 2019
+1423,August 2019,East Ayrshire and North Ayrshire mainland,114.8,28 August 2019
+1424,August 2019,South Ayrshire,114.0,28 August 2019
+1425,August 2019,South Lanarkshire,118.2,28 August 2019
+1426,September 2019,Aberdeen City and Aberdeenshire,94.0,28 September 2019
+1427,September 2019,Caithness and Sutherland and Ross and Cromarty,109.5,28 September 2019
+1428,September 2019,"Inverness and Nairn and Moray, Badenoch and Strathspey",111.3,28 September 2019
+1429,September 2019,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",112.8,28 September 2019
+1430,September 2019,Na h-Eileanan Siar,108.4,28 September 2019
+1431,September 2019,Orkney Islands,109.5,28 September 2019
+1432,September 2019,Shetland Islands,100.6,28 September 2019
+1433,September 2019,Angus and Dundee City,111.2,28 September 2019
+1434,September 2019,Clackmannanshire and Fife,112.7,28 September 2019
+1435,September 2019,East Lothian and Midlothian,124.0,28 September 2019
+1436,September 2019,City of Edinburgh,122.6,28 September 2019
+1437,September 2019,Falkirk,119.5,28 September 2019
+1438,September 2019,Perth and Kinross and Stirling,115.6,28 September 2019
+1439,September 2019,West Lothian,121.2,28 September 2019
+1440,September 2019,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",115.7,28 September 2019
+1441,September 2019,Glasgow City,120.4,28 September 2019
+1442,September 2019,"Inverclyde, East Renfrewshire and Renfrewshire",118.4,28 September 2019
+1443,September 2019,North Lanarkshire,120.3,28 September 2019
+1444,September 2019,Scottish Borders,116.2,28 September 2019
+1445,September 2019,Dumfries and Galloway,113.3,28 September 2019
+1446,September 2019,East Ayrshire and North Ayrshire mainland,115.0,28 September 2019
+1447,September 2019,South Ayrshire,113.9,28 September 2019
+1448,September 2019,South Lanarkshire,118.6,28 September 2019
+1449,October 2019,Aberdeen City and Aberdeenshire,94.5,28 October 2019
+1450,October 2019,Caithness and Sutherland and Ross and Cromarty,108.9,28 October 2019
+1451,October 2019,"Inverness and Nairn and Moray, Badenoch and Strathspey",110.8,28 October 2019
+1452,October 2019,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",112.9,28 October 2019
+1453,October 2019,Na h-Eileanan Siar,108.2,28 October 2019
+1454,October 2019,Orkney Islands,110.6,28 October 2019
+1455,October 2019,Shetland Islands,100.8,28 October 2019
+1456,October 2019,Angus and Dundee City,111.3,28 October 2019
+1457,October 2019,Clackmannanshire and Fife,112.3,28 October 2019
+1458,October 2019,East Lothian and Midlothian,122.9,28 October 2019
+1459,October 2019,City of Edinburgh,121.9,28 October 2019
+1460,October 2019,Falkirk,118.9,28 October 2019
+1461,October 2019,Perth and Kinross and Stirling,115.1,28 October 2019
+1462,October 2019,West Lothian,120.6,28 October 2019
+1463,October 2019,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",115.2,28 October 2019
+1464,October 2019,Glasgow City,120.4,28 October 2019
+1465,October 2019,"Inverclyde, East Renfrewshire and Renfrewshire",118.5,28 October 2019
+1466,October 2019,North Lanarkshire,120.3,28 October 2019
+1467,October 2019,Scottish Borders,116.2,28 October 2019
+1468,October 2019,Dumfries and Galloway,113.4,28 October 2019
+1469,October 2019,East Ayrshire and North Ayrshire mainland,114.6,28 October 2019
+1470,October 2019,South Ayrshire,113.6,28 October 2019
+1471,October 2019,South Lanarkshire,118.6,28 October 2019
+1472,November 2019,Aberdeen City and Aberdeenshire,93.8,28 November 2019
+1473,November 2019,Caithness and Sutherland and Ross and Cromarty,109.7,28 November 2019
+1474,November 2019,"Inverness and Nairn and Moray, Badenoch and Strathspey",110.8,28 November 2019
+1475,November 2019,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",113.1,28 November 2019
+1476,November 2019,Na h-Eileanan Siar,108.5,28 November 2019
+1477,November 2019,Orkney Islands,110.2,28 November 2019
+1478,November 2019,Shetland Islands,101.1,28 November 2019
+1479,November 2019,Angus and Dundee City,111.7,28 November 2019
+1480,November 2019,Clackmannanshire and Fife,112.9,28 November 2019
+1481,November 2019,East Lothian and Midlothian,123.5,28 November 2019
+1482,November 2019,City of Edinburgh,123.0,28 November 2019
+1483,November 2019,Falkirk,118.9,28 November 2019
+1484,November 2019,Perth and Kinross and Stirling,115.6,28 November 2019
+1485,November 2019,West Lothian,120.6,28 November 2019
+1486,November 2019,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",115.4,28 November 2019
+1487,November 2019,Glasgow City,120.7,28 November 2019
+1488,November 2019,"Inverclyde, East Renfrewshire and Renfrewshire",118.7,28 November 2019
+1489,November 2019,North Lanarkshire,120.8,28 November 2019
+1490,November 2019,Scottish Borders,116.7,28 November 2019
+1491,November 2019,Dumfries and Galloway,114.2,28 November 2019
+1492,November 2019,East Ayrshire and North Ayrshire mainland,115.6,28 November 2019
+1493,November 2019,South Ayrshire,114.6,28 November 2019
+1494,November 2019,South Lanarkshire,119.2,28 November 2019
+1495,December 2019,Aberdeen City and Aberdeenshire,94.3,28 December 2019
+1496,December 2019,Caithness and Sutherland and Ross and Cromarty,109.4,28 December 2019
+1497,December 2019,"Inverness and Nairn and Moray, Badenoch and Strathspey",110.7,28 December 2019
+1498,December 2019,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",112.7,28 December 2019
+1499,December 2019,Na h-Eileanan Siar,108.2,28 December 2019
+1500,December 2019,Orkney Islands,110.5,28 December 2019
+1501,December 2019,Shetland Islands,101.8,28 December 2019
+1502,December 2019,Angus and Dundee City,110.7,28 December 2019
+1503,December 2019,Clackmannanshire and Fife,112.6,28 December 2019
+1504,December 2019,East Lothian and Midlothian,124.8,28 December 2019
+1505,December 2019,City of Edinburgh,123.8,28 December 2019
+1506,December 2019,Falkirk,119.2,28 December 2019
+1507,December 2019,Perth and Kinross and Stirling,115.7,28 December 2019
+1508,December 2019,West Lothian,120.8,28 December 2019
+1509,December 2019,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",115.0,28 December 2019
+1510,December 2019,Glasgow City,121.3,28 December 2019
+1511,December 2019,"Inverclyde, East Renfrewshire and Renfrewshire",119.1,28 December 2019
+1512,December 2019,North Lanarkshire,121.1,28 December 2019
+1513,December 2019,Scottish Borders,117.0,28 December 2019
+1514,December 2019,Dumfries and Galloway,114.4,28 December 2019
+1515,December 2019,East Ayrshire and North Ayrshire mainland,115.7,28 December 2019
+1516,December 2019,South Ayrshire,114.8,28 December 2019
+1517,December 2019,South Lanarkshire,119.2,28 December 2019
+1518,January 2020,Aberdeen City and Aberdeenshire,94.3,28 January 2020
+1519,January 2020,Caithness and Sutherland and Ross and Cromarty,111.3,28 January 2020
+1520,January 2020,"Inverness and Nairn and Moray, Badenoch and Strathspey",112.1,28 January 2020
+1521,January 2020,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",114.0,28 January 2020
+1522,January 2020,Na h-Eileanan Siar,108.6,28 January 2020
+1523,January 2020,Orkney Islands,111.1,28 January 2020
+1524,January 2020,Shetland Islands,101.4,28 January 2020
+1525,January 2020,Angus and Dundee City,111.5,28 January 2020
+1526,January 2020,Clackmannanshire and Fife,113.3,28 January 2020
+1527,January 2020,East Lothian and Midlothian,124.6,28 January 2020
+1528,January 2020,City of Edinburgh,122.9,28 January 2020
+1529,January 2020,Falkirk,120.6,28 January 2020
+1530,January 2020,Perth and Kinross and Stirling,115.9,28 January 2020
+1531,January 2020,West Lothian,120.4,28 January 2020
+1532,January 2020,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",115.9,28 January 2020
+1533,January 2020,Glasgow City,122.0,28 January 2020
+1534,January 2020,"Inverclyde, East Renfrewshire and Renfrewshire",119.2,28 January 2020
+1535,January 2020,North Lanarkshire,121.8,28 January 2020
+1536,January 2020,Scottish Borders,117.1,28 January 2020
+1537,January 2020,Dumfries and Galloway,115.3,28 January 2020
+1538,January 2020,East Ayrshire and North Ayrshire mainland,116.0,28 January 2020
+1539,January 2020,South Ayrshire,114.7,28 January 2020
+1540,January 2020,South Lanarkshire,119.0,28 January 2020
+1541,February 2020,Aberdeen City and Aberdeenshire,94.4,28 February 2020
+1542,February 2020,Caithness and Sutherland and Ross and Cromarty,112.2,28 February 2020
+1543,February 2020,"Inverness and Nairn and Moray, Badenoch and Strathspey",112.0,28 February 2020
+1544,February 2020,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",112.9,28 February 2020
+1545,February 2020,Na h-Eileanan Siar,108.9,28 February 2020
+1546,February 2020,Orkney Islands,111.3,28 February 2020
+1547,February 2020,Shetland Islands,101.6,28 February 2020
+1548,February 2020,Angus and Dundee City,111.5,28 February 2020
+1549,February 2020,Clackmannanshire and Fife,113.1,28 February 2020
+1550,February 2020,East Lothian and Midlothian,124.3,28 February 2020
+1551,February 2020,City of Edinburgh,122.3,28 February 2020
+1552,February 2020,Falkirk,119.8,28 February 2020
+1553,February 2020,Perth and Kinross and Stirling,115.7,28 February 2020
+1554,February 2020,West Lothian,120.4,28 February 2020
+1555,February 2020,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",115.0,28 February 2020
+1556,February 2020,Glasgow City,122.0,28 February 2020
+1557,February 2020,"Inverclyde, East Renfrewshire and Renfrewshire",119.7,28 February 2020
+1558,February 2020,North Lanarkshire,120.9,28 February 2020
+1559,February 2020,Scottish Borders,117.2,28 February 2020
+1560,February 2020,Dumfries and Galloway,114.7,28 February 2020
+1561,February 2020,East Ayrshire and North Ayrshire mainland,116.3,28 February 2020
+1562,February 2020,South Ayrshire,114.8,28 February 2020
+1563,February 2020,South Lanarkshire,119.0,28 February 2020
+1564,March 2020,Aberdeen City and Aberdeenshire,93.7,28 March 2020
+1565,March 2020,Caithness and Sutherland and Ross and Cromarty,109.9,28 March 2020
+1566,March 2020,"Inverness and Nairn and Moray, Badenoch and Strathspey",110.8,28 March 2020
+1567,March 2020,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",113.1,28 March 2020
+1568,March 2020,Na h-Eileanan Siar,109.9,28 March 2020
+1569,March 2020,Orkney Islands,111.2,28 March 2020
+1570,March 2020,Shetland Islands,100.9,28 March 2020
+1571,March 2020,Angus and Dundee City,110.3,28 March 2020
+1572,March 2020,Clackmannanshire and Fife,112.6,28 March 2020
+1573,March 2020,East Lothian and Midlothian,124.6,28 March 2020
+1574,March 2020,City of Edinburgh,121.9,28 March 2020
+1575,March 2020,Falkirk,120.0,28 March 2020
+1576,March 2020,Perth and Kinross and Stirling,114.0,28 March 2020
+1577,March 2020,West Lothian,121.5,28 March 2020
+1578,March 2020,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",114.9,28 March 2020
+1579,March 2020,Glasgow City,121.8,28 March 2020
+1580,March 2020,"Inverclyde, East Renfrewshire and Renfrewshire",118.4,28 March 2020
+1581,March 2020,North Lanarkshire,120.8,28 March 2020
+1582,March 2020,Scottish Borders,118.0,28 March 2020
+1583,March 2020,Dumfries and Galloway,115.5,28 March 2020
+1584,March 2020,East Ayrshire and North Ayrshire mainland,117.0,28 March 2020
+1585,March 2020,South Ayrshire,115.4,28 March 2020
+1586,March 2020,South Lanarkshire,119.5,28 March 2020
+1587,April 2020,Aberdeen City and Aberdeenshire,88.7,28 April 2020
+1588,April 2020,Caithness and Sutherland and Ross and Cromarty,102.5,28 April 2020
+1589,April 2020,"Inverness and Nairn and Moray, Badenoch and Strathspey",105.3,28 April 2020
+1590,April 2020,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",105.4,28 April 2020
+1591,April 2020,Na h-Eileanan Siar,104.0,28 April 2020
+1592,April 2020,Orkney Islands,105.7,28 April 2020
+1593,April 2020,Shetland Islands,95.8,28 April 2020
+1594,April 2020,Angus and Dundee City,107.4,28 April 2020
+1595,April 2020,Clackmannanshire and Fife,108.1,28 April 2020
+1596,April 2020,East Lothian and Midlothian,120.4,28 April 2020
+1597,April 2020,City of Edinburgh,119.2,28 April 2020
+1598,April 2020,Falkirk,115.1,28 April 2020
+1599,April 2020,Perth and Kinross and Stirling,111.1,28 April 2020
+1600,April 2020,West Lothian,117.9,28 April 2020
+1601,April 2020,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",113.1,28 April 2020
+1602,April 2020,Glasgow City,117.2,28 April 2020
+1603,April 2020,"Inverclyde, East Renfrewshire and Renfrewshire",115.6,28 April 2020
+1604,April 2020,North Lanarkshire,116.0,28 April 2020
+1605,April 2020,Scottish Borders,111.2,28 April 2020
+1606,April 2020,Dumfries and Galloway,108.7,28 April 2020
+1607,April 2020,East Ayrshire and North Ayrshire mainland,109.7,28 April 2020
+1608,April 2020,South Ayrshire,109.3,28 April 2020
+1609,April 2020,South Lanarkshire,114.7,28 April 2020
+1610,May 2020,Aberdeen City and Aberdeenshire,88.0,28 May 2020
+1611,May 2020,Caithness and Sutherland and Ross and Cromarty,103.7,28 May 2020
+1612,May 2020,"Inverness and Nairn and Moray, Badenoch and Strathspey",105.1,28 May 2020
+1613,May 2020,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",105.4,28 May 2020
+1614,May 2020,Na h-Eileanan Siar,102.7,28 May 2020
+1615,May 2020,Orkney Islands,105.8,28 May 2020
+1616,May 2020,Shetland Islands,96.4,28 May 2020
+1617,May 2020,Angus and Dundee City,106.6,28 May 2020
+1618,May 2020,Clackmannanshire and Fife,107.6,28 May 2020
+1619,May 2020,East Lothian and Midlothian,119.9,28 May 2020
+1620,May 2020,City of Edinburgh,119.5,28 May 2020
+1621,May 2020,Falkirk,114.8,28 May 2020
+1622,May 2020,Perth and Kinross and Stirling,109.9,28 May 2020
+1623,May 2020,West Lothian,117.3,28 May 2020
+1624,May 2020,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",112.5,28 May 2020
+1625,May 2020,Glasgow City,117.1,28 May 2020
+1626,May 2020,"Inverclyde, East Renfrewshire and Renfrewshire",114.6,28 May 2020
+1627,May 2020,North Lanarkshire,115.8,28 May 2020
+1628,May 2020,Scottish Borders,111.0,28 May 2020
+1629,May 2020,Dumfries and Galloway,109.6,28 May 2020
+1630,May 2020,East Ayrshire and North Ayrshire mainland,109.7,28 May 2020
+1631,May 2020,South Ayrshire,108.5,28 May 2020
+1632,May 2020,South Lanarkshire,114.8,28 May 2020
+1633,June 2020,Aberdeen City and Aberdeenshire,89.4,28 June 2020
+1634,June 2020,Caithness and Sutherland and Ross and Cromarty,103.2,28 June 2020
+1635,June 2020,"Inverness and Nairn and Moray, Badenoch and Strathspey",105.9,28 June 2020
+1636,June 2020,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",104.9,28 June 2020
+1637,June 2020,Na h-Eileanan Siar,102.4,28 June 2020
+1638,June 2020,Orkney Islands,106.1,28 June 2020
+1639,June 2020,Shetland Islands,97.1,28 June 2020
+1640,June 2020,Angus and Dundee City,107.8,28 June 2020
+1641,June 2020,Clackmannanshire and Fife,108.2,28 June 2020
+1642,June 2020,East Lothian and Midlothian,119.8,28 June 2020
+1643,June 2020,City of Edinburgh,119.5,28 June 2020
+1644,June 2020,Falkirk,114.8,28 June 2020
+1645,June 2020,Perth and Kinross and Stirling,110.2,28 June 2020
+1646,June 2020,West Lothian,117.3,28 June 2020
+1647,June 2020,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",112.0,28 June 2020
+1648,June 2020,Glasgow City,117.2,28 June 2020
+1649,June 2020,"Inverclyde, East Renfrewshire and Renfrewshire",114.9,28 June 2020
+1650,June 2020,North Lanarkshire,116.6,28 June 2020
+1651,June 2020,Scottish Borders,112.3,28 June 2020
+1652,June 2020,Dumfries and Galloway,110.3,28 June 2020
+1653,June 2020,East Ayrshire and North Ayrshire mainland,110.7,28 June 2020
+1654,June 2020,South Ayrshire,109.7,28 June 2020
+1655,June 2020,South Lanarkshire,115.5,28 June 2020
+1656,July 2020,Aberdeen City and Aberdeenshire,90.4,28 July 2020
+1657,July 2020,Caithness and Sutherland and Ross and Cromarty,106.6,28 July 2020
+1658,July 2020,"Inverness and Nairn and Moray, Badenoch and Strathspey",108.4,28 July 2020
+1659,July 2020,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",107.9,28 July 2020
+1660,July 2020,Na h-Eileanan Siar,104.6,28 July 2020
+1661,July 2020,Orkney Islands,107.6,28 July 2020
+1662,July 2020,Shetland Islands,99.2,28 July 2020
+1663,July 2020,Angus and Dundee City,108.2,28 July 2020
+1664,July 2020,Clackmannanshire and Fife,109.1,28 July 2020
+1665,July 2020,East Lothian and Midlothian,121.9,28 July 2020
+1666,July 2020,City of Edinburgh,120.2,28 July 2020
+1667,July 2020,Falkirk,117.0,28 July 2020
+1668,July 2020,Perth and Kinross and Stirling,112.5,28 July 2020
+1669,July 2020,West Lothian,119.0,28 July 2020
+1670,July 2020,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",114.5,28 July 2020
+1671,July 2020,Glasgow City,119.8,28 July 2020
+1672,July 2020,"Inverclyde, East Renfrewshire and Renfrewshire",117.6,28 July 2020
+1673,July 2020,North Lanarkshire,119.7,28 July 2020
+1674,July 2020,Scottish Borders,115.1,28 July 2020
+1675,July 2020,Dumfries and Galloway,111.7,28 July 2020
+1676,July 2020,East Ayrshire and North Ayrshire mainland,113.8,28 July 2020
+1677,July 2020,South Ayrshire,111.8,28 July 2020
+1678,July 2020,South Lanarkshire,118.5,28 July 2020
+1679,August 2020,Aberdeen City and Aberdeenshire,90.0,28 August 2020
+1680,August 2020,Caithness and Sutherland and Ross and Cromarty,107.8,28 August 2020
+1681,August 2020,"Inverness and Nairn and Moray, Badenoch and Strathspey",109.3,28 August 2020
+1682,August 2020,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",111.1,28 August 2020
+1683,August 2020,Na h-Eileanan Siar,106.4,28 August 2020
+1684,August 2020,Orkney Islands,107.8,28 August 2020
+1685,August 2020,Shetland Islands,100.3,28 August 2020
+1686,August 2020,Angus and Dundee City,109.1,28 August 2020
+1687,August 2020,Clackmannanshire and Fife,110.1,28 August 2020
+1688,August 2020,East Lothian and Midlothian,122.9,28 August 2020
+1689,August 2020,City of Edinburgh,120.4,28 August 2020
+1690,August 2020,Falkirk,117.5,28 August 2020
+1691,August 2020,Perth and Kinross and Stirling,114.2,28 August 2020
+1692,August 2020,West Lothian,120.8,28 August 2020
+1693,August 2020,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",115.7,28 August 2020
+1694,August 2020,Glasgow City,120.8,28 August 2020
+1695,August 2020,"Inverclyde, East Renfrewshire and Renfrewshire",119.1,28 August 2020
+1696,August 2020,North Lanarkshire,120.5,28 August 2020
+1697,August 2020,Scottish Borders,115.3,28 August 2020
+1698,August 2020,Dumfries and Galloway,113.4,28 August 2020
+1699,August 2020,East Ayrshire and North Ayrshire mainland,114.5,28 August 2020
+1700,August 2020,South Ayrshire,112.1,28 August 2020
+1701,August 2020,South Lanarkshire,119.1,28 August 2020
+1702,September 2020,Aberdeen City and Aberdeenshire,90.3,28 September 2020
+1703,September 2020,Caithness and Sutherland and Ross and Cromarty,108.8,28 September 2020
+1704,September 2020,"Inverness and Nairn and Moray, Badenoch and Strathspey",110.4,28 September 2020
+1705,September 2020,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",112.1,28 September 2020
+1706,September 2020,Na h-Eileanan Siar,108.0,28 September 2020
+1707,September 2020,Orkney Islands,109.0,28 September 2020
+1708,September 2020,Shetland Islands,100.2,28 September 2020
+1709,September 2020,Angus and Dundee City,110.1,28 September 2020
+1710,September 2020,Clackmannanshire and Fife,111.2,28 September 2020
+1711,September 2020,East Lothian and Midlothian,124.1,28 September 2020
+1712,September 2020,City of Edinburgh,121.7,28 September 2020
+1713,September 2020,Falkirk,118.8,28 September 2020
+1714,September 2020,Perth and Kinross and Stirling,116.2,28 September 2020
+1715,September 2020,West Lothian,121.6,28 September 2020
+1716,September 2020,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",116.6,28 September 2020
+1717,September 2020,Glasgow City,122.0,28 September 2020
+1718,September 2020,"Inverclyde, East Renfrewshire and Renfrewshire",120.3,28 September 2020
+1719,September 2020,North Lanarkshire,122.0,28 September 2020
+1720,September 2020,Scottish Borders,116.7,28 September 2020
+1721,September 2020,Dumfries and Galloway,115.1,28 September 2020
+1722,September 2020,East Ayrshire and North Ayrshire mainland,115.9,28 September 2020
+1723,September 2020,South Ayrshire,114.4,28 September 2020
+1724,September 2020,South Lanarkshire,120.6,28 September 2020
+1725,October 2020,Aberdeen City and Aberdeenshire,90.3,28 October 2020
+1726,October 2020,Caithness and Sutherland and Ross and Cromarty,110.5,28 October 2020
+1727,October 2020,"Inverness and Nairn and Moray, Badenoch and Strathspey",111.7,28 October 2020
+1728,October 2020,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",113.3,28 October 2020
+1729,October 2020,Na h-Eileanan Siar,108.6,28 October 2020
+1730,October 2020,Orkney Islands,110.3,28 October 2020
+1731,October 2020,Shetland Islands,100.9,28 October 2020
+1732,October 2020,Angus and Dundee City,110.1,28 October 2020
+1733,October 2020,Clackmannanshire and Fife,112.5,28 October 2020
+1734,October 2020,East Lothian and Midlothian,124.9,28 October 2020
+1735,October 2020,City of Edinburgh,123.4,28 October 2020
+1736,October 2020,Falkirk,119.7,28 October 2020
+1737,October 2020,Perth and Kinross and Stirling,116.3,28 October 2020
+1738,October 2020,West Lothian,122.6,28 October 2020
+1739,October 2020,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",117.4,28 October 2020
+1740,October 2020,Glasgow City,122.8,28 October 2020
+1741,October 2020,"Inverclyde, East Renfrewshire and Renfrewshire",120.6,28 October 2020
+1742,October 2020,North Lanarkshire,122.9,28 October 2020
+1743,October 2020,Scottish Borders,117.5,28 October 2020
+1744,October 2020,Dumfries and Galloway,116.0,28 October 2020
+1745,October 2020,East Ayrshire and North Ayrshire mainland,116.8,28 October 2020
+1746,October 2020,South Ayrshire,115.4,28 October 2020
+1747,October 2020,South Lanarkshire,121.6,28 October 2020
+1748,November 2020,Aberdeen City and Aberdeenshire,90.3,28 November 2020
+1749,November 2020,Caithness and Sutherland and Ross and Cromarty,110.8,28 November 2020
+1750,November 2020,"Inverness and Nairn and Moray, Badenoch and Strathspey",111.5,28 November 2020
+1751,November 2020,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",113.8,28 November 2020
+1752,November 2020,Na h-Eileanan Siar,110.3,28 November 2020
+1753,November 2020,Orkney Islands,112.2,28 November 2020
+1754,November 2020,Shetland Islands,102.7,28 November 2020
+1755,November 2020,Angus and Dundee City,110.0,28 November 2020
+1756,November 2020,Clackmannanshire and Fife,111.9,28 November 2020
+1757,November 2020,East Lothian and Midlothian,125.1,28 November 2020
+1758,November 2020,City of Edinburgh,122.3,28 November 2020
+1759,November 2020,Falkirk,119.3,28 November 2020
+1760,November 2020,Perth and Kinross and Stirling,116.3,28 November 2020
+1761,November 2020,West Lothian,123.0,28 November 2020
+1762,November 2020,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",116.9,28 November 2020
+1763,November 2020,Glasgow City,123.1,28 November 2020
+1764,November 2020,"Inverclyde, East Renfrewshire and Renfrewshire",120.7,28 November 2020
+1765,November 2020,North Lanarkshire,123.0,28 November 2020
+1766,November 2020,Scottish Borders,117.6,28 November 2020
+1767,November 2020,Dumfries and Galloway,116.3,28 November 2020
+1768,November 2020,East Ayrshire and North Ayrshire mainland,116.8,28 November 2020
+1769,November 2020,South Ayrshire,114.6,28 November 2020
+1770,November 2020,South Lanarkshire,121.9,28 November 2020
+1771,December 2020,Aberdeen City and Aberdeenshire,90.3,28 December 2020
+1772,December 2020,Caithness and Sutherland and Ross and Cromarty,110.7,28 December 2020
+1773,December 2020,"Inverness and Nairn and Moray, Badenoch and Strathspey",111.7,28 December 2020
+1774,December 2020,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",114.3,28 December 2020
+1775,December 2020,Na h-Eileanan Siar,110.7,28 December 2020
+1776,December 2020,Orkney Islands,112.0,28 December 2020
+1777,December 2020,Shetland Islands,103.9,28 December 2020
+1778,December 2020,Angus and Dundee City,111.0,28 December 2020
+1779,December 2020,Clackmannanshire and Fife,112.6,28 December 2020
+1780,December 2020,East Lothian and Midlothian,126.2,28 December 2020
+1781,December 2020,City of Edinburgh,122.8,28 December 2020
+1782,December 2020,Falkirk,120.3,28 December 2020
+1783,December 2020,Perth and Kinross and Stirling,117.8,28 December 2020
+1784,December 2020,West Lothian,123.2,28 December 2020
+1785,December 2020,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",117.4,28 December 2020
+1786,December 2020,Glasgow City,123.1,28 December 2020
+1787,December 2020,"Inverclyde, East Renfrewshire and Renfrewshire",120.6,28 December 2020
+1788,December 2020,North Lanarkshire,123.2,28 December 2020
+1789,December 2020,Scottish Borders,118.2,28 December 2020
+1790,December 2020,Dumfries and Galloway,116.8,28 December 2020
+1791,December 2020,East Ayrshire and North Ayrshire mainland,117.5,28 December 2020
+1792,December 2020,South Ayrshire,115.9,28 December 2020
+1793,December 2020,South Lanarkshire,122.4,28 December 2020
+1794,January 2021,Aberdeen City and Aberdeenshire,89.9,28 January 2021
+1795,January 2021,Caithness and Sutherland and Ross and Cromarty,110.7,28 January 2021
+1796,January 2021,"Inverness and Nairn and Moray, Badenoch and Strathspey",111.8,28 January 2021
+1797,January 2021,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",115.7,28 January 2021
+1798,January 2021,Na h-Eileanan Siar,111.7,28 January 2021
+1799,January 2021,Orkney Islands,112.1,28 January 2021
+1800,January 2021,Shetland Islands,103.2,28 January 2021
+1801,January 2021,Angus and Dundee City,111.2,28 January 2021
+1802,January 2021,Clackmannanshire and Fife,113.5,28 January 2021
+1803,January 2021,East Lothian and Midlothian,127.0,28 January 2021
+1804,January 2021,City of Edinburgh,124.8,28 January 2021
+1805,January 2021,Falkirk,121.1,28 January 2021
+1806,January 2021,Perth and Kinross and Stirling,118.3,28 January 2021
+1807,January 2021,West Lothian,125.0,28 January 2021
+1808,January 2021,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",117.8,28 January 2021
+1809,January 2021,Glasgow City,123.4,28 January 2021
+1810,January 2021,"Inverclyde, East Renfrewshire and Renfrewshire",120.4,28 January 2021
+1811,January 2021,North Lanarkshire,123.2,28 January 2021
+1812,January 2021,Scottish Borders,118.3,28 January 2021
+1813,January 2021,Dumfries and Galloway,117.5,28 January 2021
+1814,January 2021,East Ayrshire and North Ayrshire mainland,117.7,28 January 2021
+1815,January 2021,South Ayrshire,115.2,28 January 2021
+1816,January 2021,South Lanarkshire,122.6,28 January 2021
+1817,February 2021,Aberdeen City and Aberdeenshire,89.1,28 February 2021
+1818,February 2021,Caithness and Sutherland and Ross and Cromarty,110.9,28 February 2021
+1819,February 2021,"Inverness and Nairn and Moray, Badenoch and Strathspey",111.9,28 February 2021
+1820,February 2021,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",115.6,28 February 2021
+1821,February 2021,Na h-Eileanan Siar,111.6,28 February 2021
+1822,February 2021,Orkney Islands,112.4,28 February 2021
+1823,February 2021,Shetland Islands,102.7,28 February 2021
+1824,February 2021,Angus and Dundee City,111.7,28 February 2021
+1825,February 2021,Clackmannanshire and Fife,113.7,28 February 2021
+1826,February 2021,East Lothian and Midlothian,127.1,28 February 2021
+1827,February 2021,City of Edinburgh,124.4,28 February 2021
+1828,February 2021,Falkirk,121.3,28 February 2021
+1829,February 2021,Perth and Kinross and Stirling,118.9,28 February 2021
+1830,February 2021,West Lothian,124.4,28 February 2021
+1831,February 2021,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",117.3,28 February 2021
+1832,February 2021,Glasgow City,124.1,28 February 2021
+1833,February 2021,"Inverclyde, East Renfrewshire and Renfrewshire",121.2,28 February 2021
+1834,February 2021,North Lanarkshire,123.3,28 February 2021
+1835,February 2021,Scottish Borders,119.4,28 February 2021
+1836,February 2021,Dumfries and Galloway,117.9,28 February 2021
+1837,February 2021,East Ayrshire and North Ayrshire mainland,118.5,28 February 2021
+1838,February 2021,South Ayrshire,116.0,28 February 2021
+1839,February 2021,South Lanarkshire,123.0,28 February 2021
+1840,March 2021,Aberdeen City and Aberdeenshire,88.8,28 March 2021
+1841,March 2021,Caithness and Sutherland and Ross and Cromarty,109.9,28 March 2021
+1842,March 2021,"Inverness and Nairn and Moray, Badenoch and Strathspey",111.1,28 March 2021
+1843,March 2021,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",114.5,28 March 2021
+1844,March 2021,Na h-Eileanan Siar,111.0,28 March 2021
+1845,March 2021,Orkney Islands,112.6,28 March 2021
+1846,March 2021,Shetland Islands,102.9,28 March 2021
+1847,March 2021,Angus and Dundee City,111.3,28 March 2021
+1848,March 2021,Clackmannanshire and Fife,112.7,28 March 2021
+1849,March 2021,East Lothian and Midlothian,126.4,28 March 2021
+1850,March 2021,City of Edinburgh,124.0,28 March 2021
+1851,March 2021,Falkirk,119.8,28 March 2021
+1852,March 2021,Perth and Kinross and Stirling,117.4,28 March 2021
+1853,March 2021,West Lothian,123.2,28 March 2021
+1854,March 2021,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",117.4,28 March 2021
+1855,March 2021,Glasgow City,123.7,28 March 2021
+1856,March 2021,"Inverclyde, East Renfrewshire and Renfrewshire",120.3,28 March 2021
+1857,March 2021,North Lanarkshire,123.1,28 March 2021
+1858,March 2021,Scottish Borders,119.5,28 March 2021
+1859,March 2021,Dumfries and Galloway,118.2,28 March 2021
+1860,March 2021,East Ayrshire and North Ayrshire mainland,118.5,28 March 2021
+1861,March 2021,South Ayrshire,116.1,28 March 2021
+1862,March 2021,South Lanarkshire,123.0,28 March 2021
+1863,April 2021,Aberdeen City and Aberdeenshire,93.4,28 April 2021
+1864,April 2021,Caithness and Sutherland and Ross and Cromarty,114.1,28 April 2021
+1865,April 2021,"Inverness and Nairn and Moray, Badenoch and Strathspey",115.9,28 April 2021
+1866,April 2021,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",115.1,28 April 2021
+1867,April 2021,Na h-Eileanan Siar,113.2,28 April 2021
+1868,April 2021,Orkney Islands,113.7,28 April 2021
+1869,April 2021,Shetland Islands,102.6,28 April 2021
+1870,April 2021,Angus and Dundee City,116.0,28 April 2021
+1871,April 2021,Clackmannanshire and Fife,117.4,28 April 2021
+1872,April 2021,East Lothian and Midlothian,131.5,28 April 2021
+1873,April 2021,City of Edinburgh,127.8,28 April 2021
+1874,April 2021,Falkirk,124.6,28 April 2021
+1875,April 2021,Perth and Kinross and Stirling,120.4,28 April 2021
+1876,April 2021,West Lothian,127.7,28 April 2021
+1877,April 2021,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",122.5,28 April 2021
+1878,April 2021,Glasgow City,128.6,28 April 2021
+1879,April 2021,"Inverclyde, East Renfrewshire and Renfrewshire",126.6,28 April 2021
+1880,April 2021,North Lanarkshire,126.1,28 April 2021
+1881,April 2021,Scottish Borders,120.7,28 April 2021
+1882,April 2021,Dumfries and Galloway,119.6,28 April 2021
+1883,April 2021,East Ayrshire and North Ayrshire mainland,120.3,28 April 2021
+1884,April 2021,South Ayrshire,117.6,28 April 2021
+1885,April 2021,South Lanarkshire,124.7,28 April 2021
+1886,May 2021,Aberdeen City and Aberdeenshire,93.3,28 May 2021
+1887,May 2021,Caithness and Sutherland and Ross and Cromarty,114.3,28 May 2021
+1888,May 2021,"Inverness and Nairn and Moray, Badenoch and Strathspey",116.4,28 May 2021
+1889,May 2021,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",118.1,28 May 2021
+1890,May 2021,Na h-Eileanan Siar,113.6,28 May 2021
+1891,May 2021,Orkney Islands,113.8,28 May 2021
+1892,May 2021,Shetland Islands,103.2,28 May 2021
+1893,May 2021,Angus and Dundee City,114.9,28 May 2021
+1894,May 2021,Clackmannanshire and Fife,116.4,28 May 2021
+1895,May 2021,East Lothian and Midlothian,132.3,28 May 2021
+1896,May 2021,City of Edinburgh,128.5,28 May 2021
+1897,May 2021,Falkirk,124.3,28 May 2021
+1898,May 2021,Perth and Kinross and Stirling,121.1,28 May 2021
+1899,May 2021,West Lothian,127.6,28 May 2021
+1900,May 2021,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",123.1,28 May 2021
+1901,May 2021,Glasgow City,129.1,28 May 2021
+1902,May 2021,"Inverclyde, East Renfrewshire and Renfrewshire",126.2,28 May 2021
+1903,May 2021,North Lanarkshire,127.1,28 May 2021
+1904,May 2021,Scottish Borders,121.3,28 May 2021
+1905,May 2021,Dumfries and Galloway,120.4,28 May 2021
+1906,May 2021,East Ayrshire and North Ayrshire mainland,120.2,28 May 2021
+1907,May 2021,South Ayrshire,118.1,28 May 2021
+1908,May 2021,South Lanarkshire,125.2,28 May 2021
+1909,June 2021,Aberdeen City and Aberdeenshire,93.9,28 June 2021
+1910,June 2021,Caithness and Sutherland and Ross and Cromarty,114.8,28 June 2021
+1911,June 2021,"Inverness and Nairn and Moray, Badenoch and Strathspey",116.9,28 June 2021
+1912,June 2021,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",119.1,28 June 2021
+1913,June 2021,Na h-Eileanan Siar,114.9,28 June 2021
+1914,June 2021,Orkney Islands,113.0,28 June 2021
+1915,June 2021,Shetland Islands,103.1,28 June 2021
+1916,June 2021,Angus and Dundee City,115.1,28 June 2021
+1917,June 2021,Clackmannanshire and Fife,116.8,28 June 2021
+1918,June 2021,East Lothian and Midlothian,130.2,28 June 2021
+1919,June 2021,City of Edinburgh,127.3,28 June 2021
+1920,June 2021,Falkirk,124.1,28 June 2021
+1921,June 2021,Perth and Kinross and Stirling,121.1,28 June 2021
+1922,June 2021,West Lothian,127.4,28 June 2021
+1923,June 2021,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",122.2,28 June 2021
+1924,June 2021,Glasgow City,129.3,28 June 2021
+1925,June 2021,"Inverclyde, East Renfrewshire and Renfrewshire",125.7,28 June 2021
+1926,June 2021,North Lanarkshire,126.9,28 June 2021
+1927,June 2021,Scottish Borders,120.6,28 June 2021
+1928,June 2021,Dumfries and Galloway,121.6,28 June 2021
+1929,June 2021,East Ayrshire and North Ayrshire mainland,120.1,28 June 2021
+1930,June 2021,South Ayrshire,118.3,28 June 2021
+1931,June 2021,South Lanarkshire,125.7,28 June 2021
+1932,July 2021,Aberdeen City and Aberdeenshire,94.3,28 July 2021
+1933,July 2021,Caithness and Sutherland and Ross and Cromarty,116.2,28 July 2021
+1934,July 2021,"Inverness and Nairn and Moray, Badenoch and Strathspey",118.3,28 July 2021
+1935,July 2021,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",121.3,28 July 2021
+1936,July 2021,Na h-Eileanan Siar,116.4,28 July 2021
+1937,July 2021,Orkney Islands,114.0,28 July 2021
+1938,July 2021,Shetland Islands,103.8,28 July 2021
+1939,July 2021,Angus and Dundee City,115.5,28 July 2021
+1940,July 2021,Clackmannanshire and Fife,117.7,28 July 2021
+1941,July 2021,East Lothian and Midlothian,131.7,28 July 2021
+1942,July 2021,City of Edinburgh,128.7,28 July 2021
+1943,July 2021,Falkirk,124.9,28 July 2021
+1944,July 2021,Perth and Kinross and Stirling,122.7,28 July 2021
+1945,July 2021,West Lothian,128.7,28 July 2021
+1946,July 2021,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",123.2,28 July 2021
+1947,July 2021,Glasgow City,130.7,28 July 2021
+1948,July 2021,"Inverclyde, East Renfrewshire and Renfrewshire",127.1,28 July 2021
+1949,July 2021,North Lanarkshire,128.5,28 July 2021
+1950,July 2021,Scottish Borders,122.7,28 July 2021
+1951,July 2021,Dumfries and Galloway,122.3,28 July 2021
+1952,July 2021,East Ayrshire and North Ayrshire mainland,121.7,28 July 2021
+1953,July 2021,South Ayrshire,119.3,28 July 2021
+1954,July 2021,South Lanarkshire,127.1,28 July 2021
+1955,August 2021,Aberdeen City and Aberdeenshire,95.3,28 August 2021
+1956,August 2021,Caithness and Sutherland and Ross and Cromarty,116.5,28 August 2021
+1957,August 2021,"Inverness and Nairn and Moray, Badenoch and Strathspey",118.7,28 August 2021
+1958,August 2021,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",121.3,28 August 2021
+1959,August 2021,Na h-Eileanan Siar,116.2,28 August 2021
+1960,August 2021,Orkney Islands,115.5,28 August 2021
+1961,August 2021,Shetland Islands,103.5,28 August 2021
+1962,August 2021,Angus and Dundee City,116.4,28 August 2021
+1963,August 2021,Clackmannanshire and Fife,118.3,28 August 2021
+1964,August 2021,East Lothian and Midlothian,132.9,28 August 2021
+1965,August 2021,City of Edinburgh,131.2,28 August 2021
+1966,August 2021,Falkirk,125.9,28 August 2021
+1967,August 2021,Perth and Kinross and Stirling,123.2,28 August 2021
+1968,August 2021,West Lothian,130.1,28 August 2021
+1969,August 2021,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",124.6,28 August 2021
+1970,August 2021,Glasgow City,132.0,28 August 2021
+1971,August 2021,"Inverclyde, East Renfrewshire and Renfrewshire",128.2,28 August 2021
+1972,August 2021,North Lanarkshire,129.8,28 August 2021
+1973,August 2021,Scottish Borders,124.3,28 August 2021
+1974,August 2021,Dumfries and Galloway,122.5,28 August 2021
+1975,August 2021,East Ayrshire and North Ayrshire mainland,122.8,28 August 2021
+1976,August 2021,South Ayrshire,120.6,28 August 2021
+1977,August 2021,South Lanarkshire,128.3,28 August 2021
+1978,September 2021,Aberdeen City and Aberdeenshire,95.6,28 September 2021
+1979,September 2021,Caithness and Sutherland and Ross and Cromarty,116.5,28 September 2021
+1980,September 2021,"Inverness and Nairn and Moray, Badenoch and Strathspey",119.0,28 September 2021
+1981,September 2021,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",122.3,28 September 2021
+1982,September 2021,Na h-Eileanan Siar,116.9,28 September 2021
+1983,September 2021,Orkney Islands,115.7,28 September 2021
+1984,September 2021,Shetland Islands,103.2,28 September 2021
+1985,September 2021,Angus and Dundee City,117.0,28 September 2021
+1986,September 2021,Clackmannanshire and Fife,118.4,28 September 2021
+1987,September 2021,East Lothian and Midlothian,133.2,28 September 2021
+1988,September 2021,City of Edinburgh,130.4,28 September 2021
+1989,September 2021,Falkirk,125.9,28 September 2021
+1990,September 2021,Perth and Kinross and Stirling,124.0,28 September 2021
+1991,September 2021,West Lothian,129.9,28 September 2021
+1992,September 2021,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",124.3,28 September 2021
+1993,September 2021,Glasgow City,131.8,28 September 2021
+1994,September 2021,"Inverclyde, East Renfrewshire and Renfrewshire",127.9,28 September 2021
+1995,September 2021,North Lanarkshire,129.8,28 September 2021
+1996,September 2021,Scottish Borders,124.8,28 September 2021
+1997,September 2021,Dumfries and Galloway,123.3,28 September 2021
+1998,September 2021,East Ayrshire and North Ayrshire mainland,123.3,28 September 2021
+1999,September 2021,South Ayrshire,120.6,28 September 2021
+2000,September 2021,South Lanarkshire,128.7,28 September 2021
+2001,October 2021,Aberdeen City and Aberdeenshire,95.7,28 October 2021
+2002,October 2021,Caithness and Sutherland and Ross and Cromarty,116.7,28 October 2021
+2003,October 2021,"Inverness and Nairn and Moray, Badenoch and Strathspey",119.5,28 October 2021
+2004,October 2021,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",123.0,28 October 2021
+2005,October 2021,Na h-Eileanan Siar,116.4,28 October 2021
+2006,October 2021,Orkney Islands,116.4,28 October 2021
+2007,October 2021,Shetland Islands,103.1,28 October 2021
+2008,October 2021,Angus and Dundee City,117.9,28 October 2021
+2009,October 2021,Clackmannanshire and Fife,118.9,28 October 2021
+2010,October 2021,East Lothian and Midlothian,134.6,28 October 2021
+2011,October 2021,City of Edinburgh,132.4,28 October 2021
+2012,October 2021,Falkirk,126.0,28 October 2021
+2013,October 2021,Perth and Kinross and Stirling,124.8,28 October 2021
+2014,October 2021,West Lothian,130.8,28 October 2021
+2015,October 2021,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",124.9,28 October 2021
+2016,October 2021,Glasgow City,132.5,28 October 2021
+2017,October 2021,"Inverclyde, East Renfrewshire and Renfrewshire",128.6,28 October 2021
+2018,October 2021,North Lanarkshire,130.2,28 October 2021
+2019,October 2021,Scottish Borders,125.9,28 October 2021
+2020,October 2021,Dumfries and Galloway,124.0,28 October 2021
+2021,October 2021,East Ayrshire and North Ayrshire mainland,124.2,28 October 2021
+2022,October 2021,South Ayrshire,121.2,28 October 2021
+2023,October 2021,South Lanarkshire,129.5,28 October 2021
+2024,November 2021,Aberdeen City and Aberdeenshire,96.2,28 November 2021
+2025,November 2021,Caithness and Sutherland and Ross and Cromarty,117.6,28 November 2021
+2026,November 2021,"Inverness and Nairn and Moray, Badenoch and Strathspey",120.8,28 November 2021
+2027,November 2021,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",124.3,28 November 2021
+2028,November 2021,Na h-Eileanan Siar,116.2,28 November 2021
+2029,November 2021,Orkney Islands,117.3,28 November 2021
+2030,November 2021,Shetland Islands,103.8,28 November 2021
+2031,November 2021,Angus and Dundee City,119.6,28 November 2021
+2032,November 2021,Clackmannanshire and Fife,120.4,28 November 2021
+2033,November 2021,East Lothian and Midlothian,137.0,28 November 2021
+2034,November 2021,City of Edinburgh,135.3,28 November 2021
+2035,November 2021,Falkirk,128.5,28 November 2021
+2036,November 2021,Perth and Kinross and Stirling,127.1,28 November 2021
+2037,November 2021,West Lothian,133.0,28 November 2021
+2038,November 2021,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",126.1,28 November 2021
+2039,November 2021,Glasgow City,134.1,28 November 2021
+2040,November 2021,"Inverclyde, East Renfrewshire and Renfrewshire",129.7,28 November 2021
+2041,November 2021,North Lanarkshire,132.0,28 November 2021
+2042,November 2021,Scottish Borders,126.9,28 November 2021
+2043,November 2021,Dumfries and Galloway,125.2,28 November 2021
+2044,November 2021,East Ayrshire and North Ayrshire mainland,125.6,28 November 2021
+2045,November 2021,South Ayrshire,122.9,28 November 2021
+2046,November 2021,South Lanarkshire,130.9,28 November 2021
+2047,December 2021,Aberdeen City and Aberdeenshire,96.8,28 December 2021
+2048,December 2021,Caithness and Sutherland and Ross and Cromarty,119.9,28 December 2021
+2049,December 2021,"Inverness and Nairn and Moray, Badenoch and Strathspey",122.3,28 December 2021
+2050,December 2021,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",124.8,28 December 2021
+2051,December 2021,Na h-Eileanan Siar,117.8,28 December 2021
+2052,December 2021,Orkney Islands,118.0,28 December 2021
+2053,December 2021,Shetland Islands,103.9,28 December 2021
+2054,December 2021,Angus and Dundee City,120.6,28 December 2021
+2055,December 2021,Clackmannanshire and Fife,121.8,28 December 2021
+2056,December 2021,East Lothian and Midlothian,137.4,28 December 2021
+2057,December 2021,City of Edinburgh,135.8,28 December 2021
+2058,December 2021,Falkirk,128.8,28 December 2021
+2059,December 2021,Perth and Kinross and Stirling,128.2,28 December 2021
+2060,December 2021,West Lothian,134.5,28 December 2021
+2061,December 2021,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",126.5,28 December 2021
+2062,December 2021,Glasgow City,135.4,28 December 2021
+2063,December 2021,"Inverclyde, East Renfrewshire and Renfrewshire",130.5,28 December 2021
+2064,December 2021,North Lanarkshire,133.6,28 December 2021
+2065,December 2021,Scottish Borders,128.1,28 December 2021
+2066,December 2021,Dumfries and Galloway,126.6,28 December 2021
+2067,December 2021,East Ayrshire and North Ayrshire mainland,126.4,28 December 2021
+2068,December 2021,South Ayrshire,124.0,28 December 2021
+2069,December 2021,South Lanarkshire,133.0,28 December 2021
+2070,January 2022,Aberdeen City and Aberdeenshire,98.5,28 January 2022
+2071,January 2022,Caithness and Sutherland and Ross and Cromarty,119.2,28 January 2022
+2072,January 2022,"Inverness and Nairn and Moray, Badenoch and Strathspey",124.0,28 January 2022
+2073,January 2022,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",125.6,28 January 2022
+2074,January 2022,Na h-Eileanan Siar,119.1,28 January 2022
+2075,January 2022,Orkney Islands,119.6,28 January 2022
+2076,January 2022,Shetland Islands,107.3,28 January 2022
+2077,January 2022,Angus and Dundee City,122.0,28 January 2022
+2078,January 2022,Clackmannanshire and Fife,122.9,28 January 2022
+2079,January 2022,East Lothian and Midlothian,140.2,28 January 2022
+2080,January 2022,City of Edinburgh,137.6,28 January 2022
+2081,January 2022,Falkirk,130.2,28 January 2022
+2082,January 2022,Perth and Kinross and Stirling,129.5,28 January 2022
+2083,January 2022,West Lothian,135.4,28 January 2022
+2084,January 2022,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",127.3,28 January 2022
+2085,January 2022,Glasgow City,137.1,28 January 2022
+2086,January 2022,"Inverclyde, East Renfrewshire and Renfrewshire",132.8,28 January 2022
+2087,January 2022,North Lanarkshire,134.6,28 January 2022
+2088,January 2022,Scottish Borders,130.4,28 January 2022
+2089,January 2022,Dumfries and Galloway,127.3,28 January 2022
+2090,January 2022,East Ayrshire and North Ayrshire mainland,128.0,28 January 2022
+2091,January 2022,South Ayrshire,126.4,28 January 2022
+2092,January 2022,South Lanarkshire,134.5,28 January 2022
+2093,February 2022,Aberdeen City and Aberdeenshire,99.3,28 February 2022
+2094,February 2022,Caithness and Sutherland and Ross and Cromarty,120.3,28 February 2022
+2095,February 2022,"Inverness and Nairn and Moray, Badenoch and Strathspey",124.4,28 February 2022
+2096,February 2022,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",125.4,28 February 2022
+2097,February 2022,Na h-Eileanan Siar,120.2,28 February 2022
+2098,February 2022,Orkney Islands,119.4,28 February 2022
+2099,February 2022,Shetland Islands,108.0,28 February 2022
+2100,February 2022,Angus and Dundee City,121.6,28 February 2022
+2101,February 2022,Clackmannanshire and Fife,123.0,28 February 2022
+2102,February 2022,East Lothian and Midlothian,139.7,28 February 2022
+2103,February 2022,City of Edinburgh,138.1,28 February 2022
+2104,February 2022,Falkirk,130.4,28 February 2022
+2105,February 2022,Perth and Kinross and Stirling,130.4,28 February 2022
+2106,February 2022,West Lothian,135.8,28 February 2022
+2107,February 2022,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",126.7,28 February 2022
+2108,February 2022,Glasgow City,137.1,28 February 2022
+2109,February 2022,"Inverclyde, East Renfrewshire and Renfrewshire",132.7,28 February 2022
+2110,February 2022,North Lanarkshire,134.2,28 February 2022
+2111,February 2022,Scottish Borders,128.8,28 February 2022
+2112,February 2022,Dumfries and Galloway,127.2,28 February 2022
+2113,February 2022,East Ayrshire and North Ayrshire mainland,127.4,28 February 2022
+2114,February 2022,South Ayrshire,125.3,28 February 2022
+2115,February 2022,South Lanarkshire,133.3,28 February 2022
+2116,March 2022,Aberdeen City and Aberdeenshire,101.1,28 March 2022
+2117,March 2022,Caithness and Sutherland and Ross and Cromarty,119.7,28 March 2022
+2118,March 2022,"Inverness and Nairn and Moray, Badenoch and Strathspey",123.3,28 March 2022
+2119,March 2022,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",127.2,28 March 2022
+2120,March 2022,Na h-Eileanan Siar,120.4,28 March 2022
+2121,March 2022,Orkney Islands,118.9,28 March 2022
+2122,March 2022,Shetland Islands,108.1,28 March 2022
+2123,March 2022,Angus and Dundee City,120.8,28 March 2022
+2124,March 2022,Clackmannanshire and Fife,124.4,28 March 2022
+2125,March 2022,East Lothian and Midlothian,140.5,28 March 2022
+2126,March 2022,City of Edinburgh,140.9,28 March 2022
+2127,March 2022,Falkirk,132.6,28 March 2022
+2128,March 2022,Perth and Kinross and Stirling,130.7,28 March 2022
+2129,March 2022,West Lothian,136.0,28 March 2022
+2130,March 2022,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",128.9,28 March 2022
+2131,March 2022,Glasgow City,137.9,28 March 2022
+2132,March 2022,"Inverclyde, East Renfrewshire and Renfrewshire",132.7,28 March 2022
+2133,March 2022,North Lanarkshire,133.9,28 March 2022
+2134,March 2022,Scottish Borders,130.2,28 March 2022
+2135,March 2022,Dumfries and Galloway,128.3,28 March 2022
+2136,March 2022,East Ayrshire and North Ayrshire mainland,128.3,28 March 2022
+2137,March 2022,South Ayrshire,127.1,28 March 2022
+2138,March 2022,South Lanarkshire,135.6,28 March 2022
+2139,April 2022,Aberdeen City and Aberdeenshire,100.2,28 April 2022
+2140,April 2022,Caithness and Sutherland and Ross and Cromarty,121.8,28 April 2022
+2141,April 2022,"Inverness and Nairn and Moray, Badenoch and Strathspey",125.7,28 April 2022
+2142,April 2022,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",128.2,28 April 2022
+2143,April 2022,Na h-Eileanan Siar,121.9,28 April 2022
+2144,April 2022,Orkney Islands,120.5,28 April 2022
+2145,April 2022,Shetland Islands,109.4,28 April 2022
+2146,April 2022,Angus and Dundee City,122.0,28 April 2022
+2147,April 2022,Clackmannanshire and Fife,123.9,28 April 2022
+2148,April 2022,East Lothian and Midlothian,141.2,28 April 2022
+2149,April 2022,City of Edinburgh,137.2,28 April 2022
+2150,April 2022,Falkirk,130.9,28 April 2022
+2151,April 2022,Perth and Kinross and Stirling,130.7,28 April 2022
+2152,April 2022,West Lothian,137.3,28 April 2022
+2153,April 2022,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",129.7,28 April 2022
+2154,April 2022,Glasgow City,140.6,28 April 2022
+2155,April 2022,"Inverclyde, East Renfrewshire and Renfrewshire",134.9,28 April 2022
+2156,April 2022,North Lanarkshire,135.8,28 April 2022
+2157,April 2022,Scottish Borders,130.0,28 April 2022
+2158,April 2022,Dumfries and Galloway,128.4,28 April 2022
+2159,April 2022,East Ayrshire and North Ayrshire mainland,128.7,28 April 2022
+2160,April 2022,South Ayrshire,127.2,28 April 2022
+2161,April 2022,South Lanarkshire,135.2,28 April 2022
+2162,May 2022,Aberdeen City and Aberdeenshire,100.1,28 May 2022
+2163,May 2022,Caithness and Sutherland and Ross and Cromarty,122.9,28 May 2022
+2164,May 2022,"Inverness and Nairn and Moray, Badenoch and Strathspey",125.9,28 May 2022
+2165,May 2022,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",129.3,28 May 2022
+2166,May 2022,Na h-Eileanan Siar,123.0,28 May 2022
+2167,May 2022,Orkney Islands,121.8,28 May 2022
+2168,May 2022,Shetland Islands,109.2,28 May 2022
+2169,May 2022,Angus and Dundee City,122.8,28 May 2022
+2170,May 2022,Clackmannanshire and Fife,124.3,28 May 2022
+2171,May 2022,East Lothian and Midlothian,142.1,28 May 2022
+2172,May 2022,City of Edinburgh,139.7,28 May 2022
+2173,May 2022,Falkirk,131.4,28 May 2022
+2174,May 2022,Perth and Kinross and Stirling,131.7,28 May 2022
+2175,May 2022,West Lothian,138.0,28 May 2022
+2176,May 2022,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",130.3,28 May 2022
+2177,May 2022,Glasgow City,141.3,28 May 2022
+2178,May 2022,"Inverclyde, East Renfrewshire and Renfrewshire",135.6,28 May 2022
+2179,May 2022,North Lanarkshire,135.5,28 May 2022
+2180,May 2022,Scottish Borders,131.3,28 May 2022
+2181,May 2022,Dumfries and Galloway,129.0,28 May 2022
+2182,May 2022,East Ayrshire and North Ayrshire mainland,129.0,28 May 2022
+2183,May 2022,South Ayrshire,127.6,28 May 2022
+2184,May 2022,South Lanarkshire,135.1,28 May 2022
+2185,June 2022,Aberdeen City and Aberdeenshire,101.3,28 June 2022
+2186,June 2022,Caithness and Sutherland and Ross and Cromarty,123.0,28 June 2022
+2187,June 2022,"Inverness and Nairn and Moray, Badenoch and Strathspey",125.9,28 June 2022
+2188,June 2022,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",128.5,28 June 2022
+2189,June 2022,Na h-Eileanan Siar,123.0,28 June 2022
+2190,June 2022,Orkney Islands,122.7,28 June 2022
+2191,June 2022,Shetland Islands,109.8,28 June 2022
+2192,June 2022,Angus and Dundee City,123.6,28 June 2022
+2193,June 2022,Clackmannanshire and Fife,125.6,28 June 2022
+2194,June 2022,East Lothian and Midlothian,143.8,28 June 2022
+2195,June 2022,City of Edinburgh,141.9,28 June 2022
+2196,June 2022,Falkirk,132.2,28 June 2022
+2197,June 2022,Perth and Kinross and Stirling,132.4,28 June 2022
+2198,June 2022,West Lothian,139.0,28 June 2022
+2199,June 2022,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",130.8,28 June 2022
+2200,June 2022,Glasgow City,142.3,28 June 2022
+2201,June 2022,"Inverclyde, East Renfrewshire and Renfrewshire",136.0,28 June 2022
+2202,June 2022,North Lanarkshire,136.4,28 June 2022
+2203,June 2022,Scottish Borders,131.2,28 June 2022
+2204,June 2022,Dumfries and Galloway,128.6,28 June 2022
+2205,June 2022,East Ayrshire and North Ayrshire mainland,130.2,28 June 2022
+2206,June 2022,South Ayrshire,128.7,28 June 2022
+2207,June 2022,South Lanarkshire,136.3,28 June 2022
+2208,July 2022,Aberdeen City and Aberdeenshire,101.5,28 July 2022
+2209,July 2022,Caithness and Sutherland and Ross and Cromarty,123.0,28 July 2022
+2210,July 2022,"Inverness and Nairn and Moray, Badenoch and Strathspey",125.8,28 July 2022
+2211,July 2022,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",128.7,28 July 2022
+2212,July 2022,Na h-Eileanan Siar,122.9,28 July 2022
+2213,July 2022,Orkney Islands,122.8,28 July 2022
+2214,July 2022,Shetland Islands,108.8,28 July 2022
+2215,July 2022,Angus and Dundee City,125.1,28 July 2022
+2216,July 2022,Clackmannanshire and Fife,126.6,28 July 2022
+2217,July 2022,East Lothian and Midlothian,144.6,28 July 2022
+2218,July 2022,City of Edinburgh,142.9,28 July 2022
+2219,July 2022,Falkirk,133.6,28 July 2022
+2220,July 2022,Perth and Kinross and Stirling,132.7,28 July 2022
+2221,July 2022,West Lothian,138.4,28 July 2022
+2222,July 2022,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",131.5,28 July 2022
+2223,July 2022,Glasgow City,142.7,28 July 2022
+2224,July 2022,"Inverclyde, East Renfrewshire and Renfrewshire",136.4,28 July 2022
+2225,July 2022,North Lanarkshire,136.8,28 July 2022
+2226,July 2022,Scottish Borders,132.1,28 July 2022
+2227,July 2022,Dumfries and Galloway,128.0,28 July 2022
+2228,July 2022,East Ayrshire and North Ayrshire mainland,130.3,28 July 2022
+2229,July 2022,South Ayrshire,128.4,28 July 2022
+2230,July 2022,South Lanarkshire,136.2,28 July 2022
+2231,August 2022,Aberdeen City and Aberdeenshire,101.4,28 August 2022
+2232,August 2022,Caithness and Sutherland and Ross and Cromarty,122.4,28 August 2022
+2233,August 2022,"Inverness and Nairn and Moray, Badenoch and Strathspey",124.9,28 August 2022
+2234,August 2022,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",128.2,28 August 2022
+2235,August 2022,Na h-Eileanan Siar,122.1,28 August 2022
+2236,August 2022,Orkney Islands,122.2,28 August 2022
+2237,August 2022,Shetland Islands,108.5,28 August 2022
+2238,August 2022,Angus and Dundee City,124.6,28 August 2022
+2239,August 2022,Clackmannanshire and Fife,126.1,28 August 2022
+2240,August 2022,East Lothian and Midlothian,143.8,28 August 2022
+2241,August 2022,City of Edinburgh,142.8,28 August 2022
+2242,August 2022,Falkirk,133.8,28 August 2022
+2243,August 2022,Perth and Kinross and Stirling,132.3,28 August 2022
+2244,August 2022,West Lothian,138.6,28 August 2022
+2245,August 2022,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",130.2,28 August 2022
+2246,August 2022,Glasgow City,142.5,28 August 2022
+2247,August 2022,"Inverclyde, East Renfrewshire and Renfrewshire",136.1,28 August 2022
+2248,August 2022,North Lanarkshire,136.8,28 August 2022
+2249,August 2022,Scottish Borders,131.5,28 August 2022
+2250,August 2022,Dumfries and Galloway,128.1,28 August 2022
+2251,August 2022,East Ayrshire and North Ayrshire mainland,130.3,28 August 2022
+2252,August 2022,South Ayrshire,128.4,28 August 2022
+2253,August 2022,South Lanarkshire,136.5,28 August 2022
+2254,September 2022,Aberdeen City and Aberdeenshire,102.8,28 September 2022
+2255,September 2022,Caithness and Sutherland and Ross and Cromarty,124.0,28 September 2022
+2256,September 2022,"Inverness and Nairn and Moray, Badenoch and Strathspey",126.5,28 September 2022
+2257,September 2022,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",128.9,28 September 2022
+2258,September 2022,Na h-Eileanan Siar,123.7,28 September 2022
+2259,September 2022,Orkney Islands,123.7,28 September 2022
+2260,September 2022,Shetland Islands,111.0,28 September 2022
+2261,September 2022,Angus and Dundee City,125.7,28 September 2022
+2262,September 2022,Clackmannanshire and Fife,127.4,28 September 2022
+2263,September 2022,East Lothian and Midlothian,145.6,28 September 2022
+2264,September 2022,City of Edinburgh,146.0,28 September 2022
+2265,September 2022,Falkirk,134.9,28 September 2022
+2266,September 2022,Perth and Kinross and Stirling,133.1,28 September 2022
+2267,September 2022,West Lothian,141.0,28 September 2022
+2268,September 2022,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",131.4,28 September 2022
+2269,September 2022,Glasgow City,144.3,28 September 2022
+2270,September 2022,"Inverclyde, East Renfrewshire and Renfrewshire",137.3,28 September 2022
+2271,September 2022,North Lanarkshire,137.7,28 September 2022
+2272,September 2022,Scottish Borders,132.5,28 September 2022
+2273,September 2022,Dumfries and Galloway,129.3,28 September 2022
+2274,September 2022,East Ayrshire and North Ayrshire mainland,131.7,28 September 2022
+2275,September 2022,South Ayrshire,129.9,28 September 2022
+2276,September 2022,South Lanarkshire,137.8,28 September 2022
+2277,October 2022,Aberdeen City and Aberdeenshire,104.0,28 October 2022
+2278,October 2022,Caithness and Sutherland and Ross and Cromarty,124.8,28 October 2022
+2279,October 2022,"Inverness and Nairn and Moray, Badenoch and Strathspey",127.8,28 October 2022
+2280,October 2022,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",130.3,28 October 2022
+2281,October 2022,Na h-Eileanan Siar,126.5,28 October 2022
+2282,October 2022,Orkney Islands,123.9,28 October 2022
+2283,October 2022,Shetland Islands,111.5,28 October 2022
+2284,October 2022,Angus and Dundee City,127.0,28 October 2022
+2285,October 2022,Clackmannanshire and Fife,129.1,28 October 2022
+2286,October 2022,East Lothian and Midlothian,148.0,28 October 2022
+2287,October 2022,City of Edinburgh,148.6,28 October 2022
+2288,October 2022,Falkirk,136.8,28 October 2022
+2289,October 2022,Perth and Kinross and Stirling,135.6,28 October 2022
+2290,October 2022,West Lothian,142.9,28 October 2022
+2291,October 2022,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",133.1,28 October 2022
+2292,October 2022,Glasgow City,145.4,28 October 2022
+2293,October 2022,"Inverclyde, East Renfrewshire and Renfrewshire",138.6,28 October 2022
+2294,October 2022,North Lanarkshire,139.2,28 October 2022
+2295,October 2022,Scottish Borders,133.5,28 October 2022
+2296,October 2022,Dumfries and Galloway,130.8,28 October 2022
+2297,October 2022,East Ayrshire and North Ayrshire mainland,132.9,28 October 2022
+2298,October 2022,South Ayrshire,131.2,28 October 2022
+2299,October 2022,South Lanarkshire,139.0,28 October 2022
+2300,November 2022,Aberdeen City and Aberdeenshire,106.2,28 November 2022
+2301,November 2022,Caithness and Sutherland and Ross and Cromarty,129.4,28 November 2022
+2302,November 2022,"Inverness and Nairn and Moray, Badenoch and Strathspey",132.4,28 November 2022
+2303,November 2022,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",134.3,28 November 2022
+2304,November 2022,Na h-Eileanan Siar,130.1,28 November 2022
+2305,November 2022,Orkney Islands,127.2,28 November 2022
+2306,November 2022,Shetland Islands,114.7,28 November 2022
+2307,November 2022,Angus and Dundee City,132.7,28 November 2022
+2308,November 2022,Clackmannanshire and Fife,133.1,28 November 2022
+2309,November 2022,East Lothian and Midlothian,153.5,28 November 2022
+2310,November 2022,City of Edinburgh,152.3,28 November 2022
+2311,November 2022,Falkirk,140.5,28 November 2022
+2312,November 2022,Perth and Kinross and Stirling,139.3,28 November 2022
+2313,November 2022,West Lothian,146.7,28 November 2022
+2314,November 2022,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",137.8,28 November 2022
+2315,November 2022,Glasgow City,148.5,28 November 2022
+2316,November 2022,"Inverclyde, East Renfrewshire and Renfrewshire",142.4,28 November 2022
+2317,November 2022,North Lanarkshire,144.0,28 November 2022
+2318,November 2022,Scottish Borders,138.1,28 November 2022
+2319,November 2022,Dumfries and Galloway,135.1,28 November 2022
+2320,November 2022,East Ayrshire and North Ayrshire mainland,137.3,28 November 2022
+2321,November 2022,South Ayrshire,134.8,28 November 2022
+2322,November 2022,South Lanarkshire,143.3,28 November 2022
+2323,December 2022,Aberdeen City and Aberdeenshire,106.0,28 December 2022
+2324,December 2022,Caithness and Sutherland and Ross and Cromarty,128.0,28 December 2022
+2325,December 2022,"Inverness and Nairn and Moray, Badenoch and Strathspey",130.6,28 December 2022
+2326,December 2022,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",133.0,28 December 2022
+2327,December 2022,Na h-Eileanan Siar,128.5,28 December 2022
+2328,December 2022,Orkney Islands,125.3,28 December 2022
+2329,December 2022,Shetland Islands,112.7,28 December 2022
+2330,December 2022,Angus and Dundee City,130.4,28 December 2022
+2331,December 2022,Clackmannanshire and Fife,132.0,28 December 2022
+2332,December 2022,East Lothian and Midlothian,151.4,28 December 2022
+2333,December 2022,City of Edinburgh,151.0,28 December 2022
+2334,December 2022,Falkirk,139.5,28 December 2022
+2335,December 2022,Perth and Kinross and Stirling,137.8,28 December 2022
+2336,December 2022,West Lothian,145.0,28 December 2022
+2337,December 2022,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",135.9,28 December 2022
+2338,December 2022,Glasgow City,147.2,28 December 2022
+2339,December 2022,"Inverclyde, East Renfrewshire and Renfrewshire",141.2,28 December 2022
+2340,December 2022,North Lanarkshire,142.2,28 December 2022
+2341,December 2022,Scottish Borders,136.6,28 December 2022
+2342,December 2022,Dumfries and Galloway,133.9,28 December 2022
+2343,December 2022,East Ayrshire and North Ayrshire mainland,135.2,28 December 2022
+2344,December 2022,South Ayrshire,134.0,28 December 2022
+2345,December 2022,South Lanarkshire,142.2,28 December 2022
+2346,January 2023,Aberdeen City and Aberdeenshire,105.4,28 January 2023
+2347,January 2023,Caithness and Sutherland and Ross and Cromarty,128.4,28 January 2023
+2348,January 2023,"Inverness and Nairn and Moray, Badenoch and Strathspey",132.4,28 January 2023
+2349,January 2023,"Lochaber, Skye and Lochalsh, Arran and Cumbrae and Argyll and Bute",133.9,28 January 2023
+2350,January 2023,Na h-Eileanan Siar,128.7,28 January 2023
+2351,January 2023,Orkney Islands,126.4,28 January 2023
+2352,January 2023,Shetland Islands,113.3,28 January 2023
+2353,January 2023,Angus and Dundee City,131.2,28 January 2023
+2354,January 2023,Clackmannanshire and Fife,132.3,28 January 2023
+2355,January 2023,East Lothian and Midlothian,151.4,28 January 2023
+2356,January 2023,City of Edinburgh,152.4,28 January 2023
+2357,January 2023,Falkirk,140.8,28 January 2023
+2358,January 2023,Perth and Kinross and Stirling,139.7,28 January 2023
+2359,January 2023,West Lothian,146.0,28 January 2023
+2360,January 2023,"East Dunbartonshire, West Dunbartonshire and Helensburgh and Lomond",135.6,28 January 2023
+2361,January 2023,Glasgow City,148.2,28 January 2023
+2362,January 2023,"Inverclyde, East Renfrewshire and Renfrewshire",141.9,28 January 2023
+2363,January 2023,North Lanarkshire,142.6,28 January 2023
+2364,January 2023,Scottish Borders,137.0,28 January 2023
+2365,January 2023,Dumfries and Galloway,134.5,28 January 2023
+2366,January 2023,East Ayrshire and North Ayrshire mainland,135.7,28 January 2023
+2367,January 2023,South Ayrshire,134.5,28 January 2023
+2368,January 2023,South Lanarkshire,143.2,28 January 2023
