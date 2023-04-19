@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "vega-cli": "^5.24.0",
+    "vega-lite": "^5.7.1"
+  }
+}
