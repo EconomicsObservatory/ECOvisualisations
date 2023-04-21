@@ -98,3 +98,15 @@ Versions (no ECO branding) with data loaded from `GitHub`: [`png`](visualisation
 
 !["fig4_price_index_dark"](visualisation/fig4_price_index_dark.png "fig4_price_index")
 
+  
+
+## Infographics  
+Summary auto-generated using [ChatGPT](https://chat.openai.com/)    
+
+### Light theme  
+
+!["fig4_price_index"](visualisation/collage_light.png " collage_light")  
+
+### Dark theme  
+
+!["fig4_price_index"](visualisation/collage_dark.png " collage_dark")
