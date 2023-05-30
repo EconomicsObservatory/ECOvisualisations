@@ -1,7 +1,7 @@
 ## Figure 1-1  
 
 Data: [`csv`](data/fig1-1_pop.csv)  
-GitHub: [fig1-1_pop](https://github.com/EconomicsObservatory/ECOvisualisations/tree/main/magazine/issue-3)  
+GitHub: [fig1-1_pop](https://github.com/EconomicsObservatory/ECOvisualisations/tree/main/magazine/issue-3#fig1-1)  
 
 ### Light theme  
 
@@ -26,7 +26,7 @@ Versions (no ECO branding) with data loaded from `GitHub`: [`png`](visualisation
 ## Figure 1-2  
 
 Data: [`csv`](data/fig1-2_life_expectancy.csv)  
-GitHub: [fig1-2_life_expectancy](https://github.com/EconomicsObservatory/ECOvisualisations/tree/main/magazine/issue-3)  
+GitHub: [fig1-2_life_expectancy](https://github.com/EconomicsObservatory/ECOvisualisations/tree/main/magazine/issue-3#fig1-2)  
 
 ### Light theme  
 
@@ -51,7 +51,7 @@ Versions (no ECO branding) with data loaded from `GitHub`: [`png`](visualisation
 ## Figure 1-3  
 
 Data: [`csv`](data/fig1-3_gdp.csv)  
-GitHub: [fig1-3_gdp](https://github.com/EconomicsObservatory/ECOvisualisations/tree/main/magazine/issue-3)  
+GitHub: [fig1-3_gdp](https://github.com/EconomicsObservatory/ECOvisualisations/tree/main/magazine/issue-3#fig1-3)  
 
 ### Light theme  
 
@@ -76,7 +76,7 @@ Versions (no ECO branding) with data loaded from `GitHub`: [`png`](visualisation
 ## Figure 1-4  
 
 Data: [`csv`](data/fig1-4_emissions.csv)  
-GitHub: [fig1-4_emissions](https://github.com/EconomicsObservatory/ECOvisualisations/tree/main/magazine/issue-3)  
+GitHub: [fig1-4_emissions](https://github.com/EconomicsObservatory/ECOvisualisations/tree/main/magazine/issue-3#fig1-4)  
 
 ### Light theme  
 
@@ -101,7 +101,7 @@ Versions (no ECO branding) with data loaded from `GitHub`: [`png`](visualisation
 ## Figure 1-5  
 
 Data: [`csv`](data/fig1-5_moore.csv)  
-GitHub: [fig1-5_moore](https://github.com/EconomicsObservatory/ECOvisualisations/tree/main/magazine/issue-3)  
+GitHub: [fig1-5_moore](https://github.com/EconomicsObservatory/ECOvisualisations/tree/main/magazine/issue-3#fig1-5)  
 
 ### Light theme  
 
@@ -126,7 +126,7 @@ Versions (no ECO branding) with data loaded from `GitHub`: [`png`](visualisation
 ## Figure 1-6  
 
 Data: [`csv`](data/fig1-6_hours_worked.csv)  
-GitHub: [fig1-6_hours_worked](https://github.com/EconomicsObservatory/ECOvisualisations/tree/main/magazine/issue-3)  
+GitHub: [fig1-6_hours_worked](https://github.com/EconomicsObservatory/ECOvisualisations/tree/main/magazine/issue-3#fig1-6)  
 
 ### Light theme  
 
