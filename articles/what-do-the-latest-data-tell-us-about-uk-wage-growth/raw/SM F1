@@ -1,0 +1,44 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "height": 300,
+  "width": 450,
+  "description": "Labour market 2023",
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/observatory/main/SM%20F1%202023.csv"
+  },
+  "mark": "line",
+  "encoding": {
+    "x": {
+      "field": "Period",
+      "type": "temporal",
+      "title": null,
+      "axis": {"format": "%b", "tickCount": "year", "labelAngle": "45"}
+    },
+    "y": {
+      "field": "Value",
+      "type": "quantitative",
+      "title": "%",
+      "scale": {"domain": [-10, 10]}
+    },
+    "color": {
+      "field": "Type",
+      "type": "nominal",
+      "scale": {
+        "range": [
+          "#233a58",
+          "#36b7b4"
+          
+        ]
+      }
+    },
+    "tooltip": [
+      {"field": "Period", "type": "temporal"},
+      {
+        "field": "Value",
+        "type": "quantitative",
+        "title": "%",
+        "format": "0.0f"
+      }
+    ]
+  }
+}
