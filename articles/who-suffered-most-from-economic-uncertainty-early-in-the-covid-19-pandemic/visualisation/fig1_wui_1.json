@@ -1,0 +1,2049 @@
+{
+  "config": {
+    "view": {
+      "continuousWidth": 300,
+      "continuousHeight": 300,
+      "stroke": null
+    },
+    "font": "Circular Std Book"
+  },
+  "layer": [
+    {
+      "data": {
+        "name": "data-77368a2d9b5437e120ef09bdaf1cbcdf"
+      },
+      "mark": {
+        "type": "line",
+        "color": "#676A86",
+        "opacity": 0.3,
+        "strokeWidth": 1
+      },
+      "encoding": {
+        "x": {
+          "axis": {
+            "domainColor": "#676A86",
+            "domainOpacity": 0.5,
+            "grid": false,
+            "labelAngle": 0,
+            "labelColor": "#676A86",
+            "labelOpacity": 0.7,
+            "orient": "bottom",
+            "tickColor": "#676A86",
+            "tickCount": 10,
+            "tickOpacity": 0.5,
+            "title": "",
+            "titleAlign": "center",
+            "titleAnchor": "middle",
+            "titleColor": "#676A86",
+            "titleFontSize": 12,
+            "titleOpacity": 0.8,
+            "titleX": 207,
+            "titleY": -15
+          },
+          "field": "x",
+          "sort": [],
+          "type": "temporal"
+        },
+        "y": {
+          "axis": {
+            "domainColor": "#676A86",
+            "domainOpacity": 0.5,
+            "format": ",d",
+            "gridColor": "#676A86",
+            "gridDash": [
+              1,
+              5
+            ],
+            "gridOpacity": 0.5,
+            "labelColor": "#676A86",
+            "labelOpacity": 0.7,
+            "labelPadding": 5,
+            "tickColor": "#676A86",
+            "tickCount": 8,
+            "tickOpacity": 0.5,
+            "ticks": false,
+            "title": "GDP weighted average",
+            "titleAlign": "left",
+            "titleAngle": 0,
+            "titleBaseline": "bottom",
+            "titleColor": "#676A86",
+            "titleFontSize": 12,
+            "titleOpacity": 0.8,
+            "titleX": 0,
+            "titleY": -7
+          },
+          "field": "y",
+          "sort": [],
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "name": "data-216ca9477519802e166557b58998df2f"
+      },
+      "mark": {
+        "type": "area",
+        "color": {
+          "gradient": "linear",
+          "stops": [
+            {
+              "color": "#ffffff00",
+              "offset": 0.2
+            },
+            {
+              "color": "#F4134D",
+              "offset": 0.8
+            }
+          ],
+          "x1": 1,
+          "y1": 1,
+          "x2": 1,
+          "y2": 0
+        },
+        "interpolate": "monotone",
+        "line": {
+          "color": "#F4134D"
+        },
+        "opacity": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "WUI",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "name": "data-89f752a37a66760e7f93519353577def"
+      },
+      "mark": {
+        "type": "line",
+        "color": "#0063AF",
+        "size": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "name": "data-89f752a37a66760e7f93519353577def"
+      },
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "color": "#0063AF",
+        "dy": -21,
+        "fontSize": 12,
+        "text": "War in"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2022-04-16\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-89f752a37a66760e7f93519353577def"
+      },
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "color": "#0063AF",
+        "dy": -7,
+        "fontSize": 12,
+        "text": "Ukraine"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2022-04-16\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-32de97f8290e912d3da6bf98bfc72040"
+      },
+      "mark": {
+        "type": "line",
+        "color": "#0063AF",
+        "size": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "name": "data-32de97f8290e912d3da6bf98bfc72040"
+      },
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "color": "#0063AF",
+        "dx": 7,
+        "dy": 7,
+        "fontSize": 12,
+        "text": "geopolitical tentions and"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2023-01-15\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-32de97f8290e912d3da6bf98bfc72040"
+      },
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "color": "#0063AF",
+        "dx": 7,
+        "dy": 21,
+        "fontSize": 12,
+        "text": "collapse of Silicon Valley Bank,"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2023-01-15\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-32de97f8290e912d3da6bf98bfc72040"
+      },
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "color": "#0063AF",
+        "dx": 7,
+        "dy": 35,
+        "fontSize": 12,
+        "text": "Signature Bank, and Credit Suisse"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2023-01-15\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-8770b17addd8ca9b8c75a7aaa9916bc5"
+      },
+      "mark": {
+        "type": "line",
+        "color": "#0063AF",
+        "size": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "name": "data-8770b17addd8ca9b8c75a7aaa9916bc5"
+      },
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "color": "#0063AF",
+        "dy": -7,
+        "fontSize": 12,
+        "text": "Coronavirus"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2020-11-01\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-6eb7146854122b3157e9cb22a7673807"
+      },
+      "mark": {
+        "type": "line",
+        "color": "#0063AF",
+        "size": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "name": "data-6eb7146854122b3157e9cb22a7673807"
+      },
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "color": "#0063AF",
+        "dy": -7,
+        "fontSize": 12,
+        "text": "US China trade tensions"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2018-08-28\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-6eb7146854122b3157e9cb22a7673807"
+      },
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "color": "#0063AF",
+        "dx": -7,
+        "dy": 7,
+        "fontSize": 12,
+        "text": "Brexit"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2018-08-28\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-1e6a986b8afb3aa09bc51512153de626"
+      },
+      "mark": {
+        "type": "line",
+        "color": "#0063AF",
+        "size": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "name": "data-1e6a986b8afb3aa09bc51512153de626"
+      },
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "color": "#0063AF",
+        "dx": -7,
+        "dy": -21,
+        "fontSize": 12,
+        "text": "US presidential"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2016-02-29\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-1e6a986b8afb3aa09bc51512153de626"
+      },
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "color": "#0063AF",
+        "dx": -7,
+        "dy": -7,
+        "fontSize": 12,
+        "text": "elections"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2016-02-29\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-45ed1f2dcd33b39268ea7fb7f27c020c"
+      },
+      "mark": {
+        "type": "line",
+        "color": "#0063AF",
+        "size": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "name": "data-45ed1f2dcd33b39268ea7fb7f27c020c"
+      },
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "color": "#0063AF",
+        "dy": -7,
+        "fontSize": 12,
+        "text": "Brexit"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2015-11-29\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-233b6076744558b389bf8e946ce80d8c"
+      },
+      "mark": {
+        "type": "line",
+        "color": "#0063AF",
+        "size": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "name": "data-233b6076744558b389bf8e946ce80d8c"
+      },
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "color": "#0063AF",
+        "dy": 7,
+        "fontSize": 12,
+        "text": "FED tightening and political"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2010-09-29\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-233b6076744558b389bf8e946ce80d8c"
+      },
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "color": "#0063AF",
+        "dy": 21,
+        "fontSize": 12,
+        "text": " risk in Greece and Ukraine"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2010-09-29\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-100086ea991a4c98967f17922a0030e8"
+      },
+      "mark": {
+        "type": "line",
+        "color": "#0063AF",
+        "size": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "name": "data-100086ea991a4c98967f17922a0030e8"
+      },
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "color": "#0063AF",
+        "dy": -7,
+        "fontSize": 12,
+        "text": "US fiscal cliff and"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2012-02-29\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-100086ea991a4c98967f17922a0030e8"
+      },
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "color": "#0063AF",
+        "dx": -7,
+        "dy": 7,
+        "fontSize": 12,
+        "text": "sovereign debt crisis in Europe"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2012-02-29\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-efe20cf18eaf04c57231f79f485f43c2"
+      },
+      "mark": {
+        "type": "line",
+        "color": "#0063AF",
+        "size": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "name": "data-efe20cf18eaf04c57231f79f485f43c2"
+      },
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "color": "#0063AF",
+        "dy": -7,
+        "fontSize": 12,
+        "text": "sovereign debt crisis in Europe"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2011-12-07\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-7fea793d81601712ce6ceda6c8835f87"
+      },
+      "mark": {
+        "type": "line",
+        "color": "#0063AF",
+        "size": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "name": "data-7fea793d81601712ce6ceda6c8835f87"
+      },
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "color": "#0063AF",
+        "dy": -35,
+        "fontSize": 12,
+        "text": "financial"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2007-08-14\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-7fea793d81601712ce6ceda6c8835f87"
+      },
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "color": "#0063AF",
+        "dy": -21,
+        "fontSize": 12,
+        "text": "credit"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2007-08-14\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-7fea793d81601712ce6ceda6c8835f87"
+      },
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "color": "#0063AF",
+        "dy": -7,
+        "fontSize": 12,
+        "text": "crunch"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2007-08-14\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-5387dd88ebf5a312673f7a0abde7c88c"
+      },
+      "mark": {
+        "type": "line",
+        "color": "#0063AF",
+        "size": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "name": "data-5387dd88ebf5a312673f7a0abde7c88c"
+      },
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "color": "#0063AF",
+        "dy": -21,
+        "fontSize": 12,
+        "text": "Iraq war and"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2003-03-16\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-5387dd88ebf5a312673f7a0abde7c88c"
+      },
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "color": "#0063AF",
+        "dy": -7,
+        "fontSize": 12,
+        "text": "outbreak of SARS"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2003-03-16\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-f5325806ce8360467184e053a2e2a79b"
+      },
+      "mark": {
+        "type": "line",
+        "color": "#0063AF",
+        "size": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "name": "data-f5325806ce8360467184e053a2e2a79b"
+      },
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "color": "#0063AF",
+        "dy": -21,
+        "fontSize": 12,
+        "text": "US recession"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2001-04-07\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-f5325806ce8360467184e053a2e2a79b"
+      },
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "color": "#0063AF",
+        "dy": -7,
+        "fontSize": 12,
+        "text": "and 9/11"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"2001-04-07\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-de268f336c639589051b83cadc7a6c1d"
+      },
+      "mark": {
+        "type": "line",
+        "color": "#0063AF",
+        "size": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "name": "data-de268f336c639589051b83cadc7a6c1d"
+      },
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "color": "#0063AF",
+        "dy": -7,
+        "fontSize": 12,
+        "text": "Gulf War I"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.x==toDate(\"1990-12-23\")"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-a5184e13eb28a17cd26a9e25528e14ec"
+      },
+      "mark": {
+        "type": "image",
+        "align": "right",
+        "baseline": "top",
+        "height": 40,
+        "opacity": 0.5,
+        "width": 40,
+        "xOffset": 20,
+        "yOffset": -33
+      },
+      "encoding": {
+        "url": {
+          "field": "img",
+          "type": "nominal"
+        },
+        "x": {
+          "field": "x",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative"
+        }
+      }
+    }
+  ],
+  "height": 400,
+  "title": "",
+  "width": 550,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.14.1.json",
+  "datasets": {
+    "data-77368a2d9b5437e120ef09bdaf1cbcdf": [
+      {
+        "x": "1990-01-01",
+        "y": 0
+      },
+      {
+        "x": "2023-09-01",
+        "y": 0
+      }
+    ],
+    "data-216ca9477519802e166557b58998df2f": [
+      {
+        "year": "1990q1",
+        "year2": 1990,
+        "WUI": 12496.47,
+        "date": "1990-02-15"
+      },
+      {
+        "year": "1990q2",
+        "year2": 1990,
+        "WUI": 8769.965,
+        "date": "1990-05-15"
+      },
+      {
+        "year": "1990q3",
+        "year2": 1990,
+        "WUI": 16198.83,
+        "date": "1990-08-15"
+      },
+      {
+        "year": "1990q4",
+        "year2": 1990,
+        "WUI": 11872.27,
+        "date": "1990-11-15"
+      },
+      {
+        "year": "1991q1",
+        "year2": 1991,
+        "WUI": 8223.55,
+        "date": "1991-02-15"
+      },
+      {
+        "year": "1991q2",
+        "year2": 1991,
+        "WUI": 10483.81,
+        "date": "1991-05-15"
+      },
+      {
+        "year": "1991q3",
+        "year2": 1991,
+        "WUI": 6208.322,
+        "date": "1991-08-15"
+      },
+      {
+        "year": "1991q4",
+        "year2": 1991,
+        "WUI": 7314.133,
+        "date": "1991-11-15"
+      },
+      {
+        "year": "1992q1",
+        "year2": 1992,
+        "WUI": 12616.9,
+        "date": "1992-02-15"
+      },
+      {
+        "year": "1992q2",
+        "year2": 1992,
+        "WUI": 7358.835,
+        "date": "1992-05-15"
+      },
+      {
+        "year": "1992q3",
+        "year2": 1992,
+        "WUI": 6777.611,
+        "date": "1992-08-15"
+      },
+      {
+        "year": "1992q4",
+        "year2": 1992,
+        "WUI": 13982.37,
+        "date": "1992-11-15"
+      },
+      {
+        "year": "1993q1",
+        "year2": 1993,
+        "WUI": 13705.72,
+        "date": "1993-02-15"
+      },
+      {
+        "year": "1993q2",
+        "year2": 1993,
+        "WUI": 10558.9,
+        "date": "1993-05-15"
+      },
+      {
+        "year": "1993q3",
+        "year2": 1993,
+        "WUI": 15698.88,
+        "date": "1993-08-15"
+      },
+      {
+        "year": "1993q4",
+        "year2": 1993,
+        "WUI": 11880.08,
+        "date": "1993-11-15"
+      },
+      {
+        "year": "1994q1",
+        "year2": 1994,
+        "WUI": 9655.853,
+        "date": "1994-02-15"
+      },
+      {
+        "year": "1994q2",
+        "year2": 1994,
+        "WUI": 9446.236,
+        "date": "1994-05-15"
+      },
+      {
+        "year": "1994q3",
+        "year2": 1994,
+        "WUI": 12937.13,
+        "date": "1994-08-15"
+      },
+      {
+        "year": "1994q4",
+        "year2": 1994,
+        "WUI": 8478.318,
+        "date": "1994-11-15"
+      },
+      {
+        "year": "1995q1",
+        "year2": 1995,
+        "WUI": 11010.07,
+        "date": "1995-02-15"
+      },
+      {
+        "year": "1995q2",
+        "year2": 1995,
+        "WUI": 9926.974,
+        "date": "1995-05-15"
+      },
+      {
+        "year": "1995q3",
+        "year2": 1995,
+        "WUI": 8000.667,
+        "date": "1995-08-15"
+      },
+      {
+        "year": "1995q4",
+        "year2": 1995,
+        "WUI": 11781.52,
+        "date": "1995-11-15"
+      },
+      {
+        "year": "1996q1",
+        "year2": 1996,
+        "WUI": 10780.95,
+        "date": "1996-02-15"
+      },
+      {
+        "year": "1996q2",
+        "year2": 1996,
+        "WUI": 11799.2,
+        "date": "1996-05-15"
+      },
+      {
+        "year": "1996q3",
+        "year2": 1996,
+        "WUI": 9862.246,
+        "date": "1996-08-15"
+      },
+      {
+        "year": "1996q4",
+        "year2": 1996,
+        "WUI": 8467.397,
+        "date": "1996-11-15"
+      },
+      {
+        "year": "1997q1",
+        "year2": 1997,
+        "WUI": 8311.305,
+        "date": "1997-02-15"
+      },
+      {
+        "year": "1997q2",
+        "year2": 1997,
+        "WUI": 11003.56,
+        "date": "1997-05-15"
+      },
+      {
+        "year": "1997q3",
+        "year2": 1997,
+        "WUI": 8718.845,
+        "date": "1997-08-15"
+      },
+      {
+        "year": "1997q4",
+        "year2": 1997,
+        "WUI": 6869.106,
+        "date": "1997-11-15"
+      },
+      {
+        "year": "1998q1",
+        "year2": 1998,
+        "WUI": 13808.13,
+        "date": "1998-02-15"
+      },
+      {
+        "year": "1998q2",
+        "year2": 1998,
+        "WUI": 9724.482,
+        "date": "1998-05-15"
+      },
+      {
+        "year": "1998q3",
+        "year2": 1998,
+        "WUI": 14250.31,
+        "date": "1998-08-15"
+      },
+      {
+        "year": "1998q4",
+        "year2": 1998,
+        "WUI": 9511.105,
+        "date": "1998-11-15"
+      },
+      {
+        "year": "1999q1",
+        "year2": 1999,
+        "WUI": 11074.92,
+        "date": "1999-02-15"
+      },
+      {
+        "year": "1999q2",
+        "year2": 1999,
+        "WUI": 13018.25,
+        "date": "1999-05-15"
+      },
+      {
+        "year": "1999q3",
+        "year2": 1999,
+        "WUI": 5777.769,
+        "date": "1999-08-15"
+      },
+      {
+        "year": "1999q4",
+        "year2": 1999,
+        "WUI": 7862.549,
+        "date": "1999-11-15"
+      },
+      {
+        "year": "2000q1",
+        "year2": 2000,
+        "WUI": 5832.333,
+        "date": "2000-02-15"
+      },
+      {
+        "year": "2000q2",
+        "year2": 2000,
+        "WUI": 5569.941,
+        "date": "2000-05-15"
+      },
+      {
+        "year": "2000q3",
+        "year2": 2000,
+        "WUI": 13816.67,
+        "date": "2000-08-15"
+      },
+      {
+        "year": "2000q4",
+        "year2": 2000,
+        "WUI": 11881.05,
+        "date": "2000-11-15"
+      },
+      {
+        "year": "2001q1",
+        "year2": 2001,
+        "WUI": 22324.51,
+        "date": "2001-02-15"
+      },
+      {
+        "year": "2001q2",
+        "year2": 2001,
+        "WUI": 13179.21,
+        "date": "2001-05-15"
+      },
+      {
+        "year": "2001q3",
+        "year2": 2001,
+        "WUI": 25155.95,
+        "date": "2001-08-15"
+      },
+      {
+        "year": "2001q4",
+        "year2": 2001,
+        "WUI": 23448.18,
+        "date": "2001-11-15"
+      },
+      {
+        "year": "2002q1",
+        "year2": 2002,
+        "WUI": 22597.36,
+        "date": "2002-02-15"
+      },
+      {
+        "year": "2002q2",
+        "year2": 2002,
+        "WUI": 17938.45,
+        "date": "2002-05-15"
+      },
+      {
+        "year": "2002q3",
+        "year2": 2002,
+        "WUI": 14136.45,
+        "date": "2002-08-15"
+      },
+      {
+        "year": "2002q4",
+        "year2": 2002,
+        "WUI": 27832.88,
+        "date": "2002-11-15"
+      },
+      {
+        "year": "2003q1",
+        "year2": 2003,
+        "WUI": 25718.62,
+        "date": "2003-02-15"
+      },
+      {
+        "year": "2003q2",
+        "year2": 2003,
+        "WUI": 34454.82,
+        "date": "2003-05-15"
+      },
+      {
+        "year": "2003q3",
+        "year2": 2003,
+        "WUI": 23886.34,
+        "date": "2003-08-15"
+      },
+      {
+        "year": "2003q4",
+        "year2": 2003,
+        "WUI": 12058.21,
+        "date": "2003-11-15"
+      },
+      {
+        "year": "2004q1",
+        "year2": 2004,
+        "WUI": 16122.31,
+        "date": "2004-02-15"
+      },
+      {
+        "year": "2004q2",
+        "year2": 2004,
+        "WUI": 9975.339,
+        "date": "2004-05-15"
+      },
+      {
+        "year": "2004q3",
+        "year2": 2004,
+        "WUI": 14397.81,
+        "date": "2004-08-15"
+      },
+      {
+        "year": "2004q4",
+        "year2": 2004,
+        "WUI": 13202.73,
+        "date": "2004-11-15"
+      },
+      {
+        "year": "2005q1",
+        "year2": 2005,
+        "WUI": 11537.9,
+        "date": "2005-02-15"
+      },
+      {
+        "year": "2005q2",
+        "year2": 2005,
+        "WUI": 11866.98,
+        "date": "2005-05-15"
+      },
+      {
+        "year": "2005q3",
+        "year2": 2005,
+        "WUI": 20193.73,
+        "date": "2005-08-15"
+      },
+      {
+        "year": "2005q4",
+        "year2": 2005,
+        "WUI": 12165.63,
+        "date": "2005-11-15"
+      },
+      {
+        "year": "2006q1",
+        "year2": 2006,
+        "WUI": 11552.83,
+        "date": "2006-02-15"
+      },
+      {
+        "year": "2006q2",
+        "year2": 2006,
+        "WUI": 8235.158,
+        "date": "2006-05-15"
+      },
+      {
+        "year": "2006q3",
+        "year2": 2006,
+        "WUI": 11854.69,
+        "date": "2006-08-15"
+      },
+      {
+        "year": "2006q4",
+        "year2": 2006,
+        "WUI": 9051.431,
+        "date": "2006-11-15"
+      },
+      {
+        "year": "2007q1",
+        "year2": 2007,
+        "WUI": 13357.51,
+        "date": "2007-02-15"
+      },
+      {
+        "year": "2007q2",
+        "year2": 2007,
+        "WUI": 18459.61,
+        "date": "2007-05-15"
+      },
+      {
+        "year": "2007q3",
+        "year2": 2007,
+        "WUI": 21867.71,
+        "date": "2007-08-15"
+      },
+      {
+        "year": "2007q4",
+        "year2": 2007,
+        "WUI": 13843.68,
+        "date": "2007-11-15"
+      },
+      {
+        "year": "2008q1",
+        "year2": 2008,
+        "WUI": 13176.87,
+        "date": "2008-02-15"
+      },
+      {
+        "year": "2008q2",
+        "year2": 2008,
+        "WUI": 18019.05,
+        "date": "2008-05-15"
+      },
+      {
+        "year": "2008q3",
+        "year2": 2008,
+        "WUI": 14048.15,
+        "date": "2008-08-15"
+      },
+      {
+        "year": "2008q4",
+        "year2": 2008,
+        "WUI": 13245.42,
+        "date": "2008-11-15"
+      },
+      {
+        "year": "2009q1",
+        "year2": 2009,
+        "WUI": 21794.11,
+        "date": "2009-02-15"
+      },
+      {
+        "year": "2009q2",
+        "year2": 2009,
+        "WUI": 18972.07,
+        "date": "2009-05-15"
+      },
+      {
+        "year": "2009q3",
+        "year2": 2009,
+        "WUI": 14507.25,
+        "date": "2009-08-15"
+      },
+      {
+        "year": "2009q4",
+        "year2": 2009,
+        "WUI": 18951.79,
+        "date": "2009-11-15"
+      },
+      {
+        "year": "2010q1",
+        "year2": 2010,
+        "WUI": 19711.91,
+        "date": "2010-02-15"
+      },
+      {
+        "year": "2010q2",
+        "year2": 2010,
+        "WUI": 21449.03,
+        "date": "2010-05-15"
+      },
+      {
+        "year": "2010q3",
+        "year2": 2010,
+        "WUI": 19653.44,
+        "date": "2010-08-15"
+      },
+      {
+        "year": "2010q4",
+        "year2": 2010,
+        "WUI": 14901.64,
+        "date": "2010-11-15"
+      },
+      {
+        "year": "2011q1",
+        "year2": 2011,
+        "WUI": 13397.83,
+        "date": "2011-02-15"
+      },
+      {
+        "year": "2011q2",
+        "year2": 2011,
+        "WUI": 14121,
+        "date": "2011-05-15"
+      },
+      {
+        "year": "2011q3",
+        "year2": 2011,
+        "WUI": 20227.56,
+        "date": "2011-08-15"
+      },
+      {
+        "year": "2011q4",
+        "year2": 2011,
+        "WUI": 19436.98,
+        "date": "2011-11-15"
+      },
+      {
+        "year": "2012q1",
+        "year2": 2012,
+        "WUI": 18629.88,
+        "date": "2012-02-15"
+      },
+      {
+        "year": "2012q2",
+        "year2": 2012,
+        "WUI": 36827.88,
+        "date": "2012-05-15"
+      },
+      {
+        "year": "2012q3",
+        "year2": 2012,
+        "WUI": 25945.24,
+        "date": "2012-08-15"
+      },
+      {
+        "year": "2012q4",
+        "year2": 2012,
+        "WUI": 38752.27,
+        "date": "2012-11-15"
+      },
+      {
+        "year": "2013q1",
+        "year2": 2013,
+        "WUI": 31598.92,
+        "date": "2013-02-15"
+      },
+      {
+        "year": "2013q2",
+        "year2": 2013,
+        "WUI": 14113.9,
+        "date": "2013-05-15"
+      },
+      {
+        "year": "2013q3",
+        "year2": 2013,
+        "WUI": 15802.53,
+        "date": "2013-08-15"
+      },
+      {
+        "year": "2013q4",
+        "year2": 2013,
+        "WUI": 18492.01,
+        "date": "2013-11-15"
+      },
+      {
+        "year": "2014q1",
+        "year2": 2014,
+        "WUI": 19536.86,
+        "date": "2014-02-15"
+      },
+      {
+        "year": "2014q2",
+        "year2": 2014,
+        "WUI": 20086.1,
+        "date": "2014-05-15"
+      },
+      {
+        "year": "2014q3",
+        "year2": 2014,
+        "WUI": 14211.19,
+        "date": "2014-08-15"
+      },
+      {
+        "year": "2014q4",
+        "year2": 2014,
+        "WUI": 17252.02,
+        "date": "2014-11-15"
+      },
+      {
+        "year": "2015q1",
+        "year2": 2015,
+        "WUI": 29838.2,
+        "date": "2015-02-15"
+      },
+      {
+        "year": "2015q2",
+        "year2": 2015,
+        "WUI": 25360.74,
+        "date": "2015-05-15"
+      },
+      {
+        "year": "2015q3",
+        "year2": 2015,
+        "WUI": 21280.47,
+        "date": "2015-08-15"
+      },
+      {
+        "year": "2015q4",
+        "year2": 2015,
+        "WUI": 18517.9,
+        "date": "2015-11-15"
+      },
+      {
+        "year": "2016q1",
+        "year2": 2016,
+        "WUI": 22826.08,
+        "date": "2016-02-15"
+      },
+      {
+        "year": "2016q2",
+        "year2": 2016,
+        "WUI": 18513.21,
+        "date": "2016-05-15"
+      },
+      {
+        "year": "2016q3",
+        "year2": 2016,
+        "WUI": 30182.29,
+        "date": "2016-08-15"
+      },
+      {
+        "year": "2016q4",
+        "year2": 2016,
+        "WUI": 32031.3,
+        "date": "2016-11-15"
+      },
+      {
+        "year": "2017q1",
+        "year2": 2017,
+        "WUI": 29910.11,
+        "date": "2017-02-15"
+      },
+      {
+        "year": "2017q2",
+        "year2": 2017,
+        "WUI": 16514.35,
+        "date": "2017-05-15"
+      },
+      {
+        "year": "2017q3",
+        "year2": 2017,
+        "WUI": 16325.61,
+        "date": "2017-08-15"
+      },
+      {
+        "year": "2017q4",
+        "year2": 2017,
+        "WUI": 28396.56,
+        "date": "2017-11-15"
+      },
+      {
+        "year": "2018q1",
+        "year2": 2018,
+        "WUI": 13622.16,
+        "date": "2018-02-15"
+      },
+      {
+        "year": "2018q2",
+        "year2": 2018,
+        "WUI": 25653.23,
+        "date": "2018-05-15"
+      },
+      {
+        "year": "2018q3",
+        "year2": 2018,
+        "WUI": 28710.76,
+        "date": "2018-08-15"
+      },
+      {
+        "year": "2018q4",
+        "year2": 2018,
+        "WUI": 26443.05,
+        "date": "2018-11-15"
+      },
+      {
+        "year": "2019q1",
+        "year2": 2019,
+        "WUI": 36588.02,
+        "date": "2019-02-15"
+      },
+      {
+        "year": "2019q2",
+        "year2": 2019,
+        "WUI": 40489.04,
+        "date": "2019-05-15"
+      },
+      {
+        "year": "2019q3",
+        "year2": 2019,
+        "WUI": 32800.98,
+        "date": "2019-08-15"
+      },
+      {
+        "year": "2019q4",
+        "year2": 2019,
+        "WUI": 52716.26,
+        "date": "2019-11-15"
+      },
+      {
+        "year": "2020q1",
+        "year2": 2020,
+        "WUI": 55684.71,
+        "date": "2020-02-15"
+      },
+      {
+        "year": "2020q2",
+        "year2": 2020,
+        "WUI": 28914.37,
+        "date": "2020-05-15"
+      },
+      {
+        "year": "2020q3",
+        "year2": 2020,
+        "WUI": 27497.73,
+        "date": "2020-08-15"
+      },
+      {
+        "year": "2020q4",
+        "year2": 2020,
+        "WUI": 22319.62,
+        "date": "2020-11-15"
+      },
+      {
+        "year": "2021q1",
+        "year2": 2021,
+        "WUI": 11888.73,
+        "date": "2021-02-15"
+      },
+      {
+        "year": "2021q2",
+        "year2": 2021,
+        "WUI": 18072.81,
+        "date": "2021-05-15"
+      },
+      {
+        "year": "2021q3",
+        "year2": 2021,
+        "WUI": 21508.56,
+        "date": "2021-08-15"
+      },
+      {
+        "year": "2021q4",
+        "year2": 2021,
+        "WUI": 19802.65,
+        "date": "2021-11-15"
+      },
+      {
+        "year": "2022q1",
+        "year2": 2022,
+        "WUI": 26455.02,
+        "date": "2022-02-15"
+      },
+      {
+        "year": "2022q2",
+        "year2": 2022,
+        "WUI": 29343.64,
+        "date": "2022-05-15"
+      },
+      {
+        "year": "2022q3",
+        "year2": 2022,
+        "WUI": 24504.76,
+        "date": "2022-08-15"
+      },
+      {
+        "year": "2022q4",
+        "year2": 2022,
+        "WUI": 26500.43,
+        "date": "2022-11-15"
+      },
+      {
+        "year": "2023q1",
+        "year2": 2023,
+        "WUI": 26400.05,
+        "date": "2023-02-15"
+      },
+      {
+        "year": "2023q2",
+        "year2": 2023,
+        "WUI": 30702.4,
+        "date": "2023-05-15"
+      }
+    ],
+    "data-89f752a37a66760e7f93519353577def": [
+      {
+        "x": "2022-02-15",
+        "y": 26455.02
+      },
+      {
+        "x": "2022-04-16",
+        "y": 41455.020000000004
+      }
+    ],
+    "data-32de97f8290e912d3da6bf98bfc72040": [
+      {
+        "x": "2023-05-15",
+        "y": 30702.4
+      },
+      {
+        "x": "2023-01-15",
+        "y": 8702.400000000001
+      }
+    ],
+    "data-8770b17addd8ca9b8c75a7aaa9916bc5": [
+      {
+        "x": "2020-02-15",
+        "y": 55684.71
+      },
+      {
+        "x": "2020-11-01",
+        "y": 56684.71
+      }
+    ],
+    "data-6eb7146854122b3157e9cb22a7673807": [
+      {
+        "x": "2019-05-15",
+        "y": 40489.04
+      },
+      {
+        "x": "2018-08-28",
+        "y": 53489.04
+      }
+    ],
+    "data-1e6a986b8afb3aa09bc51512153de626": [
+      {
+        "x": "2016-11-15",
+        "y": 32031.3
+      },
+      {
+        "x": "2016-02-29",
+        "y": 45031.3
+      }
+    ],
+    "data-45ed1f2dcd33b39268ea7fb7f27c020c": [
+      {
+        "x": "2016-08-15",
+        "y": 30182.29
+      },
+      {
+        "x": "2015-11-29",
+        "y": 41182.29
+      }
+    ],
+    "data-233b6076744558b389bf8e946ce80d8c": [
+      {
+        "x": "2015-02-15",
+        "y": 29838.2
+      },
+      {
+        "x": "2010-09-29",
+        "y": 5838.200000000001
+      }
+    ],
+    "data-100086ea991a4c98967f17922a0030e8": [
+      {
+        "x": "2012-11-15",
+        "y": 38752.27
+      },
+      {
+        "x": "2012-02-29",
+        "y": 49752.27
+      }
+    ],
+    "data-efe20cf18eaf04c57231f79f485f43c2": [
+      {
+        "x": "2012-05-15",
+        "y": 36827.88
+      },
+      {
+        "x": "2011-12-07",
+        "y": 43827.88
+      }
+    ],
+    "data-7fea793d81601712ce6ceda6c8835f87": [
+      {
+        "x": "2007-08-15",
+        "y": 21867.71
+      },
+      {
+        "x": "2007-08-14",
+        "y": 28867.71
+      }
+    ],
+    "data-5387dd88ebf5a312673f7a0abde7c88c": [
+      {
+        "x": "2003-05-15",
+        "y": 34454.82
+      },
+      {
+        "x": "2003-03-16",
+        "y": 36454.82
+      }
+    ],
+    "data-f5325806ce8360467184e053a2e2a79b": [
+      {
+        "x": "2001-08-15",
+        "y": 25155.95
+      },
+      {
+        "x": "2001-04-07",
+        "y": 30155.95
+      }
+    ],
+    "data-de268f336c639589051b83cadc7a6c1d": [
+      {
+        "x": "1990-08-15",
+        "y": 16198.83
+      },
+      {
+        "x": "1990-12-23",
+        "y": 21198.83
+      }
+    ],
+    "data-a5184e13eb28a17cd26a9e25528e14ec": [
+      {
+        "x": "2022-04-01",
+        "y": 60000,
+        "img": "https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/main/guidelines/logos/eco-icon-dark.png"
+      }
+    ]
+  }
+}
