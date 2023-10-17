@@ -1,0 +1,320 @@
+{
+  "config": {
+    "view": {
+      "continuousWidth": 300,
+      "continuousHeight": 300,
+      "stroke": null
+    },
+    "font": "Circular Std Book"
+  },
+  "layer": [
+    {
+      "data": {
+        "name": "data-4396d20188f039caf9d5d47aed36c329"
+      },
+      "mark": {
+        "type": "line",
+        "color": "#676A86",
+        "opacity": 0.3,
+        "strokeWidth": 1
+      },
+      "encoding": {
+        "x": {
+          "axis": {
+            "domainColor": "#676A86",
+            "domainOpacity": 0.5,
+            "format": ".0f",
+            "grid": false,
+            "labelAngle": 0,
+            "labelColor": "#676A86",
+            "labelOpacity": 0.7,
+            "orient": "bottom",
+            "tickColor": "#676A86",
+            "tickCount": 10,
+            "tickOpacity": 0.5,
+            "title": "",
+            "titleAlign": "center",
+            "titleAnchor": "middle",
+            "titleColor": "#676A86",
+            "titleFontSize": 12,
+            "titleOpacity": 0.8,
+            "titleX": 207,
+            "titleY": -15
+          },
+          "field": "x",
+          "sort": [],
+          "type": "quantitative"
+        },
+        "y": {
+          "axis": {
+            "domainColor": "#676A86",
+            "domainOpacity": 0.5,
+            "format": ".0f",
+            "gridColor": "#676A86",
+            "gridDash": [
+              1,
+              5
+            ],
+            "gridOpacity": 0.5,
+            "labelColor": "#676A86",
+            "labelOpacity": 0.7,
+            "labelPadding": 5,
+            "tickColor": "#676A86",
+            "tickCount": 8,
+            "tickOpacity": 0.5,
+            "ticks": false,
+            "title": "$ million USD",
+            "titleAlign": "left",
+            "titleAngle": 0,
+            "titleBaseline": "bottom",
+            "titleColor": "#676A86",
+            "titleFontSize": 12,
+            "titleOpacity": 0.8,
+            "titleX": 5,
+            "titleY": 7
+          },
+          "field": "y",
+          "sort": [],
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "name": "data-a9cd97385e15d00e1c6489ab19422e9f"
+      },
+      "mark": {
+        "type": "bar",
+        "color": "#36B7B4",
+        "size": 12,
+        "xOffset": 6
+      },
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "Regtech",
+            "title": "Regtech",
+            "type": "quantitative"
+          },
+          {
+            "field": "Fintech",
+            "title": "Fintech",
+            "type": "quantitative"
+          }
+        ],
+        "x": {
+          "field": "year",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "Regtech",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "name": "data-a9cd97385e15d00e1c6489ab19422e9f"
+      },
+      "mark": {
+        "type": "bar",
+        "color": "#0063AF",
+        "size": 12,
+        "xOffset": -6
+      },
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "Regtech",
+            "title": "Regtech",
+            "type": "quantitative"
+          },
+          {
+            "field": "Fintech",
+            "title": "Fintech",
+            "type": "quantitative"
+          }
+        ],
+        "x": {
+          "field": "year",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "Fintech",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "calculate": "(datum.Regtech + datum.Fintech)",
+          "as": "y"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-a9cd97385e15d00e1c6489ab19422e9f"
+      },
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "color": "#36B7B4",
+        "dx": 15,
+        "text": "Regtech"
+      },
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "Regtech",
+            "title": "Regtech",
+            "type": "quantitative"
+          },
+          {
+            "field": "Fintech",
+            "title": "Fintech",
+            "type": "quantitative"
+          }
+        ],
+        "x": {
+          "field": "year",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "Fintech",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "calculate": "(datum.Regtech + datum.Fintech)",
+          "as": "y"
+        },
+        {
+          "filter": "(datum.year === 2023)"
+        }
+      ]
+    },
+    {
+      "data": {
+        "name": "data-a9cd97385e15d00e1c6489ab19422e9f"
+      },
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "color": "#0063AF",
+        "dx": 15,
+        "dy": -32,
+        "text": "Fintech"
+      },
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "Regtech",
+            "title": "Regtech",
+            "type": "quantitative"
+          },
+          {
+            "field": "Fintech",
+            "title": "Fintech",
+            "type": "quantitative"
+          }
+        ],
+        "x": {
+          "field": "year",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "Fintech",
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "calculate": "(datum.Regtech + datum.Fintech)",
+          "as": "y"
+        },
+        {
+          "filter": "(datum.year === 2023)"
+        }
+      ]
+    }
+  ],
+  "height": 300,
+  "title": "",
+  "width": 400,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.14.1.json",
+  "datasets": {
+    "data-4396d20188f039caf9d5d47aed36c329": [
+      {
+        "x": 2012,
+        "y": 0
+      },
+      {
+        "x": 2023,
+        "y": 0
+      }
+    ],
+    "data-a9cd97385e15d00e1c6489ab19422e9f": [
+      {
+        "Fintech": 38.52,
+        "Regtech": 31.03,
+        "year": 2012
+      },
+      {
+        "Fintech": 33.52,
+        "Regtech": 97.25,
+        "year": 2013
+      },
+      {
+        "Fintech": 49.14,
+        "Regtech": 105.37,
+        "year": 2014
+      },
+      {
+        "Fintech": 38.52,
+        "Regtech": 82.25,
+        "year": 2015
+      },
+      {
+        "Fintech": 42.9,
+        "Regtech": 181.59,
+        "year": 2016
+      },
+      {
+        "Fintech": 37.9,
+        "Regtech": 57.26,
+        "year": 2017
+      },
+      {
+        "Fintech": 45.39,
+        "Regtech": 50.39,
+        "year": 2018
+      },
+      {
+        "Fintech": 63.51,
+        "Regtech": 84.13,
+        "year": 2019
+      },
+      {
+        "Fintech": 42.27,
+        "Regtech": 86.63,
+        "year": 2020
+      },
+      {
+        "Fintech": 47.89,
+        "Regtech": 106.62,
+        "year": 2021
+      },
+      {
+        "Fintech": 37.27,
+        "Regtech": 91.63,
+        "year": 2022
+      },
+      {
+        "Fintech": 44.15,
+        "Regtech": 41.02,
+        "year": 2023
+      }
+    ]
+  }
+}
