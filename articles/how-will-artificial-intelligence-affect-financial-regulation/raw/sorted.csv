@@ -1,0 +1,46 @@
+year,country,reg,regcount
+1936,United States,CEA,1
+1940,United States,Inv. Adv. Act,1
+1940,United States,Inv. Co. Act,2
+1970,United States,SIPA,1
+1974,United States,ERISA (DOL),1
+1982,United States,NFA,1
+1999,United States,GLBA,1
+2000,United States,CFMA,1
+2002,United States,SOX,1
+2004,International,Basel II,1
+2004,International,ICAAP,2
+2005,European Union,EU ETS,1
+2007,United States,FINRA (B-D),1
+2010,United States,Dodd-Frank I,1
+2010,United States,Dodd-Frank II,2
+2010,United States,FATCA,3
+2011,European Union,AIFMD,1
+2011,Luxembourg,FMA (CSSF),2
+2011,United States,CCAR,3
+2012,United States,SEA 2012,1
+2013,European Union,CRD IV,1
+2013,International,BCBS 239,2
+2013,United Kingdom,UK AIFMD,3
+2014,European Union,BRRD,1
+2014,European Union,MAR,2
+2014,European Union,MIFID II,3
+2014,European Union,MIFIR,4
+2015,European Union,AMLD IV,1
+2015,United Kingdom,FEMR,2
+2016,European Union,NISD,1
+2016,International,FRTB,2
+2017,European Union,SRD II,1
+2017,United States,Choice Act,2
+2018,European Union,AMLD V,1
+2018,European Union,GDPR,2
+2018,European Union,IDD,3
+2018,European Union,PRIIPS,4
+2018,European Union,PSD II,5
+2018,International,IFRS 9,6
+2021,European Union,CRD V,1
+2021,European Union,CRR II,2
+2021,United Kingdom,UK GDPR,3
+2021,United Kingdom,UK MAR,4
+2021,United Kingdom,UK PRIIPS,5
+2021,United Kingdom,UK TPR,6
