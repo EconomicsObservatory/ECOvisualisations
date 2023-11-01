@@ -1,0 +1,497 @@
+{
+  "config": {
+    "view": {
+      "continuousWidth": 400,
+      "continuousHeight": 300,
+      "stroke": null
+    },
+    "font": "Circular Std Book"
+  },
+  "data": {
+    "name": "data-b6676ef278760f8f2890391e0c03cb0c"
+  },
+  "vconcat": [
+    {
+      "layer": [
+        {
+          "height": 60,
+          "transform": [
+            {
+              "filter": "datum.level_1=='bw'"
+            },
+            {
+              "filter": "datum.VARIABLES=='victim'"
+            }
+          ],
+          "mark": {
+            "type": "circle",
+            "color": "#36B7B4",
+            "size": 150,
+            "opacity": 1
+          },
+          "encoding": {
+            "x": {
+              "field": "v",
+              "type": "quantitative",
+              "axis": {
+                "domainColor": "#676A86",
+                "domainOpacity": 0.5,
+                "grid": false,
+                "labelAngle": 0,
+                "labelColor": "#676A86",
+                "labelOpacity": 0.7,
+                "orient": "bottom",
+                "tickColor": "#676A86",
+                "tickCount": 10,
+                "tickOpacity": 0.5,
+                "title": "",
+                "titleAlign": "center",
+                "titleAnchor": "middle",
+                "titleColor": "#676A86",
+                "titleFontSize": 12,
+                "titleOpacity": 0.8,
+                "titleX": 207,
+                "titleY": -15
+              }
+            }
+          },
+          "title": {
+            "text": "Birth weight",
+            "color": "#676A86"
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": "datum.level_1=='bw'"
+            },
+            {
+              "filter": "datum.VARIABLES=='b'"
+            }
+          ],
+          "mark": {
+            "type": "line",
+            "color": "#36B7B4"
+          },
+          "encoding": {
+            "x": {
+              "field": "v",
+              "type": "quantitative"
+            },
+            "x2": {
+              "field": "w",
+              "type": "quantitative"
+            }
+          }
+        },
+        {
+          "data": {
+            "values": [
+              {
+                "x": 0
+              }
+            ]
+          },
+          "mark": {
+            "type": "rule",
+            "size": 0.5,
+            "opacity": 0.5
+          },
+          "encoding": {
+            "x": {
+              "field": "x",
+              "type": "quantitative"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "layer": [
+        {
+          "height": 60,
+          "transform": [
+            {
+              "filter": "datum.level_1=='lowb'"
+            },
+            {
+              "filter": "datum.VARIABLES=='victim'"
+            }
+          ],
+          "mark": {
+            "type": "circle",
+            "color": "#179FDB",
+            "size": 150,
+            "opacity": 1
+          },
+          "encoding": {
+            "x": {
+              "field": "v",
+              "type": "quantitative",
+              "axis": {
+                "domainColor": "#676A86",
+                "domainOpacity": 0.5,
+                "grid": false,
+                "labelAngle": 0,
+                "labelColor": "#676A86",
+                "labelOpacity": 0.7,
+                "orient": "bottom",
+                "tickColor": "#676A86",
+                "tickCount": 10,
+                "tickOpacity": 0.5,
+                "title": "",
+                "titleAlign": "center",
+                "titleAnchor": "middle",
+                "titleColor": "#676A86",
+                "titleFontSize": 12,
+                "titleOpacity": 0.8,
+                "titleX": 207,
+                "titleY": -15
+              }
+            }
+          },
+          "title": {
+            "text": "Low birth weight",
+            "color": "#676A86"
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": "datum.level_1=='lowb'"
+            },
+            {
+              "filter": "datum.VARIABLES=='b'"
+            }
+          ],
+          "mark": {
+            "type": "line",
+            "color": "#179FDB"
+          },
+          "encoding": {
+            "x": {
+              "field": "v",
+              "type": "quantitative"
+            },
+            "x2": {
+              "field": "w",
+              "type": "quantitative"
+            }
+          }
+        },
+        {
+          "data": {
+            "values": [
+              {
+                "x": 0
+              }
+            ]
+          },
+          "mark": {
+            "type": "rule",
+            "size": 0.5,
+            "opacity": 0.5
+          },
+          "encoding": {
+            "x": {
+              "field": "x",
+              "type": "quantitative"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "layer": [
+        {
+          "height": 60,
+          "transform": [
+            {
+              "filter": "datum.level_1=='vlowb'"
+            },
+            {
+              "filter": "datum.VARIABLES=='victim'"
+            }
+          ],
+          "mark": {
+            "type": "circle",
+            "color": "#0063AF",
+            "size": 150,
+            "opacity": 1
+          },
+          "encoding": {
+            "x": {
+              "field": "v",
+              "type": "quantitative",
+              "axis": {
+                "domainColor": "#676A86",
+                "domainOpacity": 0.5,
+                "grid": false,
+                "labelAngle": 0,
+                "labelColor": "#676A86",
+                "labelOpacity": 0.7,
+                "orient": "bottom",
+                "tickColor": "#676A86",
+                "tickCount": 10,
+                "tickOpacity": 0.5,
+                "title": "",
+                "titleAlign": "center",
+                "titleAnchor": "middle",
+                "titleColor": "#676A86",
+                "titleFontSize": 12,
+                "titleOpacity": 0.8,
+                "titleX": 207,
+                "titleY": -15
+              }
+            }
+          },
+          "title": {
+            "text": "Very low birth weight",
+            "color": "#676A86"
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": "datum.level_1=='vlowb'"
+            },
+            {
+              "filter": "datum.VARIABLES=='b'"
+            }
+          ],
+          "mark": {
+            "type": "line",
+            "color": "#0063AF"
+          },
+          "encoding": {
+            "x": {
+              "field": "v",
+              "type": "quantitative"
+            },
+            "x2": {
+              "field": "w",
+              "type": "quantitative"
+            }
+          }
+        },
+        {
+          "data": {
+            "values": [
+              {
+                "x": 0
+              }
+            ]
+          },
+          "mark": {
+            "type": "rule",
+            "size": 0.5,
+            "opacity": 0.5
+          },
+          "encoding": {
+            "x": {
+              "field": "x",
+              "type": "quantitative"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "layer": [
+        {
+          "height": 60,
+          "transform": [
+            {
+              "filter": "datum.level_1=='elowb'"
+            },
+            {
+              "filter": "datum.VARIABLES=='victim'"
+            }
+          ],
+          "mark": {
+            "type": "circle",
+            "color": "#122B39",
+            "size": 150,
+            "opacity": 1
+          },
+          "encoding": {
+            "x": {
+              "field": "v",
+              "type": "quantitative",
+              "axis": {
+                "domainColor": "#676A86",
+                "domainOpacity": 0.5,
+                "grid": false,
+                "labelAngle": 0,
+                "labelColor": "#676A86",
+                "labelOpacity": 0.7,
+                "orient": "bottom",
+                "tickColor": "#676A86",
+                "tickCount": 10,
+                "tickOpacity": 0.5,
+                "title": "",
+                "titleAlign": "center",
+                "titleAnchor": "middle",
+                "titleColor": "#676A86",
+                "titleFontSize": 12,
+                "titleOpacity": 0.8,
+                "titleX": 207,
+                "titleY": -15
+              }
+            }
+          },
+          "title": {
+            "text": "Extremely low birth weight",
+            "color": "#676A86"
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": "datum.level_1=='elowb'"
+            },
+            {
+              "filter": "datum.VARIABLES=='b'"
+            }
+          ],
+          "mark": {
+            "type": "line",
+            "color": "#122B39"
+          },
+          "encoding": {
+            "x": {
+              "field": "v",
+              "type": "quantitative"
+            },
+            "x2": {
+              "field": "w",
+              "type": "quantitative"
+            }
+          }
+        },
+        {
+          "data": {
+            "values": [
+              {
+                "x": 0
+              }
+            ]
+          },
+          "mark": {
+            "type": "rule",
+            "size": 0.5,
+            "opacity": 0.5
+          },
+          "encoding": {
+            "x": {
+              "field": "x",
+              "type": "quantitative"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "title": "",
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.14.1.json",
+  "datasets": {
+    "data-b6676ef278760f8f2890391e0c03cb0c": [
+      {
+        "VARIABLES": "victim",
+        "level_1": "bw",
+        "v": "-15.92",
+        "w": "-15.92"
+      },
+      {
+        "VARIABLES": "victim",
+        "level_1": "lowb",
+        "v": "0.00759",
+        "w": "0.00759"
+      },
+      {
+        "VARIABLES": "victim",
+        "level_1": "vlowb",
+        "v": "0.00164",
+        "w": "0.00164"
+      },
+      {
+        "VARIABLES": "victim",
+        "level_1": "elowb",
+        "v": "0.00152",
+        "w": "0.00152"
+      },
+      {
+        "VARIABLES": "b",
+        "level_1": "bw",
+        "v": "-24.40",
+        "w": "-7.451"
+      },
+      {
+        "VARIABLES": "b",
+        "level_1": "lowb",
+        "v": "0.00268",
+        "w": "0.0125"
+      },
+      {
+        "VARIABLES": "b",
+        "level_1": "vlowb",
+        "v": "-0.000260",
+        "w": "0.00354"
+      },
+      {
+        "VARIABLES": "b",
+        "level_1": "elowb",
+        "v": "0.000259",
+        "w": "0.00278"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "bw",
+        "v": "1373656",
+        "w": "1373656"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "lowb",
+        "v": "1373656",
+        "w": "1373656"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "vlowb",
+        "v": "1373656",
+        "w": "1373656"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "elowb",
+        "v": "1373656",
+        "w": "1373656"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "bw",
+        "v": "0.049",
+        "w": "0.049"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "lowb",
+        "v": "0.039",
+        "w": "0.039"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "vlowb",
+        "v": "0.036",
+        "w": "0.036"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "elowb",
+        "v": "0.035",
+        "w": "0.035"
+      }
+    ]
+  }
+}

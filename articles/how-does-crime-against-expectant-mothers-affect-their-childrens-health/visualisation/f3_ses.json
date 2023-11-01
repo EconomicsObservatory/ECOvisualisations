@@ -1,0 +1,1048 @@
+{
+  "config": {
+    "view": {
+      "continuousWidth": 200,
+      "continuousHeight": 300,
+      "stroke": null
+    },
+    "font": "Circular Std Book"
+  },
+  "data": {
+    "name": "data-4ea905e73b33752e70e103eb5ae46450"
+  },
+  "hconcat": [
+    {
+      "vconcat": [
+        {
+          "layer": [
+            {
+              "height": 140,
+              "transform": [
+                {
+                  "filter": "datum.VARIABLES=='bw'"
+                }
+              ],
+              "mark": {
+                "type": "line"
+              },
+              "title": {
+                "text": "Birth weight",
+                "color": "#676A86"
+              },
+              "encoding": {
+                "x": {
+                  "field": "v",
+                  "type": "quantitative",
+                  "axis": {
+                    "domainColor": "#676A86",
+                    "domainOpacity": 0.5,
+                    "grid": false,
+                    "labelAngle": 0,
+                    "labelColor": "#676A86",
+                    "labelOpacity": 0.7,
+                    "orient": "bottom",
+                    "tickColor": "#676A86",
+                    "tickCount": 10,
+                    "tickOpacity": 0.5,
+                    "title": "",
+                    "titleAlign": "center",
+                    "titleAnchor": "middle",
+                    "titleColor": "#676A86",
+                    "titleFontSize": 12,
+                    "titleOpacity": 0.8,
+                    "titleX": 207,
+                    "titleY": -15
+                  }
+                },
+                "x2": {
+                  "field": "w",
+                  "type": "quantitative"
+                },
+                "y": {
+                  "field": "level_1",
+                  "type": "nominal",
+                  "axis": {
+                    "labelExpr": "datum.label == 'Low_SES' ? 'Low socio-economic status' : datum.label == 'High_SES' ? 'High socio-economic status' : datum.label == 'Low_educ' ? 'Low education level' : datum.label == 'High_educ' ? 'High education level' : datum.label == 'Married' ? 'Married' : datum.label == 'NonMarried' ? 'Non-married' :''",
+                    "title": null,
+                    "domainColor": "#676A86",
+                    "domainOpacity": 0.5,
+                    "labelColor": "#676A86",
+                    "tickColor": "#676A86",
+                    "tickOpacity": 0.5,
+                    "labelFontSize": 12
+                  },
+                  "sort": []
+                },
+                "color": {
+                  "field": "level_1",
+                  "type": "nominal",
+                  "legend": null,
+                  "scale": {
+                    "range": [
+                      "#5C267B",
+                      "#0063AF",
+                      "#F4134D",
+                      "#36B7B4",
+                      "#00A767",
+                      "#122B39"
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "transform": [
+                {
+                  "filter": "datum.VARIABLES=='victimbw'"
+                }
+              ],
+              "mark": {
+                "type": "circle",
+                "size": 70,
+                "opacity": 1
+              },
+              "encoding": {
+                "x": {
+                  "field": "v",
+                  "type": "quantitative"
+                },
+                "y": {
+                  "field": "level_1",
+                  "type": "nominal",
+                  "sort": []
+                },"color": {
+                  "field": "level_1",
+                  "type": "nominal",
+                  "legend": null,
+                  "scale": {
+                    "range": [
+                      "#5C267B",
+                      "#0063AF",
+                      "#F4134D",
+                      "#36B7B4",
+                      "#00A767",
+                      "#122B39"
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "layer": [
+            {
+              "height": 140,
+              "transform": [
+                {
+                  "filter": "datum.VARIABLES=='v'"
+                }
+              ],
+              "mark": {
+                "type": "line"
+              },
+              "title": {
+                "text": "Very low birth weight",
+                "color": "#676A86"
+              },
+              "encoding": {
+                "x": {
+                  "field": "v",
+                  "type": "quantitative",
+                  "axis": {
+                    "domainColor": "#676A86",
+                    "domainOpacity": 0.5,
+                    "grid": false,
+                    "labelAngle": 0,
+                    "labelColor": "#676A86",
+                    "labelOpacity": 0.7,
+                    "orient": "bottom",
+                    "tickColor": "#676A86",
+                    "tickCount": 10,
+                    "tickOpacity": 0.5,
+                    "title": "",
+                    "titleAlign": "center",
+                    "titleAnchor": "middle",
+                    "titleColor": "#676A86",
+                    "titleFontSize": 12,
+                    "titleOpacity": 0.8,
+                    "titleX": 207,
+                    "titleY": -15
+                  }
+                },
+                "x2": {
+                  "field": "w",
+                  "type": "quantitative"
+                },
+                "y": {
+                  "field": "level_1",
+                  "type": "nominal",
+                  "axis": {
+                    "labelExpr": "datum.label == 'Low_SES' ? 'Low socio-economic status' : datum.label == 'High_SES' ? 'High socio-economic status' : datum.label == 'Low_educ' ? 'Low education level' : datum.label == 'High_educ' ? 'High education level' : datum.label == 'Married' ? 'Married' : datum.label == 'NonMarried' ? 'Non-married' :''",
+                    "title": null,
+                    "domainColor": "#676A86",
+                    "domainOpacity": 0.5,
+                    "labelColor": "#676A86",
+                    "tickColor": "#676A86",
+                    "tickOpacity": 0.5,
+                    "labelFontSize": 12
+                  },
+                  "sort": []
+                },"color": {
+                  "field": "level_1",
+                  "type": "nominal",
+                  "legend": null,
+                  "scale": {
+                    "range": [
+                      "#5C267B",
+                      "#0063AF",
+                      "#F4134D",
+                      "#36B7B4",
+                      "#00A767",
+                      "#122B39"
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "transform": [
+                {
+                  "filter": "datum.VARIABLES=='victimv'"
+                }
+              ],
+              "mark": {
+                "type": "circle",
+                "size": 70,
+                "opacity": 1
+              },
+              "encoding": {
+                "x": {
+                  "field": "v",
+                  "type": "quantitative"
+                },
+                "y": {
+                  "field": "level_1",
+                  "type": "nominal",
+                  "sort": []
+                },"color": {
+                  "field": "level_1",
+                  "type": "nominal",
+                  "legend": null,
+                  "scale": {
+                    "range": [
+                      "#5C267B",
+                      "#0063AF",
+                      "#F4134D",
+                      "#36B7B4",
+                      "#00A767",
+                      "#122B39"
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "vconcat": [
+        {
+          "layer": [
+            {
+              "height": 140,
+              "transform": [
+                {
+                  "filter": "datum.VARIABLES=='l'"
+                }
+              ],
+              "mark": {
+                "type": "line"
+              },
+              "title": {
+                "text": "Low birth weight",
+                "color": "#676A86"
+              },
+              "encoding": {
+                "x": {
+                  "field": "v",
+                  "type": "quantitative",
+                  "axis": {
+                    "domainColor": "#676A86",
+                    "domainOpacity": 0.5,
+                    "grid": false,
+                    "labelAngle": 0,
+                    "labelColor": "#676A86",
+                    "labelOpacity": 0.7,
+                    "orient": "bottom",
+                    "tickColor": "#676A86",
+                    "tickCount": 10,
+                    "tickOpacity": 0.5,
+                    "title": "",
+                    "titleAlign": "center",
+                    "titleAnchor": "middle",
+                    "titleColor": "#676A86",
+                    "titleFontSize": 12,
+                    "titleOpacity": 0.8,
+                    "titleX": 207,
+                    "titleY": -15
+                  }
+                },
+                "x2": {
+                  "field": "w",
+                  "type": "quantitative"
+                },
+                "y": {
+                  "field": "level_1",
+                  "type": "nominal",
+                  "axis": null,
+                  "sort": []
+                },"color": {
+                  "field": "level_1",
+                  "type": "nominal",
+                  "legend": null,
+                  "scale": {
+                    "range": [
+                      "#5C267B",
+                      "#0063AF",
+                      "#F4134D",
+                      "#36B7B4",
+                      "#00A767",
+                      "#122B39"
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "transform": [
+                {
+                  "filter": "datum.VARIABLES=='victiml'"
+                }
+              ],
+              "mark": {
+                "type": "circle",
+                "size": 70,
+                "opacity": 1
+              },
+              "encoding": {
+                "x": {
+                  "field": "v",
+                  "type": "quantitative"
+                },
+                "y": {
+                  "field": "level_1",
+                  "type": "nominal",
+                  "sort": []
+                },"color": {
+                  "field": "level_1",
+                  "type": "nominal",
+                  "legend": null,
+                  "scale": {
+                    "range": [
+                      "#5C267B",
+                      "#0063AF",
+                      "#F4134D",
+                      "#36B7B4",
+                      "#00A767",
+                      "#122B39"
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "layer": [
+            {
+              "height": 140,
+              "transform": [
+                {
+                  "filter": "datum.VARIABLES=='e'"
+                }
+              ],
+              "mark": {
+                "type": "line"
+              },
+              "title": {
+                "text": "Extremely low birth weight",
+                "color": "#676A86"
+              },
+              "encoding": {
+                "x": {
+                  "field": "v",
+                  "type": "quantitative",
+                  "axis": {
+                    "domainColor": "#676A86",
+                    "domainOpacity": 0.5,
+                    "grid": false,
+                    "labelAngle": 0,
+                    "labelColor": "#676A86",
+                    "labelOpacity": 0.7,
+                    "orient": "bottom",
+                    "tickColor": "#676A86",
+                    "tickCount": 10,
+                    "tickOpacity": 0.5,
+                    "title": "",
+                    "titleAlign": "center",
+                    "titleAnchor": "middle",
+                    "titleColor": "#676A86",
+                    "titleFontSize": 12,
+                    "titleOpacity": 0.8,
+                    "titleX": 207,
+                    "titleY": -15
+                  }
+                },
+                "x2": {
+                  "field": "w",
+                  "type": "quantitative"
+                },
+                "y": {
+                  "field": "level_1",
+                  "type": "nominal",
+                  "axis": null,
+                  "sort": []
+                },"color": {
+                  "field": "level_1",
+                  "type": "nominal",
+                  "legend": null,
+                  "scale": {
+                    "range": [
+                      "#5C267B",
+                      "#0063AF",
+                      "#F4134D",
+                      "#36B7B4",
+                      "#00A767",
+                      "#122B39"
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "transform": [
+                {
+                  "filter": "datum.VARIABLES=='victime'"
+                }
+              ],
+              "mark": {
+                "type": "circle",
+                "size": 70,
+                "opacity": 1
+              },
+              "encoding": {
+                "x": {
+                  "field": "v",
+                  "type": "quantitative"
+                },
+                "y": {
+                  "field": "level_1",
+                  "type": "nominal",
+                  "sort": []
+                },"color": {
+                  "field": "level_1",
+                  "type": "nominal",
+                  "legend": null,
+                  "scale": {
+                    "range": [
+                      "#5C267B",
+                      "#0063AF",
+                      "#F4134D",
+                      "#36B7B4",
+                      "#00A767",
+                      "#122B39"
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "",
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.14.1.json",
+  "datasets": {
+    "data-4ea905e73b33752e70e103eb5ae46450": [
+      {
+        "VARIABLES": "victimbw",
+        "level_1": "Low_SES",
+        "v": "-22.08",
+        "w": "-22.08"
+      },
+      {
+        "VARIABLES": "victimbw",
+        "level_1": "High_SES",
+        "v": "-14.25",
+        "w": "-14.25"
+      },
+      {
+        "VARIABLES": "victimbw",
+        "level_1": "Low_educ",
+        "v": "-18.36",
+        "w": "-18.36"
+      },
+      {
+        "VARIABLES": "victimbw",
+        "level_1": "High_educ",
+        "v": "-12.26",
+        "w": "-12.26"
+      },
+      {
+        "VARIABLES": "victimbw",
+        "level_1": "Married",
+        "v": "-12.11",
+        "w": "-12.11"
+      },
+      {
+        "VARIABLES": "victimbw",
+        "level_1": "NonMarried",
+        "v": "-19.83",
+        "w": "-19.83"
+      },
+      {
+        "VARIABLES": "bw",
+        "level_1": "Low_SES",
+        "v": "-38.36",
+        "w": "-5.803"
+      },
+      {
+        "VARIABLES": "bw",
+        "level_1": "High_SES",
+        "v": "-24.47",
+        "w": "-4.033"
+      },
+      {
+        "VARIABLES": "bw",
+        "level_1": "Low_educ",
+        "v": "-28.82",
+        "w": "-7.893"
+      },
+      {
+        "VARIABLES": "bw",
+        "level_1": "High_educ",
+        "v": "-29.04",
+        "w": "4.508"
+      },
+      {
+        "VARIABLES": "bw",
+        "level_1": "Married",
+        "v": "-24.01",
+        "w": "-0.208"
+      },
+      {
+        "VARIABLES": "bw",
+        "level_1": "NonMarried",
+        "v": "-33.10",
+        "w": "-6.572"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "Low_SES",
+        "v": "491777",
+        "w": "491777"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "High_SES",
+        "v": "872112",
+        "w": "872112"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "Low_educ",
+        "v": "1081913",
+        "w": "1081913"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "High_educ",
+        "v": "254132",
+        "w": "254132"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "Married",
+        "v": "789874",
+        "w": "789874"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "NonMarried",
+        "v": "559761",
+        "w": "559761"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "Low_SES",
+        "v": "0.069",
+        "w": "0.069"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "High_SES",
+        "v": "0.054",
+        "w": "0.054"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "Low_educ",
+        "v": "0.054",
+        "w": "0.054"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "High_educ",
+        "v": "0.076",
+        "w": "0.076"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "Married",
+        "v": "0.056",
+        "w": "0.056"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "NonMarried",
+        "v": "0.061",
+        "w": "0.061"
+      },
+      {
+        "VARIABLES": "victime",
+        "level_1": "Low_SES",
+        "v": "0.00306",
+        "w": "0.00306"
+      },
+      {
+        "VARIABLES": "victime",
+        "level_1": "High_SES",
+        "v": "0.000963",
+        "w": "0.000963"
+      },
+      {
+        "VARIABLES": "victime",
+        "level_1": "Low_educ",
+        "v": "0.00131",
+        "w": "0.00131"
+      },
+      {
+        "VARIABLES": "victime",
+        "level_1": "High_educ",
+        "v": "0.00197",
+        "w": "0.00197"
+      },
+      {
+        "VARIABLES": "victime",
+        "level_1": "Married",
+        "v": "0.00127",
+        "w": "0.00127"
+      },
+      {
+        "VARIABLES": "victime",
+        "level_1": "NonMarried",
+        "v": "0.00154",
+        "w": "0.00154"
+      },
+      {
+        "VARIABLES": "e",
+        "level_1": "Low_SES",
+        "v": "0.000636",
+        "w": "0.00549"
+      },
+      {
+        "VARIABLES": "e",
+        "level_1": "High_SES",
+        "v": "-0.000533",
+        "w": "0.00246"
+      },
+      {
+        "VARIABLES": "e",
+        "level_1": "Low_educ",
+        "v": "-0.000184",
+        "w": "0.00281"
+      },
+      {
+        "VARIABLES": "e",
+        "level_1": "High_educ",
+        "v": "-0.000562",
+        "w": "0.00450"
+      },
+      {
+        "VARIABLES": "e",
+        "level_1": "Married",
+        "v": "-0.000387",
+        "w": "0.00293"
+      },
+      {
+        "VARIABLES": "e",
+        "level_1": "NonMarried",
+        "v": "-0.000449",
+        "w": "0.00354"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "Low_SES",
+        "v": "491777",
+        "w": "491777"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "High_SES",
+        "v": "872112",
+        "w": "872112"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "Low_educ",
+        "v": "1081913",
+        "w": "1081913"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "High_educ",
+        "v": "254132",
+        "w": "254132"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "Married",
+        "v": "789874",
+        "w": "789874"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "NonMarried",
+        "v": "559761",
+        "w": "559761"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "Low_SES",
+        "v": "0.048",
+        "w": "0.048"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "High_SES",
+        "v": "0.043",
+        "w": "0.043"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "Low_educ",
+        "v": "0.039",
+        "w": "0.039"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "High_educ",
+        "v": "0.058",
+        "w": "0.058"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "Married",
+        "v": "0.044",
+        "w": "0.044"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "NonMarried",
+        "v": "0.046",
+        "w": "0.046"
+      },
+      {
+        "VARIABLES": "victiml",
+        "level_1": "Low_SES",
+        "v": "0.0107",
+        "w": "0.0107"
+      },
+      {
+        "VARIABLES": "victiml",
+        "level_1": "High_SES",
+        "v": "0.00705",
+        "w": "0.00705"
+      },
+      {
+        "VARIABLES": "victiml",
+        "level_1": "Low_educ",
+        "v": "0.00919",
+        "w": "0.00919"
+      },
+      {
+        "VARIABLES": "victiml",
+        "level_1": "High_educ",
+        "v": "0.00403",
+        "w": "0.00403"
+      },
+      {
+        "VARIABLES": "victiml",
+        "level_1": "Married",
+        "v": "0.00351",
+        "w": "0.00351"
+      },
+      {
+        "VARIABLES": "victiml",
+        "level_1": "NonMarried",
+        "v": "0.0130",
+        "w": "0.0130"
+      },
+      {
+        "VARIABLES": "l",
+        "level_1": "Low_SES",
+        "v": "0.00191",
+        "w": "0.0195"
+      },
+      {
+        "VARIABLES": "l",
+        "level_1": "High_SES",
+        "v": "0.00117",
+        "w": "0.0129"
+      },
+      {
+        "VARIABLES": "l",
+        "level_1": "Low_educ",
+        "v": "0.00321",
+        "w": "0.0152"
+      },
+      {
+        "VARIABLES": "l",
+        "level_1": "High_educ",
+        "v": "-0.00538",
+        "w": "0.0134"
+      },
+      {
+        "VARIABLES": "l",
+        "level_1": "Married",
+        "v": "-0.00303",
+        "w": "0.0101"
+      },
+      {
+        "VARIABLES": "l",
+        "level_1": "NonMarried",
+        "v": "0.00547",
+        "w": "0.0205"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "Low_SES",
+        "v": "491777",
+        "w": "491777"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "High_SES",
+        "v": "872112",
+        "w": "872112"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "Low_educ",
+        "v": "1081913",
+        "w": "1081913"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "High_educ",
+        "v": "254132",
+        "w": "254132"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "Married",
+        "v": "789874",
+        "w": "789874"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "NonMarried",
+        "v": "559761",
+        "w": "559761"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "Low_SES",
+        "v": "0.057",
+        "w": "0.057"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "High_SES",
+        "v": "0.045",
+        "w": "0.045"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "Low_educ",
+        "v": "0.043",
+        "w": "0.043"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "High_educ",
+        "v": "0.064",
+        "w": "0.064"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "Married",
+        "v": "0.047",
+        "w": "0.047"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "NonMarried",
+        "v": "0.052",
+        "w": "0.052"
+      },
+      {
+        "VARIABLES": "victimv",
+        "level_1": "Low_SES",
+        "v": "0.00290",
+        "w": "0.00290"
+      },
+      {
+        "VARIABLES": "victimv",
+        "level_1": "High_SES",
+        "v": "0.00141",
+        "w": "0.00141"
+      },
+      {
+        "VARIABLES": "victimv",
+        "level_1": "Low_educ",
+        "v": "0.000803",
+        "w": "0.000803"
+      },
+      {
+        "VARIABLES": "victimv",
+        "level_1": "High_educ",
+        "v": "0.00357",
+        "w": "0.00357"
+      },
+      {
+        "VARIABLES": "victimv",
+        "level_1": "Married",
+        "v": "0.0016",
+        "w": "0.0016"
+      },
+      {
+        "VARIABLES": "victimv",
+        "level_1": "NonMarried",
+        "v": "0.00133",
+        "w": "0.00133"
+      },
+      {
+        "VARIABLES": "v",
+        "level_1": "Low_SES",
+        "v": "-0.000447",
+        "w": "0.00625"
+      },
+      {
+        "VARIABLES": "v",
+        "level_1": "High_SES",
+        "v": "-0.000878",
+        "w": "0.00369"
+      },
+      {
+        "VARIABLES": "v",
+        "level_1": "Low_educ",
+        "v": "-0.00141",
+        "w": "0.00302"
+      },
+      {
+        "VARIABLES": "v",
+        "level_1": "High_educ",
+        "v": "-0.000280",
+        "w": "0.00742"
+      },
+      {
+        "VARIABLES": "v",
+        "level_1": "Married",
+        "v": "-0.000961",
+        "w": "0.00417"
+      },
+      {
+        "VARIABLES": "v",
+        "level_1": "NonMarried",
+        "v": "-0.00153",
+        "w": "0.00418"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "Low_SES",
+        "v": "491777",
+        "w": "491777"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "High_SES",
+        "v": "872112",
+        "w": "872112"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "Low_educ",
+        "v": "1081913",
+        "w": "1081913"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "High_educ",
+        "v": "254132",
+        "w": "254132"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "Married",
+        "v": "789874",
+        "w": "789874"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "NonMarried",
+        "v": "559761",
+        "w": "559761"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "Low_SES",
+        "v": "0.052",
+        "w": "0.052"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "High_SES",
+        "v": "0.044",
+        "w": "0.044"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "Low_educ",
+        "v": "0.041",
+        "w": "0.041"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "High_educ",
+        "v": "0.062",
+        "w": "0.062"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "Married",
+        "v": "0.047",
+        "w": "0.047"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "NonMarried",
+        "v": "0.048",
+        "w": "0.048"
+      }
+    ]
+  }
+}

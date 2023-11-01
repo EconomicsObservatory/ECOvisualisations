@@ -1,0 +1,497 @@
+{
+  "config": {
+    "view": {
+      "continuousWidth": 400,
+      "continuousHeight": 300,
+      "stroke": null
+    },
+    "font": "Circular Std Book"
+  },
+  "data": {
+    "name": "data-23a684816ef01a99b4296497376e1ffb"
+  },
+  "vconcat": [
+    {
+      "layer": [
+        {
+          "height": 60,
+          "transform": [
+            {
+              "filter": "datum.level_1=='Hospitalization'"
+            },
+            {
+              "filter": "datum.VARIABLES=='victim'"
+            }
+          ],
+          "mark": {
+            "type": "circle",
+            "color": "#243B5A",
+            "size": 150,
+            "opacity": 1
+          },
+          "encoding": {
+            "x": {
+              "field": "v",
+              "type": "quantitative",
+              "axis": {
+                "domainColor": "#676A86",
+                "domainOpacity": 0.5,
+                "grid": false,
+                "labelAngle": 0,
+                "labelColor": "#676A86",
+                "labelOpacity": 0.7,
+                "orient": "bottom",
+                "tickColor": "#676A86",
+                "tickCount": 10,
+                "tickOpacity": 0.5,
+                "title": "",
+                "titleAlign": "center",
+                "titleAnchor": "middle",
+                "titleColor": "#676A86",
+                "titleFontSize": 12,
+                "titleOpacity": 0.8,
+                "titleX": 207,
+                "titleY": -15
+              }
+            }
+          },
+          "title": {
+            "text": "Hospitalisation",
+            "color": "#676A86"
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": "datum.level_1=='Hospitalization'"
+            },
+            {
+              "filter": "datum.VARIABLES=='b'"
+            }
+          ],
+          "mark": {
+            "type": "line",
+            "color": "#243B5A"
+          },
+          "encoding": {
+            "x": {
+              "field": "v",
+              "type": "quantitative"
+            },
+            "x2": {
+              "field": "w",
+              "type": "quantitative"
+            }
+          }
+        },
+        {
+          "data": {
+            "values": [
+              {
+                "x": 0
+              }
+            ]
+          },
+          "mark": {
+            "type": "rule",
+            "size": 0.5,
+            "opacity": 0.5
+          },
+          "encoding": {
+            "x": {
+              "field": "x",
+              "type": "quantitative"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "layer": [
+        {
+          "height": 60,
+          "transform": [
+            {
+              "filter": "datum.level_1=='Cost'"
+            },
+            {
+              "filter": "datum.VARIABLES=='victim'"
+            }
+          ],
+          "mark": {
+            "type": "circle",
+            "color": "#5C267B",
+            "size": 150,
+            "opacity": 1
+          },
+          "encoding": {
+            "x": {
+              "field": "v",
+              "type": "quantitative",
+              "axis": {
+                "domainColor": "#676A86",
+                "domainOpacity": 0.5,
+                "grid": false,
+                "labelAngle": 0,
+                "labelColor": "#676A86",
+                "labelOpacity": 0.7,
+                "orient": "bottom",
+                "tickColor": "#676A86",
+                "tickCount": 10,
+                "tickOpacity": 0.5,
+                "title": "",
+                "titleAlign": "center",
+                "titleAnchor": "middle",
+                "titleColor": "#676A86",
+                "titleFontSize": 12,
+                "titleOpacity": 0.8,
+                "titleX": 207,
+                "titleY": -15
+              }
+            }
+          },
+          "title": {
+            "text": "Cost (log)",
+            "color": "#676A86"
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": "datum.level_1=='Cost'"
+            },
+            {
+              "filter": "datum.VARIABLES=='b'"
+            }
+          ],
+          "mark": {
+            "type": "line",
+            "color": "#5C267B"
+          },
+          "encoding": {
+            "x": {
+              "field": "v",
+              "type": "quantitative"
+            },
+            "x2": {
+              "field": "w",
+              "type": "quantitative"
+            }
+          }
+        },
+        {
+          "data": {
+            "values": [
+              {
+                "x": 0
+              }
+            ]
+          },
+          "mark": {
+            "type": "rule",
+            "size": 0.5,
+            "opacity": 0.5
+          },
+          "encoding": {
+            "x": {
+              "field": "x",
+              "type": "quantitative"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "layer": [
+        {
+          "height": 60,
+          "transform": [
+            {
+              "filter": "datum.level_1=='Neonatal ICU'"
+            },
+            {
+              "filter": "datum.VARIABLES=='victim'"
+            }
+          ],
+          "mark": {
+            "type": "circle",
+            "color": "#E6224B",
+            "size": 150,
+            "opacity": 1
+          },
+          "encoding": {
+            "x": {
+              "field": "v",
+              "type": "quantitative",
+              "axis": {
+                "domainColor": "#676A86",
+                "domainOpacity": 0.5,
+                "grid": false,
+                "labelAngle": 0,
+                "labelColor": "#676A86",
+                "labelOpacity": 0.7,
+                "orient": "bottom",
+                "tickColor": "#676A86",
+                "tickCount": 10,
+                "tickOpacity": 0.5,
+                "title": "",
+                "titleAlign": "center",
+                "titleAnchor": "middle",
+                "titleColor": "#676A86",
+                "titleFontSize": 12,
+                "titleOpacity": 0.8,
+                "titleX": 207,
+                "titleY": -15
+              }
+            }
+          },
+          "title": {
+            "text": "Nenonatal ICU",
+            "color": "#676A86"
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": "datum.level_1=='Neonatal ICU'"
+            },
+            {
+              "filter": "datum.VARIABLES=='b'"
+            }
+          ],
+          "mark": {
+            "type": "line",
+            "color": "#E6224B"
+          },
+          "encoding": {
+            "x": {
+              "field": "v",
+              "type": "quantitative"
+            },
+            "x2": {
+              "field": "w",
+              "type": "quantitative"
+            }
+          }
+        },
+        {
+          "data": {
+            "values": [
+              {
+                "x": 0
+              }
+            ]
+          },
+          "mark": {
+            "type": "rule",
+            "size": 0.5,
+            "opacity": 0.5
+          },
+          "encoding": {
+            "x": {
+              "field": "x",
+              "type": "quantitative"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "layer": [
+        {
+          "height": 60,
+          "transform": [
+            {
+              "filter": "datum.level_1=='ICU'"
+            },
+            {
+              "filter": "datum.VARIABLES=='victim'"
+            }
+          ],
+          "mark": {
+            "type": "circle",
+            "color": "#EB5C2E",
+            "size": 150,
+            "opacity": 1
+          },
+          "encoding": {
+            "x": {
+              "field": "v",
+              "type": "quantitative",
+              "axis": {
+                "domainColor": "#676A86",
+                "domainOpacity": 0.5,
+                "grid": false,
+                "labelAngle": 0,
+                "labelColor": "#676A86",
+                "labelOpacity": 0.7,
+                "orient": "bottom",
+                "tickColor": "#676A86",
+                "tickCount": 10,
+                "tickOpacity": 0.5,
+                "title": "",
+                "titleAlign": "center",
+                "titleAnchor": "middle",
+                "titleColor": "#676A86",
+                "titleFontSize": 12,
+                "titleOpacity": 0.8,
+                "titleX": 207,
+                "titleY": -15
+              }
+            }
+          },
+          "title": {
+            "text": "ICU",
+            "color": "#676A86"
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": "datum.level_1=='ICU'"
+            },
+            {
+              "filter": "datum.VARIABLES=='b'"
+            }
+          ],
+          "mark": {
+            "type": "line",
+            "color": "#EB5C2E"
+          },
+          "encoding": {
+            "x": {
+              "field": "v",
+              "type": "quantitative"
+            },
+            "x2": {
+              "field": "w",
+              "type": "quantitative"
+            }
+          }
+        },
+        {
+          "data": {
+            "values": [
+              {
+                "x": 0
+              }
+            ]
+          },
+          "mark": {
+            "type": "rule",
+            "size": 0.5,
+            "opacity": 0.5
+          },
+          "encoding": {
+            "x": {
+              "field": "x",
+              "type": "quantitative"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "title": "",
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.14.1.json",
+  "datasets": {
+    "data-23a684816ef01a99b4296497376e1ffb": [
+      {
+        "VARIABLES": "victim",
+        "level_1": "Hospitalization",
+        "v": "0.00714",
+        "w": "0.00714"
+      },
+      {
+        "VARIABLES": "victim",
+        "level_1": "Cost",
+        "v": "0.0849",
+        "w": "0.0849"
+      },
+      {
+        "VARIABLES": "victim",
+        "level_1": "Neonatal ICU",
+        "v": "0.00426",
+        "w": "0.00426"
+      },
+      {
+        "VARIABLES": "victim",
+        "level_1": "ICU",
+        "v": "0.00415",
+        "w": "0.00415"
+      },
+      {
+        "VARIABLES": "b",
+        "level_1": "Hospitalization",
+        "v": "0.000627",
+        "w": "0.0136"
+      },
+      {
+        "VARIABLES": "b",
+        "level_1": "Cost",
+        "v": "0.0103",
+        "w": "0.159"
+      },
+      {
+        "VARIABLES": "b",
+        "level_1": "Neonatal ICU",
+        "v": "0.00126",
+        "w": "0.00726"
+      },
+      {
+        "VARIABLES": "b",
+        "level_1": "ICU",
+        "v": "0.000925",
+        "w": "0.00737"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "Hospitalization",
+        "v": "833600",
+        "w": "833600"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "Cost",
+        "v": "833600",
+        "w": "833600"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "Neonatal ICU",
+        "v": "833600",
+        "w": "833600"
+      },
+      {
+        "VARIABLES": "Observations",
+        "level_1": "ICU",
+        "v": "833600",
+        "w": "833600"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "Hospitalization",
+        "v": "0.084",
+        "w": "0.084"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "Cost",
+        "v": "0.083",
+        "w": "0.083"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "Neonatal ICU",
+        "v": "0.05",
+        "w": "0.05"
+      },
+      {
+        "VARIABLES": "R-squared",
+        "level_1": "ICU",
+        "v": "0.049",
+        "w": "0.049"
+      }
+    ]
+  }
+}

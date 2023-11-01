@@ -1,0 +1,17 @@
+,VARIABLES,level_1,v,w
+0,victim,bw,-15.92,-15.92
+1,victim,lowb,0.00759,0.00759
+2,victim,vlowb,0.00164,0.00164
+3,victim,elowb,0.00152,0.00152
+4,b,bw,-24.40,-7.451
+5,b,lowb,0.00268,0.0125
+6,b,vlowb,-0.000260,0.00354
+7,b,elowb,0.000259,0.00278
+8,Observations,bw,1373656,1373656
+9,Observations,lowb,1373656,1373656
+10,Observations,vlowb,1373656,1373656
+11,Observations,elowb,1373656,1373656
+12,R-squared,bw,0.049,0.049
+13,R-squared,lowb,0.039,0.039
+14,R-squared,vlowb,0.036,0.036
+15,R-squared,elowb,0.035,0.035

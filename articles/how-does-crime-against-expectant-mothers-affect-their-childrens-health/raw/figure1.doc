@@ -1,0 +1,18 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1872\clbrdrt\brdrs\cellx4464\clbrdrt\brdrs\cellx7200\clbrdrt\brdrs\cellx10368\clbrdrt\brdrs\cellx13392
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx4464\cellx7200\cellx10368\cellx13392
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx4464\clbrdrb\brdrs\cellx7200\clbrdrb\brdrs\cellx10368\clbrdrb\brdrs\cellx13392
+\ql VARIABLES\cell\qc bw\cell\qc lowb\cell\qc vlowb\cell\qc elowb\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx4464\cellx7200\cellx10368\cellx13392
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql victim\cell\qc -15.92***\cell\qc 0.00759***\cell\qc 0.00164*\cell\qc 0.00152**\cell\row
+\ql \cell\qc (-24.40 - -7.451)\cell\qc (0.00268 - 0.0125)\cell\qc (-0.000260 - 0.00354)\cell\qc (0.000259 - 0.00278)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 1,373,656\cell\qc 1,373,656\cell\qc 1,373,656\cell\qc 1,373,656\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx4464\clbrdrb\brdrs\cellx7200\clbrdrb\brdrs\cellx10368\clbrdrb\brdrs\cellx13392
+\ql R-squared\cell\qc 0.049\cell\qc 0.039\cell\qc 0.036\cell\qc 0.035\cell\row
+\pard\qc
+Robust ci in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

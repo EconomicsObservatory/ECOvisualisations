@@ -1,0 +1,18 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1872\clbrdrt\brdrs\cellx4752\clbrdrt\brdrs\cellx7200\clbrdrt\brdrs\cellx10080\clbrdrt\brdrs\cellx13104
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx4752\cellx7200\cellx10080\cellx13104
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx4752\clbrdrb\brdrs\cellx7200\clbrdrb\brdrs\cellx10080\clbrdrb\brdrs\cellx13104
+\ql VARIABLES\cell\qc Hospitalization\cell\qc Cost\cell\qc Neonatal ICU\cell\qc ICU\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx4752\cellx7200\cellx10080\cellx13104
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql victim\cell\qc 0.00714**\cell\qc 0.0849**\cell\qc 0.00426***\cell\qc 0.00415**\cell\row
+\ql \cell\qc (0.000627 - 0.0136)\cell\qc (0.0103 - 0.159)\cell\qc (0.00126 - 0.00726)\cell\qc (0.000925 - 0.00737)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 833,600\cell\qc 833,600\cell\qc 833,600\cell\qc 833,600\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx4752\clbrdrb\brdrs\cellx7200\clbrdrb\brdrs\cellx10080\clbrdrb\brdrs\cellx13104
+\ql R-squared\cell\qc 0.084\cell\qc 0.083\cell\qc 0.050\cell\qc 0.049\cell\row
+\pard\qc
+Robust ci in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

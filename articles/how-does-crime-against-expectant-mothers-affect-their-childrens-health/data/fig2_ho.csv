@@ -1,0 +1,17 @@
+,VARIABLES,level_1,v,w
+0,victim,Hospitalization,0.00714,0.00714
+1,victim,Cost,0.0849,0.0849
+2,victim,Neonatal ICU,0.00426,0.00426
+3,victim,ICU,0.00415,0.00415
+4,b,Hospitalization,0.000627,0.0136
+5,b,Cost,0.0103,0.159
+6,b,Neonatal ICU,0.00126,0.00726
+7,b,ICU,0.000925,0.00737
+8,Observations,Hospitalization,833600,833600
+9,Observations,Cost,833600,833600
+10,Observations,Neonatal ICU,833600,833600
+11,Observations,ICU,833600,833600
+12,R-squared,Hospitalization,0.084,0.084
+13,R-squared,Cost,0.083,0.083
+14,R-squared,Neonatal ICU,0.05,0.05
+15,R-squared,ICU,0.049,0.049

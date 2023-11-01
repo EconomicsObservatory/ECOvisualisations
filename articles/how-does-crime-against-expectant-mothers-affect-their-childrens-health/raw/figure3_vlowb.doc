@@ -1,0 +1,18 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1872\clbrdrt\brdrs\cellx5040\clbrdrt\brdrs\cellx8208\clbrdrt\brdrs\cellx11232\clbrdrt\brdrs\cellx14400\clbrdrt\brdrs\cellx17568\clbrdrt\brdrs\cellx20592
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\qc (5)\cell\qc (6)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx5040\cellx8208\cellx11232\cellx14400\cellx17568\cellx20592
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx5040\clbrdrb\brdrs\cellx8208\clbrdrb\brdrs\cellx11232\clbrdrb\brdrs\cellx14400\clbrdrb\brdrs\cellx17568\clbrdrb\brdrs\cellx20592
+\ql VARIABLES\cell\qc Low_SES\cell\qc High_SES\cell\qc Low_educ\cell\qc High_educ\cell\qc Married\cell\qc NonMarried\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx5040\cellx8208\cellx11232\cellx14400\cellx17568\cellx20592
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql victim\cell\qc 0.00290*\cell\qc 0.00141\cell\qc 0.000803\cell\qc 0.00357*\cell\qc 0.00160\cell\qc 0.00133\cell\row
+\ql \cell\qc (-0.000447 - 0.00625)\cell\qc (-0.000878 - 0.00369)\cell\qc (-0.00141 - 0.00302)\cell\qc (-0.000280 - 0.00742)\cell\qc (-0.000961 - 0.00417)\cell\qc (-0.00153 - 0.00418)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 491,777\cell\qc 872,112\cell\qc 1,081,913\cell\qc 254,132\cell\qc 789,874\cell\qc 559,761\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx5040\clbrdrb\brdrs\cellx8208\clbrdrb\brdrs\cellx11232\clbrdrb\brdrs\cellx14400\clbrdrb\brdrs\cellx17568\clbrdrb\brdrs\cellx20592
+\ql R-squared\cell\qc 0.052\cell\qc 0.044\cell\qc 0.041\cell\qc 0.062\cell\qc 0.047\cell\qc 0.048\cell\row
+\pard\qc
+Robust ci in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
