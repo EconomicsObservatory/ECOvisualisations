@@ -126,6 +126,26 @@
                   }
                 }
               }
+            },
+            {
+              "data": {
+                "values": [
+                  {
+                    "x": 0
+                  }
+                ]
+              },
+              "mark": {
+                "type": "rule",
+                "size": 0.5,
+                "opacity": 0.5
+              },
+              "encoding": {
+                "x": {
+                  "field": "x",
+                  "type": "quantitative"
+                }
+              }
             }
           ]
         },
@@ -241,6 +261,26 @@
                   }
                 }
               }
+            },
+            {
+              "data": {
+                "values": [
+                  {
+                    "x": 0
+                  }
+                ]
+              },
+              "mark": {
+                "type": "rule",
+                "size": 0.5,
+                "opacity": 0.5
+              },
+              "encoding": {
+                "x": {
+                  "field": "x",
+                  "type": "quantitative"
+                }
+              }
             }
           ]
         }
@@ -351,6 +391,26 @@
                   }
                 }
               }
+            },
+            {
+              "data": {
+                "values": [
+                  {
+                    "x": 0
+                  }
+                ]
+              },
+              "mark": {
+                "type": "rule",
+                "size": 0.5,
+                "opacity": 0.5
+              },
+              "encoding": {
+                "x": {
+                  "field": "x",
+                  "type": "quantitative"
+                }
+              }
             }
           ]
         },
@@ -455,6 +515,26 @@
                       "#122B39"
                     ]
                   }
+                }
+              }
+            },
+            {
+              "data": {
+                "values": [
+                  {
+                    "x": 0
+                  }
+                ]
+              },
+              "mark": {
+                "type": "rule",
+                "size": 0.5,
+                "opacity": 0.5
+              },
+              "encoding": {
+                "x": {
+                  "field": "x",
+                  "type": "quantitative"
                 }
               }
             }
