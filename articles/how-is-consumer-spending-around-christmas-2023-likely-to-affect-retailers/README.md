@@ -198,3 +198,15 @@ Versions (no ECO branding) with data loaded from `GitHub`: [`png`](visualisation
 
 !["fig8_gifts_dark"](visualisation/fig8_gifts_dark.svg "fig8_gifts")
 
+  
+
+## Infographics  
+Summary auto-generated using [ChatGPT](https://chat.openai.com/)    
+
+### Light theme  
+
+!["fig8_gifts"](visualisation/collage_light.png " collage_light")  
+
+### Dark theme  
+
+!["fig8_gifts"](visualisation/collage_dark.png " collage_dark")
