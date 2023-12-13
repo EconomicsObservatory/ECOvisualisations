@@ -123,3 +123,90 @@ Versions (no ECO branding) with data loaded from `GitHub`: [`png`](visualisation
 
 !["fig5_quint_dark"](visualisation/fig5_quint_dark.svg "fig5_quint")
 
+## Figure 6  
+
+Data: [`csv`](data/fig6_food.csv)  
+GitHub: [fig6_food](https://github.com/EconomicsObservatory/ECOvisualisations/tree/main/articles/how-is-consumer-spending-around-christmas-2023-likely-to-affect-retailers)  
+
+### Light theme  
+
+Versions with data locally embedded into the `Vega-lite` specification file: [`png`](visualisation/fig6_food_local.png) [`svg`](visualisation/fig6_food_local.svg) [`json`](visualisation/fig6_food_local.json)   
+ (**Default**) Versions with data loaded from `GitHub`: [`png`](visualisation/fig6_food.png) [`svg`](visualisation/fig6_food.svg) [`json`](visualisation/fig6_food.json)  
+Versions (no ECO branding) with data locally embedded into the `Vega-lite` specification file: [`png`](visualisation/fig6_food_local_no_branding.png) [`svg`](visualisation/fig6_food_local_no_branding.svg) [`json`](visualisation/fig6_food_local_no_branding.json)   
+Versions (no ECO branding) with data loaded from `GitHub`: [`png`](visualisation/fig6_food_no_branding.png) [`svg`](visualisation/fig6_food_no_branding.svg) [`json`](visualisation/fig6_food_no_branding.json)   
+
+### Dark theme  
+
+Versions with data locally embedded into the `Vega-lite` specification file: [`png`](visualisation/fig6_food_local_dark.png) [`svg`](visualisation/fig6_food_local_dark.svg) [`json`](visualisation/fig6_food_local_dark.json)   
+ Versions with data loaded from `GitHub`: [`png`](visualisation/fig6_food_dark.png) [`svg`](visualisation/fig6_food_dark.svg) [`json`](visualisation/fig6_food_dark.json)  
+Versions (no ECO branding) with data locally embedded into the `Vega-lite` specification file: [`png`](visualisation/fig6_food_local_no_branding_dark.png) [`svg`](visualisation/fig6_food_local_no_branding_dark.svg) [`json`](visualisation/fig6_food_local_no_branding_dark.json)   
+Versions (no ECO branding) with data loaded from `GitHub`: [`png`](visualisation/fig6_food_no_branding_dark.png) [`svg`](visualisation/fig6_food_no_branding_dark.svg) [`json`](visualisation/fig6_food_no_branding_dark.json)   
+
+!["fig6_food"](visualisation/fig6_food.svg "fig6_food")
+
+  
+
+!["fig6_food_dark"](visualisation/fig6_food_dark.svg "fig6_food")
+
+## Figure 7  
+
+Data: [`csv`](data/fig7_gfk.csv)  
+GitHub: [fig7_gfk](https://github.com/EconomicsObservatory/ECOvisualisations/tree/main/articles/how-is-consumer-spending-around-christmas-2023-likely-to-affect-retailers)  
+
+### Light theme  
+
+Versions with data locally embedded into the `Vega-lite` specification file: [`png`](visualisation/fig7_gfk_local.png) [`svg`](visualisation/fig7_gfk_local.svg) [`json`](visualisation/fig7_gfk_local.json)   
+ (**Default**) Versions with data loaded from `GitHub`: [`png`](visualisation/fig7_gfk.png) [`svg`](visualisation/fig7_gfk.svg) [`json`](visualisation/fig7_gfk.json)  
+Versions (no ECO branding) with data locally embedded into the `Vega-lite` specification file: [`png`](visualisation/fig7_gfk_local_no_branding.png) [`svg`](visualisation/fig7_gfk_local_no_branding.svg) [`json`](visualisation/fig7_gfk_local_no_branding.json)   
+Versions (no ECO branding) with data loaded from `GitHub`: [`png`](visualisation/fig7_gfk_no_branding.png) [`svg`](visualisation/fig7_gfk_no_branding.svg) [`json`](visualisation/fig7_gfk_no_branding.json)   
+
+### Dark theme  
+
+Versions with data locally embedded into the `Vega-lite` specification file: [`png`](visualisation/fig7_gfk_local_dark.png) [`svg`](visualisation/fig7_gfk_local_dark.svg) [`json`](visualisation/fig7_gfk_local_dark.json)   
+ Versions with data loaded from `GitHub`: [`png`](visualisation/fig7_gfk_dark.png) [`svg`](visualisation/fig7_gfk_dark.svg) [`json`](visualisation/fig7_gfk_dark.json)  
+Versions (no ECO branding) with data locally embedded into the `Vega-lite` specification file: [`png`](visualisation/fig7_gfk_local_no_branding_dark.png) [`svg`](visualisation/fig7_gfk_local_no_branding_dark.svg) [`json`](visualisation/fig7_gfk_local_no_branding_dark.json)   
+Versions (no ECO branding) with data loaded from `GitHub`: [`png`](visualisation/fig7_gfk_no_branding_dark.png) [`svg`](visualisation/fig7_gfk_no_branding_dark.svg) [`json`](visualisation/fig7_gfk_no_branding_dark.json)   
+
+!["fig7_gfk"](visualisation/fig7_gfk.svg "fig7_gfk")
+
+  
+
+!["fig7_gfk_dark"](visualisation/fig7_gfk_dark.svg "fig7_gfk")
+
+## Figure 8  
+
+Data: [`csv`](data/fig8_gifts.csv)  
+GitHub: [fig8_gifts](https://github.com/EconomicsObservatory/ECOvisualisations/tree/main/articles/how-is-consumer-spending-around-christmas-2023-likely-to-affect-retailers)  
+
+### Light theme  
+
+Versions with data locally embedded into the `Vega-lite` specification file: [`png`](visualisation/fig8_gifts_local.png) [`svg`](visualisation/fig8_gifts_local.svg) [`json`](visualisation/fig8_gifts_local.json)   
+ (**Default**) Versions with data loaded from `GitHub`: [`png`](visualisation/fig8_gifts.png) [`svg`](visualisation/fig8_gifts.svg) [`json`](visualisation/fig8_gifts.json)  
+Versions (no ECO branding) with data locally embedded into the `Vega-lite` specification file: [`png`](visualisation/fig8_gifts_local_no_branding.png) [`svg`](visualisation/fig8_gifts_local_no_branding.svg) [`json`](visualisation/fig8_gifts_local_no_branding.json)   
+Versions (no ECO branding) with data loaded from `GitHub`: [`png`](visualisation/fig8_gifts_no_branding.png) [`svg`](visualisation/fig8_gifts_no_branding.svg) [`json`](visualisation/fig8_gifts_no_branding.json)   
+
+### Dark theme  
+
+Versions with data locally embedded into the `Vega-lite` specification file: [`png`](visualisation/fig8_gifts_local_dark.png) [`svg`](visualisation/fig8_gifts_local_dark.svg) [`json`](visualisation/fig8_gifts_local_dark.json)   
+ Versions with data loaded from `GitHub`: [`png`](visualisation/fig8_gifts_dark.png) [`svg`](visualisation/fig8_gifts_dark.svg) [`json`](visualisation/fig8_gifts_dark.json)  
+Versions (no ECO branding) with data locally embedded into the `Vega-lite` specification file: [`png`](visualisation/fig8_gifts_local_no_branding_dark.png) [`svg`](visualisation/fig8_gifts_local_no_branding_dark.svg) [`json`](visualisation/fig8_gifts_local_no_branding_dark.json)   
+Versions (no ECO branding) with data loaded from `GitHub`: [`png`](visualisation/fig8_gifts_no_branding_dark.png) [`svg`](visualisation/fig8_gifts_no_branding_dark.svg) [`json`](visualisation/fig8_gifts_no_branding_dark.json)   
+
+!["fig8_gifts"](visualisation/fig8_gifts.svg "fig8_gifts")
+
+  
+
+!["fig8_gifts_dark"](visualisation/fig8_gifts_dark.svg "fig8_gifts")
+
+  
+
+## Infographics  
+Summary auto-generated using [ChatGPT](https://chat.openai.com/)    
+
+### Light theme  
+
+!["fig8_gifts"](visualisation/collage_light.png " collage_light")  
+
+### Dark theme  
+
+!["fig8_gifts"](visualisation/collage_dark.png " collage_dark")
