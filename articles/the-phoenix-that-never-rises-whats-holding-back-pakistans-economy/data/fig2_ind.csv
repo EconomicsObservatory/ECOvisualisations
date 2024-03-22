@@ -1,0 +1,49 @@
+,c1,v,c2,c
+0,Mining,-5.867768595,Pakistan,Mining#Pakistan
+1,Utilities,-4.338842975,Pakistan,Utilities#Pakistan
+2,Transport,-1.280991736,Pakistan,Transport#Pakistan
+3,Real Estate,-0.578512397,Pakistan,Real Estate#Pakistan
+4,Construction,-0.165289256,Pakistan,Construction#Pakistan
+5,Trade,0.082644628,Pakistan,Trade#Pakistan
+6,Agriculture,1.1157024793388448,Pakistan,Agriculture#Pakistan
+7,Finance,1.1983471074380194,Pakistan,Finance#Pakistan
+8,Business,1.1983471074380194,Pakistan,Business#Pakistan
+9,Manufacturing,1.6528925619834736,Pakistan,Manufacturing#Pakistan
+10,Other,2.0661157024793404,Pakistan,Other#Pakistan
+11,Government,3.677685950413224,Pakistan,Government#Pakistan
+12,Real Estate,-6.52892562,Bangladesh,Real Estate#Bangladesh
+13,Business,-1.074380165,Bangladesh,Business#Bangladesh
+14,Transport,-0.702479339,Bangladesh,Transport#Bangladesh
+15,Construction,0.3305785123966966,Bangladesh,Construction#Bangladesh
+16,Utilities,1.1983471074380194,Bangladesh,Utilities#Bangladesh
+17,Other,1.570247933884299,Bangladesh,Other#Bangladesh
+18,Trade,1.818181818181821,Bangladesh,Trade#Bangladesh
+19,Finance,2.3553719008264498,Bangladesh,Finance#Bangladesh
+20,Agriculture,3.5123966942148783,Bangladesh,Agriculture#Bangladesh
+21,Mining,3.5123966942148783,Bangladesh,Mining#Bangladesh
+22,Government,3.553719008264464,Bangladesh,Government#Bangladesh
+23,Manufacturing,6.033057851239672,Bangladesh,Manufacturing#Bangladesh
+24,Real Estate,0.0,India,Real Estate#India
+25,Construction,0.1239669421487619,India,Construction#India
+26,Other,1.9834710743801656,India,Other#India
+27,Agriculture,3.5950413223140494,India,Agriculture#India
+28,Finance,3.842975206611573,India,Finance#India
+29,Mining,4.008264462809921,India,Mining#India
+30,Transport,3.966942148760333,India,Transport#India
+31,Government,4.586776859504134,India,Government#India
+32,Trade,5.123966942148762,India,Trade#India
+33,Manufacturing,5.6198347107438025,India,Manufacturing#India
+34,Utilities,5.9917355371900864,India,Utilities#India
+35,Business,5.9917355371900864,India,Business#India
+36,Real Estate,1.6528925619834736,China,Real Estate#China
+37,Construction,2.5206611570247937,China,Construction#China
+38,Transport,3.7603305785124,China,Transport#China
+39,Trade,4.917355371900829,China,Trade#China
+40,Agriculture,5.661157024793388,China,Agriculture#China
+41,Utilities,7.768595041322314,China,Utilities#China
+42,Government,7.892561983471076,China,Government#China
+43,Business,7.892561983471076,China,Business#China
+44,Manufacturing,8.719008264462808,China,Manufacturing#China
+45,Finance,9.297520661157026,China,Finance#China
+46,Mining,10.41322314049587,China,Mining#China
+47,Other,12.644628099173556,China,Other#China
