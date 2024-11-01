@@ -1,864 +1,864 @@
 ,year,value,country,kind
-0,1998,,Belgium,creation
-1,1998,,Croatia,creation
-2,1998,,Czech Republic,creation
-3,1998,,Germany,creation
-4,1998,,Hungary,creation
-5,1998,,Italy,creation
-6,1998,,Latvia,creation
-7,1998,,Lithuania,creation
-8,1998,,Malta,creation
-9,1998,,Netherlands,creation
-10,1998,,Poland,creation
-11,1998,,Portugal,creation
-12,1998,,Romania,creation
-13,1998,,Slovakia,creation
-14,1998,,Slovenia,creation
-15,1998,,Spain,creation
-16,1998,,Switzerland,creation
-17,1998,153.4868,United Kingdom,creation
-18,1998,,Belgium,destruction
-19,1998,,Croatia,destruction
-20,1998,,Czech Republic,destruction
-21,1998,,Germany,destruction
-22,1998,,Hungary,destruction
-23,1998,,Italy,destruction
-24,1998,,Latvia,destruction
-25,1998,,Lithuania,destruction
-26,1998,,Malta,destruction
-27,1998,,Netherlands,destruction
-28,1998,,Poland,destruction
-29,1998,,Portugal,destruction
-30,1998,,Romania,destruction
-31,1998,,Slovakia,destruction
-32,1998,,Slovenia,destruction
-33,1998,,Spain,destruction
-34,1998,,Switzerland,destruction
-35,1998,240.2209,United Kingdom,destruction
-36,1999,,Belgium,creation
-37,1999,,Croatia,creation
-38,1999,,Czech Republic,creation
-39,1999,,Germany,creation
-40,1999,,Hungary,creation
-41,1999,,Italy,creation
-42,1999,,Latvia,creation
-43,1999,,Lithuania,creation
-44,1999,,Malta,creation
-45,1999,,Netherlands,creation
-46,1999,,Poland,creation
-47,1999,,Portugal,creation
-48,1999,,Romania,creation
-49,1999,,Slovakia,creation
-50,1999,,Slovenia,creation
-51,1999,,Spain,creation
-52,1999,,Switzerland,creation
-53,1999,167.1495,United Kingdom,creation
-54,1999,,Belgium,destruction
-55,1999,,Croatia,destruction
-56,1999,,Czech Republic,destruction
-57,1999,,Germany,destruction
-58,1999,,Hungary,destruction
-59,1999,,Italy,destruction
-60,1999,,Latvia,destruction
-61,1999,,Lithuania,destruction
-62,1999,,Malta,destruction
-63,1999,,Netherlands,destruction
-64,1999,,Poland,destruction
-65,1999,,Portugal,destruction
-66,1999,,Romania,destruction
-67,1999,,Slovakia,destruction
-68,1999,,Slovenia,destruction
-69,1999,,Spain,destruction
-70,1999,,Switzerland,destruction
-71,1999,187.4644,United Kingdom,destruction
-72,2000,,Belgium,creation
-73,2000,,Croatia,creation
-74,2000,,Czech Republic,creation
-75,2000,,Germany,creation
-76,2000,,Hungary,creation
-77,2000,,Italy,creation
-78,2000,,Latvia,creation
-79,2000,,Lithuania,creation
-80,2000,,Malta,creation
-81,2000,,Netherlands,creation
-82,2000,,Poland,creation
-83,2000,,Portugal,creation
-84,2000,,Romania,creation
-85,2000,,Slovakia,creation
-86,2000,,Slovenia,creation
-87,2000,,Spain,creation
-88,2000,,Switzerland,creation
-89,2000,269.6557,United Kingdom,creation
-90,2000,,Belgium,destruction
-91,2000,,Croatia,destruction
-92,2000,,Czech Republic,destruction
-93,2000,,Germany,destruction
-94,2000,,Hungary,destruction
-95,2000,,Italy,destruction
-96,2000,,Latvia,destruction
-97,2000,,Lithuania,destruction
-98,2000,,Malta,destruction
-99,2000,,Netherlands,destruction
-100,2000,,Poland,destruction
-101,2000,,Portugal,destruction
-102,2000,,Romania,destruction
-103,2000,,Slovakia,destruction
-104,2000,,Slovenia,destruction
-105,2000,,Spain,destruction
-106,2000,,Switzerland,destruction
-107,2000,249.6655,United Kingdom,destruction
-108,2001,83.29182,Belgium,creation
-109,2001,,Croatia,creation
-110,2001,,Czech Republic,creation
-111,2001,,Germany,creation
-112,2001,,Hungary,creation
-113,2001,,Italy,creation
-114,2001,,Latvia,creation
-115,2001,190.048,Lithuania,creation
-116,2001,,Malta,creation
-117,2001,,Netherlands,creation
-118,2001,,Poland,creation
-119,2001,,Portugal,creation
-120,2001,,Romania,creation
-121,2001,155.7843,Slovakia,creation
-122,2001,,Slovenia,creation
-123,2001,,Spain,creation
-124,2001,,Switzerland,creation
-125,2001,166.1669,United Kingdom,creation
-126,2001,109.9545,Belgium,destruction
-127,2001,,Croatia,destruction
-128,2001,,Czech Republic,destruction
-129,2001,,Germany,destruction
-130,2001,,Hungary,destruction
-131,2001,,Italy,destruction
-132,2001,,Latvia,destruction
-133,2001,106.6738,Lithuania,destruction
-134,2001,,Malta,destruction
-135,2001,,Netherlands,destruction
-136,2001,,Poland,destruction
-137,2001,,Portugal,destruction
-138,2001,,Romania,destruction
-139,2001,75.98595,Slovakia,destruction
-140,2001,,Slovenia,destruction
-141,2001,,Spain,destruction
-142,2001,,Switzerland,destruction
-143,2001,160.1764,United Kingdom,destruction
-144,2002,165.1036,Belgium,creation
-145,2002,,Croatia,creation
-146,2002,,Czech Republic,creation
-147,2002,139.5634,Germany,creation
-148,2002,,Hungary,creation
-149,2002,,Italy,creation
-150,2002,,Latvia,creation
-151,2002,150.0854,Lithuania,creation
-152,2002,,Malta,creation
-153,2002,,Netherlands,creation
-154,2002,,Poland,creation
-155,2002,,Portugal,creation
-156,2002,,Romania,creation
-157,2002,225.0188,Slovakia,creation
-158,2002,,Slovenia,creation
-159,2002,,Spain,creation
-160,2002,,Switzerland,creation
-161,2002,252.4087,United Kingdom,creation
-162,2002,72.48106,Belgium,destruction
-163,2002,,Croatia,destruction
-164,2002,,Czech Republic,destruction
-165,2002,56.40313,Germany,destruction
-166,2002,,Hungary,destruction
-167,2002,,Italy,destruction
-168,2002,,Latvia,destruction
-169,2002,150.3195,Lithuania,destruction
-170,2002,,Malta,destruction
-171,2002,,Netherlands,destruction
-172,2002,,Poland,destruction
-173,2002,,Portugal,destruction
-174,2002,,Romania,destruction
-175,2002,78.24751,Slovakia,destruction
-176,2002,,Slovenia,destruction
-177,2002,,Spain,destruction
-178,2002,,Switzerland,destruction
-179,2002,144.2505,United Kingdom,destruction
-180,2003,147.5941,Belgium,creation
-181,2003,98.38583,Croatia,creation
-182,2003,,Czech Republic,creation
-183,2003,408.1968,Germany,creation
-184,2003,,Hungary,creation
-185,2003,,Italy,creation
-186,2003,,Latvia,creation
-187,2003,118.3991,Lithuania,creation
-188,2003,,Malta,creation
-189,2003,,Netherlands,creation
-190,2003,119.2928,Poland,creation
-191,2003,,Portugal,creation
-192,2003,,Romania,creation
-193,2003,137.6899,Slovakia,creation
-194,2003,105.4307,Slovenia,creation
-195,2003,,Spain,creation
-196,2003,,Switzerland,creation
-197,2003,191.7617,United Kingdom,creation
-198,2003,71.41135,Belgium,destruction
-199,2003,132.8347,Croatia,destruction
-200,2003,,Czech Republic,destruction
-201,2003,56.09869,Germany,destruction
-202,2003,,Hungary,destruction
-203,2003,,Italy,destruction
-204,2003,,Latvia,destruction
-205,2003,157.1333,Lithuania,destruction
-206,2003,,Malta,destruction
-207,2003,,Netherlands,destruction
-208,2003,103.2842,Poland,destruction
-209,2003,,Portugal,destruction
-210,2003,,Romania,destruction
-211,2003,69.64293,Slovakia,destruction
-212,2003,63.66752,Slovenia,destruction
-213,2003,,Spain,destruction
-214,2003,,Switzerland,destruction
-215,2003,120.5477,United Kingdom,destruction
-216,2004,120.1229,Belgium,creation
-217,2004,86.16207,Croatia,creation
-218,2004,,Czech Republic,creation
-219,2004,152.2629,Germany,creation
-220,2004,132.2546,Hungary,creation
-221,2004,,Italy,creation
-222,2004,,Latvia,creation
-223,2004,144.1708,Lithuania,creation
-224,2004,,Malta,creation
-225,2004,,Netherlands,creation
-226,2004,103.9999,Poland,creation
-227,2004,,Portugal,creation
-228,2004,,Romania,creation
-229,2004,151.3859,Slovakia,creation
-230,2004,84.64706,Slovenia,creation
-231,2004,,Spain,creation
-232,2004,,Switzerland,creation
-233,2004,160.5175,United Kingdom,creation
-234,2004,76.04073,Belgium,destruction
-235,2004,125.4229,Croatia,destruction
-236,2004,,Czech Republic,destruction
-237,2004,80.14414,Germany,destruction
-238,2004,93.4511,Hungary,destruction
-239,2004,,Italy,destruction
-240,2004,,Latvia,destruction
-241,2004,131.1338,Lithuania,destruction
-242,2004,,Malta,destruction
-243,2004,,Netherlands,destruction
-244,2004,122.337,Poland,destruction
-245,2004,,Portugal,destruction
-246,2004,,Romania,destruction
-247,2004,79.7923,Slovakia,destruction
-248,2004,103.0826,Slovenia,destruction
-249,2004,,Spain,destruction
-250,2004,,Switzerland,destruction
-251,2004,124.6777,United Kingdom,destruction
-252,2005,111.5592,Belgium,creation
-253,2005,83.0163,Croatia,creation
-254,2005,,Czech Republic,creation
-255,2005,154.5492,Germany,creation
-256,2005,142.9818,Hungary,creation
-257,2005,,Italy,creation
-258,2005,,Latvia,creation
-259,2005,143.8232,Lithuania,creation
-260,2005,,Malta,creation
-261,2005,,Netherlands,creation
-262,2005,88.51353,Poland,creation
-263,2005,60.00615,Portugal,creation
-264,2005,,Romania,creation
-265,2005,127.7299,Slovakia,creation
-266,2005,80.84386,Slovenia,creation
-267,2005,,Spain,creation
-268,2005,,Switzerland,creation
-269,2005,152.4328,United Kingdom,creation
-270,2005,84.5915,Belgium,destruction
-271,2005,115.7549,Croatia,destruction
-272,2005,,Czech Republic,destruction
-273,2005,79.54293,Germany,destruction
-274,2005,95.34241,Hungary,destruction
-275,2005,,Italy,destruction
-276,2005,,Latvia,destruction
-277,2005,112.0921,Lithuania,destruction
-278,2005,,Malta,destruction
-279,2005,,Netherlands,destruction
-280,2005,122.5882,Poland,destruction
-281,2005,83.83519,Portugal,destruction
-282,2005,,Romania,destruction
-283,2005,77.2752,Slovakia,destruction
-284,2005,96.57948,Slovenia,destruction
-285,2005,,Spain,destruction
-286,2005,,Switzerland,destruction
-287,2005,133.3336,United Kingdom,destruction
-288,2006,105.7981,Belgium,creation
-289,2006,64.4459,Croatia,creation
-290,2006,95.03896,Czech Republic,creation
-291,2006,119.9653,Germany,creation
-292,2006,126.0884,Hungary,creation
-293,2006,,Italy,creation
-294,2006,,Latvia,creation
-295,2006,136.7283,Lithuania,creation
-296,2006,,Malta,creation
-297,2006,,Netherlands,creation
-298,2006,70.62592,Poland,creation
-299,2006,103.0697,Portugal,creation
-300,2006,156.3924,Romania,creation
-301,2006,91.56709,Slovakia,creation
-302,2006,98.54941,Slovenia,creation
-303,2006,,Spain,creation
-304,2006,,Switzerland,creation
-305,2006,160.8804,United Kingdom,creation
-306,2006,97.78417,Belgium,destruction
-307,2006,140.0027,Croatia,destruction
-308,2006,103.2423,Czech Republic,destruction
-309,2006,93.45069,Germany,destruction
-310,2006,111.5086,Hungary,destruction
-311,2006,,Italy,destruction
-312,2006,,Latvia,destruction
-313,2006,119.3492,Lithuania,destruction
-314,2006,,Malta,destruction
-315,2006,,Netherlands,destruction
-316,2006,152.5079,Poland,destruction
-317,2006,167.7786,Portugal,destruction
-318,2006,90.82314,Romania,destruction
-319,2006,90.06963,Slovakia,destruction
-320,2006,127.6074,Slovenia,destruction
-321,2006,,Spain,destruction
-322,2006,,Switzerland,destruction
-323,2006,124.889,United Kingdom,destruction
-324,2007,103.7698,Belgium,creation
-325,2007,59.05064,Croatia,creation
-326,2007,90.57666,Czech Republic,creation
-327,2007,104.7094,Germany,creation
-328,2007,128.8011,Hungary,creation
-329,2007,163.3013,Italy,creation
-330,2007,,Latvia,creation
-331,2007,137.6386,Lithuania,creation
-332,2007,,Malta,creation
-333,2007,,Netherlands,creation
-334,2007,67.14157,Poland,creation
-335,2007,81.5931,Portugal,creation
-336,2007,140.1897,Romania,creation
-337,2007,90.25753,Slovakia,creation
-338,2007,74.06882,Slovenia,creation
-339,2007,,Spain,creation
-340,2007,,Switzerland,creation
-341,2007,128.3268,United Kingdom,creation
-342,2007,98.70531,Belgium,destruction
-343,2007,154.041,Croatia,destruction
-344,2007,107.8708,Czech Republic,destruction
-345,2007,99.12491,Germany,destruction
-346,2007,110.5159,Hungary,destruction
-347,2007,118.7835,Italy,destruction
-348,2007,,Latvia,destruction
-349,2007,109.7299,Lithuania,destruction
-350,2007,,Malta,destruction
-351,2007,,Netherlands,destruction
-352,2007,153.312,Poland,destruction
-353,2007,157.9482,Portugal,destruction
-354,2007,101.3961,Romania,destruction
-355,2007,106.1306,Slovakia,destruction
-356,2007,100.8583,Slovenia,destruction
-357,2007,,Spain,destruction
-358,2007,,Switzerland,destruction
-359,2007,133.7746,United Kingdom,destruction
-360,2008,111.4356,Belgium,creation
-361,2008,71.55101,Croatia,creation
-362,2008,125.5924,Czech Republic,creation
-363,2008,131.8869,Germany,creation
-364,2008,149.0147,Hungary,creation
-365,2008,91.20441,Italy,creation
-366,2008,186.9102,Latvia,creation
-367,2008,186.8304,Lithuania,creation
-368,2008,,Malta,creation
-369,2008,111.7189,Netherlands,creation
-370,2008,105.2789,Poland,creation
-371,2008,84.42881,Portugal,creation
-372,2008,141.5237,Romania,creation
-373,2008,93.43531,Slovakia,creation
-374,2008,83.13927,Slovenia,creation
-375,2008,,Spain,creation
-376,2008,,Switzerland,creation
-377,2008,124.9868,United Kingdom,creation
-378,2008,86.70994,Belgium,destruction
-379,2008,134.07,Croatia,destruction
-380,2008,91.59636,Czech Republic,destruction
-381,2008,85.96924,Germany,destruction
-382,2008,104.0472,Hungary,destruction
-383,2008,110.3392,Italy,destruction
-384,2008,77.43906,Latvia,destruction
-385,2008,79.10476,Lithuania,destruction
-386,2008,,Malta,destruction
-387,2008,141.7363,Netherlands,destruction
-388,2008,121.0587,Poland,destruction
-389,2008,167.5922,Portugal,destruction
-390,2008,87.72157,Romania,destruction
-391,2008,90.39552,Slovakia,destruction
-392,2008,87.75087,Slovenia,destruction
-393,2008,,Spain,destruction
-394,2008,,Switzerland,destruction
-395,2008,121.2278,United Kingdom,destruction
-396,2009,206.6262,Belgium,creation
-397,2009,133.0495,Croatia,creation
-398,2009,238.1123,Czech Republic,creation
-399,2009,190.798,Germany,creation
-400,2009,207.0919,Hungary,creation
-401,2009,152.2361,Italy,creation
-402,2009,356.8982,Latvia,creation
-403,2009,385.9839,Lithuania,creation
-404,2009,,Malta,creation
-405,2009,181.4756,Netherlands,creation
-406,2009,135.1131,Poland,creation
-407,2009,111.3635,Portugal,creation
-408,2009,244.7208,Romania,creation
-409,2009,220.7025,Slovakia,creation
-410,2009,173.0696,Slovenia,creation
-411,2009,171.0477,Spain,creation
-412,2009,,Switzerland,creation
-413,2009,173.6086,United Kingdom,creation
-414,2009,56.99038,Belgium,destruction
-415,2009,71.5303,Croatia,destruction
-416,2009,57.38903,Czech Republic,destruction
-417,2009,68.65943,Germany,destruction
-418,2009,53.76946,Hungary,destruction
-419,2009,80.40014,Italy,destruction
-420,2009,24.8115,Latvia,destruction
-421,2009,37.66011,Lithuania,destruction
-422,2009,,Malta,destruction
-423,2009,93.31199,Netherlands,destruction
-424,2009,75.63647,Poland,destruction
-425,2009,112.4167,Portugal,destruction
-426,2009,42.89532,Romania,destruction
-427,2009,50.2653,Slovakia,destruction
-428,2009,45.56646,Slovenia,destruction
-429,2009,53.84429,Spain,destruction
-430,2009,,Switzerland,destruction
-431,2009,100.7881,United Kingdom,destruction
-432,2010,121.2633,Belgium,creation
-433,2010,132.6921,Croatia,creation
-434,2010,128.9944,Czech Republic,creation
-435,2010,127.495,Germany,creation
-436,2010,127.454,Hungary,creation
-437,2010,150.4475,Italy,creation
-438,2010,190.1294,Latvia,creation
-439,2010,209.7026,Lithuania,creation
-440,2010,,Malta,creation
-441,2010,153.3463,Netherlands,creation
-442,2010,83.51929,Poland,creation
-443,2010,92.46149,Portugal,creation
-444,2010,173.7491,Romania,creation
-445,2010,122.9135,Slovakia,creation
-446,2010,120.2032,Slovenia,creation
-447,2010,106.1134,Spain,creation
-448,2010,139.9596,Switzerland,creation
-449,2010,164.8145,United Kingdom,creation
-450,2010,79.94159,Belgium,destruction
-451,2010,79.6053,Croatia,destruction
-452,2010,82.77228,Czech Republic,destruction
-453,2010,98.13952,Germany,destruction
-454,2010,88.8656,Hungary,destruction
-455,2010,89.35237,Italy,destruction
-456,2010,64.10793,Latvia,destruction
-457,2010,59.6956,Lithuania,destruction
-458,2010,,Malta,destruction
-459,2010,88.42707,Netherlands,destruction
-460,2010,105.8101,Poland,destruction
-461,2010,129.4319,Portugal,destruction
-462,2010,67.19315,Romania,destruction
-463,2010,85.91089,Slovakia,destruction
-464,2010,65.33866,Slovenia,destruction
-465,2010,88.59966,Spain,destruction
-466,2010,92.15437,Switzerland,destruction
-467,2010,97.82392,United Kingdom,destruction
-468,2011,100.0,Belgium,creation
-469,2011,100.0,Croatia,creation
-470,2011,100.0,Czech Republic,creation
-471,2011,100.0,Germany,creation
-472,2011,100.0,Hungary,creation
-473,2011,100.0,Italy,creation
-474,2011,100.0,Latvia,creation
-475,2011,100.0,Lithuania,creation
-476,2011,100.0,Malta,creation
-477,2011,100.0,Netherlands,creation
-478,2011,100.0,Poland,creation
-479,2011,100.0,Portugal,creation
-480,2011,100.0,Romania,creation
-481,2011,100.0,Slovakia,creation
-482,2011,100.0,Slovenia,creation
-483,2011,100.0,Spain,creation
-484,2011,100.0,Switzerland,creation
-485,2011,100.0,United Kingdom,creation
-486,2011,100.0,Belgium,destruction
-487,2011,100.0,Croatia,destruction
-488,2011,100.0,Czech Republic,destruction
-489,2011,100.0,Germany,destruction
-490,2011,100.0,Hungary,destruction
-491,2011,100.0,Italy,destruction
-492,2011,100.0,Latvia,destruction
-493,2011,100.0,Lithuania,destruction
-494,2011,100.0,Malta,destruction
-495,2011,100.0,Netherlands,destruction
-496,2011,100.0,Poland,destruction
-497,2011,100.0,Portugal,destruction
-498,2011,100.0,Romania,destruction
-499,2011,100.0,Slovakia,destruction
-500,2011,100.0,Slovenia,destruction
-501,2011,100.0,Spain,destruction
-502,2011,100.0,Switzerland,destruction
-503,2011,100.0,United Kingdom,destruction
-504,2012,127.9664,Belgium,creation
-505,2012,112.8998,Croatia,creation
-506,2012,108.7311,Czech Republic,creation
-507,2012,107.1262,Germany,creation
-508,2012,124.4199,Hungary,creation
-509,2012,95.02731,Italy,creation
-510,2012,87.86326,Latvia,creation
-511,2012,105.4184,Lithuania,creation
-512,2012,85.92812,Malta,creation
-513,2012,103.3208,Netherlands,creation
-514,2012,106.9654,Poland,creation
-515,2012,131.2304,Portugal,creation
-516,2012,108.0725,Romania,creation
-517,2012,98.88348,Slovakia,creation
-518,2012,94.13531,Slovenia,creation
-519,2012,116.1699,Spain,creation
-520,2012,113.7806,Switzerland,creation
-521,2012,111.1652,United Kingdom,creation
-522,2012,71.21366,Belgium,destruction
-523,2012,106.5732,Croatia,destruction
-524,2012,76.39828,Czech Republic,destruction
-525,2012,83.17487,Germany,destruction
-526,2012,75.66786,Hungary,destruction
-527,2012,92.85867,Italy,destruction
-528,2012,94.50889,Latvia,destruction
-529,2012,90.57866,Lithuania,destruction
-530,2012,84.54468,Malta,destruction
-531,2012,93.42451,Netherlands,destruction
-532,2012,82.32701,Poland,destruction
-533,2012,82.23286,Portugal,destruction
-534,2012,75.61682,Romania,destruction
-535,2012,84.31579,Slovakia,destruction
-536,2012,80.91383,Slovenia,destruction
-537,2012,77.7826,Spain,destruction
-538,2012,88.61222,Switzerland,destruction
-539,2012,119.6588,United Kingdom,destruction
-540,2013,141.4889,Belgium,creation
-541,2013,108.9884,Croatia,creation
-542,2013,114.4799,Czech Republic,creation
-543,2013,109.7576,Germany,creation
-544,2013,110.4655,Hungary,creation
-545,2013,109.2058,Italy,creation
-546,2013,93.83912,Latvia,creation
-547,2013,95.7083,Lithuania,creation
-548,2013,70.15897,Malta,creation
-549,2013,137.6498,Netherlands,creation
-550,2013,87.42358,Poland,creation
-551,2013,105.4112,Portugal,creation
-552,2013,114.2184,Romania,creation
-553,2013,110.2971,Slovakia,creation
-554,2013,97.56469,Slovenia,creation
-555,2013,106.2365,Spain,creation
-556,2013,109.0172,Switzerland,creation
-557,2013,118.7864,United Kingdom,creation
-558,2013,68.41269,Belgium,destruction
-559,2013,126.7824,Croatia,destruction
-560,2013,78.13949,Czech Republic,destruction
-561,2013,78.20822,Germany,destruction
-562,2013,72.7729,Hungary,destruction
-563,2013,85.00407,Italy,destruction
-564,2013,78.90062,Latvia,destruction
-565,2013,84.73335,Lithuania,destruction
-566,2013,95.04012,Malta,destruction
-567,2013,84.59724,Netherlands,destruction
-568,2013,103.7219,Poland,destruction
-569,2013,108.1859,Portugal,destruction
-570,2013,73.53156,Romania,destruction
-571,2013,72.72185,Slovakia,destruction
-572,2013,60.26106,Slovenia,destruction
-573,2013,83.53213,Spain,destruction
-574,2013,96.60526,Switzerland,destruction
-575,2013,114.7315,United Kingdom,destruction
-576,2014,123.1388,Belgium,creation
-577,2014,122.6974,Croatia,creation
-578,2014,82.58636,Czech Republic,creation
-579,2014,109.0203,Germany,creation
-580,2014,89.89478,Hungary,creation
-581,2014,103.4725,Italy,creation
-582,2014,96.00191,Latvia,creation
-583,2014,92.5207,Lithuania,creation
-584,2014,63.81353,Malta,creation
-585,2014,111.1877,Netherlands,creation
-586,2014,73.075,Poland,creation
-587,2014,72.28692,Portugal,creation
-588,2014,108.2361,Romania,creation
-589,2014,77.43613,Slovakia,creation
-590,2014,61.9123,Slovenia,creation
-591,2014,92.73211,Spain,creation
-592,2014,137.419,Switzerland,creation
-593,2014,90.83952,United Kingdom,creation
-594,2014,83.32635,Belgium,destruction
-595,2014,129.1414,Croatia,destruction
-596,2014,84.82129,Czech Republic,destruction
-597,2014,82.71318,Germany,destruction
-598,2014,104.4168,Hungary,destruction
-599,2014,98.77893,Italy,destruction
-600,2014,81.26984,Latvia,destruction
-601,2014,89.5537,Lithuania,destruction
-602,2014,119.7914,Malta,destruction
-603,2014,105.3274,Netherlands,destruction
-604,2014,115.9582,Poland,destruction
-605,2014,149.9187,Portugal,destruction
-606,2014,81.39353,Romania,destruction
-607,2014,88.81208,Slovakia,destruction
-608,2014,80.01201,Slovenia,destruction
-609,2014,102.8059,Spain,destruction
-610,2014,87.42704,Switzerland,destruction
-611,2014,104.3649,United Kingdom,destruction
-612,2015,105.9027,Belgium,creation
-613,2015,73.39417,Croatia,creation
-614,2015,78.75599,Czech Republic,creation
-615,2015,114.6924,Germany,creation
-616,2015,83.22565,Hungary,creation
-617,2015,83.68153,Italy,creation
-618,2015,110.6421,Latvia,creation
-619,2015,102.88,Lithuania,creation
-620,2015,70.9445,Malta,creation
-621,2015,84.13204,Netherlands,creation
-622,2015,70.5703,Poland,creation
-623,2015,61.59535,Portugal,creation
-624,2015,96.09879,Romania,creation
-625,2015,64.38232,Slovakia,creation
-626,2015,59.56815,Slovenia,creation
-627,2015,52.20938,Spain,creation
-628,2015,123.9878,Switzerland,creation
-629,2015,87.4026,United Kingdom,creation
-630,2015,85.43295,Belgium,destruction
-631,2015,124.1507,Croatia,destruction
-632,2015,91.92484,Czech Republic,destruction
-633,2015,82.87281,Germany,destruction
-634,2015,80.74916,Hungary,destruction
-635,2015,102.3609,Italy,destruction
-636,2015,74.85842,Latvia,destruction
-637,2015,79.35901,Lithuania,destruction
-638,2015,134.9021,Malta,destruction
-639,2015,131.7246,Netherlands,destruction
-640,2015,111.6894,Poland,destruction
-641,2015,149.5675,Portugal,destruction
-642,2015,90.23978,Romania,destruction
-643,2015,96.78902,Slovakia,destruction
-644,2015,88.96739,Slovenia,destruction
-645,2015,127.7391,Spain,destruction
-646,2015,85.42413,Switzerland,destruction
-647,2015,120.1917,United Kingdom,destruction
-648,2016,100.9169,Belgium,creation
-649,2016,64.26189,Croatia,creation
-650,2016,80.45763,Czech Republic,creation
-651,2016,111.9817,Germany,creation
-652,2016,89.91605,Hungary,creation
-653,2016,74.56528,Italy,creation
-654,2016,113.664,Latvia,creation
-655,2016,104.8386,Lithuania,creation
-656,2016,94.04048,Malta,creation
-657,2016,79.87478,Netherlands,creation
-658,2016,62.85767,Poland,creation
-659,2016,65.31464,Portugal,creation
-660,2016,97.32671,Romania,creation
-661,2016,72.60244,Slovakia,creation
-662,2016,48.43689,Slovenia,creation
-663,2016,54.69019,Spain,creation
-664,2016,126.3364,Switzerland,creation
-665,2016,124.9932,United Kingdom,creation
-666,2016,86.01205,Belgium,destruction
-667,2016,122.6693,Croatia,destruction
-668,2016,89.40221,Czech Republic,destruction
-669,2016,76.90591,Germany,destruction
-670,2016,85.21727,Hungary,destruction
-671,2016,112.7114,Italy,destruction
-672,2016,79.0177,Latvia,destruction
-673,2016,79.88721,Lithuania,destruction
-674,2016,110.387,Malta,destruction
-675,2016,138.6732,Netherlands,destruction
-676,2016,116.0063,Poland,destruction
-677,2016,157.1377,Portugal,destruction
-678,2016,85.14325,Romania,destruction
-679,2016,98.0126,Slovakia,destruction
-680,2016,97.5843,Slovenia,destruction
-681,2016,137.8074,Spain,destruction
-682,2016,82.34229,Switzerland,destruction
-683,2016,111.772,United Kingdom,destruction
-684,2017,71.9586,Belgium,creation
-685,2017,65.50458,Croatia,creation
-686,2017,78.57591,Czech Republic,creation
-687,2017,108.6326,Germany,creation
-688,2017,81.07382,Hungary,creation
-689,2017,68.54225,Italy,creation
-690,2017,90.23287,Latvia,creation
-691,2017,113.2234,Lithuania,creation
-692,2017,63.09955,Malta,creation
-693,2017,84.80483,Netherlands,creation
-694,2017,64.09621,Poland,creation
-695,2017,54.8807,Portugal,creation
-696,2017,97.01659,Romania,creation
-697,2017,70.27628,Slovakia,creation
-698,2017,48.16991,Slovenia,creation
-699,2017,49.90722,Spain,creation
-700,2017,120.094,Switzerland,creation
-701,2017,81.74561,United Kingdom,creation
-702,2017,96.66004,Belgium,destruction
-703,2017,124.5712,Croatia,destruction
-704,2017,86.3581,Czech Republic,destruction
-705,2017,92.08055,Germany,destruction
-706,2017,88.6006,Hungary,destruction
-707,2017,120.9927,Italy,destruction
-708,2017,82.01683,Latvia,destruction
-709,2017,91.337,Lithuania,destruction
-710,2017,141.3058,Malta,destruction
-711,2017,148.3239,Netherlands,destruction
-712,2017,117.4701,Poland,destruction
-713,2017,166.5159,Portugal,destruction
-714,2017,76.17554,Romania,destruction
-715,2017,100.9948,Slovakia,destruction
-716,2017,116.3103,Slovenia,destruction
-717,2017,141.019,Spain,destruction
-718,2017,110.5351,Switzerland,destruction
-719,2017,87.99346,United Kingdom,destruction
-720,2018,93.52401,Belgium,creation
-721,2018,83.68575,Croatia,creation
-722,2018,98.47031,Czech Republic,creation
-723,2018,114.708,Germany,creation
-724,2018,85.0116,Hungary,creation
-725,2018,62.14566,Italy,creation
-726,2018,79.34331,Latvia,creation
-727,2018,115.9874,Lithuania,creation
-728,2018,83.00235,Malta,creation
-729,2018,74.81191,Netherlands,creation
-730,2018,77.27322,Poland,creation
-731,2018,63.23558,Portugal,creation
-732,2018,103.6029,Romania,creation
-733,2018,73.17059,Slovakia,creation
-734,2018,46.44604,Slovenia,creation
-735,2018,65.93662,Spain,creation
-736,2018,132.4458,Switzerland,creation
-737,2018,106.517,United Kingdom,creation
-738,2018,81.37056,Belgium,destruction
-739,2018,133.5997,Croatia,destruction
-740,2018,75.59306,Czech Republic,destruction
-741,2018,94.19572,Germany,destruction
-742,2018,81.66392,Hungary,destruction
-743,2018,112.3859,Italy,destruction
-744,2018,84.75565,Latvia,destruction
-745,2018,83.17356,Lithuania,destruction
-746,2018,129.5183,Malta,destruction
-747,2018,206.462,Netherlands,destruction
-748,2018,104.4646,Poland,destruction
-749,2018,164.9375,Portugal,destruction
-750,2018,67.04818,Romania,destruction
-751,2018,88.47914,Slovakia,destruction
-752,2018,109.6465,Slovenia,destruction
-753,2018,117.9725,Spain,destruction
-754,2018,101.4269,Switzerland,destruction
-755,2018,113.0894,United Kingdom,destruction
-756,2019,123.1771,Belgium,creation
-757,2019,64.34559,Croatia,creation
-758,2019,113.4787,Czech Republic,creation
-759,2019,,Germany,creation
-760,2019,99.22762,Hungary,creation
-761,2019,82.67031,Italy,creation
-762,2019,81.99165,Latvia,creation
-763,2019,118.0125,Lithuania,creation
-764,2019,80.62344,Malta,creation
-765,2019,189.5511,Netherlands,creation
-766,2019,74.62727,Poland,creation
-767,2019,66.06314,Portugal,creation
-768,2019,107.9165,Romania,creation
-769,2019,102.0928,Slovakia,creation
-770,2019,54.19723,Slovenia,creation
-771,2019,56.79844,Spain,creation
-772,2019,116.8164,Switzerland,creation
-773,2019,108.2146,United Kingdom,creation
-774,2019,85.90058,Belgium,destruction
-775,2019,124.1646,Croatia,destruction
-776,2019,64.9721,Czech Republic,destruction
-777,2019,,Germany,destruction
-778,2019,78.70929,Hungary,destruction
-779,2019,100.7498,Italy,destruction
-780,2019,74.87804,Latvia,destruction
-781,2019,90.9883,Lithuania,destruction
-782,2019,132.6682,Malta,destruction
-783,2019,106.519,Netherlands,destruction
-784,2019,90.47711,Poland,destruction
-785,2019,147.638,Portugal,destruction
-786,2019,63.06531,Romania,destruction
-787,2019,64.33558,Slovakia,destruction
-788,2019,94.29006,Slovenia,destruction
-789,2019,112.9583,Spain,destruction
-790,2019,85.59161,Switzerland,destruction
-791,2019,99.55219,United Kingdom,destruction
-792,2020,149.979,Belgium,creation
-793,2020,107.9031,Croatia,creation
-794,2020,144.2578,Czech Republic,creation
-795,2020,,Germany,creation
-796,2020,159.2868,Hungary,creation
-797,2020,134.7041,Italy,creation
-798,2020,,Latvia,creation
-799,2020,171.4637,Lithuania,creation
-800,2020,138.9946,Malta,creation
-801,2020,,Netherlands,creation
-802,2020,95.80592,Poland,creation
-803,2020,138.3149,Portugal,creation
-804,2020,149.4225,Romania,creation
-805,2020,124.7742,Slovakia,creation
-806,2020,125.1809,Slovenia,creation
-807,2020,245.6587,Spain,creation
-808,2020,174.1824,Switzerland,creation
-809,2020,,United Kingdom,creation
-810,2020,59.04197,Belgium,destruction
-811,2020,84.14307,Croatia,destruction
-812,2020,50.84457,Czech Republic,destruction
-813,2020,,Germany,destruction
-814,2020,64.27679,Hungary,destruction
-815,2020,78.99962,Italy,destruction
-816,2020,72.99609,Lithuania,destruction
-817,2020,88.27873,Malta,destruction
-818,2020,,Netherlands,destruction
-819,2020,69.84123,Poland,destruction
-820,2020,96.86672,Portugal,destruction
-821,2020,50.6712,Romania,destruction
-822,2020,52.53229,Slovakia,destruction
-823,2020,57.85641,Slovenia,destruction
-824,2020,75.72255,Spain,destruction
-825,2020,78.33883,Switzerland,destruction
-826,2020,,United Kingdom,destruction
-827,2021,,Belgium,creation
-828,2021,61.93606,Croatia,creation
-829,2021,,Czech Republic,creation
-830,2021,,Germany,creation
-831,2021,,Hungary,creation
-832,2021,,Italy,creation
-833,2021,,Latvia,creation
-834,2021,,Lithuania,creation
-835,2021,,Malta,creation
-836,2021,,Netherlands,creation
-837,2021,,Poland,creation
-838,2021,,Portugal,creation
-839,2021,,Romania,creation
-840,2021,,Slovakia,creation
-841,2021,73.73339,Slovenia,creation
-842,2021,,Spain,creation
-843,2021,,Switzerland,creation
-844,2021,,United Kingdom,creation
-845,2021,,Belgium,destruction
-846,2021,105.5734,Croatia,destruction
-847,2021,,Czech Republic,destruction
-848,2021,,Germany,destruction
-849,2021,,Hungary,destruction
-850,2021,,Italy,destruction
-851,2021,,Latvia,destruction
-852,2021,,Lithuania,destruction
-853,2021,,Malta,destruction
-854,2021,,Netherlands,destruction
-855,2021,,Poland,destruction
-856,2021,,Portugal,destruction
-857,2021,,Romania,destruction
-858,2021,,Slovakia,destruction
-859,2021,92.58468,Slovenia,destruction
-860,2021,,Spain,destruction
-861,2021,,Switzerland,destruction
-862,2021,,United Kingdom,destruction
+0,1998,,Belgium,destruction
+1,1998,,Croatia,destruction
+2,1998,,Czech Republic,destruction
+3,1998,,Germany,destruction
+4,1998,,Hungary,destruction
+5,1998,,Italy,destruction
+6,1998,,Latvia,destruction
+7,1998,,Lithuania,destruction
+8,1998,,Malta,destruction
+9,1998,,Netherlands,destruction
+10,1998,,Poland,destruction
+11,1998,,Portugal,destruction
+12,1998,,Romania,destruction
+13,1998,,Slovakia,destruction
+14,1998,,Slovenia,destruction
+15,1998,,Spain,destruction
+16,1998,,Switzerland,destruction
+17,1998,153.4868,United Kingdom,destruction
+18,1998,,Belgium,creation
+19,1998,,Croatia,creation
+20,1998,,Czech Republic,creation
+21,1998,,Germany,creation
+22,1998,,Hungary,creation
+23,1998,,Italy,creation
+24,1998,,Latvia,creation
+25,1998,,Lithuania,creation
+26,1998,,Malta,creation
+27,1998,,Netherlands,creation
+28,1998,,Poland,creation
+29,1998,,Portugal,creation
+30,1998,,Romania,creation
+31,1998,,Slovakia,creation
+32,1998,,Slovenia,creation
+33,1998,,Spain,creation
+34,1998,,Switzerland,creation
+35,1998,240.2209,United Kingdom,creation
+36,1999,,Belgium,destruction
+37,1999,,Croatia,destruction
+38,1999,,Czech Republic,destruction
+39,1999,,Germany,destruction
+40,1999,,Hungary,destruction
+41,1999,,Italy,destruction
+42,1999,,Latvia,destruction
+43,1999,,Lithuania,destruction
+44,1999,,Malta,destruction
+45,1999,,Netherlands,destruction
+46,1999,,Poland,destruction
+47,1999,,Portugal,destruction
+48,1999,,Romania,destruction
+49,1999,,Slovakia,destruction
+50,1999,,Slovenia,destruction
+51,1999,,Spain,destruction
+52,1999,,Switzerland,destruction
+53,1999,167.1495,United Kingdom,destruction
+54,1999,,Belgium,creation
+55,1999,,Croatia,creation
+56,1999,,Czech Republic,creation
+57,1999,,Germany,creation
+58,1999,,Hungary,creation
+59,1999,,Italy,creation
+60,1999,,Latvia,creation
+61,1999,,Lithuania,creation
+62,1999,,Malta,creation
+63,1999,,Netherlands,creation
+64,1999,,Poland,creation
+65,1999,,Portugal,creation
+66,1999,,Romania,creation
+67,1999,,Slovakia,creation
+68,1999,,Slovenia,creation
+69,1999,,Spain,creation
+70,1999,,Switzerland,creation
+71,1999,187.4644,United Kingdom,creation
+72,2000,,Belgium,destruction
+73,2000,,Croatia,destruction
+74,2000,,Czech Republic,destruction
+75,2000,,Germany,destruction
+76,2000,,Hungary,destruction
+77,2000,,Italy,destruction
+78,2000,,Latvia,destruction
+79,2000,,Lithuania,destruction
+80,2000,,Malta,destruction
+81,2000,,Netherlands,destruction
+82,2000,,Poland,destruction
+83,2000,,Portugal,destruction
+84,2000,,Romania,destruction
+85,2000,,Slovakia,destruction
+86,2000,,Slovenia,destruction
+87,2000,,Spain,destruction
+88,2000,,Switzerland,destruction
+89,2000,269.6557,United Kingdom,destruction
+90,2000,,Belgium,creation
+91,2000,,Croatia,creation
+92,2000,,Czech Republic,creation
+93,2000,,Germany,creation
+94,2000,,Hungary,creation
+95,2000,,Italy,creation
+96,2000,,Latvia,creation
+97,2000,,Lithuania,creation
+98,2000,,Malta,creation
+99,2000,,Netherlands,creation
+100,2000,,Poland,creation
+101,2000,,Portugal,creation
+102,2000,,Romania,creation
+103,2000,,Slovakia,creation
+104,2000,,Slovenia,creation
+105,2000,,Spain,creation
+106,2000,,Switzerland,creation
+107,2000,249.6655,United Kingdom,creation
+108,2001,83.29182,Belgium,destruction
+109,2001,,Croatia,destruction
+110,2001,,Czech Republic,destruction
+111,2001,,Germany,destruction
+112,2001,,Hungary,destruction
+113,2001,,Italy,destruction
+114,2001,,Latvia,destruction
+115,2001,190.048,Lithuania,destruction
+116,2001,,Malta,destruction
+117,2001,,Netherlands,destruction
+118,2001,,Poland,destruction
+119,2001,,Portugal,destruction
+120,2001,,Romania,destruction
+121,2001,155.7843,Slovakia,destruction
+122,2001,,Slovenia,destruction
+123,2001,,Spain,destruction
+124,2001,,Switzerland,destruction
+125,2001,166.1669,United Kingdom,destruction
+126,2001,109.9545,Belgium,creation
+127,2001,,Croatia,creation
+128,2001,,Czech Republic,creation
+129,2001,,Germany,creation
+130,2001,,Hungary,creation
+131,2001,,Italy,creation
+132,2001,,Latvia,creation
+133,2001,106.6738,Lithuania,creation
+134,2001,,Malta,creation
+135,2001,,Netherlands,creation
+136,2001,,Poland,creation
+137,2001,,Portugal,creation
+138,2001,,Romania,creation
+139,2001,75.98595,Slovakia,creation
+140,2001,,Slovenia,creation
+141,2001,,Spain,creation
+142,2001,,Switzerland,creation
+143,2001,160.1764,United Kingdom,creation
+144,2002,165.1036,Belgium,destruction
+145,2002,,Croatia,destruction
+146,2002,,Czech Republic,destruction
+147,2002,139.5634,Germany,destruction
+148,2002,,Hungary,destruction
+149,2002,,Italy,destruction
+150,2002,,Latvia,destruction
+151,2002,150.0854,Lithuania,destruction
+152,2002,,Malta,destruction
+153,2002,,Netherlands,destruction
+154,2002,,Poland,destruction
+155,2002,,Portugal,destruction
+156,2002,,Romania,destruction
+157,2002,225.0188,Slovakia,destruction
+158,2002,,Slovenia,destruction
+159,2002,,Spain,destruction
+160,2002,,Switzerland,destruction
+161,2002,252.4087,United Kingdom,destruction
+162,2002,72.48106,Belgium,creation
+163,2002,,Croatia,creation
+164,2002,,Czech Republic,creation
+165,2002,56.40313,Germany,creation
+166,2002,,Hungary,creation
+167,2002,,Italy,creation
+168,2002,,Latvia,creation
+169,2002,150.3195,Lithuania,creation
+170,2002,,Malta,creation
+171,2002,,Netherlands,creation
+172,2002,,Poland,creation
+173,2002,,Portugal,creation
+174,2002,,Romania,creation
+175,2002,78.24751,Slovakia,creation
+176,2002,,Slovenia,creation
+177,2002,,Spain,creation
+178,2002,,Switzerland,creation
+179,2002,144.2505,United Kingdom,creation
+180,2003,147.5941,Belgium,destruction
+181,2003,98.38583,Croatia,destruction
+182,2003,,Czech Republic,destruction
+183,2003,408.1968,Germany,destruction
+184,2003,,Hungary,destruction
+185,2003,,Italy,destruction
+186,2003,,Latvia,destruction
+187,2003,118.3991,Lithuania,destruction
+188,2003,,Malta,destruction
+189,2003,,Netherlands,destruction
+190,2003,119.2928,Poland,destruction
+191,2003,,Portugal,destruction
+192,2003,,Romania,destruction
+193,2003,137.6899,Slovakia,destruction
+194,2003,105.4307,Slovenia,destruction
+195,2003,,Spain,destruction
+196,2003,,Switzerland,destruction
+197,2003,191.7617,United Kingdom,destruction
+198,2003,71.41135,Belgium,creation
+199,2003,132.8347,Croatia,creation
+200,2003,,Czech Republic,creation
+201,2003,56.09869,Germany,creation
+202,2003,,Hungary,creation
+203,2003,,Italy,creation
+204,2003,,Latvia,creation
+205,2003,157.1333,Lithuania,creation
+206,2003,,Malta,creation
+207,2003,,Netherlands,creation
+208,2003,103.2842,Poland,creation
+209,2003,,Portugal,creation
+210,2003,,Romania,creation
+211,2003,69.64293,Slovakia,creation
+212,2003,63.66752,Slovenia,creation
+213,2003,,Spain,creation
+214,2003,,Switzerland,creation
+215,2003,120.5477,United Kingdom,creation
+216,2004,120.1229,Belgium,destruction
+217,2004,86.16207,Croatia,destruction
+218,2004,,Czech Republic,destruction
+219,2004,152.2629,Germany,destruction
+220,2004,132.2546,Hungary,destruction
+221,2004,,Italy,destruction
+222,2004,,Latvia,destruction
+223,2004,144.1708,Lithuania,destruction
+224,2004,,Malta,destruction
+225,2004,,Netherlands,destruction
+226,2004,103.9999,Poland,destruction
+227,2004,,Portugal,destruction
+228,2004,,Romania,destruction
+229,2004,151.3859,Slovakia,destruction
+230,2004,84.64706,Slovenia,destruction
+231,2004,,Spain,destruction
+232,2004,,Switzerland,destruction
+233,2004,160.5175,United Kingdom,destruction
+234,2004,76.04073,Belgium,creation
+235,2004,125.4229,Croatia,creation
+236,2004,,Czech Republic,creation
+237,2004,80.14414,Germany,creation
+238,2004,93.4511,Hungary,creation
+239,2004,,Italy,creation
+240,2004,,Latvia,creation
+241,2004,131.1338,Lithuania,creation
+242,2004,,Malta,creation
+243,2004,,Netherlands,creation
+244,2004,122.337,Poland,creation
+245,2004,,Portugal,creation
+246,2004,,Romania,creation
+247,2004,79.7923,Slovakia,creation
+248,2004,103.0826,Slovenia,creation
+249,2004,,Spain,creation
+250,2004,,Switzerland,creation
+251,2004,124.6777,United Kingdom,creation
+252,2005,111.5592,Belgium,destruction
+253,2005,83.0163,Croatia,destruction
+254,2005,,Czech Republic,destruction
+255,2005,154.5492,Germany,destruction
+256,2005,142.9818,Hungary,destruction
+257,2005,,Italy,destruction
+258,2005,,Latvia,destruction
+259,2005,143.8232,Lithuania,destruction
+260,2005,,Malta,destruction
+261,2005,,Netherlands,destruction
+262,2005,88.51353,Poland,destruction
+263,2005,60.00615,Portugal,destruction
+264,2005,,Romania,destruction
+265,2005,127.7299,Slovakia,destruction
+266,2005,80.84386,Slovenia,destruction
+267,2005,,Spain,destruction
+268,2005,,Switzerland,destruction
+269,2005,152.4328,United Kingdom,destruction
+270,2005,84.5915,Belgium,creation
+271,2005,115.7549,Croatia,creation
+272,2005,,Czech Republic,creation
+273,2005,79.54293,Germany,creation
+274,2005,95.34241,Hungary,creation
+275,2005,,Italy,creation
+276,2005,,Latvia,creation
+277,2005,112.0921,Lithuania,creation
+278,2005,,Malta,creation
+279,2005,,Netherlands,creation
+280,2005,122.5882,Poland,creation
+281,2005,83.83519,Portugal,creation
+282,2005,,Romania,creation
+283,2005,77.2752,Slovakia,creation
+284,2005,96.57948,Slovenia,creation
+285,2005,,Spain,creation
+286,2005,,Switzerland,creation
+287,2005,133.3336,United Kingdom,creation
+288,2006,105.7981,Belgium,destruction
+289,2006,64.4459,Croatia,destruction
+290,2006,95.03896,Czech Republic,destruction
+291,2006,119.9653,Germany,destruction
+292,2006,126.0884,Hungary,destruction
+293,2006,,Italy,destruction
+294,2006,,Latvia,destruction
+295,2006,136.7283,Lithuania,destruction
+296,2006,,Malta,destruction
+297,2006,,Netherlands,destruction
+298,2006,70.62592,Poland,destruction
+299,2006,103.0697,Portugal,destruction
+300,2006,156.3924,Romania,destruction
+301,2006,91.56709,Slovakia,destruction
+302,2006,98.54941,Slovenia,destruction
+303,2006,,Spain,destruction
+304,2006,,Switzerland,destruction
+305,2006,160.8804,United Kingdom,destruction
+306,2006,97.78417,Belgium,creation
+307,2006,140.0027,Croatia,creation
+308,2006,103.2423,Czech Republic,creation
+309,2006,93.45069,Germany,creation
+310,2006,111.5086,Hungary,creation
+311,2006,,Italy,creation
+312,2006,,Latvia,creation
+313,2006,119.3492,Lithuania,creation
+314,2006,,Malta,creation
+315,2006,,Netherlands,creation
+316,2006,152.5079,Poland,creation
+317,2006,167.7786,Portugal,creation
+318,2006,90.82314,Romania,creation
+319,2006,90.06963,Slovakia,creation
+320,2006,127.6074,Slovenia,creation
+321,2006,,Spain,creation
+322,2006,,Switzerland,creation
+323,2006,124.889,United Kingdom,creation
+324,2007,103.7698,Belgium,destruction
+325,2007,59.05064,Croatia,destruction
+326,2007,90.57666,Czech Republic,destruction
+327,2007,104.7094,Germany,destruction
+328,2007,128.8011,Hungary,destruction
+329,2007,163.3013,Italy,destruction
+330,2007,,Latvia,destruction
+331,2007,137.6386,Lithuania,destruction
+332,2007,,Malta,destruction
+333,2007,,Netherlands,destruction
+334,2007,67.14157,Poland,destruction
+335,2007,81.5931,Portugal,destruction
+336,2007,140.1897,Romania,destruction
+337,2007,90.25753,Slovakia,destruction
+338,2007,74.06882,Slovenia,destruction
+339,2007,,Spain,destruction
+340,2007,,Switzerland,destruction
+341,2007,128.3268,United Kingdom,destruction
+342,2007,98.70531,Belgium,creation
+343,2007,154.041,Croatia,creation
+344,2007,107.8708,Czech Republic,creation
+345,2007,99.12491,Germany,creation
+346,2007,110.5159,Hungary,creation
+347,2007,118.7835,Italy,creation
+348,2007,,Latvia,creation
+349,2007,109.7299,Lithuania,creation
+350,2007,,Malta,creation
+351,2007,,Netherlands,creation
+352,2007,153.312,Poland,creation
+353,2007,157.9482,Portugal,creation
+354,2007,101.3961,Romania,creation
+355,2007,106.1306,Slovakia,creation
+356,2007,100.8583,Slovenia,creation
+357,2007,,Spain,creation
+358,2007,,Switzerland,creation
+359,2007,133.7746,United Kingdom,creation
+360,2008,111.4356,Belgium,destruction
+361,2008,71.55101,Croatia,destruction
+362,2008,125.5924,Czech Republic,destruction
+363,2008,131.8869,Germany,destruction
+364,2008,149.0147,Hungary,destruction
+365,2008,91.20441,Italy,destruction
+366,2008,186.9102,Latvia,destruction
+367,2008,186.8304,Lithuania,destruction
+368,2008,,Malta,destruction
+369,2008,111.7189,Netherlands,destruction
+370,2008,105.2789,Poland,destruction
+371,2008,84.42881,Portugal,destruction
+372,2008,141.5237,Romania,destruction
+373,2008,93.43531,Slovakia,destruction
+374,2008,83.13927,Slovenia,destruction
+375,2008,,Spain,destruction
+376,2008,,Switzerland,destruction
+377,2008,124.9868,United Kingdom,destruction
+378,2008,86.70994,Belgium,creation
+379,2008,134.07,Croatia,creation
+380,2008,91.59636,Czech Republic,creation
+381,2008,85.96924,Germany,creation
+382,2008,104.0472,Hungary,creation
+383,2008,110.3392,Italy,creation
+384,2008,77.43906,Latvia,creation
+385,2008,79.10476,Lithuania,creation
+386,2008,,Malta,creation
+387,2008,141.7363,Netherlands,creation
+388,2008,121.0587,Poland,creation
+389,2008,167.5922,Portugal,creation
+390,2008,87.72157,Romania,creation
+391,2008,90.39552,Slovakia,creation
+392,2008,87.75087,Slovenia,creation
+393,2008,,Spain,creation
+394,2008,,Switzerland,creation
+395,2008,121.2278,United Kingdom,creation
+396,2009,206.6262,Belgium,destruction
+397,2009,133.0495,Croatia,destruction
+398,2009,238.1123,Czech Republic,destruction
+399,2009,190.798,Germany,destruction
+400,2009,207.0919,Hungary,destruction
+401,2009,152.2361,Italy,destruction
+402,2009,356.8982,Latvia,destruction
+403,2009,385.9839,Lithuania,destruction
+404,2009,,Malta,destruction
+405,2009,181.4756,Netherlands,destruction
+406,2009,135.1131,Poland,destruction
+407,2009,111.3635,Portugal,destruction
+408,2009,244.7208,Romania,destruction
+409,2009,220.7025,Slovakia,destruction
+410,2009,173.0696,Slovenia,destruction
+411,2009,171.0477,Spain,destruction
+412,2009,,Switzerland,destruction
+413,2009,173.6086,United Kingdom,destruction
+414,2009,56.99038,Belgium,creation
+415,2009,71.5303,Croatia,creation
+416,2009,57.38903,Czech Republic,creation
+417,2009,68.65943,Germany,creation
+418,2009,53.76946,Hungary,creation
+419,2009,80.40014,Italy,creation
+420,2009,24.8115,Latvia,creation
+421,2009,37.66011,Lithuania,creation
+422,2009,,Malta,creation
+423,2009,93.31199,Netherlands,creation
+424,2009,75.63647,Poland,creation
+425,2009,112.4167,Portugal,creation
+426,2009,42.89532,Romania,creation
+427,2009,50.2653,Slovakia,creation
+428,2009,45.56646,Slovenia,creation
+429,2009,53.84429,Spain,creation
+430,2009,,Switzerland,creation
+431,2009,100.7881,United Kingdom,creation
+432,2010,121.2633,Belgium,destruction
+433,2010,132.6921,Croatia,destruction
+434,2010,128.9944,Czech Republic,destruction
+435,2010,127.495,Germany,destruction
+436,2010,127.454,Hungary,destruction
+437,2010,150.4475,Italy,destruction
+438,2010,190.1294,Latvia,destruction
+439,2010,209.7026,Lithuania,destruction
+440,2010,,Malta,destruction
+441,2010,153.3463,Netherlands,destruction
+442,2010,83.51929,Poland,destruction
+443,2010,92.46149,Portugal,destruction
+444,2010,173.7491,Romania,destruction
+445,2010,122.9135,Slovakia,destruction
+446,2010,120.2032,Slovenia,destruction
+447,2010,106.1134,Spain,destruction
+448,2010,139.9596,Switzerland,destruction
+449,2010,164.8145,United Kingdom,destruction
+450,2010,79.94159,Belgium,creation
+451,2010,79.6053,Croatia,creation
+452,2010,82.77228,Czech Republic,creation
+453,2010,98.13952,Germany,creation
+454,2010,88.8656,Hungary,creation
+455,2010,89.35237,Italy,creation
+456,2010,64.10793,Latvia,creation
+457,2010,59.6956,Lithuania,creation
+458,2010,,Malta,creation
+459,2010,88.42707,Netherlands,creation
+460,2010,105.8101,Poland,creation
+461,2010,129.4319,Portugal,creation
+462,2010,67.19315,Romania,creation
+463,2010,85.91089,Slovakia,creation
+464,2010,65.33866,Slovenia,creation
+465,2010,88.59966,Spain,creation
+466,2010,92.15437,Switzerland,creation
+467,2010,97.82392,United Kingdom,creation
+468,2011,100.0,Belgium,destruction
+469,2011,100.0,Croatia,destruction
+470,2011,100.0,Czech Republic,destruction
+471,2011,100.0,Germany,destruction
+472,2011,100.0,Hungary,destruction
+473,2011,100.0,Italy,destruction
+474,2011,100.0,Latvia,destruction
+475,2011,100.0,Lithuania,destruction
+476,2011,100.0,Malta,destruction
+477,2011,100.0,Netherlands,destruction
+478,2011,100.0,Poland,destruction
+479,2011,100.0,Portugal,destruction
+480,2011,100.0,Romania,destruction
+481,2011,100.0,Slovakia,destruction
+482,2011,100.0,Slovenia,destruction
+483,2011,100.0,Spain,destruction
+484,2011,100.0,Switzerland,destruction
+485,2011,100.0,United Kingdom,destruction
+486,2011,100.0,Belgium,creation
+487,2011,100.0,Croatia,creation
+488,2011,100.0,Czech Republic,creation
+489,2011,100.0,Germany,creation
+490,2011,100.0,Hungary,creation
+491,2011,100.0,Italy,creation
+492,2011,100.0,Latvia,creation
+493,2011,100.0,Lithuania,creation
+494,2011,100.0,Malta,creation
+495,2011,100.0,Netherlands,creation
+496,2011,100.0,Poland,creation
+497,2011,100.0,Portugal,creation
+498,2011,100.0,Romania,creation
+499,2011,100.0,Slovakia,creation
+500,2011,100.0,Slovenia,creation
+501,2011,100.0,Spain,creation
+502,2011,100.0,Switzerland,creation
+503,2011,100.0,United Kingdom,creation
+504,2012,127.9664,Belgium,destruction
+505,2012,112.8998,Croatia,destruction
+506,2012,108.7311,Czech Republic,destruction
+507,2012,107.1262,Germany,destruction
+508,2012,124.4199,Hungary,destruction
+509,2012,95.02731,Italy,destruction
+510,2012,87.86326,Latvia,destruction
+511,2012,105.4184,Lithuania,destruction
+512,2012,85.92812,Malta,destruction
+513,2012,103.3208,Netherlands,destruction
+514,2012,106.9654,Poland,destruction
+515,2012,131.2304,Portugal,destruction
+516,2012,108.0725,Romania,destruction
+517,2012,98.88348,Slovakia,destruction
+518,2012,94.13531,Slovenia,destruction
+519,2012,116.1699,Spain,destruction
+520,2012,113.7806,Switzerland,destruction
+521,2012,111.1652,United Kingdom,destruction
+522,2012,71.21366,Belgium,creation
+523,2012,106.5732,Croatia,creation
+524,2012,76.39828,Czech Republic,creation
+525,2012,83.17487,Germany,creation
+526,2012,75.66786,Hungary,creation
+527,2012,92.85867,Italy,creation
+528,2012,94.50889,Latvia,creation
+529,2012,90.57866,Lithuania,creation
+530,2012,84.54468,Malta,creation
+531,2012,93.42451,Netherlands,creation
+532,2012,82.32701,Poland,creation
+533,2012,82.23286,Portugal,creation
+534,2012,75.61682,Romania,creation
+535,2012,84.31579,Slovakia,creation
+536,2012,80.91383,Slovenia,creation
+537,2012,77.7826,Spain,creation
+538,2012,88.61222,Switzerland,creation
+539,2012,119.6588,United Kingdom,creation
+540,2013,141.4889,Belgium,destruction
+541,2013,108.9884,Croatia,destruction
+542,2013,114.4799,Czech Republic,destruction
+543,2013,109.7576,Germany,destruction
+544,2013,110.4655,Hungary,destruction
+545,2013,109.2058,Italy,destruction
+546,2013,93.83912,Latvia,destruction
+547,2013,95.7083,Lithuania,destruction
+548,2013,70.15897,Malta,destruction
+549,2013,137.6498,Netherlands,destruction
+550,2013,87.42358,Poland,destruction
+551,2013,105.4112,Portugal,destruction
+552,2013,114.2184,Romania,destruction
+553,2013,110.2971,Slovakia,destruction
+554,2013,97.56469,Slovenia,destruction
+555,2013,106.2365,Spain,destruction
+556,2013,109.0172,Switzerland,destruction
+557,2013,118.7864,United Kingdom,destruction
+558,2013,68.41269,Belgium,creation
+559,2013,126.7824,Croatia,creation
+560,2013,78.13949,Czech Republic,creation
+561,2013,78.20822,Germany,creation
+562,2013,72.7729,Hungary,creation
+563,2013,85.00407,Italy,creation
+564,2013,78.90062,Latvia,creation
+565,2013,84.73335,Lithuania,creation
+566,2013,95.04012,Malta,creation
+567,2013,84.59724,Netherlands,creation
+568,2013,103.7219,Poland,creation
+569,2013,108.1859,Portugal,creation
+570,2013,73.53156,Romania,creation
+571,2013,72.72185,Slovakia,creation
+572,2013,60.26106,Slovenia,creation
+573,2013,83.53213,Spain,creation
+574,2013,96.60526,Switzerland,creation
+575,2013,114.7315,United Kingdom,creation
+576,2014,123.1388,Belgium,destruction
+577,2014,122.6974,Croatia,destruction
+578,2014,82.58636,Czech Republic,destruction
+579,2014,109.0203,Germany,destruction
+580,2014,89.89478,Hungary,destruction
+581,2014,103.4725,Italy,destruction
+582,2014,96.00191,Latvia,destruction
+583,2014,92.5207,Lithuania,destruction
+584,2014,63.81353,Malta,destruction
+585,2014,111.1877,Netherlands,destruction
+586,2014,73.075,Poland,destruction
+587,2014,72.28692,Portugal,destruction
+588,2014,108.2361,Romania,destruction
+589,2014,77.43613,Slovakia,destruction
+590,2014,61.9123,Slovenia,destruction
+591,2014,92.73211,Spain,destruction
+592,2014,137.419,Switzerland,destruction
+593,2014,90.83952,United Kingdom,destruction
+594,2014,83.32635,Belgium,creation
+595,2014,129.1414,Croatia,creation
+596,2014,84.82129,Czech Republic,creation
+597,2014,82.71318,Germany,creation
+598,2014,104.4168,Hungary,creation
+599,2014,98.77893,Italy,creation
+600,2014,81.26984,Latvia,creation
+601,2014,89.5537,Lithuania,creation
+602,2014,119.7914,Malta,creation
+603,2014,105.3274,Netherlands,creation
+604,2014,115.9582,Poland,creation
+605,2014,149.9187,Portugal,creation
+606,2014,81.39353,Romania,creation
+607,2014,88.81208,Slovakia,creation
+608,2014,80.01201,Slovenia,creation
+609,2014,102.8059,Spain,creation
+610,2014,87.42704,Switzerland,creation
+611,2014,104.3649,United Kingdom,creation
+612,2015,105.9027,Belgium,destruction
+613,2015,73.39417,Croatia,destruction
+614,2015,78.75599,Czech Republic,destruction
+615,2015,114.6924,Germany,destruction
+616,2015,83.22565,Hungary,destruction
+617,2015,83.68153,Italy,destruction
+618,2015,110.6421,Latvia,destruction
+619,2015,102.88,Lithuania,destruction
+620,2015,70.9445,Malta,destruction
+621,2015,84.13204,Netherlands,destruction
+622,2015,70.5703,Poland,destruction
+623,2015,61.59535,Portugal,destruction
+624,2015,96.09879,Romania,destruction
+625,2015,64.38232,Slovakia,destruction
+626,2015,59.56815,Slovenia,destruction
+627,2015,52.20938,Spain,destruction
+628,2015,123.9878,Switzerland,destruction
+629,2015,87.4026,United Kingdom,destruction
+630,2015,85.43295,Belgium,creation
+631,2015,124.1507,Croatia,creation
+632,2015,91.92484,Czech Republic,creation
+633,2015,82.87281,Germany,creation
+634,2015,80.74916,Hungary,creation
+635,2015,102.3609,Italy,creation
+636,2015,74.85842,Latvia,creation
+637,2015,79.35901,Lithuania,creation
+638,2015,134.9021,Malta,creation
+639,2015,131.7246,Netherlands,creation
+640,2015,111.6894,Poland,creation
+641,2015,149.5675,Portugal,creation
+642,2015,90.23978,Romania,creation
+643,2015,96.78902,Slovakia,creation
+644,2015,88.96739,Slovenia,creation
+645,2015,127.7391,Spain,creation
+646,2015,85.42413,Switzerland,creation
+647,2015,120.1917,United Kingdom,creation
+648,2016,100.9169,Belgium,destruction
+649,2016,64.26189,Croatia,destruction
+650,2016,80.45763,Czech Republic,destruction
+651,2016,111.9817,Germany,destruction
+652,2016,89.91605,Hungary,destruction
+653,2016,74.56528,Italy,destruction
+654,2016,113.664,Latvia,destruction
+655,2016,104.8386,Lithuania,destruction
+656,2016,94.04048,Malta,destruction
+657,2016,79.87478,Netherlands,destruction
+658,2016,62.85767,Poland,destruction
+659,2016,65.31464,Portugal,destruction
+660,2016,97.32671,Romania,destruction
+661,2016,72.60244,Slovakia,destruction
+662,2016,48.43689,Slovenia,destruction
+663,2016,54.69019,Spain,destruction
+664,2016,126.3364,Switzerland,destruction
+665,2016,124.9932,United Kingdom,destruction
+666,2016,86.01205,Belgium,creation
+667,2016,122.6693,Croatia,creation
+668,2016,89.40221,Czech Republic,creation
+669,2016,76.90591,Germany,creation
+670,2016,85.21727,Hungary,creation
+671,2016,112.7114,Italy,creation
+672,2016,79.0177,Latvia,creation
+673,2016,79.88721,Lithuania,creation
+674,2016,110.387,Malta,creation
+675,2016,138.6732,Netherlands,creation
+676,2016,116.0063,Poland,creation
+677,2016,157.1377,Portugal,creation
+678,2016,85.14325,Romania,creation
+679,2016,98.0126,Slovakia,creation
+680,2016,97.5843,Slovenia,creation
+681,2016,137.8074,Spain,creation
+682,2016,82.34229,Switzerland,creation
+683,2016,111.772,United Kingdom,creation
+684,2017,71.9586,Belgium,destruction
+685,2017,65.50458,Croatia,destruction
+686,2017,78.57591,Czech Republic,destruction
+687,2017,108.6326,Germany,destruction
+688,2017,81.07382,Hungary,destruction
+689,2017,68.54225,Italy,destruction
+690,2017,90.23287,Latvia,destruction
+691,2017,113.2234,Lithuania,destruction
+692,2017,63.09955,Malta,destruction
+693,2017,84.80483,Netherlands,destruction
+694,2017,64.09621,Poland,destruction
+695,2017,54.8807,Portugal,destruction
+696,2017,97.01659,Romania,destruction
+697,2017,70.27628,Slovakia,destruction
+698,2017,48.16991,Slovenia,destruction
+699,2017,49.90722,Spain,destruction
+700,2017,120.094,Switzerland,destruction
+701,2017,81.74561,United Kingdom,destruction
+702,2017,96.66004,Belgium,creation
+703,2017,124.5712,Croatia,creation
+704,2017,86.3581,Czech Republic,creation
+705,2017,92.08055,Germany,creation
+706,2017,88.6006,Hungary,creation
+707,2017,120.9927,Italy,creation
+708,2017,82.01683,Latvia,creation
+709,2017,91.337,Lithuania,creation
+710,2017,141.3058,Malta,creation
+711,2017,148.3239,Netherlands,creation
+712,2017,117.4701,Poland,creation
+713,2017,166.5159,Portugal,creation
+714,2017,76.17554,Romania,creation
+715,2017,100.9948,Slovakia,creation
+716,2017,116.3103,Slovenia,creation
+717,2017,141.019,Spain,creation
+718,2017,110.5351,Switzerland,creation
+719,2017,87.99346,United Kingdom,creation
+720,2018,93.52401,Belgium,destruction
+721,2018,83.68575,Croatia,destruction
+722,2018,98.47031,Czech Republic,destruction
+723,2018,114.708,Germany,destruction
+724,2018,85.0116,Hungary,destruction
+725,2018,62.14566,Italy,destruction
+726,2018,79.34331,Latvia,destruction
+727,2018,115.9874,Lithuania,destruction
+728,2018,83.00235,Malta,destruction
+729,2018,74.81191,Netherlands,destruction
+730,2018,77.27322,Poland,destruction
+731,2018,63.23558,Portugal,destruction
+732,2018,103.6029,Romania,destruction
+733,2018,73.17059,Slovakia,destruction
+734,2018,46.44604,Slovenia,destruction
+735,2018,65.93662,Spain,destruction
+736,2018,132.4458,Switzerland,destruction
+737,2018,106.517,United Kingdom,destruction
+738,2018,81.37056,Belgium,creation
+739,2018,133.5997,Croatia,creation
+740,2018,75.59306,Czech Republic,creation
+741,2018,94.19572,Germany,creation
+742,2018,81.66392,Hungary,creation
+743,2018,112.3859,Italy,creation
+744,2018,84.75565,Latvia,creation
+745,2018,83.17356,Lithuania,creation
+746,2018,129.5183,Malta,creation
+747,2018,206.462,Netherlands,creation
+748,2018,104.4646,Poland,creation
+749,2018,164.9375,Portugal,creation
+750,2018,67.04818,Romania,creation
+751,2018,88.47914,Slovakia,creation
+752,2018,109.6465,Slovenia,creation
+753,2018,117.9725,Spain,creation
+754,2018,101.4269,Switzerland,creation
+755,2018,113.0894,United Kingdom,creation
+756,2019,123.1771,Belgium,destruction
+757,2019,64.34559,Croatia,destruction
+758,2019,113.4787,Czech Republic,destruction
+759,2019,,Germany,destruction
+760,2019,99.22762,Hungary,destruction
+761,2019,82.67031,Italy,destruction
+762,2019,81.99165,Latvia,destruction
+763,2019,118.0125,Lithuania,destruction
+764,2019,80.62344,Malta,destruction
+765,2019,189.5511,Netherlands,destruction
+766,2019,74.62727,Poland,destruction
+767,2019,66.06314,Portugal,destruction
+768,2019,107.9165,Romania,destruction
+769,2019,102.0928,Slovakia,destruction
+770,2019,54.19723,Slovenia,destruction
+771,2019,56.79844,Spain,destruction
+772,2019,116.8164,Switzerland,destruction
+773,2019,108.2146,United Kingdom,destruction
+774,2019,85.90058,Belgium,creation
+775,2019,124.1646,Croatia,creation
+776,2019,64.9721,Czech Republic,creation
+777,2019,,Germany,creation
+778,2019,78.70929,Hungary,creation
+779,2019,100.7498,Italy,creation
+780,2019,74.87804,Latvia,creation
+781,2019,90.9883,Lithuania,creation
+782,2019,132.6682,Malta,creation
+783,2019,106.519,Netherlands,creation
+784,2019,90.47711,Poland,creation
+785,2019,147.638,Portugal,creation
+786,2019,63.06531,Romania,creation
+787,2019,64.33558,Slovakia,creation
+788,2019,94.29006,Slovenia,creation
+789,2019,112.9583,Spain,creation
+790,2019,85.59161,Switzerland,creation
+791,2019,99.55219,United Kingdom,creation
+792,2020,149.979,Belgium,destruction
+793,2020,107.9031,Croatia,destruction
+794,2020,144.2578,Czech Republic,destruction
+795,2020,,Germany,destruction
+796,2020,159.2868,Hungary,destruction
+797,2020,134.7041,Italy,destruction
+798,2020,,Latvia,destruction
+799,2020,171.4637,Lithuania,destruction
+800,2020,138.9946,Malta,destruction
+801,2020,,Netherlands,destruction
+802,2020,95.80592,Poland,destruction
+803,2020,138.3149,Portugal,destruction
+804,2020,149.4225,Romania,destruction
+805,2020,124.7742,Slovakia,destruction
+806,2020,125.1809,Slovenia,destruction
+807,2020,245.6587,Spain,destruction
+808,2020,174.1824,Switzerland,destruction
+809,2020,,United Kingdom,destruction
+810,2020,59.04197,Belgium,creation
+811,2020,84.14307,Croatia,creation
+812,2020,50.84457,Czech Republic,creation
+813,2020,,Germany,creation
+814,2020,64.27679,Hungary,creation
+815,2020,78.99962,Italy,creation
+816,2020,72.99609,Lithuania,creation
+817,2020,88.27873,Malta,creation
+818,2020,,Netherlands,creation
+819,2020,69.84123,Poland,creation
+820,2020,96.86672,Portugal,creation
+821,2020,50.6712,Romania,creation
+822,2020,52.53229,Slovakia,creation
+823,2020,57.85641,Slovenia,creation
+824,2020,75.72255,Spain,creation
+825,2020,78.33883,Switzerland,creation
+826,2020,,United Kingdom,creation
+827,2021,,Belgium,destruction
+828,2021,61.93606,Croatia,destruction
+829,2021,,Czech Republic,destruction
+830,2021,,Germany,destruction
+831,2021,,Hungary,destruction
+832,2021,,Italy,destruction
+833,2021,,Latvia,destruction
+834,2021,,Lithuania,destruction
+835,2021,,Malta,destruction
+836,2021,,Netherlands,destruction
+837,2021,,Poland,destruction
+838,2021,,Portugal,destruction
+839,2021,,Romania,destruction
+840,2021,,Slovakia,destruction
+841,2021,73.73339,Slovenia,destruction
+842,2021,,Spain,destruction
+843,2021,,Switzerland,destruction
+844,2021,,United Kingdom,destruction
+845,2021,,Belgium,creation
+846,2021,105.5734,Croatia,creation
+847,2021,,Czech Republic,creation
+848,2021,,Germany,creation
+849,2021,,Hungary,creation
+850,2021,,Italy,creation
+851,2021,,Latvia,creation
+852,2021,,Lithuania,creation
+853,2021,,Malta,creation
+854,2021,,Netherlands,creation
+855,2021,,Poland,creation
+856,2021,,Portugal,creation
+857,2021,,Romania,creation
+858,2021,,Slovakia,creation
+859,2021,92.58468,Slovenia,creation
+860,2021,,Spain,creation
+861,2021,,Switzerland,creation
+862,2021,,United Kingdom,creation

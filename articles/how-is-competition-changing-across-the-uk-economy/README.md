@@ -73,3 +73,28 @@ Versions (no ECO branding) with data loaded from `GitHub`: [`png`](visualisation
 
 !["fig3_job_dark"](visualisation/fig3_job_dark.svg "fig3_job")
 
+## Figure 3  
+
+Data: [`csv`](data/fig3_job.csv)  
+GitHub: [fig3_job](https://github.com/EconomicsObservatory/ECOvisualisations/tree/main/articles/how-is-competition-changing-across-the-uk-economy)  
+
+### Light theme  
+
+Versions with data locally embedded into the `Vega-lite` specification file: [`png`](visualisation/fig3_job_local.png) [`svg`](visualisation/fig3_job_local.svg) [`json`](visualisation/fig3_job_local.json)   
+ (**Default**) Versions with data loaded from `GitHub`: [`png`](visualisation/fig3_job.png) [`svg`](visualisation/fig3_job.svg) [`json`](visualisation/fig3_job.json)  
+Versions (no ECO branding) with data locally embedded into the `Vega-lite` specification file: [`png`](visualisation/fig3_job_local_no_branding.png) [`svg`](visualisation/fig3_job_local_no_branding.svg) [`json`](visualisation/fig3_job_local_no_branding.json)   
+Versions (no ECO branding) with data loaded from `GitHub`: [`png`](visualisation/fig3_job_no_branding.png) [`svg`](visualisation/fig3_job_no_branding.svg) [`json`](visualisation/fig3_job_no_branding.json)   
+
+### Dark theme  
+
+Versions with data locally embedded into the `Vega-lite` specification file: [`png`](visualisation/fig3_job_local_dark.png) [`svg`](visualisation/fig3_job_local_dark.svg) [`json`](visualisation/fig3_job_local_dark.json)   
+ Versions with data loaded from `GitHub`: [`png`](visualisation/fig3_job_dark.png) [`svg`](visualisation/fig3_job_dark.svg) [`json`](visualisation/fig3_job_dark.json)  
+Versions (no ECO branding) with data locally embedded into the `Vega-lite` specification file: [`png`](visualisation/fig3_job_local_no_branding_dark.png) [`svg`](visualisation/fig3_job_local_no_branding_dark.svg) [`json`](visualisation/fig3_job_local_no_branding_dark.json)   
+Versions (no ECO branding) with data loaded from `GitHub`: [`png`](visualisation/fig3_job_no_branding_dark.png) [`svg`](visualisation/fig3_job_no_branding_dark.svg) [`json`](visualisation/fig3_job_no_branding_dark.json)   
+
+!["fig3_job"](visualisation/fig3_job.svg "fig3_job")
+
+  
+
+!["fig3_job_dark"](visualisation/fig3_job_dark.svg "fig3_job")
+
