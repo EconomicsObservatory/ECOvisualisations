@@ -1,0 +1,96 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 400,
+  "height": 300,
+  "config": {"background": "white", "view": {"stroke": "transparent"}},
+  "data": {
+    "url": "https://raw.githubusercontent.com/EconomicsObservatory/ECOvisualisations/refs/heads/main/articles/whats-happening-in-uk-markets-the-story-in-ten-charts/data/data2.json",
+    "format": {"type": "json", "property": "quarters"}
+  },
+  "transform": [
+    {"calculate": "replace(datum.date, ' Q1', '-01')", "as": "date1"},
+    {"calculate": "replace(datum.date1, ' Q2', '-04')", "as": "date2"},
+    {"calculate": "replace(datum.date2, ' Q3', '-07')", "as": "date3"},
+    {"calculate": "replace(datum.date3, ' Q4', '-10')", "as": "date4"},
+    {"calculate": "timeParse(datum.date4, '%Y-%m')", "as": "dateClean"},
+    {"filter": "datum.year>=minYear"},
+    {"filter": "datum.year<=maxYear"},
+    {"filter": "datum.value>=-10"},
+    {"filter": "datum.value<=10"}
+  ],
+  "params": [
+    {
+      "name": "minYear",
+      "value": 2016,
+      "bind": {
+        "input": "range",
+        "min": 1988,
+        "max": 2024,
+        "step": 1,
+        "name": "Start year:"
+      }
+    },
+    {
+      "name": "maxYear",
+      "value": 2022,
+      "bind": {
+        "input": "range",
+        "min": 1988,
+        "max": 2024,
+        "step": 1,
+        "name": "End year:"
+      }
+    }
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "bar",
+        "color": "#122b39",
+        "width": 11,
+        "strokeWidth": 2,
+        "opacity": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "dateClean",
+          "type": "temporal",
+          "title": null,
+          "axis": {"grid": false, "labelColor": "black"}
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": null,
+          "axis": {"grid": true, "labelColor": "black"}
+        }
+      }
+    },
+    {
+      "encoding": {
+        "x": {"aggregate": "max", "field": "dateClean", "type": "temporal"},
+        "y": {
+          "aggregate": {"argmax": "dateClean"},
+          "field": "value",
+          "type": "quantitative"
+        },
+        "text": {
+          "aggregate": {"argmax": "dateClean"},
+          "field": "value",
+          "type": "nominal"
+        }
+      },
+      "layer": [
+        {
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "dx": -8,
+            "dy": 8,
+            "color": "#e6224b"
+          }
+        }
+      ]
+    }
+  ]
+}
