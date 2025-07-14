@@ -1,76 +1,253 @@
-Date,Type,Total
-2010-01-01T00:00:00,Battery electric,991
-2011-01-01T00:00:00,Battery electric,1906
-2012-01-01T00:00:00,Battery electric,2419
-2013-01-01T00:00:00,Battery electric,3183
-2014-01-01T00:00:00,Battery electric,7915
-2015-01-01T00:00:00,Battery electric,11399
-2016-01-01T00:00:00,Battery electric,11986
-2017-01-01T00:00:00,Battery electric,15631
-2018-01-01T00:00:00,Battery electric,18059
-2019-01-01T00:00:00,Battery electric,43339
-2020-01-01T00:00:00,Battery electric,116359
-2021-01-01T00:00:00,Battery electric,210065
-2022-01-01T00:00:00,Battery electric,292318
-2023-01-01T00:00:00,Battery electric,341558
-2024-01-01T00:00:00,Battery electric,410142
-2010-01-01T00:00:00,Range extended electric,0
-2011-01-01T00:00:00,Range extended electric,4
-2012-01-01T00:00:00,Range extended electric,518
-2013-01-01T00:00:00,Range extended electric,401
-2014-01-01T00:00:00,Range extended electric,1365
-2015-01-01T00:00:00,Range extended electric,1713
-2016-01-01T00:00:00,Range extended electric,1928
-2017-01-01T00:00:00,Range extended electric,2505
-2018-01-01T00:00:00,Range extended electric,3368
-2019-01-01T00:00:00,Range extended electric,2382
-2020-01-01T00:00:00,Range extended electric,1190
-2021-01-01T00:00:00,Range extended electric,2180
-2022-01-01T00:00:00,Range extended electric,2307
-2023-01-01T00:00:00,Range extended electric,2006
-2024-01-01T00:00:00,Range extended electric,1085
-2010-01-01T00:00:00,Fuel cell electric,0
-2011-01-01T00:00:00,Fuel cell electric,0
-2012-01-01T00:00:00,Fuel cell electric,5
-2013-01-01T00:00:00,Fuel cell electric,0
-2014-01-01T00:00:00,Fuel cell electric,6
-2015-01-01T00:00:00,Fuel cell electric,9
-2016-01-01T00:00:00,Fuel cell electric,13
-2017-01-01T00:00:00,Fuel cell electric,36
-2018-01-01T00:00:00,Fuel cell electric,36
-2019-01-01T00:00:00,Fuel cell electric,78
-2020-01-01T00:00:00,Fuel cell electric,72
-2021-01-01T00:00:00,Fuel cell electric,71
-2022-01-01T00:00:00,Fuel cell electric,18
-2023-01-01T00:00:00,Fuel cell electric,26
-2024-01-01T00:00:00,Fuel cell electric,0
-2010-01-01T00:00:00,Hybrid electric (petrol/diesel),0
-2011-01-01T00:00:00,Hybrid electric (petrol/diesel),0
-2012-01-01T00:00:00,Hybrid electric (petrol/diesel),3
-2013-01-01T00:00:00,Hybrid electric (petrol/diesel),4
-2014-01-01T00:00:00,Hybrid electric (petrol/diesel),0
-2015-01-01T00:00:00,Hybrid electric (petrol/diesel),256
-2016-01-01T00:00:00,Hybrid electric (petrol/diesel),3174
-2017-01-01T00:00:00,Hybrid electric (petrol/diesel),3686
-2018-01-01T00:00:00,Hybrid electric (petrol/diesel),816
-2019-01-01T00:00:00,Hybrid electric (petrol/diesel),17
-2020-01-01T00:00:00,Hybrid electric (petrol/diesel),83
-2021-01-01T00:00:00,Hybrid electric (petrol/diesel),181
-2022-01-01T00:00:00,Hybrid electric (petrol/diesel),169
-2023-01-01T00:00:00,Hybrid electric (petrol/diesel),269
-2024-01-01T00:00:00,Hybrid electric (petrol/diesel),714
-2010-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),21
-2011-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),3
-2012-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),467
-2013-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),600
-2014-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),6321
-2015-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),16631
-2016-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),24525
-2017-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),30906
-2018-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),41462
-2019-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),33762
-2020-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),60553
-2021-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),104694
-2022-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),94068
-2023-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),138351
-2024-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),166575
+Date,date,type,value
+2014 Q3 (end September),2014-09-30,Battery electric,102.75
+2014 Q4 (end December),2014-12-31,Battery electric,105.146
+2015 Q1 (end March),2015-03-31,Battery electric,108.56
+2015 Q2 (end June),2015-06-30,Battery electric,110.402
+2015 Q3 (end September),2015-09-30,Battery electric,113.845
+2015 Q4 (end December),2015-12-31,Battery electric,117.041
+2016 Q1 (end March),2016-03-31,Battery electric,121.118
+2016 Q2 (end June),2016-06-30,Battery electric,124.838
+2016 Q3 (end September),2016-09-30,Battery electric,130.577
+2016 Q4 (end December),2016-12-31,Battery electric,134.247
+2017 Q1 (end March),2017-03-31,Battery electric,140.821
+2017 Q2 (end June),2017-06-30,Battery electric,146.041
+2017 Q3 (end September),2017-09-30,Battery electric,152.422
+2017 Q4 (end December),2017-12-31,Battery electric,155.02
+2018 Q1 (end March),2018-03-31,Battery electric,153.988
+2018 Q2 (end June),2018-06-30,Battery electric,154.903
+2018 Q3 (end September),2018-09-30,Battery electric,167.618
+2018 Q4 (end December),2018-12-31,Battery electric,175.942
+2019 Q1 (end March),2019-03-31,Battery electric,178.608
+2019 Q2 (end June),2019-06-30,Battery electric,186.872
+2019 Q3 (end September),2019-09-30,Battery electric,200.961
+2019 Q4 (end December),2019-12-31,Battery electric,214.953
+2020 Q1 (end March),2020-03-31,Battery electric,236.625
+2020 Q2 (end June),2020-06-30,Battery electric,231.383
+2020 Q3 (end September),2020-09-30,Battery electric,286.872
+2020 Q4 (end December),2020-12-31,Battery electric,331.135
+2021 Q1 (end March),2021-03-31,Battery electric,365.118
+2021 Q2 (end June),2021-06-30,Battery electric,410.906
+2021 Q3 (end September),2021-09-30,Battery electric,464.773
+2021 Q4 (end December),2021-12-31,Battery electric,538.563
+2022 Q1 (end March),2022-03-31,Battery electric,605.164
+2022 Q2 (end June),2022-06-30,Battery electric,660.739
+2022 Q3 (end September),2022-09-30,Battery electric,725.768
+2022 Q4 (end December),2022-12-31,Battery electric,815.975
+2023 Q1 (end March),2023-03-31,Battery electric,894.031
+2023 Q2 (end June),2023-06-30,Battery electric,977.473
+2023 Q3 (end September),2023-09-30,Battery electric,1069.822
+2023 Q4 (end December),2023-12-31,Battery electric,1145.486
+2024 Q1 (end March),2024-03-31,Battery electric,1230.959
+2024 Q2 (end June),2024-06-30,Battery electric,1316.914
+2024 Q3 (end September),2024-09-30,Battery electric,1426.778
+2024 Q4 (end December),2024-12-31,Battery electric,1533.197
+2014 Q3 (end September),2014-09-30,Range extended electric,1.773
+2014 Q4 (end December),2014-12-31,Range extended electric,2.192
+2015 Q1 (end March),2015-03-31,Range extended electric,2.667
+2015 Q2 (end June),2015-06-30,Range extended electric,2.954
+2015 Q3 (end September),2015-09-30,Range extended electric,3.338
+2015 Q4 (end December),2015-12-31,Range extended electric,3.834
+2016 Q1 (end March),2016-03-31,Range extended electric,4.238
+2016 Q2 (end June),2016-06-30,Range extended electric,4.517
+2016 Q3 (end September),2016-09-30,Range extended electric,5.079
+2016 Q4 (end December),2016-12-31,Range extended electric,5.595
+2017 Q1 (end March),2017-03-31,Range extended electric,6.304
+2017 Q2 (end June),2017-06-30,Range extended electric,6.848
+2017 Q3 (end September),2017-09-30,Range extended electric,7.441
+2017 Q4 (end December),2017-12-31,Range extended electric,7.827
+2018 Q1 (end March),2018-03-31,Range extended electric,8.155
+2018 Q2 (end June),2018-06-30,Range extended electric,8.773
+2018 Q3 (end September),2018-09-30,Range extended electric,9.743
+2018 Q4 (end December),2018-12-31,Range extended electric,10.871
+2019 Q1 (end March),2019-03-31,Range extended electric,11.441
+2019 Q2 (end June),2019-06-30,Range extended electric,11.986
+2019 Q3 (end September),2019-09-30,Range extended electric,12.595
+2019 Q4 (end December),2019-12-31,Range extended electric,13.227
+2020 Q1 (end March),2020-03-31,Range extended electric,13.585
+2020 Q2 (end June),2020-06-30,Range extended electric,13.564
+2020 Q3 (end September),2020-09-30,Range extended electric,13.892
+2020 Q4 (end December),2020-12-31,Range extended electric,14.111
+2021 Q1 (end March),2021-03-31,Range extended electric,14.284
+2021 Q2 (end June),2021-06-30,Range extended electric,14.886
+2021 Q3 (end September),2021-09-30,Range extended electric,15.515
+2021 Q4 (end December),2021-12-31,Range extended electric,16.31
+2022 Q1 (end March),2022-03-31,Range extended electric,16.841
+2022 Q2 (end June),2022-06-30,Range extended electric,17.528
+2022 Q3 (end September),2022-09-30,Range extended electric,18.085
+2022 Q4 (end December),2022-12-31,Range extended electric,18.532
+2023 Q1 (end March),2023-03-31,Range extended electric,18.879
+2023 Q2 (end June),2023-06-30,Range extended electric,19.471
+2023 Q3 (end September),2023-09-30,Range extended electric,19.961
+2023 Q4 (end December),2023-12-31,Range extended electric,20.392
+2024 Q1 (end March),2024-03-31,Range extended electric,20.657
+2024 Q2 (end June),2024-06-30,Range extended electric,20.755
+2024 Q3 (end September),2024-09-30,Range extended electric,20.965
+2024 Q4 (end December),2024-12-31,Range extended electric,21.102
+2014 Q3 (end September),2014-09-30,Fuel cell electric,0.022
+2014 Q4 (end December),2014-12-31,Fuel cell electric,0.025
+2015 Q1 (end March),2015-03-31,Fuel cell electric,0.026
+2015 Q2 (end June),2015-06-30,Fuel cell electric,0.025
+2015 Q3 (end September),2015-09-30,Fuel cell electric,0.027
+2015 Q4 (end December),2015-12-31,Fuel cell electric,0.033
+2016 Q1 (end March),2016-03-31,Fuel cell electric,0.04
+2016 Q2 (end June),2016-06-30,Fuel cell electric,0.042
+2016 Q3 (end September),2016-09-30,Fuel cell electric,0.038
+2016 Q4 (end December),2016-12-31,Fuel cell electric,0.04
+2017 Q1 (end March),2017-03-31,Fuel cell electric,0.057
+2017 Q2 (end June),2017-06-30,Fuel cell electric,0.061
+2017 Q3 (end September),2017-09-30,Fuel cell electric,0.07
+2017 Q4 (end December),2017-12-31,Fuel cell electric,0.077
+2018 Q1 (end March),2018-03-31,Fuel cell electric,0.077
+2018 Q2 (end June),2018-06-30,Fuel cell electric,0.105
+2018 Q3 (end September),2018-09-30,Fuel cell electric,0.105
+2018 Q4 (end December),2018-12-31,Fuel cell electric,0.112
+2019 Q1 (end March),2019-03-31,Fuel cell electric,0.137
+2019 Q2 (end June),2019-06-30,Fuel cell electric,0.151
+2019 Q3 (end September),2019-09-30,Fuel cell electric,0.181
+2019 Q4 (end December),2019-12-31,Fuel cell electric,0.192
+2020 Q1 (end March),2020-03-31,Fuel cell electric,0.2
+2020 Q2 (end June),2020-06-30,Fuel cell electric,0.205
+2020 Q3 (end September),2020-09-30,Fuel cell electric,0.212
+2020 Q4 (end December),2020-12-31,Fuel cell electric,0.244
+2021 Q1 (end March),2021-03-31,Fuel cell electric,0.264
+2021 Q2 (end June),2021-06-30,Fuel cell electric,0.267
+2021 Q3 (end September),2021-09-30,Fuel cell electric,0.296
+2021 Q4 (end December),2021-12-31,Fuel cell electric,0.304
+2022 Q1 (end March),2022-03-31,Fuel cell electric,0.318
+2022 Q2 (end June),2022-06-30,Fuel cell electric,0.289
+2022 Q3 (end September),2022-09-30,Fuel cell electric,0.286
+2022 Q4 (end December),2022-12-31,Fuel cell electric,0.246
+2023 Q1 (end March),2023-03-31,Fuel cell electric,0.263
+2023 Q2 (end June),2023-06-30,Fuel cell electric,0.234
+2023 Q3 (end September),2023-09-30,Fuel cell electric,0.226
+2023 Q4 (end December),2023-12-31,Fuel cell electric,0.229
+2024 Q1 (end March),2024-03-31,Fuel cell electric,0.222
+2024 Q2 (end June),2024-06-30,Fuel cell electric,0.215
+2024 Q3 (end September),2024-09-30,Fuel cell electric,0.189
+2024 Q4 (end December),2024-12-31,Fuel cell electric,0.192
+2014 Q3 (end September),2014-09-30,Gas,60.636
+2014 Q4 (end December),2014-12-31,Gas,57.462
+2015 Q1 (end March),2015-03-31,Gas,56.035
+2015 Q2 (end June),2015-06-30,Gas,55.892
+2015 Q3 (end September),2015-09-30,Gas,54.876
+2015 Q4 (end December),2015-12-31,Gas,52.534
+2016 Q1 (end March),2016-03-31,Gas,51.1
+2016 Q2 (end June),2016-06-30,Gas,50.69
+2016 Q3 (end September),2016-09-30,Gas,49.551
+2016 Q4 (end December),2016-12-31,Gas,47.18
+2017 Q1 (end March),2017-03-31,Gas,45.92
+2017 Q2 (end June),2017-06-30,Gas,45.784
+2017 Q3 (end September),2017-09-30,Gas,44.771
+2017 Q4 (end December),2017-12-31,Gas,42.156
+2018 Q1 (end March),2018-03-31,Gas,40.949
+2018 Q2 (end June),2018-06-30,Gas,40.974
+2018 Q3 (end September),2018-09-30,Gas,40.027
+2018 Q4 (end December),2018-12-31,Gas,37.898
+2019 Q1 (end March),2019-03-31,Gas,37.034
+2019 Q2 (end June),2019-06-30,Gas,37.373
+2019 Q3 (end September),2019-09-30,Gas,36.808
+2019 Q4 (end December),2019-12-31,Gas,34.965
+2020 Q1 (end March),2020-03-31,Gas,33.304
+2020 Q2 (end June),2020-06-30,Gas,33.146
+2020 Q3 (end September),2020-09-30,Gas,33.771
+2020 Q4 (end December),2020-12-31,Gas,32.521
+2021 Q1 (end March),2021-03-31,Gas,32.229
+2021 Q2 (end June),2021-06-30,Gas,33.698
+2021 Q3 (end September),2021-09-30,Gas,34.203
+2021 Q4 (end December),2021-12-31,Gas,33.251
+2022 Q1 (end March),2022-03-31,Gas,33.997
+2022 Q2 (end June),2022-06-30,Gas,35.75
+2022 Q3 (end September),2022-09-30,Gas,36.083
+2022 Q4 (end December),2022-12-31,Gas,35.962
+2023 Q1 (end March),2023-03-31,Gas,36.429
+2023 Q2 (end June),2023-06-30,Gas,37.762
+2023 Q3 (end September),2023-09-30,Gas,37.986
+2023 Q4 (end December),2023-12-31,Gas,37.162
+2024 Q1 (end March),2024-03-31,Gas,37.638
+2024 Q2 (end June),2024-06-30,Gas,38.446
+2024 Q3 (end September),2024-09-30,Gas,37.764
+2024 Q4 (end December),2024-12-31,Gas,36.226
+2014 Q3 (end September),2014-09-30,Plug-in hybrid electric,4.712
+2014 Q4 (end December),2014-12-31,Plug-in hybrid electric,7.702
+2015 Q1 (end March),2015-03-31,Plug-in hybrid electric,13.057
+2015 Q2 (end June),2015-06-30,Plug-in hybrid electric,16.559
+2015 Q3 (end September),2015-09-30,Plug-in hybrid electric,20.279
+2015 Q4 (end December),2015-12-31,Plug-in hybrid electric,23.926000000000002
+2016 Q1 (end March),2016-03-31,Plug-in hybrid electric,31.534000000000002
+2016 Q2 (end June),2016-06-30,Plug-in hybrid electric,37.739000000000004
+2016 Q3 (end September),2016-09-30,Plug-in hybrid electric,44.263
+2016 Q4 (end December),2016-12-31,Plug-in hybrid electric,49.626
+2017 Q1 (end March),2017-03-31,Plug-in hybrid electric,56.862
+2017 Q2 (end June),2017-06-30,Plug-in hybrid electric,63.245
+2017 Q3 (end September),2017-09-30,Plug-in hybrid electric,71.65
+2017 Q4 (end December),2017-12-31,Plug-in hybrid electric,79.43
+2018 Q1 (end March),2018-03-31,Plug-in hybrid electric,88.286
+2018 Q2 (end June),2018-06-30,Plug-in hybrid electric,97.712
+2018 Q3 (end September),2018-09-30,Plug-in hybrid electric,107.847
+2018 Q4 (end December),2018-12-31,Plug-in hybrid electric,117.007
+2019 Q1 (end March),2019-03-31,Plug-in hybrid electric,124.694
+2019 Q2 (end June),2019-06-30,Plug-in hybrid electric,130.05
+2019 Q3 (end September),2019-09-30,Plug-in hybrid electric,136.631
+2019 Q4 (end December),2019-12-31,Plug-in hybrid electric,146.753
+2020 Q1 (end March),2020-03-31,Plug-in hybrid electric,158.464
+2020 Q2 (end June),2020-06-30,Plug-in hybrid electric,164.021
+2020 Q3 (end September),2020-09-30,Plug-in hybrid electric,184.672
+2020 Q4 (end December),2020-12-31,Plug-in hybrid electric,205.786
+2021 Q1 (end March),2021-03-31,Plug-in hybrid electric,229.703
+2021 Q2 (end June),2021-06-30,Plug-in hybrid electric,260.87
+2021 Q3 (end September),2021-09-30,Plug-in hybrid electric,287.831
+2021 Q4 (end December),2021-12-31,Plug-in hybrid electric,312.815
+2022 Q1 (end March),2022-03-31,Plug-in hybrid electric,339.895
+2022 Q2 (end June),2022-06-30,Plug-in hybrid electric,361.896
+2022 Q3 (end September),2022-09-30,Plug-in hybrid electric,382.05
+2022 Q4 (end December),2022-12-31,Plug-in hybrid electric,405.097
+2023 Q1 (end March),2023-03-31,Plug-in hybrid electric,433.164
+2023 Q2 (end June),2023-06-30,Plug-in hybrid electric,462.02500000000003
+2023 Q3 (end September),2023-09-30,Plug-in hybrid electric,495.277
+2023 Q4 (end December),2023-12-31,Plug-in hybrid electric,531.387
+2024 Q1 (end March),2024-03-31,Plug-in hybrid electric,570.0849999999999
+2024 Q2 (end June),2024-06-30,Plug-in hybrid electric,605.005
+2024 Q3 (end September),2024-09-30,Plug-in hybrid electric,644.555
+2024 Q4 (end December),2024-12-31,Plug-in hybrid electric,679.857
+2014 Q3 (end September),2014-09-30,Hybrid electric,180.908
+2014 Q4 (end December),2014-12-31,Hybrid electric,185.036
+2015 Q1 (end March),2015-03-31,Hybrid electric,194.633
+2015 Q2 (end June),2015-06-30,Hybrid electric,205.36100000000002
+2015 Q3 (end September),2015-09-30,Hybrid electric,216.496
+2015 Q4 (end December),2015-12-31,Hybrid electric,225.067
+2016 Q1 (end March),2016-03-31,Hybrid electric,237.579
+2016 Q2 (end June),2016-06-30,Hybrid electric,249.322
+2016 Q3 (end September),2016-09-30,Hybrid electric,262.823
+2016 Q4 (end December),2016-12-31,Hybrid electric,272.52000000000004
+2017 Q1 (end March),2017-03-31,Hybrid electric,290.547
+2017 Q2 (end June),2017-06-30,Hybrid electric,305.576
+2017 Q3 (end September),2017-09-30,Hybrid electric,326.225
+2017 Q4 (end December),2017-12-31,Hybrid electric,337.878
+2018 Q1 (end March),2018-03-31,Hybrid electric,357.335
+2018 Q2 (end June),2018-06-30,Hybrid electric,376.826
+2018 Q3 (end September),2018-09-30,Hybrid electric,402.399
+2018 Q4 (end December),2018-12-31,Hybrid electric,418.51
+2019 Q1 (end March),2019-03-31,Hybrid electric,444.373
+2019 Q2 (end June),2019-06-30,Hybrid electric,466.903
+2019 Q3 (end September),2019-09-30,Hybrid electric,495.692
+2019 Q4 (end December),2019-12-31,Hybrid electric,519.427
+2020 Q1 (end March),2020-03-31,Hybrid electric,548.702
+2020 Q2 (end June),2020-06-30,Hybrid electric,561.5600000000001
+2020 Q3 (end September),2020-09-30,Hybrid electric,626.383
+2020 Q4 (end December),2020-12-31,Hybrid electric,668.972
+2021 Q1 (end March),2021-03-31,Hybrid electric,730.885
+2021 Q2 (end June),2021-06-30,Hybrid electric,810.511
+2021 Q3 (end September),2021-09-30,Hybrid electric,886.89
+2021 Q4 (end December),2021-12-31,Hybrid electric,934.0029999999999
+2022 Q1 (end March),2022-03-31,Hybrid electric,1021.725
+2022 Q2 (end June),2022-06-30,Hybrid electric,1109.691
+2022 Q3 (end September),2022-09-30,Hybrid electric,1200.861
+2022 Q4 (end December),2022-12-31,Hybrid electric,1273.452
+2023 Q1 (end March),2023-03-31,Hybrid electric,1373.016
+2023 Q2 (end June),2023-06-30,Hybrid electric,1471.5439999999999
+2023 Q3 (end September),2023-09-30,Hybrid electric,1598.106
+2023 Q4 (end December),2023-12-31,Hybrid electric,1706.663
+2024 Q1 (end March),2024-03-31,Hybrid electric,1855.0929999999998
+2024 Q2 (end June),2024-06-30,Hybrid electric,1991.3799999999999
+2024 Q3 (end September),2024-09-30,Hybrid electric,2136.95
+2024 Q4 (end December),2024-12-31,Hybrid electric,2259.592
