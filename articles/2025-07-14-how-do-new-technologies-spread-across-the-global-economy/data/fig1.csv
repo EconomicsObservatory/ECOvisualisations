@@ -1,0 +1,663 @@
+Entity,Year,Rate
+Automobile,1915-01-01,0.1
+Automobile,1916-01-01,0.12
+Automobile,1917-01-01,0.17
+Automobile,1918-01-01,0.19
+Automobile,1919-01-01,0.23
+Automobile,1920-01-01,0.28
+Automobile,1921-01-01,0.31
+Automobile,1922-01-01,0.34
+Automobile,1923-01-01,0.39
+Automobile,1924-01-01,0.44
+Automobile,1925-01-01,0.49
+Automobile,1926-01-01,0.54
+Automobile,1927-01-01,0.56
+Automobile,1928-01-01,0.58
+Automobile,1929-01-01,0.585
+Automobile,1930-01-01,0.59
+Automobile,1931-01-01,0.56
+Automobile,1932-01-01,0.53
+Automobile,1933-01-01,0.5
+Automobile,1934-01-01,0.51
+Automobile,1935-01-01,0.52
+Automobile,1936-01-01,0.54
+Automobile,1937-01-01,0.55
+Automobile,1938-01-01,0.54
+Automobile,1939-01-01,0.54
+Automobile,1940-01-01,0.55
+Automobile,1941-01-01,0.57
+Automobile,1942-01-01,0.53
+Automobile,1943-01-01,0.49
+Automobile,1944-01-01,0.47
+Automobile,1945-01-01,0.46
+Automobile,1946-01-01,0.48
+Automobile,1947-01-01,0.51
+Automobile,1948-01-01,0.53
+Automobile,1949-01-01,0.55
+Automobile,1950-01-01,0.58
+Automobile,1951-01-01,0.6
+Automobile,1952-01-01,0.6
+Automobile,1953-01-01,0.62
+Automobile,1954-01-01,0.65
+Automobile,1955-01-01,0.68
+Automobile,1956-01-01,0.72
+Automobile,1957-01-01,0.74
+Automobile,1958-01-01,0.71
+Automobile,1959-01-01,0.73
+Automobile,1960-01-01,0.75
+Automobile,1961-01-01,0.76
+Automobile,1962-01-01,0.75
+Automobile,1963-01-01,0.79
+Automobile,1964-01-01,0.79
+Automobile,1965-01-01,0.79
+Automobile,1966-01-01,0.79
+Automobile,1967-01-01,0.78
+Automobile,1968-01-01,0.785
+Automobile,1969-01-01,0.79
+Automobile,1970-01-01,0.8
+Automobile,1971-01-01,0.8
+Automobile,1972-01-01,0.81
+Automobile,1973-01-01,0.82
+Automobile,1974-01-01,0.83
+Automobile,1975-01-01,0.83
+Automobile,1976-01-01,0.84
+Automobile,1977-01-01,0.85
+Automobile,1978-01-01,0.85
+Automobile,1979-01-01,0.85
+Automobile,1980-01-01,0.86
+Automobile,1981-01-01,0.86
+Automobile,1982-01-01,0.86
+Automobile,1983-01-01,0.865
+Automobile,1984-01-01,0.87
+Automobile,1985-01-01,0.88
+Automobile,1986-01-01,0.88
+Automobile,1987-01-01,0.89
+Automobile,1988-01-01,0.895
+Automobile,1989-01-01,0.9
+Automobile,1990-01-01,0.91
+Automobile,1991-01-01,0.91
+Automobile,1992-01-01,0.91
+Automobile,1993-01-01,0.92
+Automobile,1994-01-01,0.91
+Automobile,1995-01-01,0.91
+Automobile,1996-01-01,0.92
+Automobile,1997-01-01,0.92
+Automobile,1998-01-01,0.92
+Automobile,1999-01-01,0.91
+Automobile,2000-01-01,0.92
+Automobile,2001-01-01,0.92
+Automobile,2002-01-01,0.91
+Automobile,2003-01-01,0.91
+Automobile,2004-01-01,0.91
+Automobile,2005-01-01,0.91
+Cellular phone,1994-01-01,0.1
+Cellular phone,1995-01-01,0.12
+Cellular phone,1996-01-01,0.16
+Cellular phone,1997-01-01,0.21
+Cellular phone,1998-01-01,0.363
+Cellular phone,1999-01-01,0.34
+Cellular phone,2000-01-01,0.42
+Cellular phone,2001-01-01,0.49
+Cellular phone,2002-01-01,0.56
+Cellular phone,2003-01-01,0.628
+Cellular phone,2004-01-01,0.63
+Cellular phone,2005-01-01,0.713
+Cellular phone,2006-01-01,0.67
+Cellular phone,2007-01-01,0.73
+Cellular phone,2008-01-01,0.75
+Cellular phone,2009-01-01,0.84
+Cellular phone,2010-01-01,0.872
+Cellular phone,2011-01-01,0.89
+Cellular phone,2012-01-01,0.87
+Cellular phone,2013-01-01,0.9
+Cellular phone,2014-01-01,0.91
+Cellular phone,2015-01-01,0.92
+Cellular phone,2016-01-01,0.93
+Cellular phone,2017-01-01,0.94
+Cellular phone,2018-01-01,0.95
+Cellular phone,2019-01-01,0.96
+Colour TV,1966-01-01,0.1
+Colour TV,1967-01-01,0.15
+Colour TV,1968-01-01,0.21
+Colour TV,1969-01-01,0.25
+Colour TV,1970-01-01,0.31
+Colour TV,1971-01-01,0.39
+Colour TV,1972-01-01,0.43
+Colour TV,1973-01-01,0.48
+Colour TV,1974-01-01,0.57
+Colour TV,1975-01-01,0.64
+Colour TV,1976-01-01,0.69
+Colour TV,1977-01-01,0.74
+Colour TV,1978-01-01,0.75
+Colour TV,1979-01-01,0.78
+Colour TV,1980-01-01,0.79
+Colour TV,1981-01-01,0.8
+Colour TV,1982-01-01,0.85
+Colour TV,1983-01-01,0.88
+Colour TV,1984-01-01,0.89
+Colour TV,1985-01-01,0.9
+Colour TV,1986-01-01,0.905
+Colour TV,1987-01-01,0.91
+Colour TV,1988-01-01,0.93
+Colour TV,1989-01-01,0.94
+Colour TV,1990-01-01,0.96
+Colour TV,1991-01-01,0.96
+Colour TV,1992-01-01,0.95
+Colour TV,1993-01-01,0.95
+Colour TV,1994-01-01,0.96
+Colour TV,1995-01-01,0.94
+Colour TV,1996-01-01,0.96
+Colour TV,1997-01-01,0.95
+Colour TV,1998-01-01,0.94
+Colour TV,1999-01-01,0.95
+Colour TV,2000-01-01,0.94
+Colour TV,2001-01-01,0.94
+Colour TV,2002-01-01,0.96
+Colour TV,2003-01-01,0.95
+Colour TV,2004-01-01,0.97
+Colour TV,2005-01-01,0.96
+Computer,1992-01-01,0.207
+Computer,1998-01-01,0.42
+Computer,2003-01-01,0.631
+Computer,2005-01-01,0.671
+Computer,2010-01-01,0.752
+Computer,2011-01-01,0.767
+Computer,2012-01-01,0.789
+Computer,2013-01-01,0.838
+Computer,2014-01-01,0.851
+Computer,2015-01-01,0.868
+Computer,2016-01-01,0.893
+Electricity,1908-01-01,0.1
+Electricity,1909-01-01,0.1067
+Electricity,1910-01-01,0.1233
+Electricity,1911-01-01,0.14
+Electricity,1912-01-01,0.16
+Electricity,1913-01-01,0.18
+Electricity,1914-01-01,0.19
+Electricity,1915-01-01,0.2
+Electricity,1916-01-01,0.22
+Electricity,1917-01-01,0.24
+Electricity,1918-01-01,0.27
+Electricity,1919-01-01,0.3
+Electricity,1920-01-01,0.335
+Electricity,1921-01-01,0.37
+Electricity,1922-01-01,0.4
+Electricity,1923-01-01,0.43
+Electricity,1924-01-01,0.49
+Electricity,1925-01-01,0.52
+Electricity,1926-01-01,0.55
+Electricity,1927-01-01,0.6
+Electricity,1928-01-01,0.64
+Electricity,1929-01-01,0.68
+Electricity,1930-01-01,0.68
+Electricity,1931-01-01,0.68
+Electricity,1932-01-01,0.67
+Electricity,1933-01-01,0.67
+Electricity,1934-01-01,0.67
+Electricity,1935-01-01,0.685
+Electricity,1936-01-01,0.7
+Electricity,1937-01-01,0.73
+Electricity,1938-01-01,0.75
+Electricity,1939-01-01,0.765
+Electricity,1940-01-01,0.78
+Electricity,1941-01-01,0.795
+Electricity,1942-01-01,0.81
+Electricity,1943-01-01,0.81
+Electricity,1944-01-01,0.83
+Electricity,1945-01-01,0.85
+Electricity,1946-01-01,0.855
+Electricity,1947-01-01,0.86
+Electricity,1948-01-01,0.89
+Electricity,1949-01-01,0.93
+Electricity,1950-01-01,0.94
+Electricity,1951-01-01,0.95
+Electricity,1952-01-01,0.96
+Electricity,1953-01-01,0.97
+Electricity,1954-01-01,0.9767
+Electricity,1955-01-01,0.9833
+Electricity,1956-01-01,0.99
+Electricity,1957-01-01,0.99
+Electricity,1958-01-01,0.99
+Electricity,1959-01-01,0.99
+Electricity,1960-01-01,0.99
+Electricity,1961-01-01,0.99
+Electricity,1962-01-01,0.99
+Electricity,1963-01-01,0.99
+Electricity,1964-01-01,0.99
+Electricity,1965-01-01,0.99
+Electricity,1966-01-01,0.99
+Electricity,1967-01-01,0.99
+Electricity,1968-01-01,0.99
+Electricity,1969-01-01,0.99
+Electricity,1970-01-01,0.99
+Electricity,1971-01-01,0.99
+Electricity,1972-01-01,0.99
+Electricity,1973-01-01,0.99
+Electricity,1974-01-01,0.99
+Electricity,1975-01-01,0.99
+Electricity,1976-01-01,0.99
+Electricity,1977-01-01,0.99
+Electricity,1978-01-01,0.99
+Electricity,1979-01-01,0.99
+Electricity,1980-01-01,0.99
+Electricity,1981-01-01,0.99
+Electricity,1982-01-01,0.99
+Electricity,1983-01-01,0.99
+Electricity,1984-01-01,0.99
+Electricity,1985-01-01,0.99
+Electricity,1986-01-01,0.99
+Electricity,1987-01-01,0.99
+Electricity,1988-01-01,0.99
+Electricity,1989-01-01,0.99
+Electricity,1990-01-01,0.99
+Electricity,1991-01-01,0.99
+Electricity,1992-01-01,0.99
+Electricity,1993-01-01,0.99
+Electricity,1994-01-01,0.99
+Electricity,1995-01-01,0.99
+Electricity,1996-01-01,0.99
+Electricity,1997-01-01,0.99
+Electricity,1998-01-01,0.99
+Electricity,1999-01-01,0.99
+Electricity,2000-01-01,0.99
+Electricity,2001-01-01,0.99
+Electricity,2002-01-01,0.99
+Electricity,2003-01-01,0.99
+Electricity,2004-01-01,0.99
+Electricity,2005-01-01,0.99
+Fridge,1931-01-01,0.1
+Fridge,1932-01-01,0.14
+Fridge,1933-01-01,0.17
+Fridge,1934-01-01,0.2
+Fridge,1935-01-01,0.24
+Fridge,1936-01-01,0.27
+Fridge,1937-01-01,0.33
+Fridge,1938-01-01,0.38
+Fridge,1939-01-01,0.43
+Fridge,1940-01-01,0.44
+Fridge,1941-01-01,0.47
+Fridge,1942-01-01,0.5
+Fridge,1943-01-01,0.52
+Fridge,1944-01-01,0.55
+Fridge,1945-01-01,0.56
+Fridge,1946-01-01,0.62
+Fridge,1947-01-01,0.67
+Fridge,1948-01-01,0.71
+Fridge,1949-01-01,0.76
+Fridge,1950-01-01,0.8
+Fridge,1951-01-01,0.83
+Fridge,1952-01-01,0.86
+Fridge,1953-01-01,0.88
+Fridge,1954-01-01,0.91
+Fridge,1955-01-01,0.93
+Fridge,1956-01-01,0.95
+Fridge,1957-01-01,0.96
+Fridge,1958-01-01,0.97
+Fridge,1959-01-01,0.974
+Fridge,1960-01-01,0.978
+Fridge,1961-01-01,0.982
+Fridge,1962-01-01,0.986
+Fridge,1963-01-01,0.99
+Fridge,1964-01-01,0.99
+Fridge,1965-01-01,0.99
+Fridge,1966-01-01,0.99
+Fridge,1967-01-01,0.99
+Fridge,1968-01-01,0.99
+Fridge,1969-01-01,0.99
+Fridge,1970-01-01,0.99
+Fridge,1971-01-01,0.99
+Fridge,1972-01-01,0.99
+Fridge,1973-01-01,0.99
+Fridge,1974-01-01,0.99
+Fridge,1975-01-01,0.99
+Fridge,1976-01-01,0.99
+Fridge,1977-01-01,0.99
+Fridge,1978-01-01,0.99
+Fridge,1979-01-01,0.99
+Fridge,1980-01-01,0.99
+Fridge,1981-01-01,0.99
+Fridge,1982-01-01,0.99
+Fridge,1983-01-01,0.99
+Fridge,1984-01-01,0.99
+Fridge,1985-01-01,0.99
+Fridge,1986-01-01,0.99
+Fridge,1987-01-01,0.99
+Fridge,1988-01-01,0.99
+Fridge,1989-01-01,0.99
+Fridge,1990-01-01,0.99
+Fridge,1991-01-01,0.99
+Fridge,1992-01-01,0.99
+Fridge,1993-01-01,0.99
+Fridge,1994-01-01,0.99
+Fridge,1995-01-01,0.99
+Fridge,1996-01-01,0.99
+Fridge,1997-01-01,0.99
+Fridge,1998-01-01,0.99
+Fridge,1999-01-01,0.99
+Fridge,2000-01-01,0.99
+Fridge,2001-01-01,0.99
+Fridge,2002-01-01,0.99
+Fridge,2003-01-01,0.99
+Fridge,2004-01-01,0.99
+Fridge,2005-01-01,0.99
+Fridge,2010-01-01,0.993
+Fridge,2011-01-01,0.992
+Fridge,2012-01-01,0.99
+Fridge,2013-01-01,0.988
+Fridge,2014-01-01,0.986
+Fridge,2015-01-01,0.984
+Fridge,2016-01-01,0.982
+Fridge,2017-01-01,0.98
+Internet,1993-01-01,0.1
+Internet,1994-01-01,0.11
+Internet,1995-01-01,0.13
+Internet,1996-01-01,0.16
+Internet,1997-01-01,0.19
+Internet,1998-01-01,0.25
+Internet,1999-01-01,0.34
+Internet,2000-01-01,0.42
+Internet,2001-01-01,0.49
+Internet,2002-01-01,0.52
+Internet,2003-01-01,0.54
+Internet,2004-01-01,0.57
+Internet,2005-01-01,0.61
+Internet,2006-01-01,0.62
+Internet,2007-01-01,0.65
+Internet,2008-01-01,0.68
+Internet,2009-01-01,0.7
+Internet,2010-01-01,0.74
+Internet,2011-01-01,0.76
+Internet,2012-01-01,0.81
+Internet,2013-01-01,0.82
+Internet,2014-01-01,0.83
+Internet,2015-01-01,0.85
+Internet,2016-01-01,0.88
+Landline,1903-01-01,0.1
+Landline,1904-01-01,0.12
+Landline,1905-01-01,0.14
+Landline,1906-01-01,0.18
+Landline,1907-01-01,0.195
+Landline,1908-01-01,0.21
+Landline,1909-01-01,0.23
+Landline,1910-01-01,0.245
+Landline,1911-01-01,0.26
+Landline,1912-01-01,0.27
+Landline,1913-01-01,0.28
+Landline,1914-01-01,0.29
+Landline,1915-01-01,0.3
+Landline,1916-01-01,0.31
+Landline,1917-01-01,0.32
+Landline,1918-01-01,0.33
+Landline,1919-01-01,0.34
+Landline,1920-01-01,0.34
+Landline,1921-01-01,0.35
+Landline,1922-01-01,0.35
+Landline,1923-01-01,0.37
+Landline,1924-01-01,0.37
+Landline,1925-01-01,0.38
+Landline,1926-01-01,0.39
+Landline,1927-01-01,0.39
+Landline,1928-01-01,0.41
+Landline,1929-01-01,0.41
+Landline,1930-01-01,0.395
+Landline,1931-01-01,0.38
+Landline,1932-01-01,0.35
+Landline,1933-01-01,0.32
+Landline,1934-01-01,0.31
+Landline,1935-01-01,0.32
+Landline,1936-01-01,0.33
+Landline,1937-01-01,0.34
+Landline,1938-01-01,0.345
+Landline,1939-01-01,0.35
+Landline,1940-01-01,0.37
+Landline,1941-01-01,0.39
+Landline,1942-01-01,0.415
+Landline,1943-01-01,0.44
+Landline,1944-01-01,0.45
+Landline,1945-01-01,0.46
+Landline,1946-01-01,0.5
+Landline,1947-01-01,0.54
+Landline,1948-01-01,0.58
+Landline,1949-01-01,0.6
+Landline,1950-01-01,0.62
+Landline,1951-01-01,0.635
+Landline,1952-01-01,0.65
+Landline,1953-01-01,0.675
+Landline,1954-01-01,0.7
+Landline,1955-01-01,0.7167
+Landline,1956-01-01,0.7333
+Landline,1957-01-01,0.75
+Landline,1958-01-01,0.765
+Landline,1959-01-01,0.78
+Landline,1960-01-01,0.785
+Landline,1961-01-01,0.79
+Landline,1962-01-01,0.8
+Landline,1963-01-01,0.81
+Landline,1964-01-01,0.82
+Landline,1965-01-01,0.85
+Landline,1966-01-01,0.86
+Landline,1967-01-01,0.87
+Landline,1968-01-01,0.885
+Landline,1969-01-01,0.9
+Landline,1970-01-01,0.87
+Landline,1971-01-01,0.875
+Landline,1972-01-01,0.88
+Landline,1973-01-01,0.8867
+Landline,1974-01-01,0.8933
+Landline,1975-01-01,0.9
+Landline,1976-01-01,0.905
+Landline,1977-01-01,0.91
+Landline,1978-01-01,0.915
+Landline,1979-01-01,0.92
+Landline,1980-01-01,0.925
+Landline,1981-01-01,0.93
+Landline,1982-01-01,0.925
+Landline,1983-01-01,0.92
+Landline,1984-01-01,0.92
+Landline,1985-01-01,0.92
+Landline,1986-01-01,0.9225
+Landline,1987-01-01,0.925
+Landline,1988-01-01,0.9275
+Landline,1989-01-01,0.93
+Landline,1990-01-01,0.935
+Landline,1991-01-01,0.94
+Landline,1992-01-01,0.94
+Landline,1993-01-01,0.94
+Landline,1994-01-01,0.94
+Landline,1995-01-01,0.94
+Landline,1996-01-01,0.94
+Landline,1997-01-01,0.94
+Landline,1998-01-01,0.94
+Landline,1999-01-01,0.94
+Landline,2000-01-01,0.94
+Landline,2001-01-01,0.945
+Landline,2002-01-01,0.95
+Landline,2003-01-01,0.94
+Landline,2004-01-01,0.93
+Landline,2005-01-01,0.92
+Landline,2009-01-01,0.83
+Landline,2010-01-01,0.75
+Landline,2011-01-01,0.705
+Landline,2012-01-01,0.75
+Landline,2013-01-01,0.587
+Landline,2014-01-01,0.573
+Landline,2015-01-01,0.547
+Landline,2016-01-01,0.507
+Landline,2017-01-01,0.467
+Landline,2018-01-01,0.417
+Microcomputer,1984-01-01,0.08199999999999999
+Microcomputer,1985-01-01,0.1
+Microcomputer,1986-01-01,0.12
+Microcomputer,1987-01-01,0.13
+Microcomputer,1988-01-01,0.14
+Microcomputer,1989-01-01,0.15
+Microcomputer,1990-01-01,0.17
+Microcomputer,1991-01-01,0.2
+Microcomputer,1992-01-01,0.22
+Microcomputer,1993-01-01,0.22899999999999998
+Microcomputer,1994-01-01,0.25
+Microcomputer,1995-01-01,0.3
+Microcomputer,1996-01-01,0.33
+Microcomputer,1997-01-01,0.366
+Microcomputer,1998-01-01,0.4
+Microcomputer,1999-01-01,0.45
+Microcomputer,2000-01-01,0.51
+Microcomputer,2001-01-01,0.563
+Microcomputer,2002-01-01,0.58
+Microcomputer,2003-01-01,0.618
+Microcomputer,2004-01-01,0.63
+Microcomputer,2005-01-01,0.65
+Microcomputer,2006-01-01,0.67
+Microcomputer,2007-01-01,0.697
+Microcomputer,2008-01-01,0.72
+Microcomputer,2009-01-01,0.741
+Microcomputer,2010-01-01,0.767
+Microcomputer,2011-01-01,0.7559999999999999
+Microcomputer,2012-01-01,0.75
+Microcomputer,2013-01-01,0.77
+Microcomputer,2014-01-01,0.75
+Microcomputer,2015-01-01,0.73
+Microcomputer,2016-01-01,0.78
+Microwave,1975-01-01,0.03
+Microwave,1980-01-01,0.07
+Microwave,1982-01-01,0.2
+Microwave,1983-01-01,0.34
+Microwave,1986-01-01,0.6
+Microwave,1992-01-01,0.822
+Microwave,1998-01-01,0.907
+Microwave,2003-01-01,0.959
+Microwave,2005-01-01,0.964
+Microwave,2010-01-01,0.971
+Microwave,2011-01-01,0.968
+Microwave,2012-01-01,0.96
+Microwave,2013-01-01,0.952
+Microwave,2014-01-01,0.944
+Microwave,2015-01-01,0.9359999999999999
+Microwave,2016-01-01,0.9279999999999999
+Microwave,2017-01-01,0.92
+Radio,1925-01-01,0.1
+Radio,1926-01-01,0.17
+Radio,1927-01-01,0.19
+Radio,1928-01-01,0.28
+Radio,1929-01-01,0.36
+Radio,1930-01-01,0.45
+Radio,1931-01-01,0.52
+Radio,1932-01-01,0.6
+Radio,1933-01-01,0.63
+Radio,1934-01-01,0.65
+Radio,1935-01-01,0.68
+Radio,1936-01-01,0.72
+Radio,1937-01-01,0.74
+Radio,1938-01-01,0.78
+Radio,1939-01-01,0.8
+Radio,1940-01-01,0.81
+Radio,1941-01-01,0.82
+Radio,1942-01-01,0.84
+Radio,1943-01-01,0.84
+Radio,1944-01-01,0.87
+Radio,1945-01-01,0.88
+Radio,1946-01-01,0.89
+Radio,1947-01-01,0.92
+Radio,1948-01-01,0.92
+Radio,1949-01-01,0.93
+Radio,1950-01-01,0.92
+Radio,1951-01-01,0.92
+Radio,1952-01-01,0.92
+Radio,1953-01-01,0.93
+Radio,1954-01-01,0.96
+Radio,1955-01-01,0.96
+Radio,1956-01-01,0.96
+Radio,1957-01-01,0.96
+Radio,1958-01-01,0.96
+Radio,1959-01-01,0.96
+Radio,1960-01-01,0.95
+Radio,1961-01-01,0.95
+Radio,1962-01-01,0.94
+Radio,1963-01-01,0.95
+Radio,1964-01-01,0.96
+Radio,1965-01-01,0.96
+Radio,1966-01-01,0.96
+Radio,1967-01-01,0.96
+Radio,1968-01-01,0.96
+Radio,1969-01-01,0.97
+Radio,1970-01-01,0.98
+Radio,1971-01-01,0.99
+Radio,1972-01-01,0.99
+Radio,1973-01-01,0.99
+Radio,1974-01-01,0.99
+Radio,1975-01-01,0.99
+Radio,1976-01-01,0.99
+Radio,1977-01-01,0.99
+Radio,1978-01-01,0.99
+Radio,1979-01-01,0.99
+Radio,1980-01-01,0.99
+Radio,1981-01-01,0.99
+Radio,1982-01-01,0.99
+Radio,1983-01-01,0.99
+Radio,1984-01-01,0.99
+Radio,1985-01-01,0.99
+Radio,1986-01-01,0.99
+Radio,1987-01-01,0.99
+Radio,1988-01-01,0.99
+Radio,1989-01-01,0.99
+Radio,1990-01-01,0.99
+Radio,1991-01-01,0.99
+Radio,1992-01-01,0.99
+Radio,1993-01-01,0.99
+Radio,1994-01-01,0.99
+Radio,1995-01-01,0.99
+Radio,1996-01-01,0.99
+Radio,1997-01-01,0.99
+Radio,1998-01-01,0.99
+Radio,1999-01-01,0.99
+Radio,2000-01-01,0.99
+Radio,2001-01-01,0.99
+Radio,2002-01-01,0.99
+Radio,2003-01-01,0.99
+Radio,2004-01-01,0.99
+Radio,2005-01-01,0.99
+Smartphone,2011-01-01,0.35
+Smartphone,2012-01-01,0.45
+Smartphone,2013-01-01,0.54
+Smartphone,2014-01-01,0.57
+Smartphone,2015-01-01,0.68
+Smartphone,2016-01-01,0.73
+Smartphone,2017-01-01,0.73
+Smartphone,2018-01-01,0.77
+Smartphone,2019-01-01,0.81
+Social media,2005-01-01,0.05
+Social media,2006-01-01,0.11
+Social media,2007-01-01,0.15
+Social media,2008-01-01,0.21
+Social media,2009-01-01,0.37
+Social media,2010-01-01,0.48
+Social media,2011-01-01,0.5
+Social media,2012-01-01,0.59
+Social media,2013-01-01,0.63
+Social media,2014-01-01,0.62
+Social media,2015-01-01,0.65
+Social media,2016-01-01,0.69
+Social media,2017-01-01,0.8
+Social media,2018-01-01,0.77
+Social media,2019-01-01,0.79
+Tablet,2010-01-01,0.03
+Tablet,2011-01-01,0.1
+Tablet,2012-01-01,0.25
+Tablet,2013-01-01,0.34
+Tablet,2014-01-01,0.39
+Tablet,2015-01-01,0.45
+Tablet,2016-01-01,0.51
+Tablet,2017-01-01,0.64
+Television,1992-01-01,0.966
+Television,1998-01-01,0.984
+Television,2003-01-01,0.988
+Television,2005-01-01,0.989
+Television,2010-01-01,0.985
+Television,2011-01-01,0.983
+Television,2012-01-01,0.9465
+Television,2013-01-01,0.9325
+Television,2014-01-01,0.9381
+Television,2015-01-01,0.9343
+Television,2016-01-01,0.941
+Television,2017-01-01,0.9476
+Television,2018-01-01,0.9397
