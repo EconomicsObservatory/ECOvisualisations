@@ -1,0 +1,76 @@
+Date,Type,Total
+2010-01-01T00:00:00,Battery electric,991
+2011-01-01T00:00:00,Battery electric,1906
+2012-01-01T00:00:00,Battery electric,2419
+2013-01-01T00:00:00,Battery electric,3183
+2014-01-01T00:00:00,Battery electric,7915
+2015-01-01T00:00:00,Battery electric,11399
+2016-01-01T00:00:00,Battery electric,11986
+2017-01-01T00:00:00,Battery electric,15631
+2018-01-01T00:00:00,Battery electric,18059
+2019-01-01T00:00:00,Battery electric,43339
+2020-01-01T00:00:00,Battery electric,116359
+2021-01-01T00:00:00,Battery electric,210065
+2022-01-01T00:00:00,Battery electric,292318
+2023-01-01T00:00:00,Battery electric,341558
+2024-01-01T00:00:00,Battery electric,410142
+2010-01-01T00:00:00,Range extended electric,0
+2011-01-01T00:00:00,Range extended electric,4
+2012-01-01T00:00:00,Range extended electric,518
+2013-01-01T00:00:00,Range extended electric,401
+2014-01-01T00:00:00,Range extended electric,1365
+2015-01-01T00:00:00,Range extended electric,1713
+2016-01-01T00:00:00,Range extended electric,1928
+2017-01-01T00:00:00,Range extended electric,2505
+2018-01-01T00:00:00,Range extended electric,3368
+2019-01-01T00:00:00,Range extended electric,2382
+2020-01-01T00:00:00,Range extended electric,1190
+2021-01-01T00:00:00,Range extended electric,2180
+2022-01-01T00:00:00,Range extended electric,2307
+2023-01-01T00:00:00,Range extended electric,2006
+2024-01-01T00:00:00,Range extended electric,1085
+2010-01-01T00:00:00,Fuel cell electric,0
+2011-01-01T00:00:00,Fuel cell electric,0
+2012-01-01T00:00:00,Fuel cell electric,5
+2013-01-01T00:00:00,Fuel cell electric,0
+2014-01-01T00:00:00,Fuel cell electric,6
+2015-01-01T00:00:00,Fuel cell electric,9
+2016-01-01T00:00:00,Fuel cell electric,13
+2017-01-01T00:00:00,Fuel cell electric,36
+2018-01-01T00:00:00,Fuel cell electric,36
+2019-01-01T00:00:00,Fuel cell electric,78
+2020-01-01T00:00:00,Fuel cell electric,72
+2021-01-01T00:00:00,Fuel cell electric,71
+2022-01-01T00:00:00,Fuel cell electric,18
+2023-01-01T00:00:00,Fuel cell electric,26
+2024-01-01T00:00:00,Fuel cell electric,0
+2010-01-01T00:00:00,Hybrid electric (petrol/diesel),0
+2011-01-01T00:00:00,Hybrid electric (petrol/diesel),0
+2012-01-01T00:00:00,Hybrid electric (petrol/diesel),3
+2013-01-01T00:00:00,Hybrid electric (petrol/diesel),4
+2014-01-01T00:00:00,Hybrid electric (petrol/diesel),0
+2015-01-01T00:00:00,Hybrid electric (petrol/diesel),256
+2016-01-01T00:00:00,Hybrid electric (petrol/diesel),3174
+2017-01-01T00:00:00,Hybrid electric (petrol/diesel),3686
+2018-01-01T00:00:00,Hybrid electric (petrol/diesel),816
+2019-01-01T00:00:00,Hybrid electric (petrol/diesel),17
+2020-01-01T00:00:00,Hybrid electric (petrol/diesel),83
+2021-01-01T00:00:00,Hybrid electric (petrol/diesel),181
+2022-01-01T00:00:00,Hybrid electric (petrol/diesel),169
+2023-01-01T00:00:00,Hybrid electric (petrol/diesel),269
+2024-01-01T00:00:00,Hybrid electric (petrol/diesel),714
+2010-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),21
+2011-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),3
+2012-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),467
+2013-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),600
+2014-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),6321
+2015-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),16631
+2016-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),24525
+2017-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),30906
+2018-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),41462
+2019-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),33762
+2020-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),60553
+2021-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),104694
+2022-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),94068
+2023-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),138351
+2024-01-01T00:00:00,Plug-in hybrid electric (petrol/diesel),166575
