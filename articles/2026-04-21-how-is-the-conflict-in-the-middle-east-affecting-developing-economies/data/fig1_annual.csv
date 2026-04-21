@@ -1,0 +1,217 @@
+date,index,value
+1991,All Food,62.35
+1992,All Food,64.23
+1993,All Food,62.26
+1994,All Food,67.26
+1995,All Food,76.83
+1996,All Food,77.82
+1997,All Food,70.76
+1998,All Food,64.82
+1999,All Food,55.38
+2000,All Food,53.66
+2001,All Food,55.35
+2002,All Food,53.43
+2003,All Food,58.12
+2004,All Food,65.9
+2005,All Food,67.65
+2006,All Food,72.85
+2007,All Food,94.55
+2008,All Food,117.74
+2009,All Food,91.79
+2010,All Food,106.87
+2011,All Food,131.78
+2012,All Food,122.75
+2013,All Food,120.14
+2014,All Food,114.98
+2015,All Food,93.06
+2016,All Food,91.95
+2017,All Food,97.93
+2018,All Food,95.75
+2019,All Food,94.93
+2020,All Food,98.05
+2021,All Food,125.73
+2022,All Food,144.51
+2023,All Food,124.52
+2024,All Food,121.98
+2025,All Food,127.19
+2026,All Food,126.02
+1991,Meat,81.47
+1992,Meat,78.39
+1993,Meat,75.01
+1994,Meat,76.3
+1995,Meat,85.25
+1996,Meat,84.35
+1997,Meat,79.32
+1998,Meat,66.27
+1999,Meat,62.43
+2000,Meat,61.3
+2001,Meat,62.91
+2002,Meat,56.1
+2003,Meat,59.32
+2004,Meat,68.6
+2005,Meat,72.58
+2006,Meat,71.39
+2007,Meat,77.76
+2008,Meat,90.84
+2009,Meat,81.6
+2010,Meat,91.39
+2011,Meat,105.02
+2012,Meat,104.69
+2013,Meat,106.22
+2014,Meat,112.11
+2015,Meat,96.78
+2016,Meat,91.11
+2017,Meat,97.47
+2018,Meat,94.4
+2019,Meat,99.48
+2020,Meat,95.32
+2021,Meat,107.53
+2022,Meat,118.34
+2023,Meat,114.11
+2024,Meat,117.26
+2025,Meat,123.31
+2026,Meat,126.39
+1991,Dairy,45.46
+1992,Dairy,54.8
+1993,Dairy,48.62
+1994,Dairy,47.42
+1995,Dairy,62.73
+1996,Dairy,61.62
+1997,Dairy,59.45
+1998,Dairy,55.78
+1999,Dairy,48.31
+2000,Dairy,54.46
+2001,Dairy,60.88
+2002,Dairy,46.1
+2003,Dairy,54.48
+2004,Dairy,69.85
+2005,Dairy,77.21
+2006,Dairy,73.05
+2007,Dairy,122.4
+2008,Dairy,132.34
+2009,Dairy,91.41
+2010,Dairy,111.9
+2011,Dairy,129.89
+2012,Dairy,111.66
+2013,Dairy,140.91
+2014,Dairy,130.21
+2015,Dairy,87.15
+2016,Dairy,82.65
+2017,Dairy,108.01
+2018,Dairy,107.27
+2019,Dairy,102.82
+2020,Dairy,101.81
+2021,Dairy,119.6
+2022,Dairy,149.51
+2023,Dairy,123.72
+2024,Dairy,129.71
+2025,Dairy,146.7
+2026,Dairy,120.35
+1991,Cereals,57.86
+1992,Cereals,60.96
+1993,Cereals,59.02
+1994,Cereals,61.94
+1995,Cereals,70.85
+1996,Cereals,83.66
+1997,Cereals,66.51
+1998,Cereals,58.9
+1999,Cereals,53.12
+2000,Cereals,51.42
+2001,Cereals,51.85
+2002,Cereals,55.58
+2003,Cereals,59.38
+2004,Cereals,64.0
+2005,Cereals,60.77
+2006,Cereals,71.23
+2007,Cereals,100.91
+2008,Cereals,137.64
+2009,Cereals,97.19
+2010,Cereals,107.5
+2011,Cereals,142.16
+2012,Cereals,137.4
+2013,Cereals,129.11
+2014,Cereals,115.82
+2015,Cereals,95.87
+2016,Cereals,88.31
+2017,Cereals,90.98
+2018,Cereals,100.82
+2019,Cereals,96.6
+2020,Cereals,103.12
+2021,Cereals,131.15
+2022,Cereals,154.67
+2023,Cereals,130.88
+2024,Cereals,113.48
+2025,Cereals,107.9
+2026,Cereals,108.85
+1991,Oils,49.01
+1992,Oils,52.99
+1993,Oils,53.97
+1994,Oils,71.87
+1995,Oils,79.96
+1996,Oils,69.94
+1997,Oils,70.68
+1998,Oils,83.89
+1999,Oils,58.23
+2000,Oils,42.89
+2001,Oils,42.48
+2002,Oils,55.14
+2003,Oils,62.63
+2004,Oils,69.61
+2005,Oils,64.4
+2006,Oils,70.55
+2007,Oils,107.31
+2008,Oils,141.07
+2009,Oils,94.43
+2010,Oils,121.95
+2011,Oils,156.48
+2012,Oils,138.31
+2013,Oils,119.5
+2014,Oils,110.62
+2015,Oils,89.94
+2016,Oils,99.44
+2017,Oils,101.91
+2018,Oils,87.76
+2019,Oils,83.24
+2020,Oils,99.44
+2021,Oils,164.85
+2022,Oils,187.78
+2023,Oils,126.29
+2024,Oils,138.07
+2025,Oils,161.69
+2026,Oils,175.32
+1991,Sugar,55.48
+1992,Sugar,56.04
+1993,Sugar,62.03
+1994,Sugar,74.94
+1995,Sugar,82.2
+1996,Sugar,73.99
+1997,Sugar,70.39
+1998,Sugar,55.22
+1999,Sugar,38.8
+2000,Sugar,50.61
+2001,Sugar,53.47
+2002,Sugar,42.63
+2003,Sugar,43.85
+2004,Sugar,44.35
+2005,Sugar,61.2
+2006,Sugar,91.39
+2007,Sugar,62.37
+2008,Sugar,79.2
+2009,Sugar,112.23
+2010,Sugar,131.72
+2011,Sugar,160.9
+2012,Sugar,133.32
+2013,Sugar,109.45
+2014,Sugar,105.2
+2015,Sugar,83.18
+2016,Sugar,111.62
+2017,Sugar,99.11
+2018,Sugar,77.4
+2019,Sugar,78.62
+2020,Sugar,79.53
+2021,Sugar,109.33
+2022,Sugar,114.46
+2023,Sugar,144.98
+2024,Sugar,125.71
+2025,Sugar,104.31
+2026,Sugar,89.46
